@@ -1,0 +1,519 @@
+{
+  "repo": "https://github.com/Marvelousshivam/OnBoard-files",
+  "raw_base": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main",
+  "target_academic_year": "2026-2027",
+  "cbse_board": "Class 12",
+  "categories": {
+    "ncert": {
+      "english": {
+        "flamingo": [
+          {
+            "chapter": 1,
+            "title": "The Last Lesson",
+            "file": "ncert/english/flamingo/ch01_the_last_lesson.pdf"
+          },
+          {
+            "chapter": 2,
+            "title": "Lost Spring",
+            "file": "ncert/english/flamingo/ch02_lost_spring.pdf"
+          },
+          {
+            "chapter": 3,
+            "title": "Deep Water",
+            "file": "ncert/english/flamingo/ch03_deep_water.pdf"
+          },
+          {
+            "chapter": 4,
+            "title": "The Rattrap",
+            "file": "ncert/english/flamingo/ch04_the_rattrap.pdf"
+          },
+          {
+            "chapter": 5,
+            "title": "Indigo",
+            "file": "ncert/english/flamingo/ch05_indigo.pdf"
+          },
+          {
+            "chapter": 6,
+            "title": "Poets and Pancakes",
+            "file": "ncert/english/flamingo/ch06_poets_and_pancakes.pdf"
+          },
+          {
+            "chapter": 7,
+            "title": "The Interview",
+            "file": "ncert/english/flamingo/ch07_the_interview.pdf"
+          },
+          {
+            "chapter": 8,
+            "title": "Going Places",
+            "file": "ncert/english/flamingo/ch08_going_places.pdf"
+          },
+          {
+            "poem": 1,
+            "title": "My Mother at Sixty-Six",
+            "file": "ncert/english/flamingo/poem01_my_mother_at_sixty_six.pdf"
+          },
+          {
+            "poem": 2,
+            "title": "Keeping Quiet",
+            "file": "ncert/english/flamingo/poem02_keeping_quiet.pdf"
+          },
+          {
+            "poem": 3,
+            "title": "A Thing of Beauty",
+            "file": "ncert/english/flamingo/poem03_a_thing_of_beauty.pdf"
+          },
+          {
+            "poem": 4,
+            "title": "A Roadside Stand",
+            "file": "ncert/english/flamingo/poem04_a_roadside_stand.pdf"
+          },
+          {
+            "poem": 5,
+            "title": "Aunt Jennifer's Tigers",
+            "file": "ncert/english/flamingo/poem05_aunt_jennifers_tigers.pdf"
+          }
+        ],
+        "vistas": [
+          {
+            "chapter": 1,
+            "title": "The Third Level",
+            "file": "ncert/english/vistas/ch01_the_third_level.pdf"
+          },
+          {
+            "chapter": 2,
+            "title": "The Tiger King",
+            "file": "ncert/english/vistas/ch02_the_tiger_king.pdf"
+          },
+          {
+            "chapter": 3,
+            "title": "Journey to the End of the Earth",
+            "file": "ncert/english/vistas/ch03_journey_to_the_end_of_the_earth.pdf"
+          },
+          {
+            "chapter": 4,
+            "title": "The Enemy",
+            "file": "ncert/english/vistas/ch04_the_enemy.pdf"
+          },
+          {
+            "chapter": 5,
+            "title": "On the Face of It",
+            "file": "ncert/english/vistas/ch05_on_the_face_of_it.pdf"
+          },
+          {
+            "chapter": 6,
+            "title": "Memories of Childhood",
+            "file": "ncert/english/vistas/ch06_memories_of_childhood.pdf"
+          }
+        ]
+      },
+      "physics": {
+        "part1": [
+          {
+            "chapter": 1,
+            "title": "Electric Charges and Fields",
+            "file": "ncert/physics/part1/ch01_electric_charges_and_fields.pdf"
+          },
+          {
+            "chapter": 2,
+            "title": "Electrostatic Potential and Capacitance",
+            "file": "ncert/physics/part1/ch02_electrostatic_potential_and_capacitance.pdf"
+          },
+          {
+            "chapter": 3,
+            "title": "Current Electricity",
+            "file": "ncert/physics/part1/ch03_current_electricity.pdf"
+          },
+          {
+            "chapter": 4,
+            "title": "Moving Charges and Magnetism",
+            "file": "ncert/physics/part1/ch04_moving_charges_and_magnetism.pdf"
+          },
+          {
+            "chapter": 5,
+            "title": "Magnetism and Matter",
+            "file": "ncert/physics/part1/ch05_magnetism_and_matter.pdf"
+          },
+          {
+            "chapter": 6,
+            "title": "Electromagnetic Induction",
+            "file": "ncert/physics/part1/ch06_electromagnetic_induction.pdf"
+          },
+          {
+            "chapter": 7,
+            "title": "Alternating Current",
+            "file": "ncert/physics/part1/ch07_alternating_current.pdf"
+          },
+          {
+            "chapter": 8,
+            "title": "Electromagnetic Waves",
+            "file": "ncert/physics/part1/ch08_electromagnetic_waves.pdf"
+          }
+        ],
+        "part2": [
+          {
+            "chapter": 9,
+            "title": "Ray Optics and Optical Instruments",
+            "file": "ncert/physics/part2/ch09_ray_optics_and_optical_instruments.pdf"
+          },
+          {
+            "chapter": 10,
+            "title": "Wave Optics",
+            "file": "ncert/physics/part2/ch10_wave_optics.pdf"
+          },
+          {
+            "chapter": 11,
+            "title": "Dual Nature of Radiation and Matter",
+            "file": "ncert/physics/part2/ch11_dual_nature_of_radiation_and_matter.pdf"
+          },
+          {
+            "chapter": 12,
+            "title": "Atoms",
+            "file": "ncert/physics/part2/ch12_atoms.pdf"
+          },
+          {
+            "chapter": 13,
+            "title": "Nuclei",
+            "file": "ncert/physics/part2/ch13_nuclei.pdf"
+          },
+          {
+            "chapter": 14,
+            "title": "Semiconductor Electronics",
+            "file": "ncert/physics/part2/ch14_semiconductor_electronics.pdf"
+          }
+        ]
+      },
+      "chemistry": {
+        "part1": [
+          {
+            "chapter": 1,
+            "title": "Solutions",
+            "file": "ncert/chemistry/part1/ch01_solutions.pdf"
+          },
+          {
+            "chapter": 2,
+            "title": "Electrochemistry",
+            "file": "ncert/chemistry/part1/ch02_electrochemistry.pdf"
+          },
+          {
+            "chapter": 3,
+            "title": "Chemical Kinetics",
+            "file": "ncert/chemistry/part1/ch03_chemical_kinetics.pdf"
+          },
+          {
+            "chapter": 4,
+            "title": "d- and f-Block Elements",
+            "file": "ncert/chemistry/part1/ch04_d_and_f_block_elements.pdf"
+          },
+          {
+            "chapter": 5,
+            "title": "Coordination Compounds",
+            "file": "ncert/chemistry/part1/ch05_coordination_compounds.pdf"
+          }
+        ],
+        "part2": [
+          {
+            "chapter": 6,
+            "title": "Haloalkanes and Haloarenes",
+            "file": "ncert/chemistry/part2/ch06_haloalkanes_and_haloarenes.pdf"
+          },
+          {
+            "chapter": 7,
+            "title": "Alcohols, Phenols and Ethers",
+            "file": "ncert/chemistry/part2/ch07_alcohols_phenols_and_ethers.pdf"
+          },
+          {
+            "chapter": 8,
+            "title": "Aldehydes, Ketones and Carboxylic Acids",
+            "file": "ncert/chemistry/part2/ch08_aldehydes_ketones_and_carboxylic_acids.pdf"
+          },
+          {
+            "chapter": 9,
+            "title": "Amines",
+            "file": "ncert/chemistry/part2/ch09_amines.pdf"
+          },
+          {
+            "chapter": 10,
+            "title": "Biomolecules",
+            "file": "ncert/chemistry/part2/ch10_biomolecules.pdf"
+          }
+        ]
+      },
+      "mathematics": {
+        "part1": [
+          {
+            "chapter": 1,
+            "title": "Relations and Functions",
+            "file": "ncert/mathematics/part1/ch01_relations_and_functions.pdf"
+          },
+          {
+            "chapter": 2,
+            "title": "Inverse Trigonometric Functions",
+            "file": "ncert/mathematics/part1/ch02_inverse_trigonometric_functions.pdf"
+          },
+          {
+            "chapter": 3,
+            "title": "Matrices",
+            "file": "ncert/mathematics/part1/ch03_matrices.pdf"
+          },
+          {
+            "chapter": 4,
+            "title": "Determinants",
+            "file": "ncert/mathematics/part1/ch04_determinants.pdf"
+          },
+          {
+            "chapter": 5,
+            "title": "Continuity and Differentiability",
+            "file": "ncert/mathematics/part1/ch05_continuity_and_differentiability.pdf"
+          },
+          {
+            "chapter": 6,
+            "title": "Application of Derivatives",
+            "file": "ncert/mathematics/part1/ch06_application_of_derivatives.pdf"
+          }
+        ],
+        "part2": [
+          {
+            "chapter": 7,
+            "title": "Integrals",
+            "file": "ncert/mathematics/part2/ch07_integrals.pdf"
+          },
+          {
+            "chapter": 8,
+            "title": "Application of Integrals",
+            "file": "ncert/mathematics/part2/ch08_application_of_integrals.pdf"
+          },
+          {
+            "chapter": 9,
+            "title": "Differential Equations",
+            "file": "ncert/mathematics/part2/ch09_differential_equations.pdf"
+          },
+          {
+            "chapter": 10,
+            "title": "Vector Algebra",
+            "file": "ncert/mathematics/part2/ch10_vector_algebra.pdf"
+          },
+          {
+            "chapter": 11,
+            "title": "Three Dimensional Geometry",
+            "file": "ncert/mathematics/part2/ch11_three_dimensional_geometry.pdf"
+          },
+          {
+            "chapter": 12,
+            "title": "Linear Programming",
+            "file": "ncert/mathematics/part2/ch12_linear_programming.pdf"
+          },
+          {
+            "chapter": 13,
+            "title": "Probability",
+            "file": "ncert/mathematics/part2/ch13_probability.pdf"
+          }
+        ]
+      },
+      "biology": [
+        {
+          "chapter": 1,
+          "title": "Sexual Reproduction in Flowering Plants",
+          "file": "ncert/biology/ch01_sexual_reproduction_in_flowering_plants.pdf"
+        },
+        {
+          "chapter": 2,
+          "title": "Human Reproduction",
+          "file": "ncert/biology/ch02_human_reproduction.pdf"
+        },
+        {
+          "chapter": 3,
+          "title": "Reproductive Health",
+          "file": "ncert/biology/ch03_reproductive_health.pdf"
+        },
+        {
+          "chapter": 4,
+          "title": "Principles of Inheritance and Variation",
+          "file": "ncert/biology/ch04_principles_of_inheritance_and_variation.pdf"
+        },
+        {
+          "chapter": 5,
+          "title": "Molecular Basis of Inheritance",
+          "file": "ncert/biology/ch05_molecular_basis_of_inheritance.pdf"
+        },
+        {
+          "chapter": 6,
+          "title": "Evolution",
+          "file": "ncert/biology/ch06_evolution.pdf"
+        },
+        {
+          "chapter": 7,
+          "title": "Human Health and Disease",
+          "file": "ncert/biology/ch07_human_health_and_disease.pdf"
+        },
+        {
+          "chapter": 8,
+          "title": "Microbes in Human Welfare",
+          "file": "ncert/biology/ch08_microbes_in_human_welfare.pdf"
+        },
+        {
+          "chapter": 9,
+          "title": "Biotechnology: Principles and Processes",
+          "file": "ncert/biology/ch09_biotechnology_principles_and_processes.pdf"
+        },
+        {
+          "chapter": 10,
+          "title": "Biotechnology and its Applications",
+          "file": "ncert/biology/ch10_biotechnology_and_its_applications.pdf"
+        },
+        {
+          "chapter": 11,
+          "title": "Organisms and Populations",
+          "file": "ncert/biology/ch11_organisms_and_populations.pdf"
+        },
+        {
+          "chapter": 12,
+          "title": "Ecosystem",
+          "file": "ncert/biology/ch12_ecosystem.pdf"
+        },
+        {
+          "chapter": 13,
+          "title": "Biodiversity and Conservation",
+          "file": "ncert/biology/ch13_biodiversity_and_conservation.pdf"
+        }
+      ],
+      "physical_education": [
+        {
+          "chapter": "full_book",
+          "title": "Physical Education Class 12",
+          "file": "ncert/physical_education/physical_education_class12.pdf"
+        }
+      ]
+    },
+    "notes": {
+      "english": {
+        "flamingo": [
+          {
+            "chapter": 1,
+            "title": "The Last Lesson Notes",
+            "file": "notes/english/flamingo/ch01_the_last_lesson_notes.pdf"
+          },
+          {
+            "chapter": 2,
+            "title": "Lost Spring Notes",
+            "file": "notes/english/flamingo/ch02_lost_spring_notes.pdf"
+          },
+          {
+            "chapter": 3,
+            "title": "Deep Water Notes",
+            "file": "notes/english/flamingo/ch03_deep_water_notes.pdf"
+          },
+          {
+            "chapter": 4,
+            "title": "The Rattrap Notes",
+            "file": "notes/english/flamingo/ch04_the_rattrap_notes.pdf"
+          },
+          {
+            "chapter": 5,
+            "title": "Indigo Notes",
+            "file": "notes/english/flamingo/ch05_indigo_notes.pdf"
+          },
+          {
+            "chapter": 6,
+            "title": "Poets and Pancakes Notes",
+            "file": "notes/english/flamingo/ch06_poets_and_pancakes_notes.pdf"
+          },
+          {
+            "chapter": 7,
+            "title": "The Interview Notes",
+            "file": "notes/english/flamingo/ch07_the_interview_notes.pdf"
+          },
+          {
+            "chapter": 8,
+            "title": "Going Places Notes",
+            "file": "notes/english/flamingo/ch08_going_places_notes.pdf"
+          },
+          {
+            "poem": 1,
+            "title": "My Mother at Sixty-Six Notes",
+            "file": "notes/english/flamingo/poem01_my_mother_at_sixty_six_notes.pdf"
+          },
+          {
+            "poem": 2,
+            "title": "Keeping Quiet Notes",
+            "file": "notes/english/flamingo/poem02_keeping_quiet_notes.pdf"
+          },
+          {
+            "poem": 4,
+            "title": "A Roadside Stand Notes",
+            "file": "notes/english/flamingo/poem04_a_roadside_stand_notes.pdf"
+          }
+        ],
+        "writing_section": [
+          {
+            "title": "Class 12th Writing Section Handwritten",
+            "file": "notes/english/writing_section/class_12th_writing_section_handwritten.pdf"
+          },
+          {
+            "title": "Class 12th Writing Section Overview",
+            "file": "notes/english/writing_section/class_12th_writing_section_overview.pdf"
+          },
+          {
+            "title": "Class 12th Writing Section Formats & Samples",
+            "file": "notes/english/writing_section/class_12th_writing_section_formats.pdf"
+          }
+        ]
+      }
+    },
+    "dpp": {
+      "english": {
+        "flamingo": [
+          {
+            "chapter": 1,
+            "title": "The Last Lesson DPP",
+            "file": "dpp/english/flamingo/ch01_the_last_lesson_dpp.pdf"
+          },
+          {
+            "chapter": 2,
+            "title": "Lost Spring DPP",
+            "file": "dpp/english/flamingo/ch02_lost_spring_dpp.pdf"
+          },
+          {
+            "chapter": 3,
+            "title": "Deep Water DPP",
+            "file": "dpp/english/flamingo/ch03_deep_water_dpp.pdf"
+          },
+          {
+            "chapter": 4,
+            "title": "The Rattrap Part 1 DPP",
+            "file": "dpp/english/flamingo/ch04_the_rattrap_part1_dpp.pdf"
+          },
+          {
+            "chapter": 4,
+            "title": "The Rattrap Part 2 DPP",
+            "file": "dpp/english/flamingo/ch04_the_rattrap_part2_dpp.pdf"
+          },
+          {
+            "chapter": 5,
+            "title": "Indigo DPP",
+            "file": "dpp/english/flamingo/ch05_indigo_dpp.pdf"
+          },
+          {
+            "chapter": 6,
+            "title": "Poets and Pancakes DPP",
+            "file": "dpp/english/flamingo/ch06_poets_and_pancakes_dpp.pdf"
+          },
+          {
+            "chapter": 7,
+            "title": "The Interview DPP",
+            "file": "dpp/english/flamingo/ch07_the_interview_dpp.pdf"
+          },
+          {
+            "chapter": 8,
+            "title": "Going Places DPP",
+            "file": "dpp/english/flamingo/ch08_going_places_dpp.pdf"
+          },
+          {
+            "poem": 2,
+            "title": "Keeping Quiet DPP",
+            "file": "dpp/english/flamingo/poem02_keeping_quiet_dpp.pdf"
+          }
+        ]
+      }
+    }
+  }
+}
