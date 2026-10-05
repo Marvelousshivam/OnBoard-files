@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-10-05T04:19:13.043484+00:00",
+  "last_updated": "2026-10-05T04:48:04.135379+00:00",
   "base_raw_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main",
   "subjects": [
     {
@@ -877,20 +877,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=9nU2YZ2HVPA",
               "duration": "4 hr 42 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_01_vid01",
-              "title": "Electric Charges and Fields \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_01_vid02",
-              "title": "Electric Charges and Fields \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -917,20 +903,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=2tG-hx2JHr8",
               "duration": "4 hr 10 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_02_vid01",
-              "title": "Electrostatic Potential and Capacitance \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_02_vid02",
-              "title": "Electrostatic Potential and Capacitance \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -957,20 +929,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=vUCDSDWyX4c",
               "duration": "4 hr 2 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_03_vid01",
-              "title": "Current Electricity \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_03_vid02",
-              "title": "Current Electricity \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -997,20 +955,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=lYqCUYI9D7Y",
               "duration": "3 hr 25 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_04_vid01",
-              "title": "Moving Charges and Magnetism \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_04_vid02",
-              "title": "Moving Charges and Magnetism \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1037,20 +981,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=lWbUXCr3FOk",
               "duration": "2 hr 41 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_05_vid01",
-              "title": "Magnetism and Matter \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_05_vid02",
-              "title": "Magnetism and Matter \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1077,20 +1007,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=GaLQhuyaUNg",
               "duration": "3 hr 8 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_06_vid01",
-              "title": "Electromagnetic Induction \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_06_vid02",
-              "title": "Electromagnetic Induction \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1117,20 +1033,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=tMIfXYlnJ5U",
               "duration": "3 hr 47 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_07_vid01",
-              "title": "Alternating Current \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_07_vid02",
-              "title": "Alternating Current \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1157,20 +1059,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=NsO6M28xPTs",
               "duration": "1 hr 37 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_08_vid01",
-              "title": "Electromagnetic Waves \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_08_vid02",
-              "title": "Electromagnetic Waves \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1197,20 +1085,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=V3JXWwBXv-4",
               "duration": "4 hr 50 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_09_vid01",
-              "title": "Ray Optics and Optical Instruments \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_09_vid02",
-              "title": "Ray Optics and Optical Instruments \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1237,20 +1111,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=6M_Y2FesSfA",
               "duration": "2 hr 40 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_10_vid01",
-              "title": "Wave Optics \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_10_vid02",
-              "title": "Wave Optics \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1277,20 +1137,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=7naR68Z6xEs",
               "duration": "2 hr 8 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_11_vid01",
-              "title": "Dual Nature of Radiation and Matter \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_11_vid02",
-              "title": "Dual Nature of Radiation and Matter \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1317,20 +1163,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=YuU3gaY34dI",
               "duration": "2 hr 21 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_12_vid01",
-              "title": "Atoms \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_12_vid02",
-              "title": "Atoms \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1357,20 +1189,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=YuU3gaY34dI",
               "duration": "2 hr 21 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_13_vid01",
-              "title": "Nuclei \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_13_vid02",
-              "title": "Nuclei \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1396,20 +1214,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=XGc2OCsjIdk",
               "duration": "1 hr 49 min",
               "author": "Akshay Sir"
-            },
-            {
-              "id": "phy_14_vid01",
-              "title": "Semiconductor Electronics \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "phy_14_vid02",
-              "title": "Semiconductor Electronics \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         }
@@ -1447,20 +1251,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=3VVSOY_iQX8",
               "duration": "4 hr 40 min",
               "author": "Sunil Sir"
-            },
-            {
-              "id": "chem_01_vid01",
-              "title": "Solutions \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "chem_01_vid02",
-              "title": "Solutions \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1487,20 +1277,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=94Gq-VdBoAY",
               "duration": "6 hr 13 min",
               "author": "Sunil Sir"
-            },
-            {
-              "id": "chem_02_vid01",
-              "title": "Electrochemistry \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "chem_02_vid02",
-              "title": "Electrochemistry \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1527,20 +1303,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=XI2eLUjOt5Q",
               "duration": "5 hr 36 min",
               "author": "Sunil Sir"
-            },
-            {
-              "id": "chem_03_vid01",
-              "title": "Chemical Kinetics \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "chem_03_vid02",
-              "title": "Chemical Kinetics \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1567,20 +1329,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=atz_SW4Ovg8",
               "duration": "4 hr 44 min",
               "author": "Sunil Sir"
-            },
-            {
-              "id": "chem_04_vid01",
-              "title": "d and f Block Elements \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "chem_04_vid02",
-              "title": "d and f Block Elements \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1607,20 +1355,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=RgEnbei373Q",
               "duration": "3 hr 40 min",
               "author": "Sunil Sir"
-            },
-            {
-              "id": "chem_05_vid01",
-              "title": "Coordination Compounds \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "chem_05_vid02",
-              "title": "Coordination Compounds \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1647,20 +1381,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=2GT9GM7k9_k",
               "duration": "3 hr 42 min",
               "author": "Sunil Sir"
-            },
-            {
-              "id": "chem_06_vid01",
-              "title": "Haloalkanes and Haloarenes \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "chem_06_vid02",
-              "title": "Haloalkanes and Haloarenes \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1687,20 +1407,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=p5m6oUmk2DE",
               "duration": "3 hr 13 min",
               "author": "Sunil Sir"
-            },
-            {
-              "id": "chem_07_vid01",
-              "title": "Alcohols, Phenols and Ethers \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "chem_07_vid02",
-              "title": "Alcohols, Phenols and Ethers \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1727,20 +1433,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=uxZlQlbrvmw",
               "duration": "4 hr 22 min",
               "author": "Sunil Sir"
-            },
-            {
-              "id": "chem_08_vid01",
-              "title": "Aldehydes, Ketones and Carboxylic Acids \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "chem_08_vid02",
-              "title": "Aldehydes, Ketones and Carboxylic Acids \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1767,20 +1459,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=_ICiy7jCaCQ",
               "duration": "2 hr 38 min",
               "author": "Shourya Ma'am"
-            },
-            {
-              "id": "chem_09_vid01",
-              "title": "Amines \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "chem_09_vid02",
-              "title": "Amines \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -1807,20 +1485,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=neCiz1bHXGQ",
               "duration": "3 hr 21 min",
               "author": "Sunil Sir"
-            },
-            {
-              "id": "chem_10_vid01",
-              "title": "Biomolecules \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "chem_10_vid02",
-              "title": "Biomolecules \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         }
@@ -1850,22 +1514,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_01_vid01",
-              "title": "Relations and Functions \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_01_vid02",
-              "title": "Relations and Functions \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_02",
@@ -1881,22 +1530,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_02_vid01",
-              "title": "Inverse Trigonometric Functions \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_02_vid02",
-              "title": "Inverse Trigonometric Functions \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_03",
@@ -1914,22 +1548,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_03_vid01",
-              "title": "Matrices \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_03_vid02",
-              "title": "Matrices \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_04",
@@ -1946,22 +1565,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_04_vid01",
-              "title": "Determinants \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_04_vid02",
-              "title": "Determinants \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_05",
@@ -1979,22 +1583,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_05_vid01",
-              "title": "Continuity and Differentiability \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_05_vid02",
-              "title": "Continuity and Differentiability \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_06",
@@ -2011,22 +1600,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_06_vid01",
-              "title": "Application of Derivatives \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_06_vid02",
-              "title": "Application of Derivatives \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_07",
@@ -2044,22 +1618,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_07_vid01",
-              "title": "Integrals \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_07_vid02",
-              "title": "Integrals \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_08",
@@ -2076,22 +1635,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_08_vid01",
-              "title": "Application of Integrals \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_08_vid02",
-              "title": "Application of Integrals \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_09",
@@ -2109,22 +1653,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_09_vid01",
-              "title": "Differential Equations \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_09_vid02",
-              "title": "Differential Equations \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_10",
@@ -2142,22 +1671,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_10_vid01",
-              "title": "Vector Algebra \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_10_vid02",
-              "title": "Vector Algebra \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_11",
@@ -2175,22 +1689,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_11_vid01",
-              "title": "Three Dimensional Geometry \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_11_vid02",
-              "title": "Three Dimensional Geometry \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_12",
@@ -2208,22 +1707,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_12_vid01",
-              "title": "Linear Programming \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_12_vid02",
-              "title": "Linear Programming \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "math_13",
@@ -2241,22 +1725,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "math_13_vid01",
-              "title": "Probability \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "math_13_vid02",
-              "title": "Probability \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         }
       ]
     },
@@ -2390,20 +1859,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=lW8hbdNGhBE",
               "duration": "1 hr 55 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_01_vid01",
-              "title": "Sexual Reproduction in Flowering Plants \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_01_vid02",
-              "title": "Sexual Reproduction in Flowering Plants \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -2492,20 +1947,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=jsiE37y8goA",
               "duration": "2 hr 59 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_02_vid01",
-              "title": "Human Reproduction \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_02_vid02",
-              "title": "Human Reproduction \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -2570,20 +2011,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=48gImtbYLsQ",
               "duration": "1 hr 18 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_03_vid01",
-              "title": "Reproductive Health \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_03_vid02",
-              "title": "Reproductive Health \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -2696,20 +2123,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=fuglbkNZ7ac",
               "duration": "3 hr 15 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_04_vid01",
-              "title": "Principles of Inheritance and Variation \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_04_vid02",
-              "title": "Principles of Inheritance and Variation \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -2736,20 +2149,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=eEz_nv3u1JY",
               "duration": "3 hr 46 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_05_vid01",
-              "title": "Molecular Basis of Inheritance \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_05_vid02",
-              "title": "Molecular Basis of Inheritance \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -2826,20 +2225,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=V4KU17K8h5Q",
               "duration": "2 hr 2 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_06_vid01",
-              "title": "Evolution \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_06_vid02",
-              "title": "Evolution \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -2880,20 +2265,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=FSN4b5MgAq8",
               "duration": "2 hr 7 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_07_vid01",
-              "title": "Human Health and Diseases \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_07_vid02",
-              "title": "Human Health and Diseases \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -2920,20 +2291,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=ka_rvqVnlNo",
               "duration": "59 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_08_vid01",
-              "title": "Microbes in Human Welfare \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_08_vid02",
-              "title": "Microbes in Human Welfare \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -2960,20 +2317,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=pumZiybEwdE",
               "duration": "1 hr 31 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_09_vid01",
-              "title": "Biotechnology: Principles and Processes \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_09_vid02",
-              "title": "Biotechnology: Principles and Processes \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -3001,20 +2344,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=530GYX9C1vU",
               "duration": "1 hr 7 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_10_vid01",
-              "title": "Biotechnology and its Applications \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_10_vid02",
-              "title": "Biotechnology and its Applications \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -3041,20 +2370,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=k2XIpxQgSHo",
               "duration": "1 hr 17 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_11_vid01",
-              "title": "Organisms and Populations \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_11_vid02",
-              "title": "Organisms and Populations \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -3080,20 +2395,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=042LD-Xnt3A",
               "duration": "48 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_12_vid01",
-              "title": "Ecosystem \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_12_vid02",
-              "title": "Ecosystem \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         },
@@ -3120,20 +2421,6 @@
               "youtube_url": "https://www.youtube.com/watch?v=XLRxoLcyhuw",
               "duration": "57 min",
               "author": "Aarushi Ma'am"
-            },
-            {
-              "id": "bio_13_vid01",
-              "title": "Biodiversity and its Conservation \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "bio_13_vid02",
-              "title": "Biodiversity and its Conservation \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
             }
           ]
         }
@@ -3164,22 +2451,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "pe_01_vid01",
-              "title": "Management of Sporting Events \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "pe_01_vid02",
-              "title": "Management of Sporting Events \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "pe_02",
@@ -3197,22 +2469,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "pe_02_vid01",
-              "title": "Children and Women in Sports \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "pe_02_vid02",
-              "title": "Children and Women in Sports \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "pe_03",
@@ -3230,22 +2487,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "pe_03_vid01",
-              "title": "Yoga as Preventive Measure for Lifestyle Disease \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "pe_03_vid02",
-              "title": "Yoga as Preventive Measure for Lifestyle Disease \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "pe_04",
@@ -3263,22 +2505,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "pe_04_vid01",
-              "title": "Physical Education & Sports for CWSN \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "pe_04_vid02",
-              "title": "Physical Education & Sports for CWSN \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "pe_05",
@@ -3296,22 +2523,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "pe_05_vid01",
-              "title": "Sports & Nutrition \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "pe_05_vid02",
-              "title": "Sports & Nutrition \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "pe_06",
@@ -3329,22 +2541,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "pe_06_vid01",
-              "title": "Test and Measurement in Sports \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "pe_06_vid02",
-              "title": "Test and Measurement in Sports \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "pe_07",
@@ -3362,22 +2559,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "pe_07_vid01",
-              "title": "Physiology & Injuries in Sports \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "pe_07_vid02",
-              "title": "Physiology & Injuries in Sports \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "pe_08",
@@ -3395,22 +2577,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "pe_08_vid01",
-              "title": "Biomechanics and Sports \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "pe_08_vid02",
-              "title": "Biomechanics and Sports \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "pe_09",
@@ -3428,22 +2595,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "pe_09_vid01",
-              "title": "Psychology and Sports \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "pe_09_vid02",
-              "title": "Psychology and Sports \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         },
         {
           "id": "pe_10",
@@ -3461,22 +2613,7 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": [
-            {
-              "id": "pe_10_vid01",
-              "title": "Training in Sports \u2014 Complete One-Shot Board Revision",
-              "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
-              "duration": "1 hr 15 mins",
-              "author": "CBSE Board Specialist"
-            },
-            {
-              "id": "pe_10_vid02",
-              "title": "Training in Sports \u2014 High-Yield Derivations & Board PYQs",
-              "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-              "duration": "45 mins",
-              "author": "Board Prep Masterclass"
-            }
-          ]
+          "videos": []
         }
       ]
     }
