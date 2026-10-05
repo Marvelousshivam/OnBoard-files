@@ -1,0 +1,151 @@
+{
+  "id": "bio_06_dpp03",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Evolution",
+  "title": "Evolution - DPP 03 (Adaptive Radiation & Divergent/Convergent Evolution)",
+  "source_pdf": "Evolution DPP 03 (Of Lecture 04).pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Placental mammals in Australia has variable forms which appears to be ‘similar’ to a corresponding marsupial. This is a case of:",
+      "options": [
+        "adaptive radiation and divergent evolution.",
+        "adaptive radiation and convergent evolution.",
+        "divergent evolution.",
+        "anthropogenic evolution."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "(B) In Australia, placental mammals evolved into various forms, each resembling a similar marsupial counterpart. This is an example of convergent evolution, where unrelated species evolve similar traits due to similar environmental pressures. Meanwhile, the diversity within each group (placental mammals and marsupials) shows adaptive radiation, where species diversify to fill different ecological niches. [New NCERT Class 12th Page no. 116, 117]"
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "The phenomenon of evolution of different species in a given geographical area starting from a point and spreading to other habitats is called;",
+      "options": [
+        "Co-evolution",
+        "Natural selection",
+        "Adaptive radiation",
+        "Saltation"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "(3) The process of evolution of different species in a given geographical area starting from a point and literally radiating to other areas of geography (habitats) is called adaptive radiation. Darwin’s finches represent one of the best examples of this phenomenon."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Darwin explained that adaptive radiation gave rise to variety of marsupials in Australia in the same process as found in",
+      "options": [
+        "Placental mammals in other continents",
+        "Finches in Galapagos islands",
+        "Placental wolf and Tasmanian wolf- marsupial",
+        "Both"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Finches in Galapagos islands."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Which of the following statements are true about finches? A. Present in Galapagos island. B. Have changes in beak pattern/shape, as of food availability. C. Arose from common ancestor. D. Best example of adaptive radiation.",
+      "options": [
+        "A, C and D only",
+        "B, C and D only",
+        "A, B and C only",
+        "A, B, C and D"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "(4) Darwin's finches present in Galapagos island, have changes in beak pattern/shape, as of food availability, arose from common ancestor, best example of adaptive rediation. (NEW NCERT 12th Page No. 116, 117)"
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Diversity in the types of beaks of finches adapted to different feeding habits on the Galapagos Islands, as observed by Darwin provides evidence for:",
+      "options": [
+        "intraspecific variations",
+        "interspecific competition",
+        "intraspecific competition",
+        "origin of species by natural selection"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: origin of species by natural selection."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Placental wolf and Tasmanian wolf marsupial exhibit:",
+      "options": [
+        "adaptive radiation.",
+        "divergent evolution.",
+        "convergent evolution.",
+        "homology."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "(3) Placental wolf and Tasmanian wolf marsupial exhibit convergent evolution. [New NCERT Class 12th Page no. 118]"
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "An evolutionary pattern characterised by a rapid increase in number of kinds of closely related species is called",
+      "options": [
+        "Divergent evolution",
+        "Convergent evolution",
+        "Adaptive radiation",
+        "Parallel evolution"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "The evolutionary pattern characterized by a rapid increase in the number of kinds of closely related species is called Adaptive radiation. Adaptive radiation refers to the process where a single ancestral species rapidly diversifies into a wide variety of forms to adapt to different environments. This leads to the formation of several new species in a relatively short period of time, each adapted to a specific ecological niche. A classic example of adaptive radiation is seen in Darwin's finches, which evolved into various species with different beak shapes suited to different food sources."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Adaptive radiation refers to;",
+      "options": [
+        "selection of individuals with mean character value.",
+        "increasing number of offsprings.",
+        "migration of members of different species to different geographical areas.",
+        "evolution of different species from a common ancestor."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "The process of evolution of different species in a given geographical area starting from a point and literally radiating to other areas of geography (habitats) is called adaptive radiation. (NEW NCERT 12th Page No. 117)"
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Read the following statements (I-V). I. Placental mammals in Australia exhibit adaptive radiation. II. Fossils are remains of hard parts of life- forms found in rocks. III. The rate of appearance of new forms is linked to the life cycle or the life span. IV. Microbes that divide slow have the ability to becomes millions of individuals within hours. V. Australopithecines probably lived in East African grasslands. | | Android App iOS App PW Website Which of the above statements are correct?",
+      "options": [
+        "I, II and IV only",
+        "I, IV and V only",
+        "I, III and V only",
+        "I, II, III and V only"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "(4) Microbes that divide fast have the ability to becomes millions of individuals within hours. [New NCERT Class 12th Page No. 118]"
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R: Assertion",
+      "options": [
+        ": The process of evolution of different species in a given geographical area starting from a point and literally radiating to other areas of geography is called adaptive radiation. Reason (R): Melanic moths are a classical example of adaptive radiation. In the light of the above statements, choose the correct answer from the options given below:",
+        "A is true but R is false.",
+        "A is false but R is true.",
+        "Both A and R are true and R is the correct explanation of A. (D) Both A and R are true but R is not the correct explanation of A. | |"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "(1) The process of evolution of different species in a given geographical area starting from a point and literally radiating to other areas of geography is called adaptive radiation. Darwin's finches are a classical example of adaptive radiation. [New NCERT Class 12th Page No. 117]"
+    }
+  ]
+}

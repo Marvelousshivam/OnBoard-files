@@ -1,0 +1,151 @@
+{
+  "id": "bio_07_dpp01",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Human Health and Diseases",
+  "title": "Human Health and Diseases - DPP 01 (Infectious Diseases & Pathogens)",
+  "source_pdf": "Human Health and Diseases DPP 01.pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Given below are two statement: one is labelled as Assertion",
+      "options": [
+        "and the other is labelled as Reason (R): Assertion",
+        ": Diseases can be broadly grouped into infectious and non-infectious. Reason (R): Diseases which are easily transmitted from one person to another, are called non-infectious diseases. In the light of the above statements, choose the correct answer from the options given below:",
+        "A is true but R is false.",
+        "A is false but R is true. (C) Both A and R are true and R is the correct explanation of A. (D) Both A and R are true but R is NOT the correct explanation of A."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Diseases are commonly categorised into two main groups: infectious diseases, which are caused by pathogens and can spread from one person to another and non-infectious diseases, which are not caused by pathogens and cannot spread between individuals."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Diseases are broadly classified into infectious and non-infectious diseases. In the list given below, identify the infectious diseases. I. Cancer II. Influenza III. Allergy IV. Smallpox",
+      "options": [
+        "I and II",
+        "II and III",
+        "II and IV",
+        "Only II"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "1) Diseases are broadly classified into two groups, infectious and non-infectious diseases. 2) Infectious diseases: Diseases that are easily transmitted from one person to another through pathogens or through body fluids, through the blood, breathing in an airborne virus; or by being bitten by an insect are called infectious diseases. Ex. AIDS 3) Non-infectious diseases: Diseases that are not transmitted through a pathogen from one person to another are called non-infectious diseases. Ex. Cancer 4) Therefore, among the given diseases only influenza and smallpox are the infectious disease."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Mark the correct statements: (a) Yoga has been practiced to achieve physical and mental health. (b) Infectious diseases are very common and everyone of us suffers from these at sometimes or other. (c) AIDS is an infectious disease. (d) Cancer is non-infectious disease. (e) Healthy persons bring economic prosperity.",
+      "options": [
+        "and c",
+        "and",
+        "and",
+        "and"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "(D) Yoga is commonly done for achieving both physical as well as mental health. Hence the first option is correct. AIDS is Acquired Immuno Deficiency Syndrome caused by the human Immunodeficiency virus. It is an infectious disease. Infectious disease can spread from one person to another through saliva, air droplets etc. Cancer is an example of a non-infectious disease as it does not spread from one person to another. Health is a state of complete physical, mental and social well-being. A healthy person can work more efficiently which increases productivity and thus brings economic prosperity. Hence all above- mentioned points are correct."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Assertion",
+      "options": [
+        ":- Health simply mean ‘absence of disease’ or ‘physical fitness. Reason (R):- Health increases longevity of people and reduces infant and maternal mortality.",
+        "Both A and R are true, and the R is a correct explanation of the A",
+        "Both A and R are true, but the R is not a correct explanation of the A",
+        "A is true, and the R is false (D) A is false and R are true"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Health simply does not mean ‘absence of disease’ or ‘physical fitness. It refers to mental, physical and social well being of a person"
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Read the following statements about health and select the incorrect one.",
+      "options": [
+        "Immune system maintains our health.",
+        "Health is defined as a state of complete physical, mental and social well-being.",
+        "Health increases productivity and economic prosperity.",
+        "Health increases infant and maternal mortality."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Health increases infant and maternal mortality.."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Which of the following is the most accurate definition of infection?",
+      "options": [
+        "The presence of microorganism in a particular location.",
+        "The disruption of normal host functions by microorganisms.",
+        "The survival and reproduction of microorganisms in a host.",
+        "The appearance of symptoms in a host, caused by microorganisms."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "The invasion, survival and multiplication of microorganisms in our body is called infection. Certain criteria must be met for an infection to be successful - 1. The microorganism must be high in number to cause some damage 2. The microorganism must be able to survive in our body. 3. A pathway must be present to enter the host such as respiratory tract. 4. A transmission mode must be there such as air, water or vectors 5. Host must be susceptible."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Read the following statements and select the incorrect one.",
+      "options": [
+        "When the functioning of one or more organs or systems of the body is adversely affected, characterised by appearance of various signs and symptoms, i.e. we have a disease. | |",
+        "Some of the infectious diseases like AIDS are fatal.",
+        "Pathogens cause harm to the host by living in (or on) them.",
+        "None of the above."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: None of the above.."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Which of the following can affect one's health? I. Genetic disorders II. Infections III. Lifestyle Which of the key words given above are correct?",
+      "options": [
+        "I and II",
+        "I and III",
+        "II and III",
+        "I, II and III"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "All three factors significantly impact human health: I. Genetic disorders: Conditions like sickle cell anemia, hemophilia, and Down syndrome are inherited and can affect health from birth. II. Infections: Diseases caused by pathogens (bacteria, viruses, fungi, protozoa, helminths) can lead to illnesses such as tuberculosis, influenza, and malaria. III. Lifestyle: Factors like diet, exercise, stress, smoking, and alcohol consumption influence overall well- being and the risk of diseases like diabetes, hypertension, and obesity."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Which of the following is an incorrect match?",
+      "options": [
+        "Ringworm infections- Trichophyton",
+        "Pneumonia- Haemophilus influenzae",
+        "Common cold- Retrovirus",
+        "Amoebic dysentery- Entamoeba histolytica"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Rhino viruses represent one such group of viruses that cause one of the most infectious human ailments – the common cold. [NCERT (2025-26) Class 12th Page no. 131]"
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Choose the incorrect statement from the following.",
+      "options": [
+        "Pneumonia in humans infects the alveoli of the lungs.",
+        "Retroviruses infect the nose and respiratory passage but not the lungs.",
+        "Entamoeba histolytica is a protozoan parasite in the large intestine of human.",
+        "Ascaris is an intestinal parasite and causal organism of ascariasis. | |"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "(2) Pneumonia in humans infects the alveoli (air-filled sacs) of the lungs. Rhino viruses infect the nose and respiratory passage but not the lungs. Entamoeba histolytica is a protozoan parasite in the large intestine of human. Ascaris, an intestinal parasite causes ascariasis. |"
+    }
+  ]
+}

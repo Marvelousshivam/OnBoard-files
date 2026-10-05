@@ -1,0 +1,221 @@
+{
+  "id": "bio_01_dpp05",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "title": "Sexual Reproduction in Flowering Plants - DPP 05 (Outbreeding Devices & Pollination Types)",
+  "source_pdf": "DPP 05.pdf",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Which of the following plants produce(s) chasmogamous and cleistogamous flowers?",
+      "options": [
+        "Viola (Common pansy)",
+        "Oxalis",
+        "Commelina",
+        "All"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: All."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Transfer of pollen grains from anther to the stigma of another flower of same plant is:",
+      "options": [
+        "geitonogamy.",
+        "xenogamy.",
+        "autogamy.",
+        "cleistogamy."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: geitonogamy.."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Geitonogamy is-",
+      "options": [
+        "Functionally cross pollination involving a pollinating agent",
+        "Genetically it is similar to autogamy since the pollen grains come from the same plant",
+        "Functionally and genetically autogamy",
+        "Both and are correct"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Both and are correct."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "The given figure shows the plant of Commelina with two types of flowers (F and F ). The flowers are–",
+      "options": [
+        "F - Neutral, F - Staminate",
+        "F - Cleistogamous, F - Chasmogamous",
+        "F - Chasmogamous, F - Cleistogamous",
+        "F - Cryptogamous, F -Ovulate"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: F - Chasmogamous, F - Cleistogamous."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Which of the following statements is correct?",
+      "options": [
+        "Majority of plants use biotic agents for pollination",
+        "Pollination by wind is more common among abiotic pollinations",
+        "Pollination by water is quite rare in flowering plants",
+        "All"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: All."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Assertion: Geitonogamy is genetically similar to autogamy. Reason: The pollen grains come from same plant.",
+      "options": [
+        "If both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "If both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "Assertion is true but Reason is false.",
+        "Assertion is false but Reason is true."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: If both Assertion and Reason are true and Reason is the correct explanation of Assertion.."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Most common abiotic pollinators is/are",
+      "options": [
+        "Wind",
+        "Water",
+        "Both",
+        "& (B) (D) Bees"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Wind."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Given below are two statements: Statement-I: Cleistogamous flowers are invariably autogamous. Statement-II: Cleistogamy is disadvantageous as there is no chance for cross pollination. In the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        "Statement-I is incorrect but Statement-II is correct",
+        "Both Statement-I and Statement-II are correct",
+        "Both Statement-I and Statement-II are incorrect",
+        "Statement-I is correct but Statement-II is incorrect"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Both Statement-I and Statement-II are correct."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Pollen grain of water pollinated plants are coated by covering to prevent it from wetting.",
+      "options": [
+        "Mucilage",
+        "Cuticle",
+        "Exine",
+        "Intine"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Mucilage."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Pollination in water hyacinth and water lily is brought about by the agency of;",
+      "options": [
+        "birds",
+        "bats",
+        "water",
+        "insects or wind"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: insects or wind."
+    },
+    {
+      "id": "q_11",
+      "q_no": 11,
+      "question": "Well exposed stamen and feathery stigma is feature of:",
+      "options": [
+        "bat pollination.",
+        "wind pollination.",
+        "both wind and insect pollination.",
+        "bird pollination."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: wind pollination.."
+    },
+    {
+      "id": "q_12",
+      "q_no": 12,
+      "question": "In angiosperm plant, pollen grain is long ribbon shape in;",
+      "options": [
+        "water lily",
+        "water hyacinth",
+        "seagrasses",
+        "Viola"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: seagrasses."
+    },
+    {
+      "id": "q_13",
+      "q_no": 13,
+      "question": "In water hyacinth and water lily, pollination takes place by:",
+      "options": [
+        "Water currents only",
+        "Wind and water",
+        "Insects and water",
+        "Insects or wind"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Insects or wind."
+    },
+    {
+      "id": "q_14",
+      "q_no": 14,
+      "question": "Tallest flower of the world is of",
+      "options": [
+        "Rafflesia",
+        "Amorphophallus",
+        "Yucca",
+        "Fig"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Amorphophallus."
+    },
+    {
+      "id": "q_15",
+      "q_no": 15,
+      "question": "Which of the following is not a feature of wind pollinated flower?",
+      "options": [
+        "Multiple ovules",
+        "Nectarless",
+        "Odourless",
+        "Small size pollen"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Multiple ovules."
+    }
+  ]
+}

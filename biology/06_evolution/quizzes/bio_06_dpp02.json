@@ -1,0 +1,151 @@
+{
+  "id": "bio_06_dpp02",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Evolution",
+  "title": "Evolution - DPP 02 (Lamarckism, Natural Selection & Evidences)",
+  "source_pdf": "Evolution DPP 02 (Of Lecture 03).pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "The theory of Lamarckism states that:",
+      "options": [
+        "new species arise due to genetic mutations.",
+        "organisms evolve through the inheritance of acquired characteristics.",
+        "evolution is driven by natural selection.",
+        "organisms evolve through genetic drift."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "(2) The theory of Lamarckism states that organisms evolve through the inheritance of acquired characteristics. (NEW NCERT 12th Page No. 118)"
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R: Assertion A: Flippers of Penguins and Dolphins are homologous organs. Reason R : Flippers of Penguins and Dolphins are example of convergent evolution. In the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A.",
+        "Both A and R are true but R is NOT the correct explanation of A.",
+        "A is true but R is false.",
+        "A is false but R is true."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "(4) Flippers of Penguins and Dolphins have different structure but they perform same function. They are analogous structure and are a result of convergent evolution."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "The concept of homologous structures can be used to infer that:",
+      "options": [
+        "different organisms with similar functions must have evolved from a common ancestor.",
+        "organisms sharing homologous structures are unrelated but adapted to similar environments.",
+        "anatomical similarity of organisms suggests that they might share a common ancestry, though they have diverged over time.",
+        "organisms sharing homologous structures evolved separately with no common ancestors."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "(3) Homology indicates common ancestry. Homologous structures developed in different directions due to adaptations to different needs in different organisms (divergent evolution). [New NCERT Class 12th Page No. 114]"
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R: Assertion A: Karl Ernst von Baer disapproved of Haeckel's proposal regarding embryological support for evolution. Reason R: He noted that embryos do not pass through the adult stages of other animals. In the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        "A is true but R is false.",
+        "A is false but R is true.",
+        "Both A and R are true and R is the correct explanation of A.",
+        "Both A and R are true and R is NOT the correct explanation of A."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Assertion A is true because Karl Ernst von Baer disapproved of Haeckel's proposal regarding embryological support for evolution. Haeckel's biogenetic law stated that \"ontogeny recapitulates phylogeny,\" meaning that embryos pass through stages resembling adult forms of their evolutionary ancestors. Von Baer rejected this idea. Reason R is true because von Baer noted that embryos do not pass through the adult stages of other animals. Instead, he proposed that embryos develop progressively, starting from a general form shared among related species and then differentiating into species-specific traits. R correctly explains A because von Baer’s observations provided an alternative explanation, leading to the rejection of Haeckel’s concept."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Choose the wrong pair",
+      "options": [
+        "Divergent evolution - Fore limbs of whales, bat, cheetah and human",
+        "Convergent evolution - Flippers of penguins and dolphins",
+        "Homologous structures - Vertebrate hearts",
+        "Analogous structures - Tendril of Bougainvillea and Cucurbita"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Tendrils of cucurbita and thorns of bougainvillea are example of homology. These structures are evolved from axillary bud. |"
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Read the following statements and choose incorrect one.",
+      "options": [
+        "Fossils are remains of hard parts of life forms found in rocks",
+        "First form of life arose slowly through evolutionary forces from non-living molecules, is known as biogenesis.",
+        "Wings of butterfly and birds shows homology.",
+        "Evolution is not a directed process in the sense of determination."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Wings of butterfly and birds shows homology.."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Which of the following is not a reptilian character of Archaeopteryx ?",
+      "options": [
+        "The bones are not pneumatic | |",
+        "Presence of weak sternum",
+        "An intimate fusion of skull bones",
+        "Jaws bear teeth"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: An intimate fusion of skull bones."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Select the odd one out w.r.t the forelimbs of whale, bat, cheetah and humans. A. Similarities in the pattern of bones. B. Analogous organs C. Convergent evolution D. Divergent evolution E. Different functions performed by similar structures. Choose the most appropriate answer from the options given below:",
+      "options": [
+        "A, B and C only",
+        "A, D and E only",
+        "A and D only",
+        "A, D and C only"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "(2) Whales, bats, Cheetah and human (all mammals) share similarities in the pattern of bones of forelimbs. Though these forelimbs perform different functions in these animals, they have similar anatomical structure – all of them have humerus, radius, ulna, carpals, metacarpals and phalanges in their forelimbs. Hence, in these animals, the same structure developed along different directions due to adaptations to different needs. This is divergent evolution and these structures are homologous. Homology indicates common ancestry. Other examples are vertebrate hearts or brains. [New NCERT Class 12th Page No. 114]"
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Read the following statements",
+      "options": [
+        "Presence of a short tail in newborn babies is an example of atavism",
+        "The rate of appearance of new forms has no link to the life span",
+        "Those animals which are better fit undergo natural selection",
+        "Evolution is not a directed process in the sense of determinism (E) According to Darwin, evolution is a rapid, singlestep process How many of above statements are correct? (A) Two (B) Three (C) Four (D) Five"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: The rate of appearance of new forms has no link to the life span."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Gill clefts and notochord appear in the embryonic development of all vertebrates from fishes to mammals. This supports the theory of:",
+      "options": [
+        "recapitulation.",
+        "metamorphosis.",
+        "biogenesis.",
+        "abiogenesis. | |"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "(1) According to the recapitulation theory that development from egg to adult repeats or recapitulates in a condensed form the stages through which ancestors have passed in the course of their evolution. In other words, it can be said that ontogeny repeats phylogeny. Frog has in its development an aquatic, fish-like tadpole larva. The larva has a tail with a fin for swimming and gills for breathing in water. These stages indicate that the frog has evolved from a fish-like ancestor."
+    }
+  ]
+}

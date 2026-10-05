@@ -1,0 +1,221 @@
+{
+  "id": "bio_01_dpp02",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "title": "Sexual Reproduction in Flowering Plants - DPP 02 (Pollen Grains & Microsporogenesis)",
+  "source_pdf": "DPP 02-3.pdf",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Pollen viability is about thirty minutes in",
+      "options": [
+        "Wheat",
+        "Pea",
+        "Gram",
+        "Potato"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Wheat."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "In a pollen grain, sporopollenin is absent in all, except",
+      "options": [
+        "Germ pore",
+        "Intine",
+        "Exine",
+        "Cytoplasm"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Exine."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Pollen grains can be stored for several years in liquid nitrogen having a temperature of:",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: ."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "The two-celled stage of mature pollen grain consists of",
+      "options": [
+        "Vegetative cell, generative cell",
+        "Vegetative cell, one male gamete",
+        "Two male gametes",
+        "Generative cell, one male gamete"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Vegetative cell, generative cell."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "In some members of which of the following pairs of families, pollen grains retain their viability for months after release?",
+      "options": [
+        "Poaceae; Rosaceae",
+        "Poaceae; Leguminoseae",
+        "Poaceae; Solanaceae",
+        "Rosaceae; Leguminoseae"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Rosaceae; Leguminoseae."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "One of the Most resistant biological material is",
+      "options": [
+        "Lignin",
+        "Hemicellulose",
+        "Lignocellulose",
+        "Sporopollenin"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Sporopollenin."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "In angiosperms, the pollen grains are shed at:",
+      "options": [
+        "Four-celled stage",
+        "Three-celled stage",
+        "Two-celled stage",
+        "Five-celled stage"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Three-celled stage."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "The vegetative cell of pollen grain have all feature, except",
+      "options": [
+        "Irregular shape of nucleus",
+        "Large size",
+        "Abundant food reserve",
+        "Spindle shape cell"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Spindle shape cell."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Which of the following is the reason for the formation of three celled pollen?",
+      "options": [
+        "Tapetum degenerates",
+        "Generative cell divides into two non-motile male gametes",
+        "Vegetative cell divides into two non-motile male gametes",
+        "Middle layer secretes hormones"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Generative cell divides into two non-motile male gametes."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "In the question, a statement of assertion is followed by a statement of reason. Assertion: Pollen grains can get preserved as fossils. Reason: Exine of a pollen grain is made up of sporopollenins which are resistant to high temperatures, strong acids or alkali as well as enzymatic degradation. Mark the correct choice :",
+      "options": [
+        "If both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "If both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "If Assertion is true but Reason is false.",
+        "If Assertion is false but Reason is true."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: If both Assertion and Reason are true and Reason is the correct explanation of Assertion.."
+    },
+    {
+      "id": "q_11",
+      "q_no": 11,
+      "question": "Statement I: The period for which pollen grains remain viable is highly variable. Statement II: The viability of pollen grain depends on the temperature only.",
+      "options": [
+        "Both Statement I and Statement II are correct.",
+        "Both Statement I and Statement II are incorrect.",
+        "Statement I is correct & Statement II is incorrect.",
+        "Statement I is incorrect & Statement II is correct."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Statement I is correct & Statement II is incorrect.."
+    },
+    {
+      "id": "q_12",
+      "q_no": 12,
+      "question": "Male gametophyte is also known as",
+      "options": [
+        "Pollen tube",
+        "Stigma",
+        "Placenta or funiculus",
+        "Pollen grains"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Pollen grains."
+    },
+    {
+      "id": "q_13",
+      "q_no": 13,
+      "question": "Stored pollen in liquid nitrogen at can be used for",
+      "options": [
+        "Crop breeding",
+        "Food suppliment",
+        "Syrup making",
+        "Parthencarpy"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Crop breeding."
+    },
+    {
+      "id": "q_14",
+      "q_no": 14,
+      "question": "Male gametes or sperms are developed from generative cell by",
+      "options": [
+        "Meiotic division",
+        "Mitotic division",
+        "Amitotic division",
+        "None of these"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Mitotic division."
+    },
+    {
+      "id": "q_15",
+      "q_no": 15,
+      "question": "Match column I with column II:",
+      "options": [
+        "A-III, B-II, C-IV, D- I",
+        "A-II, B-III, C- IV, D- I",
+        "A-I, B-III, C-II, D- IV",
+        "A-IV, B-I, C-II, D-III − C196∘"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: A-I, B-III, C-II, D- IV."
+    }
+  ]
+}

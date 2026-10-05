@@ -1,0 +1,221 @@
+{
+  "id": "bio_01_dpp07",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "title": "Sexual Reproduction in Flowering Plants - DPP 07 (Double Fertilization & Endosperm)",
+  "source_pdf": "DPP 07-1.pdf",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "After triple fusion central cell changes into–",
+      "options": [
+        "Embryo",
+        "Embryo sac",
+        "Primary endosperm cell (PEC)",
+        "Primary endosperm nucleus"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Primary endosperm cell (PEC)."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "A fertilised egg of a plant has 40 chromosomes. The number of chromosomes present in the microspore mother cell are",
+      "options": [
+        "20",
+        "40",
+        "60",
+        "80"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: 40."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Double fertilisation is fusion of:",
+      "options": [
+        "Two eggs",
+        "Two eggs and polar nuclei with pollen nuclei",
+        "One male gamete with egg and other with synergid",
+        "One male gamete with egg and other with two secondary nucleus"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: One male gamete with egg and other with two secondary nucleus."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Double fertilisation is:",
+      "options": [
+        "Fusion of two male gametes of a pollen tube with two different eggs",
+        "Fusion of one male gamete with two polar nuclei",
+        "Fusion of two male gametes with one egg",
+        "Syngamy and triple fusion"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Syngamy and triple fusion."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "In angiosperms, triple fusion produces:",
+      "options": [
+        "Polar nucleus",
+        "Secondary nucleus",
+        "Primary endospermic nucleus",
+        "Zygotic nucleus"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Primary endospermic nucleus."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "The central cell after triple fusion becomes the:",
+      "options": [
+        "PEC (primary endosperm cell)",
+        "PEN (primary endosperm nucleus)",
+        "Diploid",
+        "PEC and develops into embryo"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: PEC (primary endosperm cell)."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "In the formation of endosperm of wheat, which of the following cell is involved?",
+      "options": [
+        "Antipodal cell",
+        "Synergid cell",
+        "Central cell",
+        "Egg cell"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Central cell."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "The correct sequence of embryogeny in dicots is",
+      "options": [
+        "Zygote Proembryo Globular Heart- shaped Mature embryo",
+        "Zygote Globular Proembryo Heart- shaped Mature embryo",
+        "Zygote Proembryo Heart-shaped Globular Mature embryo",
+        "Zygote Globular Heart-shaped Proembryo Mature embryo"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Zygote Proembryo Globular Heart- shaped Mature embryo."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Go through the given diagram of a typical dicot embryo. In which of the following all the 3 parts labelled as A, B, C with their respective functions are correctly identifies?",
+      "options": [
+        "A-Plumule, shoot system formation, B-Radicle, root system formation,C-Hypophysis, formation of radicle",
+        "A-Plumule, shoot system formation, B-Radicle, root system formation, C-Cotyledon, food storage",
+        "A-Radicle, root system formation, B-Plumule, shoot system formation, C-Cotyledon, food storage",
+        "A-Radicle, root system formation, B-Plumule, shoot system formation, C-Endosperm, food"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: A-Plumule, shoot system formation, B-Radicle, root system formation, C-Cotyledon, food storage."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "In which one of the options all the four parts A, B, C and D are correct?",
+      "options": [
+        "A- Scutellum, B-Coleoptile, C-Radicle, D- Coleorhiza",
+        "A- Scutellum, B-Coleorhiza, C-Radicle, D- Coleoptile",
+        "A- Hypophysis, B-Coleorhiza, C-Radicle, D- Coleoptile",
+        "A- Hypophysis, B-Coleoptile, C-Radicle, D- Coleorhiza"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: A- Scutellum, B-Coleoptile, C-Radicle, D- Coleorhiza."
+    },
+    {
+      "id": "q_11",
+      "q_no": 11,
+      "question": "Embryonal axis above the cotyledon is known as",
+      "options": [
+        "Hypocotyl",
+        "Funicle",
+        "Epicotyl",
+        "Hilum"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Epicotyl."
+    },
+    {
+      "id": "q_12",
+      "q_no": 12,
+      "question": "During the development of a dicotyledonous embryo, which structure gives rise to the shoot apex?",
+      "options": [
+        "Plumule",
+        "Radicle",
+        "Hypocotyl",
+        "Cotyledon"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Plumule."
+    },
+    {
+      "id": "q_13",
+      "q_no": 13,
+      "question": "Scutellum is:",
+      "options": [
+        "Single cotyledon in monocots",
+        "Radical sheath in monocots",
+        "Plumule covering in monocots",
+        "Cotyledons in dicots"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Single cotyledon in monocots."
+    },
+    {
+      "id": "q_14",
+      "q_no": 14,
+      "question": "Coleorrhiza is present at",
+      "options": [
+        "Radical end enclosed the undifferential sheath",
+        "Shoot end enclosed the undifferential sheath",
+        "Root end enclosed the differential sheath",
+        "Shoot end enclosed the differential sheath"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Radical end enclosed the undifferential sheath."
+    },
+    {
+      "id": "q_15",
+      "q_no": 15,
+      "question": "Which of the given statements are true? (i) During the development of a dicot embryo heart shaped embryo is followed by globular enlarge. (ii) The part of the embryonal axis above the level of cotyledons is epicotyl while the part below the level of cotyledons is hypocotyl. (iii) Monocot seeds possess a single cotyledon represented by scutellum.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i) (ii) and (iii)"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: (ii) and (iii)."
+    }
+  ]
+}

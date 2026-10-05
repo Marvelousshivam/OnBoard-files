@@ -1,0 +1,151 @@
+{
+  "id": "bio_02_dpp04",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Human Reproduction",
+  "title": "Human Reproduction - DPP 04 (Fertilization, Morula & Blastocyst)",
+  "source_pdf": "DPP 07.pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Match List-I with List-II: List-I List-II A. Ovum I. 8-16 celled embryo formed in fallopian tube B. Zygote II. Implantation occurs in the uterine endometrium C. Morula III. Formed after sperm entry D. Blastocyst IV. Single, diploid cell formed as a result of fertilization",
+      "options": [
+        "A-III, B-IV, C-I, D-II",
+        "A-IV, B-III, C-I, D-II",
+        "A-II, B-IV, C-I, D-III",
+        "A-I, B-IV, C-III, D-II"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: A-III, B-IV, C-I, D-II."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Identify the structure correctly.",
+      "options": [
+        "Morula",
+        "Blastocyst",
+        "Ootid",
+        "Blastomere"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Blastocyst."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Identify the stage A and B and what are the correct labellings of C and D? Choose the correct option",
+      "options": [
+        "A - Morula, B - Blastocyst, C - Follicular cells, D - Inner cell mass",
+        "A - Morula, B - Blastocyst, C - Embryo, D - Trophoblast",
+        "A - Morula, B - Blastocyst, C -Trophoblast, D - Inner cell mass",
+        "A -Blastocyst, B - Morula, C -Trophoblast, D - Inner cell mass"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: A - Morula, B - Blastocyst, C -Trophoblast, D - Inner cell mass."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "The figure given below represents one of the stages of embryo development in humans. Determine the row that correctly identifies the labels A and B with their respective functions.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4 X"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: 3."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Match the following and choose the correct option.",
+      "options": [
+        "A-(ii), B-(i), C-(iii), D-(iv)",
+        "A-(iii), B-(iv), C-(ii), D-(i)",
+        "A-(iii), B-(i), C-(ii), D-(iv)",
+        "A-(ii), B-(iv), C-(iii), D-(i)"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: A-(iii), B-(iv), C-(ii), D-(i)."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Blastocyst becomes embedded in the ______ of the uterus. This is called______ and it leads to pregnancy.",
+      "options": [
+        "Perimetrium, gastrulation",
+        "Myometrium, implantation",
+        "Endometrium, implantation",
+        "Perimetrium, implantation"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Endometrium, implantation."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Given below are two statements. Statement-I: After implantation, blastocyst gets embedded in the myometrium of uterus. Statement-II: Uterine cells divide rapidly and cover the blastocyst once it gets attached to the uterine wall. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "options": [
+        "Statement-I is correct but Statement-II is incorrect.",
+        "Statement-I is incorrect but Statement-II is correct.",
+        "Both Statement-I and Statement-II are correct.",
+        "Both Statement-I and Statement-II are incorrect."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Statement-I is incorrect but Statement-II is correct.."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Match column I with column II and select the correct option from the codes given below",
+      "options": [
+        "A-(ii), B-(iv), C-(i), D-(iii)",
+        "A-(i), B-(iv), C-(ii), D-(iii)",
+        "A-(iv), B-(ii), C-(i), D-(iii)",
+        "A-(ii), B-(iv), C-(iii), D-(i)"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: A-(ii), B-(iv), C-(i), D-(iii)."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Match the following and choose the correct options:",
+      "options": [
+        "A-ii, B-i, C-iii, D-iv",
+        "A-iii, B-iv, C-ii, D-i",
+        "A-iii, B-I, C-ii, D-iv",
+        "A-ii, B-iv, C-iii, D-i"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: A-iii, B-iv, C-ii, D-i."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Which one of the following is the precise site of embryo implantation in a normal pregnancy?",
+      "options": [
+        "Endometrium",
+        "Vagina",
+        "Oviduct",
+        "Cervix A. B. C. D. Column I Cleavage Morula Polyspermy Implantation (i) (ii) (iii) (iv) Column II Fertilisation Mitotic divisions Endometrial Little mulberry"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Endometrium."
+    }
+  ]
+}

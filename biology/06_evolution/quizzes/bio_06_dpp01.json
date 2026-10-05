@@ -1,0 +1,151 @@
+{
+  "id": "bio_06_dpp01",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Evolution",
+  "title": "Evolution - DPP 01 (Origin of Life & Miller's Experiment)",
+  "source_pdf": "Evolution DPP 01.pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "From his experiments, S.L. Miller produced amino acids by mixing the following in a closed flask.",
+      "options": [
+        "CH4, H2, NH3and water vapour at 800°C",
+        "CH3, H2, NH4and water vapour at 800°C",
+        "CH4, H2, NH3and water vapour at 600°C",
+        "CH3, H2, NH3and water vapour at 600°C"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CH4, H2, NH3 and water vapor at 800°C"
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "What major event is described by the Big Bang theory?",
+      "options": [
+        "The continuous expansion of the universe.",
+        "The formation of the first stars.",
+        "A singular huge explosion, unimaginable in physical terms.",
+        "The cooling of Earth’s surface."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "(C) The Big Bang theory describes a singular explosive event leading to the formation of the universe. Continuous expansion and the formation of stars are later consequences, not the main event. [New NCERT Class 12th Page No. 111]"
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Which of the following is the correct sequence of events in evolution of plants? l. Chlorophyte ancestors II. Rhynia type plants III. Tracheophyte ancestors IV. Psilophyton",
+      "options": [
+        "I II III IV",
+        "I III II IV",
+        "II III I IV",
+        "IV II III I"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "(2) Chlorophyte ancestors Tracheophyte ancestors Rhynia-type plants Psilophyton [New NCERT Class 12th Page no. 122]"
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "What is wrong about evolution?",
+      "options": [
+        "Evolution is a slow and continuous process of change",
+        "All diversity of organisms have arisen due to evolution",
+        "Evolution is due to natural selection only",
+        "Evolution is due to variations arising from changes in genetic material"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Evolution is due to natural selection only."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Which one of the following is incorrect about the characteristics of protobionts (coacervates and microspheres) as envisaged in the abiogenic origin of life?",
+      "options": [
+        "They were partially isolated from the surroundings.",
+        "They could maintain an internal environment.",
+        "They were able to reproduce.",
+        "They could separate combinations of molecules from the surroundings."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: They were able to reproduce.."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Statement-I: The theory of special creation posits that Earth is approximately 4000 years old. Statement-II: Darwin concluded that living forms share similarities with ancient life forms.",
+      "options": [
+        "Statement I is correct but Statement II is incorrect.",
+        "Statement I is incorrect but Statement II is correct.",
+        "Both Statement I and Statement II are correct.",
+        "Both Statement I and Statement II are incorrect."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Earth is approximately 4.5 billion years old. Charles Darwin's theory of evolution, including his observations on natural selection, concluded that existing life forms share similarities with earlier life forms, indicating a common ancestor and a gradual process of change over time."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Alfred Wallace is significant in the history of evolution because:",
+      "options": [
+        "he opposed Darwin's ideas.",
+        "he proposed a completely different mechanism for evolution.",
+        "he independently arrived at similar conclusions as Darwin.",
+        "he discovered fossils that disproved evolution."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "(3) Alfred Wallace, working in the Malay Archipelago, independently developed a theory of natural selection similar to Darwin’s around the same time. [New NCERT Class 12th Page No. 113]"
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Which of the given statements are correct? I. Darwin made a sea voyage around the world in a sail ship named H.M.S. Beagle. II. Alfred Wallace worked in Malay Archipelago. III. Theoretically, population size will grow arithmetically if everybody reproduces maximally. IV. Fitness is the end result of the ability to adapt and get selected by nature.",
+      "options": [
+        "III and IV only",
+        "I, II and IV only | |",
+        "II, III and IV only",
+        "I, II, III and IV"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "I is correct because Darwin sailed around the world on the H.M.S. Beagle during his famous voyage. II is correct because Alfred Wallace worked in the Malay Archipelago, where he made significant contributions to the theory of evolution. III is incorrect because population size typically grows exponentially, not arithmetically, under ideal conditions. IV is correct because fitness refers to an organism's ability to survive, reproduce, and pass on its traits, which is central to natural selection."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Read the following statements and choose correct one.",
+      "options": [
+        "During the origin of life diverse organic molecules are formed from inorganic substances.",
+        "Fossils of Australopithecus are discovered from Sivalik hills of India.",
+        "Analogous structures are the result of divergent evolution.",
+        "Orangutan is the closest relative of man."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: During the origin of life diverse organic molecules are formed from inorganic substances.."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Mark the proper order according to Big Bang theory. A. Huge explosion. B. Water vapour, methane, carbon dioxide and ammonia released from molten mass covered the surface. C. Hydrogen and Helium formed. D. The ozone layer was formed. E. The gases condensed under gravitation and formed the galaxies of the present day universe.",
+      "options": [
+        "",
+        "",
+        "",
+        "| |"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "(3) The correct sequence according to Big Bang theory are:- - Huge explosion. - Hydrogen and Helium formed. - The gases condensed under gravitation and formed the galaxies of the present day universe. - Water vapour, methane, carbondioxide and ammonia released from moltenmass covered the surface. - The ozone layer was formed. [New NCERT, , Page No.- 111]"
+    }
+  ]
+}

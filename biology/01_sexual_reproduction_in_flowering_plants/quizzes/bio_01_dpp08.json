@@ -1,0 +1,207 @@
+{
+  "id": "bio_01_dpp08",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "title": "Sexual Reproduction in Flowering Plants - DPP 08 (Post-Fertilization: Seeds & Fruits)",
+  "source_pdf": "DPP 08-1.pdf",
+  "total_questions": 14,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Number of seeds are equal to the",
+      "options": [
+        "number of ovules",
+        "number of ovaries",
+        "Both",
+        "and (B) (D) None of these"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: number of ovules."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "In flowering plants, which of the following structures is present before fertilisation?",
+      "options": [
+        "Seed",
+        "Pericarp",
+        "Ovule",
+        "Endosperm"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Ovule."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Mark the correct choice as: Statement I: Micropyle hardens as a tough protective layer on seed coat. Statement II: Micropyle facilitates entry of and water into seed during seed germination.",
+      "options": [
+        "Both Statement-I and Statement-II are correct.",
+        "Both Statement-I and Statement-II are incorrect.",
+        "Statement-I is correct & Statement-II is incorrect.",
+        "Statement-I is incorrect & Statement-II is correct."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Statement-I is incorrect & Statement-II is correct.."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Function of micropyle in a mature seed is:",
+      "options": [
+        "Entry of pollen tube",
+        "Entry of fertilization tube",
+        "Entry of water and air",
+        "Entry of chemicals"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Entry of water and air."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Which of the following seeds are endospermous?",
+      "options": [
+        "Pea and bean",
+        "Castor and coconut",
+        "Pea and groundnut",
+        "Coconut and bean"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Castor and coconut."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "The period of viability is maximum in the seed of",
+      "options": [
+        "Lupine",
+        "Date palm",
+        "Lotus",
+        "Orobanche"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Lupine."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Coconut water considered as:",
+      "options": [
+        "Persistent nucellus",
+        "Endosperm",
+        "Testa",
+        "Triploid embryo"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Endosperm."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Albuminous seeds store their reserve food mainly in :-",
+      "options": [
+        "endosperm",
+        "cotyledons",
+        "hypocotyl",
+        "perisperm"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: endosperm."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "All the given fruits develop from other floral parts and thalamus along with the development of ovary wall, except",
+      "options": [
+        "Apple",
+        "Mango",
+        "Strawberry",
+        "Cashew nut"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Mango."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Identify the correct sequence of different layers in the pericarp of fleshy fruits. A. Endocarp B. Epicarp C. Mesocarp",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: ."
+    },
+    {
+      "id": "q_11",
+      "q_no": 11,
+      "question": "Which of the following is a group of fleshy fruit?",
+      "options": [
+        "Guava, orange and mango",
+        "Groundnut and mustard",
+        "Guava, groundnut and mustard",
+        "Mango, guava and mustard"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Guava, orange and mango."
+    },
+    {
+      "id": "q_12",
+      "q_no": 12,
+      "question": "False fruits are",
+      "options": [
+        "Guava, pear and sapota",
+        "Black pepper and beet",
+        "Apple and strawberry",
+        "Banana and apple"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Apple and strawberry."
+    },
+    {
+      "id": "q_13",
+      "q_no": 13,
+      "question": "Find the incorrect match",
+      "options": [
+        "Monosporic embryo sac - Majority of angiosperms",
+        "Free nuclear endosperm - Coconut",
+        "True fruit - Apple",
+        "Perispermic seed - Beet"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: True fruit - Apple."
+    },
+    {
+      "id": "q_14",
+      "q_no": 14,
+      "question": "Match column-I with column- II and select the correct answer using the codes given below.",
+      "options": [
+        "A-V, B-IV, C-III, D-II, E-I",
+        "A-I, B-II, C-III, D-IV, E-V",
+        "A-I, B-III, C-II, D-IV, E-V",
+        "A-V, B-IV, C-I, D-II, E-III"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: A-V, B-IV, C-III, D-II, E-I."
+    }
+  ]
+}

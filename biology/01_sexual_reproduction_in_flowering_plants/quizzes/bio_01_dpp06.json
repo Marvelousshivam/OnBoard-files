@@ -1,0 +1,221 @@
+{
+  "id": "bio_01_dpp06",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "title": "Sexual Reproduction in Flowering Plants - DPP 06 (Pollination Adaptations)",
+  "source_pdf": "DPP 06.pdf",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "An angiospermic plant has following characteristics. Identify the type of pollination in it. P. The pollen grains are light and non-sticky Q. Presence of feathery stigma R. Nectaries absent S. Flowers have well exposed stamens",
+      "options": [
+        "Entomophily",
+        "Hydrophily",
+        "Anemophily",
+        "Ornithophily"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Anemophily."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "A dioecious flowering plant prevents both:",
+      "options": [
+        "Autogamy and xenogamy",
+        "Autogamy and geitonogamy",
+        "Geitonogamy and xenogamy",
+        "Cleistogamy and xenogamy"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Autogamy and geitonogamy."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Inbreeding depression can occur in case of all except:",
+      "options": [
+        "cleistogamous flower.",
+        "autogamy.",
+        "xenogamy.",
+        "chasmogamous flower."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: xenogamy.."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Outbreeding devices tend to promote;",
+      "options": [
+        "Autogamy",
+        "Xenogamy",
+        "Self pollination",
+        "Inbreeding depression"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Xenogamy."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Assertion",
+      "options": [
+        ": Cross pollination may produce superior offspring. Reason",
+        ": Transfer of pollen grain from the flower of one plant to the stigma of another flower and of a different plant is called cross pollination.",
+        "Both Assertion",
+        "and Reason (R) are true and Reason (R) is a correct explanation of Assertion (A). (B) Both Assertion (A) and Reason (R) are true but Reason (R) is not a correct explanation of Assertion (A). (C) Assertion (A) is true and Reason (R) is false. (D) Assertion (A) is false and Reason (R) is true."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: : Transfer of pollen grain from the flower of one plant to the stigma of another flower and of a different plant is called cross pollination.."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Protandry is a condition in which:",
+      "options": [
+        "anthers mature after stigma",
+        "anthers and stigma mature at the same time",
+        "anthers mature earlier than the stigma",
+        "pollens of the same flower pollinates stigma"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: anthers mature earlier than the stigma."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Incompatibility in plants refers to:",
+      "options": [
+        "The inability of a flower to develop into a fruit",
+        "The inability of two flowers to cross-pollinate",
+        "The inability of two different plant species to reproduce",
+        "The inability of pollen to germinate on the stigma of the same flower"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: The inability of pollen to germinate on the stigma of the same flower."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Self incompatibility:",
+      "options": [
+        "Prevents cross pollination",
+        "Allows pollen grains of other flowers of the same plant to fertilise the ovule",
+        "Is a genetically controlled mechanism",
+        "Does not allow the germination of pollen grains of other species on the stigma"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Is a genetically controlled mechanism."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Which of the following labelled parts of gynoecium determines the compatible nature of pollen?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: P."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Pistil accepts the pollen and promote post pollination event, when pollen is-",
+      "options": [
+        "incompatible",
+        "from same species and are self incompatible",
+        "from other species",
+        "from same species"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: from same species."
+    },
+    {
+      "id": "q_11",
+      "q_no": 11,
+      "question": "What does the filiform apparatus do at the entrance into the ovule?",
+      "options": [
+        "It brings about opening of the pollen tube",
+        "It guides pollen tube from a synergid to egg",
+        "It helps in the entry of pollen tube into a synergid",
+        "It prevents entry of more than one pollen tube into the embryo sac"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: It helps in the entry of pollen tube into a synergid."
+    },
+    {
+      "id": "q_12",
+      "q_no": 12,
+      "question": "The events in pollen-pistil interaction are given below (i) Pollen grain germinates to form pollen tube. (ii) Pollen tube enters the ovule through micropyle. (iii) Pollen grain reaches the stigma. (iv) Pollen tube grows through the tissues of stigma and style and reaches the ovary. The sequential order of their occurence is",
+      "options": [
+        "(iii) (i) (iv) (ii)",
+        "(ii) (iv) (iii) (i)",
+        "(iii) (iv) (ii) (i)",
+        "(ii) (iii) (i) (iv)"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: (iii) (i) (iv) (ii)."
+    },
+    {
+      "id": "q_13",
+      "q_no": 13,
+      "question": "Identify to in the given diagram.",
+      "options": [
+        "A-Pollen tube, B-Ovary, C-Ovule, D- Antipodal cell, E-Pollen grain, F-Polar nuclei",
+        "A-Polar nuclei, B-Antipodal cell, C-Ovule, D- Ovary, E-Pollen tube, F-Pollen grain",
+        "A-Pollen grain, B-Pollen tube, C-Ovary, D- Ovule, E-Antipodal cell, F-Polar nuclei",
+        "A-Antipodal cell, B-Ovule, C-Ovary, D-Polar nuclei, E-Pollen grain, F-Pollen tube"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: A-Pollen grain, B-Pollen tube, C-Ovary, D- Ovule, E-Antipodal cell, F-Polar nuclei."
+    },
+    {
+      "id": "q_14",
+      "q_no": 14,
+      "question": "Emasculation not required during artificial hybridisation when flower is;",
+      "options": [
+        "unisexual",
+        "cleistogamous",
+        "bisexual",
+        "sterile"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: unisexual."
+    },
+    {
+      "id": "q_15",
+      "q_no": 15,
+      "question": "Artificial hybridisation is one of the major approaches of crop improvement programme. For the bisexual flower it includes the following steps in correct sequence.",
+      "options": [
+        "Bagging, pollination, rebagging",
+        "Pollination, bagging, rebagging",
+        "Emasculation, bagging, pollination, rebagging",
+        "Bagging, emasculation, pollination, rebagging → → → → → → → → → → → → A F"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Emasculation, bagging, pollination, rebagging."
+    }
+  ]
+}

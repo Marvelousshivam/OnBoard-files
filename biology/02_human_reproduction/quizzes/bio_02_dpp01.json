@@ -1,0 +1,123 @@
+{
+  "id": "bio_02_dpp01",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Human Reproduction",
+  "title": "Human Reproduction - DPP 01 (Male Reproductive System)",
+  "source_pdf": "DPP 01-3.pdf",
+  "total_questions": 8,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Which of the following is not paired structure?",
+      "options": [
+        "Seminal vesicle",
+        "Ejaculatory duct",
+        "Bulbourethral gland",
+        "Prostate Gland"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Prostate Gland."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Ejaculatory duct opens into:",
+      "options": [
+        "ureter.",
+        "urethra.",
+        "urinary bladder.",
+        "testis."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: urethra.."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Match the List-I with List-II: Choose the correct answer from the options given below:",
+      "options": [
+        "A-(P); B-(Q); C-(R); D-(S)",
+        "A-(S); B-(Q); C-(R); D-(P)",
+        "A-(R); B-(P); C-(Q); D-(S)",
+        "A-(Q); B-(S); C-(P); D-(R)"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: A-(P); B-(Q); C-(R); D-(S)."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Human male urethra acts as passage for:",
+      "options": [
+        "Urine",
+        "Sperms only",
+        "Semen",
+        "Both (A) & (C)"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Both (A) & (C)."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Which of the following depicts the correct pathway of transport of sperms?",
+      "options": [
+        "Rete testis Epididymis Efferent ductules Vas deferens",
+        "Rete testis Vas deferens Efferent ductules Epididymis",
+        "Efferent ductules Rete testis Vas deferens Epididymis",
+        "Rete testis Efferent ductules Epididymis Vas deferens"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Rete testis Efferent ductules Epididymis Vas deferens."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Testes descend into scrotum in mammals for",
+      "options": [
+        "Spermatogenesis",
+        "Fertilisation",
+        "Development of sex organs",
+        "Development of visceral organs"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Spermatogenesis."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Choose the incorrect statement w.r.t. primary sex organ in males.",
+      "options": [
+        "They have immunocompetent cells in their interstitium.",
+        "They bear connection with abdomen.",
+        "They are lined by meiotically dividing sertoli cells and germ cells.",
+        "They have leydig cells that secrete androgens."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: They are lined by meiotically dividing sertoli cells and germ cells.."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Read the following statements and find out the incorrect statements. 1. Each testicular lobule contains one to three highly coiled seminiferous tubules in which sperm are produced. 2. Each seminiferous tubule is lined on its inside by two types of cells called Leydig cells and Sertoli cells. 3. The region outside the seminiferous tubules called interstitial space, contains small blood vessels and male germ cells (spermatogonia) which lead to sperm formation. 4. In testis immunologically compenent cells are also present. 5. The seminiferous tubules of the testis open into the rete testis through vasa efferentia. → → → → → → → → → → → →",
+      "options": [
+        "2 and 3",
+        "2 and 4",
+        "4 and 5",
+        "2, 3 and 5"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: 2, 3 and 5."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "bio_03_dpp02",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Reproductive Health",
+  "title": "Reproductive Health - DPP 02 (Contraception & Birth Control Methods)",
+  "source_pdf": "DPP 02-4.pdf",
+  "total_questions": 13,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Match List-I with List-II. List-I List-II I. To cover vagina and cervix A. Condom for male II. Under the skin B. Implants III. To cover the penis C. CuT IV. Cu ions released D. Condom for female Choose the correct answer from the options given below.",
+      "options": [
+        "I-",
+        ", II-",
+        ", III-",
+        ", IV- (D) (B) I- (D), II- (B), III- (A), IV- (C) (C) I- (A), II- (D), III- (B), IV- (C) (D) I- (B), II- (D), III- (A), IV- (C)"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: , II-."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Choose the correct option for A, B and C .",
+      "options": [
+        "A-Condoms, B-Copper-T, C-Implants",
+        "A-Tubectomy, B-Implants, C-Copper-T",
+        "A-Vasectomy, B-Condoms, C-Copper-T",
+        "A-Copper-T, B-Condoms, C-Implants"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: A-Condoms, B-Copper-T, C-Implants."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "The ________ is the worlds most widely used method of reversible birth control. Choose the correct option to fill the blank.",
+      "options": [
+        "coitus interruptus",
+        "barrier contraceptives",
+        "surgical methods",
+        "Intra Uterine Devices (IUD's)"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Intra Uterine Devices (IUD's)."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Match List-I with List-II. List-I List-II A Non- medicated IUDs I Progestasert and LNG- 20 B Copper releasing IUDs II Lippe's loop C Hormone releasing IUDs III Cu-T, Cu-7, Mulitload- 375 D Barrier method IV Diaphragm Choose the most appropriate answer from the following:",
+      "options": [
+        "A-III, B-II, C-I, D-IV",
+        "A-IV, B-I, C-II, D-III",
+        "A-II, B-III, C-I, D-IV",
+        "A-II, B-I, C-III, D-IV"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: A-II, B-III, C-I, D-IV."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Choose the right one among the statements given below:",
+      "options": [
+        "IUDs are generally inserted by the user herself.",
+        "IUDs increase phagocytosis reaction in the uterus.",
+        "IUDs suppress gametogenesis.",
+        "IUDs once inserted need not to be replaced."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: IUDs increase phagocytosis reaction in the uterus.."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "The central Drug Research Institute (CDRI) is located at:",
+      "options": [
+        "Lucknow",
+        "New Delhi",
+        "Hyderabad",
+        "Pune"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Lucknow."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "The contraceptive 'SAHELI':",
+      "options": [
+        "blocks estrogen receptors in uterus, preventing egg from getting implanted.",
+        "increase the concentration of estrogen and prevents ovulation in females",
+        "is an IUD.",
+        "is a post-coital contraceptive."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: blocks estrogen receptors in uterus, preventing egg from getting implanted.."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Identify the false statements regarding the techniques of contraception and choose the correct option. I. There are many side effects of tubectomy and vasectomy. II. Purpose of tubectomy is to prevent egg formation. III. The most important component of the oral contraceptive pills is progesterone. IV. Contraceptive oral pills help in birth control by preventing ovulation.",
+      "options": [
+        "I, II and III",
+        "III, IV and II",
+        "I and II",
+        "II and IV"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: I and II."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "‘Saheli’ can be included in all except;",
+      "options": [
+        "oral contraceptive pill.",
+        "non-steroidal pill.",
+        "IUDs.",
+        "‘once a week’ pill."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: IUDs.."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Match List-I with List-II.",
+      "options": [
+        "A-(P); B-(R); C-(Q); D-(S)",
+        "A-(Q); B-(S); C-(R); D-(P)",
+        "A-(R); B-(P); C-(S); D-(Q)",
+        "A-(S); B-(Q); C-(P); D-(R)"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: A-(P); B-(R); C-(Q); D-(S)."
+    },
+    {
+      "id": "q_11",
+      "q_no": 11,
+      "question": "Match the following columns",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: ."
+    },
+    {
+      "id": "q_12",
+      "q_no": 12,
+      "question": "In which year did the Government of India legalize MTP ?",
+      "options": [
+        "1951",
+        "1971",
+        "1981",
+        "1992"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: 1971."
+    },
+    {
+      "id": "q_13",
+      "q_no": 13,
+      "question": "MTP are considered relatively safe during the_________ trimester; __________ trimester abortions are riskier. Choose the option that fills the blank correctly.",
+      "options": [
+        "first, second",
+        "second, first",
+        "third, first",
+        "third, second (a) − 1, (b) − 2, (c) − 4, (d) − 3 (a) − 2, (b) − 3, (c) − 4, (d) − 1 (a) − 4, (b) − 2, (c) − 3, (d) − 1 (a) − 4, (b) − 3, (c) − 2, (d) − 1"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: first, second."
+    }
+  ]
+}

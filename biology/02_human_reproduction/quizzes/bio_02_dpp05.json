@@ -1,0 +1,137 @@
+{
+  "id": "bio_02_dpp05",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Human Reproduction",
+  "title": "Human Reproduction - DPP 05 (Implantation, Stem Cells & Embryonic Development)",
+  "source_pdf": "DPP 08.pdf",
+  "total_questions": 9,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Match the following",
+      "options": [
+        "a-iii, b-iv, c-i, d-ii",
+        "a-iv, b-iii, c-i, d-ii",
+        "a - ii, b-iv, c-i, d - iii",
+        "a -i, b-iv, c- iii, d-ii"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: a - ii, b-iv, c-i, d - iii."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "The stem cells which have potency to give rise to all tissues and organs are formed from",
+      "options": [
+        "Trophoblast",
+        "Umblical cord",
+        "Inner cell mass",
+        "Placenta"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Inner cell mass."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "What is the initial indication of a growing foetus that can be observed?",
+      "options": [
+        "Breathing",
+        "Heart sound",
+        "Limb movements",
+        "Head movement"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Heart sound."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "In the figure shown below, which labelled structure has not been correctly identified?",
+      "options": [
+        "A-Placental villi",
+        "B-umbilical cord",
+        "C-Yolk sac",
+        "D-Cervical plug"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: C-Yolk sac."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Signals for the onset of parturition originate from",
+      "options": [
+        "Mother’s hypothalamus",
+        "Foetus’s placenta",
+        "Mother’s uterus",
+        "Mother’s pituitary"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Foetus’s placenta."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "The process of delivery of the foetus is called",
+      "options": [
+        "Implantation",
+        "Parturition",
+        "Fertilisation",
+        "Lactation"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Parturition."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "The first movements of the foetus and appearance of hair on its head are usually observed during which month of pregnancy?",
+      "options": [
+        "Fourth month",
+        "Fifth month",
+        "Sixth month",
+        "Third month"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Fifth month."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "During embryonic development, the heartbeat begins at the end of",
+      "options": [
+        "trimester",
+        "trimester",
+        "month",
+        "month"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: month."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Fill i, ii, iii, iv, v in the blanks: 1st 2nd 1st 2nd",
+      "options": [
+        "i-morula, ii-umbilical cord, iii-trophoblast, iv- second trimester, v-stem cells",
+        "i-blastocyst, ii-placenta, iii-stem cells, iv- first trimester, v-trophoblast",
+        "i-blastocyst, ii-umbilical cord, iii-stem cells, iv- second trimesters, v-inner cell mass",
+        "i-blastocyst, ii-placenta, iii-stem cells, iv- first trimester, v-inner cell mass"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: i-blastocyst, ii-placenta, iii-stem cells, iv- first trimester, v-inner cell mass."
+    }
+  ]
+}

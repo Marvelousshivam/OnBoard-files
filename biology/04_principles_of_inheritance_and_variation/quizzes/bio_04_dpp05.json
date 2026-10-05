@@ -1,0 +1,151 @@
+{
+  "id": "bio_04_dpp05",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Principles of Inheritance and Variation",
+  "title": "Principles of Inheritance and Variation - DPP 05 (Sex Determination & Chromosomes)",
+  "source_pdf": "Principles Of Inheritance and Variation DPP 05.pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Read the following and answer questions Nehas grandmother blames her mother for giving birth to three daughters and wants another marriage for her son. However as we know ova are only one type containing chromosomes but sperms are of two typess : one type of sperms contain chromosomes and another type of sperms contain chromosome. When ovum and sperm with chromosomes are fused, male child is formed and when ovum and sperm with chromosomes are fused, girl child is produced. Who is responsible for female child?",
+      "options": [
+        "Father",
+        "Mother",
+        "Both parents equally",
+        "None of these"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Men determine the sex of a baby depending on whether their sperm is carrying an X or Y chromosome. Ova are only one type containing chromosomes Sperms are of two types i.e. one type of sperms contain chromosomes The other type of sperm contains chromosomes. When the ovum and sperm with chromosomes are fused, a male child is formed. When the ovum and sperm with chromosomes are fused, the girl child is produced. Hence, Men are responsible for the sex of the child."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "50% sperms are devoid of sex chromosomes in;",
+      "options": [
+        "human",
+        "bee.",
+        "grasshopper.",
+        "bird."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Grasshopper is an example of XO type of sex determination in which the males have only one X-chromosome besides the autosomes, whereas females have a pair of X- chromosomes."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Henking traced a specific nuclear structure all through spermatogenesis in a few insects and gave a name to this structure as the:",
+      "options": [
+        "Y body.",
+        "X body.",
+        "Z body.",
+        "W body."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Henking (1891) could trace a specific nuclear structure all through spermatogenesis in a few insects, and it was also observed by him that 50 per cent of the sperm received this structure after spermatogenesis, whereas the other 50 per cent sperm did not receive it. Henking gave a name to this structure as the X body but he could not explain its significance."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Which of the following is incorrect regarding ZW-ZZ type of sex determination?",
+      "options": [
+        "It occurs in birds and some reptiles.",
+        "Females are homogametic and males are heterogametic.",
+        "sex ratio is produced in the offsprings.",
+        "All of these"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Females are homogametic and males are heterogametic."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "In honeybee, the sex is determined by:",
+      "options": [
+        "the ratio of number of X–chromosomes to the sets of autosomes.",
+        "X and Y chromosomes.",
+        "the ratio of pairs of X-chromosomes to the pairs of autosomes.",
+        "whether the egg is fertilized or develops parthenogenetically."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Honeybees follow the haplodiploid sex determination system: Fertilized eggs (diploid, 2n) develop into females (workers or queen bees). Unfertilized eggs (haploid, n) develop parthenogenetically into males (drones). This system differs from the XX-XY or XO systems found in other organisms. The sex is not determined by specific sex chromosomes but by ploidy level."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "In XX and XY chromosomal sex determination, females are:",
+      "options": [
+        "homogametic.",
+        "heterogametic.",
+        "haplodiploid.",
+        "All of these."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Since female have two X chromosomes, they will produce one type of gamete only with X chromosome, so homogametic. Males have one X and one Y chromosome, so they will produce two types of gametes, one with X and one with Y, so heterogametic."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "XX-XY type of sex determination is found in;",
+      "options": [
+        "human beings.",
+        "Drosophila.",
+        "birds.",
+        "both human and Drosophila."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "In both in humans and in Drosophila, the female has a pair of XX chromosomes (homogametic) and the male XY (heterogametic) composition."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Sex determination in grasshoppers, humans, and Drosophila is similar because",
+      "options": [
+        "females are hemizygous.",
+        "males have one X chromosome and females have two X chromosomes.",
+        "all males always have one Y chromosome in all three species.",
+        "the ratio of autosomes to sex chromosomes is the same in all three organisms."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "males have one X chromosome and females have two X chromosomes."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "In honey bee an unfertilised egg develops as a drone by means of:",
+      "options": [
+        "parthenogenesis.",
+        "male heterogamety.",
+        "female heterogamety.",
+        "haplodiploid. | |"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "In honey bee an unertilised egg develops as a drone by means of parthenogenesis."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Observe the sex determination in the following I. Human males =XY II. Female hen =ZW III. Male Drosophila=XY IV. Male grasshopper =XO V. Male birds =ZZ Male heterogamety =A Female heterogamety =B Male homogamety=C Which of the following combination is correct –",
+      "options": [
+        "A B C I, III, IV II V",
+        "III, IV II I",
+        "III, IV II I",
+        "II, IV I II | |"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "I. Human males = XY: Humans exhibit male heterogamety (males produce X and Y sperm). II. Female hen = ZW: Hens (birds) exhibit female heterogamety (females produce Z and W eggs). III. Male Drosophila = XY: Drosophila (fruit flies) exhibit male heterogamety (males produce X and Y sperm). IV. Male grasshopper = XO: Grasshoppers exhibit male heterogamety (males produce X and no sex chromosome sperm). V. Male birds = ZZ: Birds exhibit male homogamety (males produce only Z sperm)."
+    }
+  ]
+}

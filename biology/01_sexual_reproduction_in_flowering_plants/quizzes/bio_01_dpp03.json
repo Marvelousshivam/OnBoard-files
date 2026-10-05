@@ -1,0 +1,193 @@
+{
+  "id": "bio_01_dpp03",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "title": "Sexual Reproduction in Flowering Plants - DPP 03 (Pistil, Megasporogenesis & Embryo Sac)",
+  "source_pdf": "DPP 03-5.pdf",
+  "total_questions": 13,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Part of pistil which serve as landing platform for male gametophyte is-",
+      "options": [
+        "style",
+        "stigma",
+        "ovary",
+        "funicle"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: stigma."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "The placenta is located.......",
+      "options": [
+        "inside the ovarian cavity.",
+        "outside the ovarian cavity.",
+        "Both of the above.",
+        "None of the above."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: inside the ovarian cavity.."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Mark the incorrectly matched.",
+      "options": [
+        "Single pistil - Monocarpellary",
+        "Single pistil - Syncarpous",
+        "Fused pistils - Syncarpous",
+        "Free pistils - Apocarpous"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Single pistil - Syncarpous."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "The ovule of an angiosperm is technically equivalent to",
+      "options": [
+        "megaspore",
+        "megasporangium",
+        "megasporophyll",
+        "megaspore mother"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: megasporangium."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Which of the following group of structure located inside ovary-",
+      "options": [
+        "nucellus, locule and megasporangium",
+        "integument, ovule and seed",
+        "microsporangia and ovule",
+        "megasporangia and stigma"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: nucellus, locule and megasporangium."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Which of the following sequence of development of embryo sac/ female gametophyte is correct?",
+      "options": [
+        "Nucellus - Megaspore - Embryo sac.",
+        "Nucellus - Megaspore mother cell - Megaspore - embryo sac.",
+        "Nucellus - Megasporangium - Megaspore - Embryo sac.",
+        "Nucellus - Megagametophyte - Megaspore - Embryo sac."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Nucellus - Megaspore mother cell - Megaspore - embryo sac.."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Megaspore mother cell differentiate in.................. region from nucellus.",
+      "options": [
+        "Micropyle",
+        "Chalaza",
+        "Basal region of ovule",
+        "Integument region of ovule"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Micropyle."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Statement I: The megaspore mother cell undergoes megasporogenesis to form 4 megaspores. Statement II: Megaspore mother cells and megaspores both are diploid.",
+      "options": [
+        "Both statements are correct",
+        "Both statements are incorrect",
+        "Only statement I is correct",
+        "Only statement II is correct"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Only statement I is correct."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Embryo sac is monosporic when it develops from:",
+      "options": [
+        "one of the four megaspores of a megaspore mother cell.",
+        "three megaspores of megaspore tetrad.",
+        "two functional megaspores.",
+        "the megaspore mother cell where meiosis has occurred but cytokinesis does not take place."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: one of the four megaspores of a megaspore mother cell.."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "The largest cell in an embryo sac is;",
+      "options": [
+        "Egg",
+        "Central cell",
+        "Synergid",
+        "Antipodal cell"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Central cell."
+    },
+    {
+      "id": "q_11",
+      "q_no": 11,
+      "question": "How many nuclei are found in female gametophyte?",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "5"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: 8."
+    },
+    {
+      "id": "q_12",
+      "q_no": 12,
+      "question": "How many cells are found in female gametophyte?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "5"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: 7."
+    },
+    {
+      "id": "q_13",
+      "q_no": 13,
+      "question": "Hilum is known as",
+      "options": [
+        "a place where ovule fuses with funicle.",
+        "basal part of the ovule.",
+        "a place where ovule attached to the placenta.",
+        "None of the above."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: a place where ovule fuses with funicle.."
+    }
+  ]
+}

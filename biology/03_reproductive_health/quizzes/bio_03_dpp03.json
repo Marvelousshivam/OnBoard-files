@@ -1,0 +1,151 @@
+{
+  "id": "bio_03_dpp03",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Reproductive Health",
+  "title": "Reproductive Health - DPP 03 (STDs, Infertility & Assisted Reproductive Technologies)",
+  "source_pdf": "DPP 03-6.pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "STDs lead to",
+      "options": [
+        "Itching, fluid discharge, slight pain, swellings, etc.",
+        "Pelvic Inflammatory Diseases (PID), ectopic pregnancies, still births, infertility, abortions, etc.",
+        "Both",
+        "and (B) (D) None of these"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Both."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Though all persons are vulnerable to STDs, their incidences are reported to be very high among person in the age group of",
+      "options": [
+        "12-18 years",
+        "40-50 years",
+        "21-35 years",
+        "15-24 years"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: 15-24 years."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Venereal diseases can spread through; I. using sterile needles. II. transfusion of blood from an infected person. III. infected mother to foetus. IV. sterilized surgical instruments V. inheritence. Choose the correct answer from the options given below.",
+      "options": [
+        "I, II and III only",
+        "II, III and IV only",
+        "II, III and V only",
+        "II and III only"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: II and III only."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Select the option including all sexually transmitted diseases.",
+      "options": [
+        "Gonorrhoea, Syphilis, Genital herpes",
+        "Gonorrhoea, Malaria, Genital herpes",
+        "AIDS, Malaria, Filariasis",
+        "Cancer, AIDS, Syphilis"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Gonorrhoea, Syphilis, Genital herpes."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "ART (used to help infertile couple) stands for",
+      "options": [
+        "Artificial reproductive technology",
+        "Assisted reproductive technology",
+        "Augmented reproductive technology",
+        "Anomalous reproductive technology"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Assisted reproductive technology."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Match List-I with List-II. List- I List-II A IVF I In vitro fertilisation B GIFT II Gamete Intra Fallopian Transfer C AI III Zygote Intra Fallopian Transfer D ZIFT IV Artificial Insemination Choose the correct answer from the options given below:",
+      "options": [
+        "A-I, B-IV, C-II, D-III",
+        "A-II, B-I, C-IV, D-III",
+        "A-I, B-II, C-III, D-IV",
+        "A-I, B-II, C-IV, D-III"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: A-I, B-II, C-IV, D-III."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Match the following columns.",
+      "options": [
+        "A-1, B-2, C-5",
+        "A-3, B-5, C-2",
+        "A-1, B-2, C-4",
+        "A-2, B-3, C-4"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: A-3, B-5, C-2."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Test-tube baby is one who;",
+      "options": [
+        "is born out of artificial insemination.",
+        "has undergone development in a test-tube.",
+        "is born out of the technique of fertilisation in vitro.",
+        "has been developed without fertilisation."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: is born out of the technique of fertilisation in vitro.."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Invitro fertilisation is a technique that involves transfer of which one of the following into the fallopian tube?",
+      "options": [
+        "Embryo only, upto 8 cell stage",
+        "Either zygote or early embryo upto 8 cell stage",
+        "Embro of 32 cell stage",
+        "Zygote only"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Either zygote or early embryo upto 8 cell stage."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Match List-I with List-II and choose the correct combination from the options given below.",
+      "options": [
+        "A-(Q); B-(S); C-(P); D-(R)",
+        "A-(S); B-(R); C-(Q); D-(P)",
+        "A-(Q); B-(R); C-(S); D-(P)",
+        "A-(Q); B-(P); C-(S); D-(R)"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: A-(Q); B-(P); C-(S); D-(R)."
+    }
+  ]
+}

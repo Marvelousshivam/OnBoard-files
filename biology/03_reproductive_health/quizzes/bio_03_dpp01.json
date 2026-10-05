@@ -1,0 +1,151 @@
+{
+  "id": "bio_03_dpp01",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Reproductive Health",
+  "title": "Reproductive Health - DPP 01 (Problems, Strategies & Population)",
+  "source_pdf": "DPP 01-5.pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "According to the World Health Organisation (WHO), reproductive health means a total well- being in all aspects of reproduction, that is:",
+      "options": [
+        "Physical.",
+        "Social.",
+        "Emotional and behavioural.",
+        "All of these"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: All of these."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Reproductive health refers to:",
+      "options": [
+        "healthy baby.",
+        "frequent coitus.",
+        "healthy and functioning reproductive organs.",
+        "longer lifetime."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: healthy and functioning reproductive organs.."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "National level approach to build up a reproductively healthy society was taken up in our country in",
+      "options": [
+        "1991",
+        "1969",
+        "1951",
+        "1989"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: 1951."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Which one amongst the following is the first country in the world to initiate action plans and programmes at a national level to attain total reproductive health as social goal?",
+      "options": [
+        "China",
+        "India",
+        "Japan",
+        "USA"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: India."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Reproductive health in society can be improved by: (i) introduction of sex education in schools. (ii) increased medical assistance. (iii) awareness about contraception and STDs. (iv) equal opportunities to male and female child. (v) ban on amniocentesis. (vi) encouraging myths and misconceptions.",
+      "options": [
+        "All of these",
+        "(i), (ii), (iv) and (vi) only",
+        "(i), (ii), (iii), (iv) and (v) only",
+        "(ii) and (v) only"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: (i), (ii), (iii), (iv) and (v) only."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "The family planning programmes in India were initiated in:",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: ."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Which of the following is used in order to conduct the test known as amniocentesis?",
+      "options": [
+        "Foetal blood",
+        "Mother's blood",
+        "Body fluid",
+        "Fluid surrounding foetus"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Fluid surrounding foetus."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "The technique which makes use of amniotic fluid for the detection of prenatal disorder is called as:",
+      "options": [
+        "laparoscopy.",
+        "amniocentesis.",
+        "endoscopy.",
+        "ultrasound."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: amniocentesis.."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "The Aminocentesis is used to test for",
+      "options": [
+        "Down Syndrome",
+        "Haemophilia",
+        "Sickle Cell Anemia",
+        "All of these"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: All of these."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "The fluid which envelops the developing foetus is called",
+      "options": [
+        "Chorionic fluid",
+        "Placental fluid",
+        "Amniotic fluid",
+        "Uterine fluid"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Amniotic fluid."
+    }
+  ]
+}

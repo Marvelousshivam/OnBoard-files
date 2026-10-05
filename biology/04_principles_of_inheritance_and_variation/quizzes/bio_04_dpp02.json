@@ -1,0 +1,123 @@
+{
+  "id": "bio_04_dpp02",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Principles of Inheritance and Variation",
+  "title": "Principles of Inheritance and Variation - DPP 02 (Monohybrid Cross & Dominance)",
+  "source_pdf": "Principles Of Inheritance and Variation DPP 02.pdf",
+  "total_questions": 8,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Selection of Pisum sativum for hybridization experiments, because of -",
+      "options": [
+        "Presence of 7 characters and short life span.",
+        "Presence of contrasting characters and short life span.",
+        "Presence of long life span and fertile hybrid.",
+        "Presence of many observable hybrids and easily availability of plant."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "mendel selected pisum sativum due to the presence of contrasting characters which made it easier to study inheritance patterns along with its short life span which allowed multiple generations to be studied quickly"
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Among the given traits of Pisum sativum which one is recessive trait ?",
+      "options": [
+        "Violet flower colour",
+        "Inflated pod shape",
+        "Green colour of pod",
+        "Wrinkled shape of seed"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "(4) Wrinkled shape of seed is a recessive trait, while all other are dominant traits. [NCERT Class 12th Page No. 55]"
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Mendel has worked on Pisum sativum for 7 years by taking",
+      "options": [
+        "7 Pairs of contrasting traits",
+        "14 true breeding pea plant varieties",
+        "Location of traits on chromosome number 1,4, 5 & 7 of Pisum sativum plant",
+        "All are correct"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Complete linkage means that genes are very close to each other and crossing over is entirely absent. Test cross means that the F1 generation is crossed with the recessive parent. Since the crossing over is absent in complete linkage then there will be 100% parental character in the test cross i.e. there will be no recombinants."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Which of the given genotype represent homozygous condition?",
+      "options": [
+        "Tt",
+        "Rr",
+        "tt",
+        "Yy"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "A test cross is an experimental hybrid between an organism having a homozygous recessive genotype and an organism with a dominant phenotypic but unknown genotype. There are some recombinant individuals if P and Q, the paternal genes that exhibit linkage, are crossed with their respective p and q forms. Genes in incomplete linkage have a tendency to separate due to recombination because of their distant locations on the same chromosome, which increases the likelihood of them crossing over. We are finding some recombinant individuals in this query, which suggests that the paternal genes are only loosely related. recombinants means parental population , which is greater than 50% but less than 100%"
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "First time mathematical and statistical analysis used in biology by...",
+      "options": [
+        "Mendel",
+        "Morgan",
+        "Hugo de-vries",
+        "Bateson"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "During Mendel’s investigations into inheritance patterns it was for the first time that statistical analysis and mathematical logic were applied to problems in biology."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Experiments of Mendel had a ______ sampling size.",
+      "options": [
+        "Medium",
+        "Large",
+        "Small",
+        "None of the above"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "T.H Morgan was an evolutionary biologist, geneticist, embryologist, and renowned science author. He was awarded the Nobel Prize in Physiology or Medicine in 1933 for discoveries in the role of chromosomes in heredity. The term linkage was given by TH Morgan, who carried out several dihybrid crosses in the fruit fly, Drosophila. With this set of experiments, he could study genes that were sex-linked."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Which of the following trait of pea plant was not studied by Mendel in his experiment?",
+      "options": [
+        "Flower position",
+        "Seed colour",
+        "Pod length",
+        "Seed shape"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Mendel did not study Pod Length in his experiments on Pisum sativum. He focused on seven traits, including Flower Position, Seed Colour, and Seed Shape, but Pod Length was not among them."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Which statements are correct about re- discovery of Mendel's work (1) Mendel died in 1884 and his work is rediscovered in 1900. (2) Scientists found that Mende'ls work was also applicable to animals. (3) Scientists were Hugo de-Vries, Carl Correns and Erich von Tschermak for the rediscovery of Mendel's work. (4) Mendel's paper was published in Flora in 1901",
+      "options": [
+        "Statement 1 and 3 are correct",
+        "Statement 2 and 4 are correct",
+        "Statement 3 and 4 are correct",
+        "Statement 1, 2, 3 and 4 are correct | |"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Statement 1, 2, 3 and 4 are correct | |."
+    }
+  ]
+}

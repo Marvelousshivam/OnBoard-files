@@ -1,0 +1,151 @@
+{
+  "id": "bio_04_dpp06",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Principles of Inheritance and Variation",
+  "title": "Principles of Inheritance and Variation - DPP 06 (Linkage, Recombination & Genetic Mapping)",
+  "source_pdf": "Principles Of Inheritance and Variation DPP 06.pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Recombination describes",
+      "options": [
+        "generation of parental gene combinations",
+        "generation of non-parental gene combinations",
+        "generation of both parental and non- parental gene combinations",
+        "None of the above"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Recombination is the primary method by which variation is introduced into populations in genetics. During meiosis, when genes from the mother and father reunite to form gametes (sex cells), recombination takes place. The exchange of genetic material between different organisms, also known as genetic reshuffling, results in the production of offspring with combinations of traits distinct from those of either parent. The process is genetic recombination. Hence the correct option is (B) i.e. generation of non-parental gene combinations. Recombination describes a generation of non- parental gene combinations."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "The distance between the genes is measured by",
+      "options": [
+        "angstrom",
+        "map unit",
+        "Dobson unit",
+        "Millimetre"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Map Unit"
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "The diagram opposite shows a pair of homologous chromosomes during meiosis. Most crossing over will occur between genes",
+      "options": [
+        "W and X",
+        "X and Y",
+        "Y and Z",
+        "W and Z"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "W and Z"
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Read the given passage and answer the following questions In a dihybrid cross white eyed, yellow bodied female Drosophila crossed with red eyed brown bodied male Drosophila. 1.3% recombinants and 98.7% progeny with parental type combinations were produced in generation. This observation deviated from Mendelian phenotypic dihybrid ratio. If number of offspring obtained in the above case is 847, then number of recombinants are",
+      "options": [
+        "15",
+        "11",
+        "22",
+        "840"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "The frequency of a single chromosomal crossover occurring between two genes during meiosis is known as the recombination frequency . The measure used to describe recombination frequencies of is the centimorgan (cM). Recomination formula = (Total no of recombinanttotal no of offspring) Given Recombinant frequency =1.3% Total no of offspring = 847 According to the formula 1.3 = (Total no of recombinant/ 847) ×100 Total no of recombinant = (1.3 × 847 )/100 = 1101.1 ÷ 100 = 11"
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Linkage was discovered by-",
+      "options": [
+        "Miller",
+        "Morgan",
+        "de Vries",
+        "Mendel"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "thomas hunt morgan"
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Mendel's law of Independent assortment can be violated by:",
+      "options": [
+        "Incomplete dominance",
+        "Linkage",
+        "Epistasis",
+        "Overdominance"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "|"
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "What did Alfred Sturtevant use the frequency of recombination between gene pairs to measure?",
+      "options": [
+        "The dominant allele",
+        "The distance between genes on the chromosome",
+        "The size of the chromosome",
+        "The number of offspring"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Alfred Sturtevant used the frequency of recombination between gene pairs as a measure of the distance between those genes on the chromosome, which helped in mapping their positions."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Frequency of recombination between gene pairs on same chromosome as a measure of the distance between genes to map their position on chromosome, was used for the first time by:",
+      "options": [
+        "Sutton and Boveri",
+        "Alfred Sturtevant",
+        "Henking",
+        "Thomas Hunt Morgan"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Alfred Sturtevant, a student of Thomas Hunt Morgan, was the first to use the frequency of recombination between gene pairs on the same chromosome as a measure of their genetic distance. He developed the first genetic linkage map in Drosophila melanogaster by analyzing recombination frequencies. The higher the recombination frequency, the farther apart the genes are on the chromosome. This work laid the foundation for genetic mapping."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "In Morgan’s experiments on linkage, the genes for white eye and miniature wing in Drosophila showed recombination per cent of:",
+      "options": [
+        "1.3",
+        "37.2",
+        "62.8",
+        "80.5"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Morgan and his group found that even when genes were grouped on the same chromosome, some genes were very tightly linked (showed very low recombination) while others were loosely linked (showed higher recombination). For example he found that the genes white and yellow were very tightly linked and showed only 1.3 per cent recombination while white and miniature wing showed 37.2 per cent recombination."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Distance between the genes and percentage of recombination shows | | Android App iOS App PW Website PARISHRAM 2027 Biology Principles Of Inheritance and Variation",
+      "options": [
+        "a direct relationship",
+        "an inverse relationship",
+        "a parallel relationship",
+        "no relationship | |"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "further apart two genes are on a chromosome, the higher the probability of crossing over (recombination) occurring between them. Conversely, genes that are closer together are less likely to recombine. Therefore, the distance between the genes and the percentage of recombination shows a direct relationship."
+    }
+  ]
+}

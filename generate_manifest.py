@@ -217,6 +217,23 @@ def generate():
 
         manifest["subjects"].append(subject_obj)
 
+    # Sample papers
+    sample_papers = []
+    sp_dir = os.path.join(REPO_ROOT, "sample_papers", "2027")
+    if os.path.isdir(sp_dir):
+        for f in sorted(os.listdir(sp_dir)):
+            if f.lower().endswith(".pdf"):
+                sp_type = "Marking Scheme" if "-MS" in f else "Sample Question Paper"
+                sub_label = f.replace("-MS.pdf", "").replace("-SQP.pdf", "")
+                sample_papers.append({
+                    "title": f"CBSE Class 12 2026-27 {sub_label} {sp_type}",
+                    "filename": f,
+                    "subject": sub_label,
+                    "type": "ms" if "-MS" in f else "sqp",
+                    "url": f"{RAW_BASE_URL}/sample_papers/2027/{f}"
+                })
+    manifest["sample_papers"] = sample_papers
+
     # Write manifest.json
     out_path = os.path.join(REPO_ROOT, "manifest.json")
     with open(out_path, "w", encoding="utf-8") as f:

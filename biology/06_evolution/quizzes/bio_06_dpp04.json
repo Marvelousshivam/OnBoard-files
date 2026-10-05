@@ -1,0 +1,151 @@
+{
+  "id": "bio_06_dpp04",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Evolution",
+  "title": "Evolution - DPP 04 (Biological Evolution & Human Origins)",
+  "source_pdf": "Evolution DPP 04 (Of Lecture 05).pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "The first non-cellular forms of life could have originated ___________back. Choose the option that fills the blank correctly.",
+      "options": [
+        "9 billion years",
+        "3 billion years",
+        "5 billion years",
+        "7 billion years"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "(2) The first non-cellular forms of life could have originated 3 billion years back. [NCERT (2025-26) Class 12th Page no.111]"
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Which is correct expected reason for disappearance of dinosaurs from earth? A. Change in climate B. Evolved into birds C. Evolved into reptiles",
+      "options": [
+        "A and B only",
+        "B and C only",
+        "A and C only",
+        "A, B and C"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "About 65 mya, the dinosaurs suddenly disappeared from the earth. We do not know the true reason. Some say climatic changes killed them. Some say most of them evolved into birds. The truth may live in between."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Directions: In the questions two statements are given as Statement-I and Statement-II. Mark the correct choice as: Statement-I: Jawless fishes probably evolved 350 mya Statement-II: Sea weeds and few plants existed probably around 320 mya",
+      "options": [
+        "Both Statement-I and Statement-II are correct",
+        "Both Statement-I and Statement-II are incorrect",
+        "Statement-I is correct and Statement-II is incorrect",
+        "Statement-I is incorrect and Statement-II is correct"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Both Statement-I and Statement-II are correct."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Coenozoic era is known as",
+      "options": [
+        "Age of Amphibia and lycopods",
+        "Age of marine invertebrates",
+        "Age of reptiles and gymnosperms",
+        "Age of mammals and modern flora"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Age of mammals and modern flora."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Choose the correct order in which the evolution of plant forms occurred through geological periods.",
+      "options": [
+        "Chlorophyte ancestor Rhynia type plant PsilophytonTracheophyte ancestor",
+        "PsilophytonRhynia type plants Tracheophyte ancestors Chlorophyte ancestors",
+        "Rhynia type plants Chlorophyte ancestors Tracheophyte ancestors Psilophyton",
+        "Chlorophyte ancestors Tracheophyte ancestors Rhynia type plants Psilophyton"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "1. The plants evolved from an endosymbiotic relationship between a cyanobacteria and non photosynthetic eukaryotic organism is known as chlorophyta. 2. Vascular plants are known as tracheophytes that includes plants containing xylem and phloem like Ferns and horsetails. 3. Rhynia is a Devonian vascular plant which have special tissues for the conduction of food and water. The anatomical features are more advanced than bryophytes. 4. Psilophyton contains plants having vascular structure which grow in moist and swampy areas. Chlorophyte ancestors-Tracheophyte ancestors -Rhynia type plants - Psilophyton- Progymnosperms Correct sequence- D"
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Which of the following ancestors of man gave proper burial of dead bodies for the first time?",
+      "options": [
+        "Australopithecus",
+        "Dryopithecus",
+        "Neanderthal man",
+        "Homo habilis"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "The Neanderthal man with a brain size of 1400cc lived in near east and central Asia between 1,00,000-40,000 years back. They used hides to protect their body and buried their dead for the first time. [NCERT (2025-26) Class 12th Page no. 135]"
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Mark the correct statement.",
+      "options": [
+        "Darwinian variations are small and directional.",
+        "Agriculture came around 10,000 years back.",
+        "The skull of a modern human resembles more closely to baby chimpanzee than to adult chimpanzee",
+        "All of these"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Darwinian variations are small and directional. Agriculture came around 10,000 years back. The skull of a modern human resembles more closely to baby chimpanzee than to adult chimpanzee [NCERT (2025-26) Class 12th Page No. 115, 119, 125]"
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Refer to the given below diagram. Which of the following describes the differences between the two skulls?",
+      "options": [
+        "Skull A is of a baby chimpanzee and skull B of a human. | |",
+        "Skull B has more brain capacity than skull A.",
+        "Skull A is of a human and skull B is of a chimpanzee.",
+        "Skull A is of an ape and skull B of human."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Skull A is of a human and skull B is of a chimpanzee. [NCERT (2025-26) Class 12th Page No. 125]"
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Arrange the below given ancestors of man in decreasing order of their cranial capacities. A. Homo habilis B. Homo erectus C. Neanderthal man Choose the correct option.",
+      "options": [
+        "C > B > A",
+        "B > C > A",
+        "A > C > B",
+        "B > A > C"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "(1) The brain capacities of Homo habilis were between 650-800cc. Homo erectus had a large brain around 900cc. The Neanderthal man has a brain size of 1400cc. (NEW NCERT 12th Page No. 124, 125)"
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "The difference between Homo sapiens and the Homo erectus was;",
+      "options": [
+        "Homo sapiens originated in Africa, while Homo erectus originated in Asia.",
+        "Homo sapiens fossils discovered in Java in 1891 and they probably ate meat.",
+        "Homo erectus existed from 75,000-10,000 years ago (ice age)",
+        "Homo erectus existed approximately 1.5 mya. | |"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "(4) Homo erectus- 1.5 mya, 900cc was the cranial capacity, Fossils discovered in Java in 1891 and they probably ate meat. Homo sapiens - 75,000-10,000 years ago (ice age), they arose in Africa and moved across continents and developed into distinct races."
+    }
+  ]
+}

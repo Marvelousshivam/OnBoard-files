@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-10-05T03:58:10.300443+00:00",
+  "last_updated": "2026-10-05T04:18:17.137970+00:00",
   "base_raw_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main",
   "subjects": [
     {
@@ -872,6 +872,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "phys_01_oneshot",
+              "title": "Electric Charges and Fields Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=9nU2YZ2HVPA",
+              "duration": "4 hr 42 min",
+              "author": "Akshay Sir"
+            },
+            {
               "id": "phy_01_vid01",
               "title": "Electric Charges and Fields \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -904,6 +911,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "phys_02_oneshot",
+              "title": "Electrostatic Potential and Capacitance Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=2tG-hx2JHr8",
+              "duration": "4 hr 10 min",
+              "author": "Akshay Sir"
+            },
             {
               "id": "phy_02_vid01",
               "title": "Electrostatic Potential and Capacitance \u2014 Complete One-Shot Board Revision",
@@ -938,6 +952,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "phys_03_oneshot",
+              "title": "Current Electricity Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=vUCDSDWyX4c",
+              "duration": "4 hr 2 min",
+              "author": "Akshay Sir"
+            },
+            {
               "id": "phy_03_vid01",
               "title": "Current Electricity \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -970,6 +991,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "phys_04_oneshot",
+              "title": "Moving Charges and Magnetism Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=lYqCUYI9D7Y",
+              "duration": "3 hr 25 min",
+              "author": "Akshay Sir"
+            },
             {
               "id": "phy_04_vid01",
               "title": "Moving Charges and Magnetism \u2014 Complete One-Shot Board Revision",
@@ -1004,6 +1032,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "phys_05_oneshot",
+              "title": "Magnetism and Matter Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=lWbUXCr3FOk",
+              "duration": "2 hr 41 min",
+              "author": "Akshay Sir"
+            },
+            {
               "id": "phy_05_vid01",
               "title": "Magnetism and Matter \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -1036,6 +1071,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "phys_06_oneshot",
+              "title": "Electromagnetic Induction Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=GaLQhuyaUNg",
+              "duration": "3 hr 8 min",
+              "author": "Akshay Sir"
+            },
             {
               "id": "phy_06_vid01",
               "title": "Electromagnetic Induction \u2014 Complete One-Shot Board Revision",
@@ -1070,6 +1112,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "phys_07_oneshot",
+              "title": "Alternating Current Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=tMIfXYlnJ5U",
+              "duration": "3 hr 47 min",
+              "author": "Akshay Sir"
+            },
+            {
               "id": "phy_07_vid01",
               "title": "Alternating Current \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -1102,6 +1151,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "phys_08_oneshot",
+              "title": "Electromagnetic Waves Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=NsO6M28xPTs",
+              "duration": "1 hr 37 min",
+              "author": "Akshay Sir"
+            },
             {
               "id": "phy_08_vid01",
               "title": "Electromagnetic Waves \u2014 Complete One-Shot Board Revision",
@@ -1136,6 +1192,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "phys_09_oneshot",
+              "title": "Ray Optics and Optical Instruments Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=V3JXWwBXv-4",
+              "duration": "4 hr 50 min",
+              "author": "Akshay Sir"
+            },
+            {
               "id": "phy_09_vid01",
               "title": "Ray Optics and Optical Instruments \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -1168,6 +1231,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "phys_10_oneshot",
+              "title": "Wave Optics Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=6M_Y2FesSfA",
+              "duration": "2 hr 40 min",
+              "author": "Akshay Sir"
+            },
             {
               "id": "phy_10_vid01",
               "title": "Wave Optics \u2014 Complete One-Shot Board Revision",
@@ -1202,6 +1272,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "phys_11_oneshot",
+              "title": "Dual Nature of Matter and Radiation Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=7naR68Z6xEs",
+              "duration": "2 hr 8 min",
+              "author": "Akshay Sir"
+            },
+            {
               "id": "phy_11_vid01",
               "title": "Dual Nature of Radiation and Matter \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -1234,6 +1311,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "phys_12_oneshot",
+              "title": "Atoms and Nuclei Class 12 Physics One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=YuU3gaY34dI",
+              "duration": "2 hr 21 min",
+              "author": "Akshay Sir"
+            },
             {
               "id": "phy_12_vid01",
               "title": "Atoms \u2014 Complete One-Shot Board Revision",
@@ -1268,6 +1352,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "phys_13_oneshot",
+              "title": "Atoms and Nuclei Class 12 Physics One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=YuU3gaY34dI",
+              "duration": "2 hr 21 min",
+              "author": "Akshay Sir"
+            },
+            {
               "id": "phy_13_vid01",
               "title": "Nuclei \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -1299,6 +1390,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "phys_14_oneshot",
+              "title": "Semiconductor Electronics Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=XGc2OCsjIdk",
+              "duration": "1 hr 49 min",
+              "author": "Akshay Sir"
+            },
             {
               "id": "phy_14_vid01",
               "title": "Semiconductor Electronics \u2014 Complete One-Shot Board Revision",
@@ -1344,6 +1442,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "chem_01_oneshot",
+              "title": "Solutions Chemistry Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=3VVSOY_iQX8",
+              "duration": "4 hr 40 min",
+              "author": "Sunil Sir"
+            },
+            {
               "id": "chem_01_vid01",
               "title": "Solutions \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -1376,6 +1481,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "chem_02_oneshot",
+              "title": "Electrochemistry Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=94Gq-VdBoAY",
+              "duration": "6 hr 13 min",
+              "author": "Sunil Sir"
+            },
             {
               "id": "chem_02_vid01",
               "title": "Electrochemistry \u2014 Complete One-Shot Board Revision",
@@ -1410,6 +1522,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "chem_03_oneshot",
+              "title": "Chemical Kinetics Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=XI2eLUjOt5Q",
+              "duration": "5 hr 36 min",
+              "author": "Sunil Sir"
+            },
+            {
               "id": "chem_03_vid01",
               "title": "Chemical Kinetics \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -1442,6 +1561,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "chem_04_oneshot",
+              "title": "d- and f-Block Elements Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=atz_SW4Ovg8",
+              "duration": "4 hr 44 min",
+              "author": "Sunil Sir"
+            },
             {
               "id": "chem_04_vid01",
               "title": "d and f Block Elements \u2014 Complete One-Shot Board Revision",
@@ -1476,6 +1602,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "chem_05_oneshot",
+              "title": "Coordination Compounds Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=RgEnbei373Q",
+              "duration": "3 hr 40 min",
+              "author": "Sunil Sir"
+            },
+            {
               "id": "chem_05_vid01",
               "title": "Coordination Compounds \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -1508,6 +1641,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "chem_06_oneshot",
+              "title": "Haloalkanes and Haloarenes Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=2GT9GM7k9_k",
+              "duration": "3 hr 42 min",
+              "author": "Sunil Sir"
+            },
             {
               "id": "chem_06_vid01",
               "title": "Haloalkanes and Haloarenes \u2014 Complete One-Shot Board Revision",
@@ -1542,6 +1682,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "chem_07_oneshot",
+              "title": "Alcohol Phenol and Ethers Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=p5m6oUmk2DE",
+              "duration": "3 hr 13 min",
+              "author": "Sunil Sir"
+            },
+            {
               "id": "chem_07_vid01",
               "title": "Alcohols, Phenols and Ethers \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -1574,6 +1721,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "chem_08_oneshot",
+              "title": "Aldehydes Ketones and Carboxylic Acids Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=uxZlQlbrvmw",
+              "duration": "4 hr 22 min",
+              "author": "Sunil Sir"
+            },
             {
               "id": "chem_08_vid01",
               "title": "Aldehydes, Ketones and Carboxylic Acids \u2014 Complete One-Shot Board Revision",
@@ -1608,6 +1762,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "chem_09_oneshot",
+              "title": "Amines Class 12 One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=_ICiy7jCaCQ",
+              "duration": "2 hr 38 min",
+              "author": "Shourya Ma'am"
+            },
+            {
               "id": "chem_09_vid01",
               "title": "Amines \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -1640,6 +1801,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "chem_10_oneshot",
+              "title": "Biomolecules Class 12 Chemistry One Shot | NCERT Full Revision",
+              "youtube_url": "https://www.youtube.com/watch?v=neCiz1bHXGQ",
+              "duration": "3 hr 21 min",
+              "author": "Sunil Sir"
+            },
             {
               "id": "chem_10_vid01",
               "title": "Biomolecules \u2014 Complete One-Shot Board Revision",
@@ -2115,9 +2283,114 @@
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/ncert/ch01_sexual_reproduction_in_flowering_plants.pdf",
           "notes": [],
-          "dpps": [],
-          "quizzes": [],
+          "dpps": [
+            {
+              "title": "Dpp 01 4",
+              "filename": "DPP 01-4.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/dpp/DPP 01-4.pdf"
+            },
+            {
+              "title": "Dpp 02 3",
+              "filename": "DPP 02-3.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/dpp/DPP 02-3.pdf"
+            },
+            {
+              "title": "Dpp 03 5",
+              "filename": "DPP 03-5.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/dpp/DPP 03-5.pdf"
+            },
+            {
+              "title": "Dpp 04",
+              "filename": "DPP 04.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/dpp/DPP 04.pdf"
+            },
+            {
+              "title": "Dpp 05",
+              "filename": "DPP 05.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/dpp/DPP 05.pdf"
+            },
+            {
+              "title": "Dpp 06",
+              "filename": "DPP 06.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/dpp/DPP 06.pdf"
+            },
+            {
+              "title": "Dpp 07 1",
+              "filename": "DPP 07-1.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/dpp/DPP 07-1.pdf"
+            },
+            {
+              "title": "Dpp 08 1",
+              "filename": "DPP 08-1.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/dpp/DPP 08-1.pdf"
+            }
+          ],
+          "quizzes": [
+            {
+              "id": "bio_01_dpp01",
+              "title": "Sexual Reproduction in Flowering Plants - DPP 01 (Flower Parts & Morphology)",
+              "filename": "bio_01_dpp01.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/quizzes/bio_01_dpp01.json",
+              "total_questions": 14
+            },
+            {
+              "id": "bio_01_dpp02",
+              "title": "Sexual Reproduction in Flowering Plants - DPP 02 (Pollen Grains & Microsporogenesis)",
+              "filename": "bio_01_dpp02.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/quizzes/bio_01_dpp02.json",
+              "total_questions": 15
+            },
+            {
+              "id": "bio_01_dpp03",
+              "title": "Sexual Reproduction in Flowering Plants - DPP 03 (Pistil, Megasporogenesis & Embryo Sac)",
+              "filename": "bio_01_dpp03.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/quizzes/bio_01_dpp03.json",
+              "total_questions": 13
+            },
+            {
+              "id": "bio_01_dpp04",
+              "title": "Sexual Reproduction in Flowering Plants - DPP 04 (Embryo Sac & Sporangium)",
+              "filename": "bio_01_dpp04.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/quizzes/bio_01_dpp04.json",
+              "total_questions": 19
+            },
+            {
+              "id": "bio_01_dpp05",
+              "title": "Sexual Reproduction in Flowering Plants - DPP 05 (Outbreeding Devices & Pollination Types)",
+              "filename": "bio_01_dpp05.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/quizzes/bio_01_dpp05.json",
+              "total_questions": 15
+            },
+            {
+              "id": "bio_01_dpp06",
+              "title": "Sexual Reproduction in Flowering Plants - DPP 06 (Pollination Adaptations)",
+              "filename": "bio_01_dpp06.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/quizzes/bio_01_dpp06.json",
+              "total_questions": 15
+            },
+            {
+              "id": "bio_01_dpp07",
+              "title": "Sexual Reproduction in Flowering Plants - DPP 07 (Double Fertilization & Endosperm)",
+              "filename": "bio_01_dpp07.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/quizzes/bio_01_dpp07.json",
+              "total_questions": 15
+            },
+            {
+              "id": "bio_01_dpp08",
+              "title": "Sexual Reproduction in Flowering Plants - DPP 08 (Post-Fertilization: Seeds & Fruits)",
+              "filename": "bio_01_dpp08.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/quizzes/bio_01_dpp08.json",
+              "total_questions": 14
+            }
+          ],
           "videos": [
+            {
+              "id": "bio_01_oneshot",
+              "title": "Sexual Reproduction in Flowering Plants Class 12 One Shot | NCERT + Diagram + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=lW8hbdNGhBE",
+              "duration": "1 hr 55 min",
+              "author": "Aarushi Ma'am"
+            },
             {
               "id": "bio_01_vid01",
               "title": "Sexual Reproduction in Flowering Plants \u2014 Complete One-Shot Board Revision",
@@ -2148,9 +2421,78 @@
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/ncert/ch02_human_reproduction.pdf",
           "notes": [],
-          "dpps": [],
-          "quizzes": [],
+          "dpps": [
+            {
+              "title": "Dpp 01 3",
+              "filename": "DPP 01-3.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/dpp/DPP 01-3.pdf"
+            },
+            {
+              "title": "Dpp 02 2",
+              "filename": "DPP 02-2.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/dpp/DPP 02-2.pdf"
+            },
+            {
+              "title": "Dpp 03 4",
+              "filename": "DPP 03-4.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/dpp/DPP 03-4.pdf"
+            },
+            {
+              "title": "Dpp 07",
+              "filename": "DPP 07.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/dpp/DPP 07.pdf"
+            },
+            {
+              "title": "Dpp 08",
+              "filename": "DPP 08.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/dpp/DPP 08.pdf"
+            }
+          ],
+          "quizzes": [
+            {
+              "id": "bio_02_dpp01",
+              "title": "Human Reproduction - DPP 01 (Male Reproductive System)",
+              "filename": "bio_02_dpp01.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/quizzes/bio_02_dpp01.json",
+              "total_questions": 8
+            },
+            {
+              "id": "bio_02_dpp02",
+              "title": "Human Reproduction - DPP 02 (Female Reproductive System)",
+              "filename": "bio_02_dpp02.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/quizzes/bio_02_dpp02.json",
+              "total_questions": 7
+            },
+            {
+              "id": "bio_02_dpp03",
+              "title": "Human Reproduction - DPP 03 (Gametogenesis & Fallopian Tube)",
+              "filename": "bio_02_dpp03.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/quizzes/bio_02_dpp03.json",
+              "total_questions": 10
+            },
+            {
+              "id": "bio_02_dpp04",
+              "title": "Human Reproduction - DPP 04 (Fertilization, Morula & Blastocyst)",
+              "filename": "bio_02_dpp04.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/quizzes/bio_02_dpp04.json",
+              "total_questions": 10
+            },
+            {
+              "id": "bio_02_dpp05",
+              "title": "Human Reproduction - DPP 05 (Implantation, Stem Cells & Embryonic Development)",
+              "filename": "bio_02_dpp05.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/quizzes/bio_02_dpp05.json",
+              "total_questions": 9
+            }
+          ],
           "videos": [
+            {
+              "id": "bio_02_oneshot",
+              "title": "Human Reproduction Class 12 One Shot | NCERT + Diagram + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=jsiE37y8goA",
+              "duration": "2 hr 59 min",
+              "author": "Aarushi Ma'am"
+            },
             {
               "id": "bio_02_vid01",
               "title": "Human Reproduction \u2014 Complete One-Shot Board Revision",
@@ -2181,9 +2523,54 @@
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/03_reproductive_health/ncert/ch03_reproductive_health.pdf",
           "notes": [],
-          "dpps": [],
-          "quizzes": [],
+          "dpps": [
+            {
+              "title": "Dpp 01 5",
+              "filename": "DPP 01-5.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/03_reproductive_health/dpp/DPP 01-5.pdf"
+            },
+            {
+              "title": "Dpp 02 4",
+              "filename": "DPP 02-4.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/03_reproductive_health/dpp/DPP 02-4.pdf"
+            },
+            {
+              "title": "Dpp 03 6",
+              "filename": "DPP 03-6.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/03_reproductive_health/dpp/DPP 03-6.pdf"
+            }
+          ],
+          "quizzes": [
+            {
+              "id": "bio_03_dpp01",
+              "title": "Reproductive Health - DPP 01 (Problems, Strategies & Population)",
+              "filename": "bio_03_dpp01.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/03_reproductive_health/quizzes/bio_03_dpp01.json",
+              "total_questions": 10
+            },
+            {
+              "id": "bio_03_dpp02",
+              "title": "Reproductive Health - DPP 02 (Contraception & Birth Control Methods)",
+              "filename": "bio_03_dpp02.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/03_reproductive_health/quizzes/bio_03_dpp02.json",
+              "total_questions": 13
+            },
+            {
+              "id": "bio_03_dpp03",
+              "title": "Reproductive Health - DPP 03 (STDs, Infertility & Assisted Reproductive Technologies)",
+              "filename": "bio_03_dpp03.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/03_reproductive_health/quizzes/bio_03_dpp03.json",
+              "total_questions": 10
+            }
+          ],
           "videos": [
+            {
+              "id": "bio_03_oneshot",
+              "title": "Reproductive Health Class 12 One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=48gImtbYLsQ",
+              "duration": "1 hr 18 min",
+              "author": "Aarushi Ma'am"
+            },
             {
               "id": "bio_03_vid01",
               "title": "Reproductive Health \u2014 Complete One-Shot Board Revision",
@@ -2214,9 +2601,102 @@
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/ncert/ch04_principles_of_inheritance_and_variation.pdf",
           "notes": [],
-          "dpps": [],
-          "quizzes": [],
+          "dpps": [
+            {
+              "title": "Principles Of Inheritance And Variation Dpp 01",
+              "filename": "Principles Of Inheritance and Variation DPP 01.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/dpp/Principles Of Inheritance and Variation DPP 01.pdf"
+            },
+            {
+              "title": "Principles Of Inheritance And Variation Dpp 02",
+              "filename": "Principles Of Inheritance and Variation DPP 02.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/dpp/Principles Of Inheritance and Variation DPP 02.pdf"
+            },
+            {
+              "title": "Principles Of Inheritance And Variation Dpp 03",
+              "filename": "Principles Of Inheritance and Variation DPP 03.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/dpp/Principles Of Inheritance and Variation DPP 03.pdf"
+            },
+            {
+              "title": "Principles Of Inheritance And Variation Dpp 04",
+              "filename": "Principles Of Inheritance and Variation DPP 04.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/dpp/Principles Of Inheritance and Variation DPP 04.pdf"
+            },
+            {
+              "title": "Principles Of Inheritance And Variation Dpp 05",
+              "filename": "Principles Of Inheritance and Variation DPP 05.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/dpp/Principles Of Inheritance and Variation DPP 05.pdf"
+            },
+            {
+              "title": "Principles Of Inheritance And Variation Dpp 06",
+              "filename": "Principles Of Inheritance and Variation DPP 06.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/dpp/Principles Of Inheritance and Variation DPP 06.pdf"
+            },
+            {
+              "title": "Principles Of Inheritance And Variation Dpp 07",
+              "filename": "Principles Of Inheritance and Variation DPP 07.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/dpp/Principles Of Inheritance and Variation DPP 07.pdf"
+            }
+          ],
+          "quizzes": [
+            {
+              "id": "bio_04_dpp01",
+              "title": "Principles of Inheritance and Variation - DPP 01 (Mendel's Experiments)",
+              "filename": "bio_04_dpp01.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/quizzes/bio_04_dpp01.json",
+              "total_questions": 11
+            },
+            {
+              "id": "bio_04_dpp02",
+              "title": "Principles of Inheritance and Variation - DPP 02 (Monohybrid Cross & Dominance)",
+              "filename": "bio_04_dpp02.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/quizzes/bio_04_dpp02.json",
+              "total_questions": 8
+            },
+            {
+              "id": "bio_04_dpp03",
+              "title": "Principles of Inheritance and Variation - DPP 03 (Incomplete Dominance & Codominance)",
+              "filename": "bio_04_dpp03.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/quizzes/bio_04_dpp03.json",
+              "total_questions": 10
+            },
+            {
+              "id": "bio_04_dpp04",
+              "title": "Principles of Inheritance and Variation - DPP 04 (Dihybrid Cross & Non-Mendelian Ratios)",
+              "filename": "bio_04_dpp04.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/quizzes/bio_04_dpp04.json",
+              "total_questions": 10
+            },
+            {
+              "id": "bio_04_dpp05",
+              "title": "Principles of Inheritance and Variation - DPP 05 (Sex Determination & Chromosomes)",
+              "filename": "bio_04_dpp05.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/quizzes/bio_04_dpp05.json",
+              "total_questions": 10
+            },
+            {
+              "id": "bio_04_dpp06",
+              "title": "Principles of Inheritance and Variation - DPP 06 (Linkage, Recombination & Genetic Mapping)",
+              "filename": "bio_04_dpp06.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/quizzes/bio_04_dpp06.json",
+              "total_questions": 10
+            },
+            {
+              "id": "bio_04_dpp07",
+              "title": "Principles of Inheritance and Variation - DPP 07 (Mutations & Genetic Disorders)",
+              "filename": "bio_04_dpp07.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/quizzes/bio_04_dpp07.json",
+              "total_questions": 10
+            }
+          ],
           "videos": [
+            {
+              "id": "bio_04_oneshot",
+              "title": "Principles of Inheritance and Variation Class 12 One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=fuglbkNZ7ac",
+              "duration": "3 hr 15 min",
+              "author": "Aarushi Ma'am"
+            },
             {
               "id": "bio_04_vid01",
               "title": "Principles of Inheritance and Variation \u2014 Complete One-Shot Board Revision",
@@ -2251,6 +2731,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "bio_05_oneshot",
+              "title": "Molecular Basis of Inheritance Class 12 One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=eEz_nv3u1JY",
+              "duration": "3 hr 46 min",
+              "author": "Aarushi Ma'am"
+            },
+            {
               "id": "bio_05_vid01",
               "title": "Molecular Basis of Inheritance \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -2280,9 +2767,66 @@
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/06_evolution/ncert/ch06_evolution.pdf",
           "notes": [],
-          "dpps": [],
-          "quizzes": [],
+          "dpps": [
+            {
+              "title": "Evolution Dpp 01",
+              "filename": "Evolution DPP 01.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/06_evolution/dpp/Evolution DPP 01.pdf"
+            },
+            {
+              "title": "Evolution Dpp 02 (of Lecture 03)",
+              "filename": "Evolution DPP 02 (Of Lecture 03).pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/06_evolution/dpp/Evolution DPP 02 (Of Lecture 03).pdf"
+            },
+            {
+              "title": "Evolution Dpp 03 (of Lecture 04)",
+              "filename": "Evolution DPP 03 (Of Lecture 04).pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/06_evolution/dpp/Evolution DPP 03 (Of Lecture 04).pdf"
+            },
+            {
+              "title": "Evolution Dpp 04 (of Lecture 05)",
+              "filename": "Evolution DPP 04 (Of Lecture 05).pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/06_evolution/dpp/Evolution DPP 04 (Of Lecture 05).pdf"
+            }
+          ],
+          "quizzes": [
+            {
+              "id": "bio_06_dpp01",
+              "title": "Evolution - DPP 01 (Origin of Life & Miller's Experiment)",
+              "filename": "bio_06_dpp01.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/06_evolution/quizzes/bio_06_dpp01.json",
+              "total_questions": 10
+            },
+            {
+              "id": "bio_06_dpp02",
+              "title": "Evolution - DPP 02 (Lamarckism, Natural Selection & Evidences)",
+              "filename": "bio_06_dpp02.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/06_evolution/quizzes/bio_06_dpp02.json",
+              "total_questions": 10
+            },
+            {
+              "id": "bio_06_dpp03",
+              "title": "Evolution - DPP 03 (Adaptive Radiation & Divergent/Convergent Evolution)",
+              "filename": "bio_06_dpp03.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/06_evolution/quizzes/bio_06_dpp03.json",
+              "total_questions": 10
+            },
+            {
+              "id": "bio_06_dpp04",
+              "title": "Evolution - DPP 04 (Biological Evolution & Human Origins)",
+              "filename": "bio_06_dpp04.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/06_evolution/quizzes/bio_06_dpp04.json",
+              "total_questions": 10
+            }
+          ],
           "videos": [
+            {
+              "id": "bio_06_oneshot",
+              "title": "Evolution Class 12 Biology One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=V4KU17K8h5Q",
+              "duration": "2 hr 2 min",
+              "author": "Aarushi Ma'am"
+            },
             {
               "id": "bio_06_vid01",
               "title": "Evolution \u2014 Complete One-Shot Board Revision",
@@ -2313,9 +2857,30 @@
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/07_human_health_and_diseases/ncert/ch07_human_health_and_disease.pdf",
           "notes": [],
-          "dpps": [],
-          "quizzes": [],
+          "dpps": [
+            {
+              "title": "Human Health And Diseases Dpp 01",
+              "filename": "Human Health and Diseases DPP 01.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/07_human_health_and_diseases/dpp/Human Health and Diseases DPP 01.pdf"
+            }
+          ],
+          "quizzes": [
+            {
+              "id": "bio_07_dpp01",
+              "title": "Human Health and Diseases - DPP 01 (Infectious Diseases & Pathogens)",
+              "filename": "bio_07_dpp01.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/07_human_health_and_diseases/quizzes/bio_07_dpp01.json",
+              "total_questions": 10
+            }
+          ],
           "videos": [
+            {
+              "id": "bio_07_oneshot",
+              "title": "Human Health and Disease Class 12 One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=FSN4b5MgAq8",
+              "duration": "2 hr 7 min",
+              "author": "Aarushi Ma'am"
+            },
             {
               "id": "bio_07_vid01",
               "title": "Human Health and Diseases \u2014 Complete One-Shot Board Revision",
@@ -2350,6 +2915,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "bio_08_oneshot",
+              "title": "Microbes in Human Welfare Class 12 One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=ka_rvqVnlNo",
+              "duration": "59 min",
+              "author": "Aarushi Ma'am"
+            },
+            {
               "id": "bio_08_vid01",
               "title": "Microbes in Human Welfare \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -2382,6 +2954,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "bio_09_oneshot",
+              "title": "Biotechnology Principles and Processes Class 12 One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=pumZiybEwdE",
+              "duration": "1 hr 31 min",
+              "author": "Aarushi Ma'am"
+            },
             {
               "id": "bio_09_vid01",
               "title": "Biotechnology: Principles and Processes \u2014 Complete One-Shot Board Revision",
@@ -2417,6 +2996,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "bio_10_oneshot",
+              "title": "Biotechnology and its Applications Class 12 One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=530GYX9C1vU",
+              "duration": "1 hr 7 min",
+              "author": "Aarushi Ma'am"
+            },
+            {
               "id": "bio_10_vid01",
               "title": "Biotechnology and its Applications \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -2450,6 +3036,13 @@
           "quizzes": [],
           "videos": [
             {
+              "id": "bio_11_oneshot",
+              "title": "Organism and Population Class 12 One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=k2XIpxQgSHo",
+              "duration": "1 hr 17 min",
+              "author": "Aarushi Ma'am"
+            },
+            {
               "id": "bio_11_vid01",
               "title": "Organisms and Populations \u2014 Complete One-Shot Board Revision",
               "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
@@ -2481,6 +3074,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "bio_12_oneshot",
+              "title": "Ecosystem Class 12 One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=042LD-Xnt3A",
+              "duration": "48 min",
+              "author": "Aarushi Ma'am"
+            },
             {
               "id": "bio_12_vid01",
               "title": "Ecosystem \u2014 Complete One-Shot Board Revision",
@@ -2514,6 +3114,13 @@
           "dpps": [],
           "quizzes": [],
           "videos": [
+            {
+              "id": "bio_13_oneshot",
+              "title": "Biodiversity and Conservation Class 12 One Shot | NCERT + PYQs",
+              "youtube_url": "https://www.youtube.com/watch?v=XLRxoLcyhuw",
+              "duration": "57 min",
+              "author": "Aarushi Ma'am"
+            },
             {
               "id": "bio_13_vid01",
               "title": "Biodiversity and its Conservation \u2014 Complete One-Shot Board Revision",
@@ -2872,6 +3479,92 @@
           ]
         }
       ]
+    }
+  ],
+  "sample_papers": [
+    {
+      "title": "CBSE Class 12 2026-27 Biology Marking Scheme",
+      "filename": "Biology-MS.pdf",
+      "subject": "Biology",
+      "type": "ms",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Biology-MS.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 Biology Sample Question Paper",
+      "filename": "Biology-SQP.pdf",
+      "subject": "Biology",
+      "type": "sqp",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Biology-SQP.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 Chemistry Marking Scheme",
+      "filename": "Chemistry-MS.pdf",
+      "subject": "Chemistry",
+      "type": "ms",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Chemistry-MS.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 Chemistry Sample Question Paper",
+      "filename": "Chemistry-SQP.pdf",
+      "subject": "Chemistry",
+      "type": "sqp",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Chemistry-SQP.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 EnglishCore Marking Scheme",
+      "filename": "EnglishCore-MS.pdf",
+      "subject": "EnglishCore",
+      "type": "ms",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/EnglishCore-MS.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 EnglishCore Sample Question Paper",
+      "filename": "EnglishCore-SQP.pdf",
+      "subject": "EnglishCore",
+      "type": "sqp",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/EnglishCore-SQP.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 Maths Marking Scheme",
+      "filename": "Maths-MS.pdf",
+      "subject": "Maths",
+      "type": "ms",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Maths-MS.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 Maths Sample Question Paper",
+      "filename": "Maths-SQP.pdf",
+      "subject": "Maths",
+      "type": "sqp",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Maths-SQP.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 PhysicalEducation Marking Scheme",
+      "filename": "PhysicalEducation-MS.pdf",
+      "subject": "PhysicalEducation",
+      "type": "ms",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/PhysicalEducation-MS.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 PhysicalEducation Sample Question Paper",
+      "filename": "PhysicalEducation-SQP.pdf",
+      "subject": "PhysicalEducation",
+      "type": "sqp",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/PhysicalEducation-SQP.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 Physics Marking Scheme",
+      "filename": "Physics-MS.pdf",
+      "subject": "Physics",
+      "type": "ms",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Physics-MS.pdf"
+    },
+    {
+      "title": "CBSE Class 12 2026-27 Physics Sample Question Paper",
+      "filename": "Physics-SQP.pdf",
+      "subject": "Physics",
+      "type": "sqp",
+      "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Physics-SQP.pdf"
     }
   ]
 }

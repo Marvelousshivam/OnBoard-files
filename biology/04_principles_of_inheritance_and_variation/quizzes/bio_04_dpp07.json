@@ -1,0 +1,151 @@
+{
+  "id": "bio_04_dpp07",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Principles of Inheritance and Variation",
+  "title": "Principles of Inheritance and Variation - DPP 07 (Mutations & Genetic Disorders)",
+  "source_pdf": "Principles Of Inheritance and Variation DPP 07.pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Change in the sequence of nucleotides in DNA is called:",
+      "options": [
+        "Mutagen",
+        "Mutation",
+        "Recombination",
+        "Translation"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "A mutation is a change in the sequence of nucleotides in DNA. These changes can be inherited (if they occur in germ cells) or somatic (if they occur in body cells). Mutations can be caused by various factors, including errors during DNA replication, environmental factors (e.g., radiation, chemicals), or viral infections."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Chemical mutagens are more dangerous than radiations. Justify from the following statements.",
+      "options": [
+        "exposure to them is more frequent",
+        "there is protection from radiations but not chemicals",
+        "Both (a) and (b)",
+        "chemically caused mutations are far more deleterious"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Both (a) and (b)"
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Identify the correct statement(s) from the following. A. The cross between TT and tt is a monohybrid cross. B. In a dissimilar pair of factors one member of the pair dominates (dominant) the other (recessive). C. The chemical and physical factors that induce mutations are known as mutagens. D. UV radiations cannot cause mutations in organisms.",
+      "options": [
+        "A, B and C",
+        "A, B and D",
+        "C and D only",
+        "A and C only"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Mutation is a phenomenon which results in alteration of DNA sequences and consequently results in changes in the genotype and the phenotype of an organism. UV radiations can cause mutations in organisms – it is a mutagen."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "The Cri-du-chat syndrome is caused by change in chromosome structure involving",
+      "options": [
+        "deletion",
+        "duplication",
+        "inversion",
+        "translocation"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Cri-du-chat syndrome (also known as 5p- syndrome or Lejeune's syndrome) is a genetic disorder caused by a chromosomal abnormality. Specifically, it is caused by the deletion of genetic material from the short arm (p) of chromosome 5."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Which of the following shows silent mutations if mRNA strand has AUG UAU CCA UAU CCA UAC codons?",
+      "options": [
+        "AUG UAU GCC AUA UCC AUA",
+        "AUG UAU UGA UAU CCA UAG",
+        "AUG UAU CCU UAU CCA UAC",
+        "AUG UAU UCA UAC CCA UAG"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "A silent mutation occurs when a gene's DNA sequence does not affect the protein it codes for a subsequent amino acid sequence. For instance, the corresponding RNA would change from UCG to UCU if the DNA sequence were changed from AGC to AGA. However, since both of those codons translate to the same amino acid, Ser, or serine, there is no actual change in the protein produced by this gene. As a result, the mutation is \"silent,\" meaning that it has no effect right away. Out of the given options, only option (C) shows silent mutation: AUG UAU CCU UAU CCA UAC for AUG UAU CCA UAU CCA UAC. Here, CCU and CCA both codes for proline."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R: Assertion A: Mutation results in changes in the genotype and the phenotype of an organism. Reason R: Mutation results in alteration of DNA sequences. In the light of the above statements, choose the correct answer from the options given below:",
+      "options": [
+        "A is true but R is false.",
+        "A is false but R is true.",
+        "Both A and R are true and R is the correct explanation of A.",
+        "Both A and R are true but R is NOT the correct explanation of A."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "|"
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Choose the incorrect pairing among the following.",
+      "options": [
+        "Sutton and Boveri - Chromosome theory",
+        "Walter and Boveri - Behaviour of chromosome during cell divisions",
+        "TH Morgan - Mutation",
+        "Henking X body"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "The incorrect pairing is TH Morgan - Mutation. Explanation: (A) Sutton and Boveri - Chromosome theory Correct, they proposed the Chromosomal Theory of Inheritance. (B) Walter and Boveri - Behavior of chromosome during cell divisions Correct, they studied chromosome behavior in meiosis. (C) TH Morgan - Mutation Incorrect, T.H. Morgan is known for his work on Linkage and Recombination, not mutation. (D) Henking - X body Correct, Henking discovered the X chromosome while studying insects."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Monosomy and trisomy can be represented as",
+      "options": [
+        "2n + 1, and 2n + 3",
+        "2n - 1, and 2n - 2",
+        "2n, and 2n + 1",
+        "2n - 1, and 2n + 18."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Monosomy is a form of aneuploidy where one homologous chromosome is missing (2n-1). Trisomy presence of one chromosome in triplicate (2n+1). monosomy and trisomy are represented as 2n-1 and 2n+1. Presence of one chromosome in 4 copies is known as tetrasomy (2n+2). Presence of 1 extra chromosome than the normal chromosome number in a haploid species is known as disomy (n+1). Presence of 2 copies of complete haploid set of chromosome is called as diploidy and is represented as \"2n\"."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "A genomatic mutation involves",
+      "options": [
+        "change in genes | |",
+        "change in chromosomal structure",
+        "change in number of chromosomes",
+        "All of the above"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "change in number of chromosomes"
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "In man, which of the following genotypes and phenotypes may be the correct result of aneuploidy in sex chromosomes?",
+      "options": [
+        "22 pairs + XXY males",
+        "22 pairs + XX females",
+        "22 pairs + XXXY females",
+        "22 pairs +Y females | |"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "22 pairs + XXY males"
+    }
+  ]
+}

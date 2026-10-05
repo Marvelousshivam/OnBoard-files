@@ -1,0 +1,165 @@
+{
+  "id": "bio_04_dpp01",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Principles of Inheritance and Variation",
+  "title": "Principles of Inheritance and Variation - DPP 01 (Mendel's Experiments)",
+  "source_pdf": "Principles Of Inheritance and Variation DPP 01.pdf",
+  "total_questions": 11,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Which of the given genotype represent homozygous condition?",
+      "options": [
+        "Tt",
+        "Rr",
+        "tt",
+        "Yy"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "A test cross is an experimental hybrid between an organism having a homozygous recessive genotype and an organism with a dominant phenotypic but unknown genotype. There are some recombinant individuals if P and Q, the paternal genes that exhibit linkage, are crossed with their respective p and q forms. Genes in incomplete linkage have a tendency to separate due to recombination because of their distant locations on the same chromosome, which increases the likelihood of them crossing over. We are finding some recombinant individuals in this query, which suggests that the paternal genes are only loosely related. recombinants means parental population , which is greater than 50% but less than 100%"
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "What is the process by which characters are passed on from parent to progeny?",
+      "options": [
+        "Inheritance",
+        "Variation",
+        "Mendelism",
+        "Mutation"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Inheritance is the process by which characters are passed from parent to progeny through genetic material, ensuring the continuity of traits across generations."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "The degree by which progeny differ from their parents is called:",
+      "options": [
+        "mutation.",
+        "inheritance.",
+        "variation.",
+        "mendelism."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "A. Mutation: Mutation refers to changes in the genetic material. While mutations can cause variations, the term \"mutation\" specifically refers to individual genetic changes. B. Inheritance: Inheritance refers to the passing on of genetic traits from parents to offspring, not the differences between them. C. Variation: Variation refers to the differences between individuals of the same species, including those between progeny and their parents. D. Mendelism: Mendelism refers to the principles of genetic inheritance proposed by Mendel, not the differences between progeny and parents."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "Sahiwal cows are developed from wild cows due to-",
+      "options": [
+        "Heredity",
+        "Artificial selection",
+        "domestication",
+        "Both (B) and (C) are correct"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Sahiwal cows were developed from wild cows through artificial selection and domestication. Artificial selection involves humans selectively breeding cows with desirable traits (e.g., high milk yield, disease resistance). Domestication is the long-term process where wild animals adapt to human- controlled environments. Thus, both artificial selection and domestication played a role in developing the Sahiwal breed."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Select the incorrect statement from the following",
+      "options": [
+        "Inheritance is the process by which the characters are passed from parent to the progeny.",
+        "Inheritance is the basis of heredity.",
+        "Variation is the degree by which the progeny differs from their parents.",
+        "Sahiwal breed of buffaloes in Punjab are produced through artificial selection and domestication from wilds cows."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "The Sahiwal breed is a cattle (cow) breed, not a buffalo breed. It was developed through artificial selection and domestication from wild cows, not buffaloes. The other statements (A, B, and C) are correct as they accurately describe inheritance and variation."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Genotype is:",
+      "options": [
+        "Genetic composition of species",
+        "Genetic composition of plastids",
+        "Genetic composition of germ cells",
+        "Genetic composition of an individual"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Genotype refers to the genetic makeup of an individual, including the specific alleles present in its DNA. It determines the hereditary potential of an organism and influences its phenotypic traits. For example, in pea plants, the genotype TT (homozygous dominant) results in a tall plant, while tt (homozygous recessive) results in a dwarf plant."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "The ultimate biological unit which controls heredity is called:",
+      "options": [
+        "genome.",
+        "chromosome.",
+        "genotype.",
+        "gene."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "1. Genome: A complete set of chromosomes or genetic information in the body. 2. Chromosome: Small thread-like, rod-like structures which are dark in color usually appear in the nucleus are known as chromosomes. The composition of each chromosome is that it is made up of single molecule of DNA(deoxyribonucleic acid). 3. Genotype: This term is used for describing the actual genetic composition or genetic makeup. The phenotypes of the two plants may be similar but their genotype may be different. 4. Gene: This term was coined by Johannsen. A unit of genetic information that occupies a specific position on a chromosome and comes in multiple versions called alleles."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "An allele is:",
+      "options": [
+        "Another word for gene",
+        "Homozygous genotype",
+        "Heterozygous genotype",
+        "One of the several possible forms of gene"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "An allele is an alternative form of a gene that occurs at the same locus on homologous chromosomes. Different alleles can result in variations of a particular trait. For example, in pea plants, the gene for flower color has two alleles: P (purple) and p (white). An individual can inherit two identical alleles (PP or pp) or two different alleles (Pp)."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "A true breeding plant is:",
+      "options": [
+        "Nearly homozygous and produces offspring of its own kind.",
+        "Always homozygous recessive in its genetic constitution",
+        "One that is able to breed on its own.",
+        "Produced due to cross pollination among unrelated plants."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Nearly homozygous and produces offspring of its own kind. |"
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Alleles are:-",
+      "options": [
+        "Different molecular forms of a gene.",
+        "Heterozygotes",
+        "Different phenotype",
+        "True breeding homozygotes"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Alleles are alternative forms of the same gene that occur at the same locus on homologous chromosomes. These variations arise due to mutations and can lead to different traits. For example, in Mendelian genetics, the gene for flower color in pea plants has two alleles: purple (dominant, P) and white (recessive, p)."
+    },
+    {
+      "id": "q_11",
+      "q_no": 11,
+      "question": "An allele is dominant if it is expressed in:",
+      "options": [
+        "Both homozygous and heterozygous states",
+        "Second generation",
+        "Heterozygous combination",
+        "Homozygous combination | |"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "An allele is considered dominant if it expresses its trait in both the homozygous (AA) and heterozygous (Aa) conditions. This means that even if only one copy of the dominant allele is present, the trait will be observed. For example, in pea plants, the T (tall) allele is dominant over t (dwarf), so both TT and Tt result in a tall plant."
+    }
+  ]
+}

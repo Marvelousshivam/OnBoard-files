@@ -1,0 +1,277 @@
+{
+  "id": "bio_01_dpp04",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "title": "Sexual Reproduction in Flowering Plants - DPP 04 (Embryo Sac & Sporangium)",
+  "source_pdf": "DPP 04.pdf",
+  "total_questions": 19,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "During development of embryo sac in angiosperm plant, polar nuclei located -",
+      "options": [
+        "In Primary endosperm cell",
+        "In large central cell above the egg apparatus",
+        "Below the egg apparatus",
+        "both A and B"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Below the egg apparatus."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Select the mismatched pair.",
+      "options": [
+        "Microsporangium- Pollen sac",
+        "Megasporangium - Ovule",
+        "Pollen grain - Integument",
+        "Embryo sac- Female gametophyte"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Pollen grain - Integument."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Read the following statements and mark the right option A. In angiosperm, each ovule always have only two protective layers known as integument B. The synergids have special cellular thickenings at the micropylar tip called filliform apparatus C. Nucleus of functional megaspore divide mitotically",
+      "options": [
+        "Only B is correct",
+        "Only B and C are correct",
+        "Only A and C are correct",
+        "All A, B and C are correct"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Only B and C are correct."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "From among the sets of terms given below, identify those that are associated with the gynoecium.",
+      "options": [
+        "Stigma, ovule, embryo sac, placenta",
+        "Thalamus, pistil, style, ovule",
+        "Ovule, ovary, embryo sac, tapetum",
+        "Ovule, stamen, ovary, embryo sac"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Stigma, ovule, embryo sac, placenta."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Match the following columns. Choose the correct answer from the options given below.",
+      "options": [
+        "A-(r), B-(q), C-(s), D-(p)",
+        "A-(p), B-(r), C-(s), D-(q)",
+        "A-(r), B-(s), C-(p), D-(q)",
+        "A-(q), B-(r), C-(p), D-(s)"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: A-(r), B-(s), C-(p), D-(q)."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "In the following figure, label the parts A, B, C, D, E",
+      "options": [
+        "Hilum, Funicle, inner integument, nucellus, micropyle",
+        "Funicle, micropyle, inner integument, nucellus, chalazal pole",
+        "Hilum, Funicle integument, Embryo sac, chalazal pole",
+        "Funicle, Hilum, integument, Embryo sac, Micropylar pole"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Funicle, micropyle, inner integument, nucellus, chalazal pole."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Which part of ovule stores abundant food reserves?",
+      "options": [
+        "Chalaza",
+        "Integument",
+        "Funicle",
+        "Nucellus"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Nucellus."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Nucellus is",
+      "options": [
+        "Poorly developed in all flowering plants",
+        "Parenchymatous mass of tissue",
+        "Basal part of ovule",
+        "Located inside the female gametophyte"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Parenchymatous mass of tissue."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "An ovule generally has ......... embryo sac formed from a megaspore through ........... division",
+      "options": [
+        "Single, equational",
+        "Single, reductional",
+        "Four, meiotic",
+        "Four, mitotic"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Single, reductional."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "A typical angiosperm embryo sac at maturity is:",
+      "options": [
+        "7-nucleate and 8-celled",
+        "7-nucleate and 7-celled",
+        "8-nucleate and 8-celled",
+        "8-nucleate and 7-celled"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: 8-nucleate and 7-celled."
+    },
+    {
+      "id": "q_11",
+      "q_no": 11,
+      "question": "Largest cell of the ovule is",
+      "options": [
+        "Megaspore mother cell",
+        "Antipodal cell",
+        "Central cell",
+        "None of these"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Central cell."
+    },
+    {
+      "id": "q_12",
+      "q_no": 12,
+      "question": "Match column I with column II: Choose the correct option from the codes given below",
+      "options": [
+        "A-III, B-II, C-IV, D-I",
+        "A-II, B-III, C-IV, D-I",
+        "A-I, B-III, C-II, D-IV",
+        "A-IV, B-I, C-II, D-III"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: A-III, B-II, C-IV, D-I."
+    },
+    {
+      "id": "q_13",
+      "q_no": 13,
+      "question": "Which of the following is a direct structure formed by a functional megaspore?",
+      "options": [
+        "Ovule",
+        "Endosperm",
+        "Embryo",
+        "Embryo sac"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Embryo sac."
+    },
+    {
+      "id": "q_14",
+      "q_no": 14,
+      "question": "Monosporic development in angiosperms implies",
+      "options": [
+        "Meiosis in megaspore mother cell",
+        "Out of four microspores only one microspore is functional",
+        "Out of four megaspores only one megaspore is functional and undergo meiosis",
+        "Out of four megaspores only one megaspore is functional and undergo mitosis."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Out of four megaspores only one megaspore is functional and undergo mitosis.."
+    },
+    {
+      "id": "q_15",
+      "q_no": 15,
+      "question": "Identify the incorrect statement related to Pollination:",
+      "options": [
+        "Moths and butterflies are the most dominant pollinating agents among insects",
+        "Pollination by water is quite rare in flowering plants",
+        "Pollination by wind is more common amongst abiotic pollination",
+        "Flowers produce foul odours to attract flies and beetles to get pollinated"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Moths and butterflies are the most dominant pollinating agents among insects."
+    },
+    {
+      "id": "q_16",
+      "q_no": 16,
+      "question": "The number of cells present in the egg apparatus in angiosperms is",
+      "options": [
+        "Two",
+        "Five",
+        "Three",
+        "Four"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Three."
+    },
+    {
+      "id": "q_17",
+      "q_no": 17,
+      "question": "Given below is the diagrammatic view of an embryo sac. Identify the labelled parts , and select the right option.",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: (3)."
+    },
+    {
+      "id": "q_18",
+      "q_no": 18,
+      "question": "A, B, C, D",
+      "options": [
+        "Synergids, Central cell, Egg cell, Antipodals, Polar nuclei",
+        "Antipodals, Polar nuclei, Egg cell, Synergids, Filiform apparatus",
+        "Polar nuclei, Antipodals, Egg cell, Synergids, Filiform apparatus",
+        "Antipodals, Central cell, Egg cell, Synergids, Filiform apparatus"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Antipodals, Polar nuclei, Egg cell, Synergids, Filiform apparatus."
+    },
+    {
+      "id": "q_19",
+      "q_no": 19,
+      "question": "Functional megaspore in an angiosperm develops into:",
+      "options": [
+        "Ovule",
+        "Endosperm",
+        "Embryo sac",
+        "Embryo"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Embryo sac."
+    }
+  ]
+}

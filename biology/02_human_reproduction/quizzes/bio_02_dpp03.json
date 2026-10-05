@@ -1,0 +1,151 @@
+{
+  "id": "bio_02_dpp03",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Human Reproduction",
+  "title": "Human Reproduction - DPP 03 (Gametogenesis & Fallopian Tube)",
+  "source_pdf": "DPP 03-4.pdf",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "The main function of fimbriae is to help in;",
+      "options": [
+        "development of ovary.",
+        "collection of the ovum after ovulation.",
+        "development of ova.",
+        "fertilisation."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: collection of the ovum after ovulation.."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Statement-I: Each fallopian tube is about 10-12 cm long. Statement-II: Fallopian tube extends from the periphery of each ovary to the vagina.",
+      "options": [
+        "Statement I and Statement II both are correct.",
+        "Statement I is correct, but Statement II is incorrect.",
+        "Statement I is incorrect, but Statement II is correct.",
+        "Statement I and Statement II both are incorrect."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Statement I is correct, but Statement II is incorrect.."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Match List-I with List-II to find out the correct option. List-I List-II I. Ovaries A. Cervical canal II. Oviduct B. Produce ovum III. Uterus C. Female accessory ducts IV. Cavity of cervix D. Undergoes cyclical changes during menstrual cycle",
+      "options": [
+        "I-",
+        ", II-",
+        ", III-",
+        ", IV- (B) (B) I- (B), II- (C), III- (D), IV- (A) (C) I- (D), II- (B), III- (A), IV- (C) (D) I- (C), II- (A), III- (D), IV- (B)"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: , II-."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "The copulatory canal and site of insemination is:",
+      "options": [
+        "cervix.",
+        "external genitalia.",
+        "vagina.",
+        "labia minora."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: vagina.."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Which of the following is not paired structure?",
+      "options": [
+        "Ovary",
+        "Oviduct",
+        "Mammary gland",
+        "Vagina"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Vagina."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Cluster of cells in mammary lobes is known as",
+      "options": [
+        "Mammary duct",
+        "Alveoli",
+        "Ampulla",
+        "Lactiferous duct"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Alveoli."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "The mammary glands are paired structure (breasts) that contain glandular tissue and variable amount of fat. The glandular tissue of breast is divided into",
+      "options": [
+        "10-12 mammary lobes",
+        "12-16 mammary tubules",
+        "15-20 mammary alveoli",
+        "15-20 mammary lobes"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: 15-20 mammary lobes."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Birth canal is formed by:",
+      "options": [
+        "Uterus along with vagina",
+        "Uterus along with cervix",
+        "Cervical canal along with vagina",
+        "Uterus, cervix and vagina"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Uterus, cervix and vagina."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Identify the parts P and Q respectively.",
+      "options": [
+        "P - vagina; Q – cervix",
+        "P - cervix; Q – vagina",
+        "P - uterus; Q – cervix",
+        "P - cervix; Q – external genitalia"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: P - cervix; Q – vagina."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "The female reproductive system includes A. Primary sex organs B. Accessory ducts C. Accessory glands D. External genitalia",
+      "options": [
+        "A, B and D",
+        "A, C and D",
+        "A and D only",
+        "A, B, C and D"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: A, B, C and D."
+    }
+  ]
+}

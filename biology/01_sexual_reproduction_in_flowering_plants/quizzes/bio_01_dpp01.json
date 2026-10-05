@@ -1,0 +1,207 @@
+{
+  "id": "bio_01_dpp01",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "title": "Sexual Reproduction in Flowering Plants - DPP 01 (Flower Parts & Morphology)",
+  "source_pdf": "DPP 01-4.pdf",
+  "total_questions": 14,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Identify the flower parts to in the given diagram.",
+      "options": [
+        "A-Androecium, B-Gynoecium, C-Corolla, D- Calyx, E-Pedicel",
+        "A-Androecium, B-Gynoecium, C-Corolla, D- Pedicel, E-Calyx",
+        "A-Androecium, B-Gynoecium, C-Pedicel, D- Corolla, E-Calyx",
+        "A-Androecium, B-Gynoecium, C-Calyx, D- Corolla, E-Pedicel"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: A-Androecium, B-Gynoecium, C-Corolla, D- Calyx, E-Pedicel."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "Flowers are highly modified........",
+      "options": [
+        "Root",
+        "Shoot",
+        "Stem",
+        "Leaves"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Shoot."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "Essential part of flower is:",
+      "options": [
+        "Sepal",
+        "Petal",
+        "Stamen and pistil",
+        "All of the above"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Stamen and pistil."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "The proximal part of the filament of stamen is attached to:",
+      "options": [
+        "Thalamus or the petal.",
+        "Sepals or thalamus.",
+        "Pedicel or petiole.",
+        "Ovary or ovule."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Thalamus or the petal.."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "The innermost wall layer of a typical microsporangium is tapetum. Its function is to provide.",
+      "options": [
+        "Protection",
+        "Dehiscence",
+        "Nutrition",
+        "Mechanical strength"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: Nutrition."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Middle layers of microspongia are present between;",
+      "options": [
+        "epidermis and endothecium",
+        "sporogenous tissue",
+        "endothecium and tapetum",
+        "inside the tapetum"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "Option (C) is correct: endothecium and tapetum."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Arrangement of four wall layers in microsporangium from inside to outside is as follows:",
+      "options": [
+        "Epidermis, endothecium, tapetum and middle layers",
+        "Epidermis, middle layers, endothecium and tapetum",
+        "Epidermis, endothecium, middle layers and tapetum",
+        "Tapetum, middle layers, endothecium and epidermis"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Tapetum, middle layers, endothecium and epidermis."
+    },
+    {
+      "id": "q_8",
+      "q_no": 8,
+      "question": "Tapetum present in the microsporangial wall occurs between",
+      "options": [
+        "Epidermis and endothecium",
+        "Endothecium and middle layers",
+        "Epidermis and middle layers",
+        "Middle layers and sporogenous tissue"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Middle layers and sporogenous tissue."
+    },
+    {
+      "id": "q_9",
+      "q_no": 9,
+      "question": "Match column I with column II: Column I Column II A. Proximal end of filament I. Three B. Lobes in anther II. Thalamus C. Theca in anther III. Two D. Protective wall layers of microsporangium IV. Four A E",
+      "options": [
+        "A-III B- II C- IV D- I",
+        "A-II B- III C- IV D- I",
+        "A- I B-III C- II D-IV",
+        "A-IV B- I C- II D- III"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: A-II B- III C- IV D- I."
+    },
+    {
+      "id": "q_10",
+      "q_no": 10,
+      "question": "Pollen grains are well preserved as fossils because of presence of-",
+      "options": [
+        "intine",
+        "sporopollenin",
+        "low temperature of environment",
+        "pectin and cellulose"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: sporopollenin."
+    },
+    {
+      "id": "q_11",
+      "q_no": 11,
+      "question": "of the angiosperms shed their pollens at the-",
+      "options": [
+        "2-celled stage",
+        "3-celled stage",
+        "4-celled stage",
+        "1 celled stage"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: 2-celled stage."
+    },
+    {
+      "id": "q_12",
+      "q_no": 12,
+      "question": "The pollen grain represents",
+      "options": [
+        "Male gamete",
+        "Male gametophyte",
+        "Microsporophyll",
+        "Microsporangium"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Male gametophyte."
+    },
+    {
+      "id": "q_13",
+      "q_no": 13,
+      "question": "Generative cell of pollen grain;",
+      "options": [
+        "Has large irregularly shaped nucleus",
+        "Is spindle shaped",
+        "Is bigger in size than vegetative cell",
+        "Has abundant food reserve"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Is spindle shaped."
+    },
+    {
+      "id": "q_14",
+      "q_no": 14,
+      "question": "Intine of pollen grain is made up of:",
+      "options": [
+        "Callose",
+        "Pecto-cellulose",
+        "Cellulose",
+        "Fat-like sporopollenin 60%"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Pecto-cellulose."
+    }
+  ]
+}

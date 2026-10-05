@@ -1,0 +1,109 @@
+{
+  "id": "bio_02_dpp02",
+  "subject": "Biology",
+  "book": "NCERT Biology Class 12",
+  "chapter": "Human Reproduction",
+  "title": "Human Reproduction - DPP 02 (Female Reproductive System)",
+  "source_pdf": "DPP 02-2.pdf",
+  "total_questions": 7,
+  "questions": [
+    {
+      "id": "q_1",
+      "q_no": 1,
+      "question": "Identify A, B, C and D correctly.",
+      "options": [
+        "A – Ovary B – Vagina C – Infundibulum D – Uterine fundus",
+        "A – Ovary B – Vagina C – Fimbriae D – Uterine fundus",
+        "A – Ovary B – Vagina C – Fimbriae D – Uterine cavity",
+        "A – Ovary B – Cervix C – Fimbriae D – Uterine fundus"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: A – Ovary B – Vagina C – Fimbriae D – Uterine fundus."
+    },
+    {
+      "id": "q_2",
+      "q_no": 2,
+      "question": "The main function of fimbriae is to help in;",
+      "options": [
+        "development of ovary.",
+        "collection of the ovum after ovulation.",
+        "development of ova.",
+        "fertilisation."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: collection of the ovum after ovulation.."
+    },
+    {
+      "id": "q_3",
+      "q_no": 3,
+      "question": "The last part of the oviduct that joins the uterus is called",
+      "options": [
+        "Infundibulum",
+        "Isthmus",
+        "Ampulla",
+        "Fimbriae"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: Isthmus."
+    },
+    {
+      "id": "q_4",
+      "q_no": 4,
+      "question": "The funnel-shaped portion of the fallopian tube ends in finger-like projections called",
+      "options": [
+        "Infundibulum",
+        "Isthmus",
+        "Ampulla",
+        "Fimbriae"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: Fimbriae."
+    },
+    {
+      "id": "q_5",
+      "q_no": 5,
+      "question": "Match List-I with List-II to find out the correct option. List-I List-II I. Perimetrium A. Inner glandular layer II. Myometrium B. External thin membranous layers III. Endometrium C. Middle thick layer",
+      "options": [
+        "I-",
+        ", II-",
+        ", III-",
+        "(B) I- (B), II- (A), III- (C) (C) I- (A), II- (B), III- (C) (D) I- (B), II- (C), III- (A)"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "Option (D) is correct: (B) I- (B), II- (A), III- (C) (C) I- (A), II- (B), III- (C) (D) I- (B), II- (C), III- (A)."
+    },
+    {
+      "id": "q_6",
+      "q_no": 6,
+      "question": "Match List-I with List-II to find out the correct option. List-I List-II I. Ovaries A. Cervical canal II. Oviduct B. Produce ovum III. Uterus C. Female accessory ducts IV. Cavity of cervix D. Undergoes cyclical changes during menstrual cycle",
+      "options": [
+        "I-",
+        ", II-",
+        ", III-",
+        ", IV- (B) (B) I- (B), II- (C), III- (D), IV- (A) (C) I- (D), II- (B), III- (A), IV- (C) (D) I- (C), II- (A), III- (D), IV- (B)"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "Option (B) is correct: , II-."
+    },
+    {
+      "id": "q_7",
+      "q_no": 7,
+      "question": "Identify the correct sequence of the parts",
+      "options": [
+        "Uterine fundus Uterine body Cervix Vagina",
+        "Uterine body Vagina Cervix",
+        "Uterine fundus Vagina Cervix",
+        "Uterine body Uterine fundus Cervix Vagina"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Option (A) is correct: Uterine fundus Uterine body Cervix Vagina."
+    }
+  ]
+}
