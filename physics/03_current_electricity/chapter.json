@@ -1,0 +1,29 @@
+{
+  "id": "phy_03",
+  "subject_id": "physics",
+  "number": 3,
+  "name": "Current Electricity",
+  "folder": "physics/03_current_electricity",
+  "weightage_marks": 7,
+  "key_topics": [
+    "Drift Velocity Derivation",
+    "Kirchhoff's Rules",
+    "Wheatstone Bridge"
+  ],
+  "videos": [
+    {
+      "id": "phy_03_vid01",
+      "title": "Current Electricity \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "phy_03_vid02",
+      "title": "Current Electricity \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

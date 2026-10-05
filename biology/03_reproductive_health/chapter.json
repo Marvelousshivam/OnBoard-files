@@ -1,0 +1,29 @@
+{
+  "id": "bio_03",
+  "subject_id": "biology",
+  "number": 3,
+  "name": "Reproductive Health",
+  "folder": "biology/03_reproductive_health",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Contraceptive Methods",
+    "STIs & MTP",
+    "ART (IVF, ZIFT, ICSI)"
+  ],
+  "videos": [
+    {
+      "id": "bio_03_vid01",
+      "title": "Reproductive Health \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "bio_03_vid02",
+      "title": "Reproductive Health \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

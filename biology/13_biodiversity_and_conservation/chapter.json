@@ -1,0 +1,29 @@
+{
+  "id": "bio_13",
+  "subject_id": "biology",
+  "number": 13,
+  "name": "Biodiversity and its Conservation",
+  "folder": "biology/13_biodiversity_and_conservation",
+  "weightage_marks": 3,
+  "key_topics": [
+    "Levels of Biodiversity",
+    "Loss of Biodiversity (The Evil Quartet)",
+    "In-situ & Ex-situ Conservation"
+  ],
+  "videos": [
+    {
+      "id": "bio_13_vid01",
+      "title": "Biodiversity and its Conservation \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "bio_13_vid02",
+      "title": "Biodiversity and its Conservation \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

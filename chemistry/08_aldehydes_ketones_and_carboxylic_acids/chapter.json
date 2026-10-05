@@ -1,0 +1,29 @@
+{
+  "id": "chem_08",
+  "subject_id": "chemistry",
+  "number": 8,
+  "name": "Aldehydes, Ketones and Carboxylic Acids",
+  "folder": "chemistry/08_aldehydes_ketones_and_carboxylic_acids",
+  "weightage_marks": 8,
+  "key_topics": [
+    "Aldol Condensation",
+    "Cannizzaro Reaction",
+    "Tollens & Fehling Tests"
+  ],
+  "videos": [
+    {
+      "id": "chem_08_vid01",
+      "title": "Aldehydes, Ketones and Carboxylic Acids \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "chem_08_vid02",
+      "title": "Aldehydes, Ketones and Carboxylic Acids \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

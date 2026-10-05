@@ -1,0 +1,29 @@
+{
+  "id": "eng_poem_03",
+  "subject_id": "english",
+  "number": 11,
+  "name": "A Thing of Beauty",
+  "folder": "english/11_a_thing_of_beauty",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Endless fountain of immortal drink",
+    "Bower quiet for us",
+    "Pall of despondence"
+  ],
+  "videos": [
+    {
+      "id": "eng_p03_1",
+      "title": "A Thing Of Beauty \u2014 Central Idea & Important Q&A",
+      "youtube_url": "https://www.youtube.com/watch?v=2xdFbHoseps",
+      "duration": "20 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_p03_2",
+      "title": "Flamingo Poetry Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=4vTs1moBSUU",
+      "duration": "3h 10m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

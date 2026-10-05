@@ -1,0 +1,29 @@
+{
+  "id": "phy_02",
+  "subject_id": "physics",
+  "number": 2,
+  "name": "Electrostatic Potential and Capacitance",
+  "folder": "physics/02_electrostatic_potential_and_capacitance",
+  "weightage_marks": 8,
+  "key_topics": [
+    "Potential due to Dipole",
+    "Capacitor Dielectrics",
+    "Energy Stored"
+  ],
+  "videos": [
+    {
+      "id": "phy_02_vid01",
+      "title": "Electrostatic Potential and Capacitance \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "phy_02_vid02",
+      "title": "Electrostatic Potential and Capacitance \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

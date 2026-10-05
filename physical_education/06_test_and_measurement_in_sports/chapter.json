@@ -1,0 +1,29 @@
+{
+  "id": "pe_06",
+  "subject_id": "physical_education",
+  "number": 6,
+  "name": "Test and Measurement in Sports",
+  "folder": "physical_education/06_test_and_measurement_in_sports",
+  "weightage_marks": 8,
+  "key_topics": [
+    "Fitness Test: SAI Khelo India",
+    "Rikli & Jones Senior Citizen Test",
+    "Basal Metabolic Rate"
+  ],
+  "videos": [
+    {
+      "id": "pe_06_vid01",
+      "title": "Test and Measurement in Sports \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "pe_06_vid02",
+      "title": "Test and Measurement in Sports \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

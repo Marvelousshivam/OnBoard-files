@@ -1,0 +1,29 @@
+{
+  "id": "math_12",
+  "subject_id": "maths",
+  "number": 12,
+  "name": "Linear Programming",
+  "folder": "maths/12_linear_programming",
+  "weightage_marks": 5,
+  "key_topics": [
+    "Mathematical Formulation",
+    "Corner Point Graphical Method",
+    "Bounded Feasible Region"
+  ],
+  "videos": [
+    {
+      "id": "math_12_vid01",
+      "title": "Linear Programming \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "math_12_vid02",
+      "title": "Linear Programming \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

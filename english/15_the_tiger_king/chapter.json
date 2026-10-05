@@ -1,0 +1,22 @@
+{
+  "id": "eng_vis_02",
+  "subject_id": "english",
+  "number": 15,
+  "name": "The Tiger King",
+  "folder": "english/15_the_tiger_king",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Jilani Jung Jung Bahadur",
+    "Astrologer prediction",
+    "The 100th wooden tiger"
+  ],
+  "videos": [
+    {
+      "id": "eng_vis_2",
+      "title": "The Tiger King \u2014 Full Explanation",
+      "youtube_url": "https://www.youtube.com/watch?v=FLeSUqA12vo",
+      "duration": "3h 8m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

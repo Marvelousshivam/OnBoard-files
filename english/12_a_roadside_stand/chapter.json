@@ -1,0 +1,29 @@
+{
+  "id": "eng_poem_04",
+  "subject_id": "english",
+  "number": 12,
+  "name": "A Roadside Stand",
+  "folder": "english/12_a_roadside_stand",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Rural-urban economic divide",
+    "Childish longing in vain",
+    "Selfish cars"
+  ],
+  "videos": [
+    {
+      "id": "eng_p04_1",
+      "title": "A Roadside Stand \u2014 Full Explanation, Summary & Theme",
+      "youtube_url": "https://www.youtube.com/watch?v=JY8tT8_MZJs",
+      "duration": "21 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_p04_2",
+      "title": "Flamingo Poetry Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=4vTs1moBSUU",
+      "duration": "3h 10m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

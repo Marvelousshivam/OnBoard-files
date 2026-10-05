@@ -1,0 +1,30 @@
+{
+  "id": "eng_flam_06",
+  "subject_id": "english",
+  "number": 6,
+  "name": "Poets and Pancakes",
+  "folder": "english/06_poets_and_pancakes",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Gemini Studios",
+    "Office Boy",
+    "Subbu",
+    "Stephen Spender visit"
+  ],
+  "videos": [
+    {
+      "id": "eng_ch06_1",
+      "title": "Poets And Pancakes \u2014 Full Summary & Questions",
+      "youtube_url": "https://www.youtube.com/watch?v=-_QUxyfoAhU",
+      "duration": "31 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_ch06_2",
+      "title": "Flamingo Prose Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=LPiWaeK7MmE",
+      "duration": "4h 13m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

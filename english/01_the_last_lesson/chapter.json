@@ -1,0 +1,36 @@
+{
+  "id": "eng_flam_01",
+  "subject_id": "english",
+  "number": 1,
+  "name": "The Last Lesson",
+  "folder": "english/01_the_last_lesson",
+  "weightage_marks": 5,
+  "key_topics": [
+    "Order from Berlin",
+    "M. Hamel's last lecture",
+    "Linguistic Chauvinism"
+  ],
+  "videos": [
+    {
+      "id": "eng_ch01_1",
+      "title": "The Last Lesson \u2014 Line-by-Line Explanation & Important Q&A",
+      "youtube_url": "https://www.youtube.com/watch?v=G9EEwMHSo7Y",
+      "duration": "19 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_ch01_2",
+      "title": "Flamingo Prose Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=LPiWaeK7MmE",
+      "duration": "4h 13m",
+      "author": "Anurag Sir VIJETA 2026"
+    },
+    {
+      "id": "eng_ch01_3",
+      "title": "Class 12 English Board Marathon \u2014 Most Expected Questions",
+      "youtube_url": "https://www.youtube.com/watch?v=bg_i-cO4rks",
+      "duration": "4h 51m",
+      "author": "Anurag Sir"
+    }
+  ]
+}

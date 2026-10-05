@@ -1,0 +1,29 @@
+{
+  "id": "bio_07",
+  "subject_id": "biology",
+  "number": 7,
+  "name": "Human Health and Diseases",
+  "folder": "biology/07_human_health_and_diseases",
+  "weightage_marks": 7,
+  "key_topics": [
+    "Infectious Diseases (Malaria, Typhoid)",
+    "Immunity (Innate vs Acquired)",
+    "AIDS & Cancer"
+  ],
+  "videos": [
+    {
+      "id": "bio_07_vid01",
+      "title": "Human Health and Diseases \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "bio_07_vid02",
+      "title": "Human Health and Diseases \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

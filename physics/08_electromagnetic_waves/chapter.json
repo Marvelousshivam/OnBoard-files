@@ -1,0 +1,29 @@
+{
+  "id": "phy_08",
+  "subject_id": "physics",
+  "number": 8,
+  "name": "Electromagnetic Waves",
+  "folder": "physics/08_electromagnetic_waves",
+  "weightage_marks": 3,
+  "key_topics": [
+    "Displacement Current",
+    "EM Wave Characteristics",
+    "Electromagnetic Spectrum"
+  ],
+  "videos": [
+    {
+      "id": "phy_08_vid01",
+      "title": "Electromagnetic Waves \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "phy_08_vid02",
+      "title": "Electromagnetic Waves \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "phy_07",
+  "subject_id": "physics",
+  "number": 7,
+  "name": "Alternating Current",
+  "folder": "physics/07_alternating_current",
+  "weightage_marks": 5,
+  "key_topics": [
+    "Series LCR Phasor",
+    "Resonance Condition",
+    "Transformer Working"
+  ],
+  "videos": [
+    {
+      "id": "phy_07_vid01",
+      "title": "Alternating Current \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "phy_07_vid02",
+      "title": "Alternating Current \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

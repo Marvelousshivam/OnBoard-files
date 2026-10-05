@@ -1,0 +1,35 @@
+{
+  "id": "eng_flam_02",
+  "subject_id": "english",
+  "number": 2,
+  "name": "Lost Spring",
+  "folder": "english/02_lost_spring",
+  "weightage_marks": 5,
+  "key_topics": [
+    "Saheb in Seemapuri",
+    "Mukesh in Firozabad glass bangle industry"
+  ],
+  "videos": [
+    {
+      "id": "eng_ch02_1",
+      "title": "Lost Spring \u2014 Line-by-Line Explanation & Character Sketches",
+      "youtube_url": "https://www.youtube.com/watch?v=wcmk4H05le4",
+      "duration": "17 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_ch02_2",
+      "title": "Flamingo Prose Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=LPiWaeK7MmE",
+      "duration": "4h 13m",
+      "author": "Anurag Sir VIJETA 2026"
+    },
+    {
+      "id": "eng_ch02_3",
+      "title": "Class 12 English Board Marathon",
+      "youtube_url": "https://www.youtube.com/watch?v=84VZv7u7S4M",
+      "duration": "5h 33m",
+      "author": "Anurag Sir"
+    }
+  ]
+}

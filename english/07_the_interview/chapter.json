@@ -1,0 +1,28 @@
+{
+  "id": "eng_flam_07",
+  "subject_id": "english",
+  "number": 7,
+  "name": "The Interview",
+  "folder": "english/07_the_interview",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Interviews: pros & cons",
+    "Umberto Eco interview with Mukund"
+  ],
+  "videos": [
+    {
+      "id": "eng_ch07_1",
+      "title": "Flamingo Prose Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=LPiWaeK7MmE",
+      "duration": "4h 13m",
+      "author": "Anurag Sir VIJETA 2026"
+    },
+    {
+      "id": "eng_ch07_2",
+      "title": "Complete English in 1 Shot || PW",
+      "youtube_url": "https://www.youtube.com/watch?v=VyiGw_hWwEw",
+      "duration": "3h 11m",
+      "author": "Anurag Sir"
+    }
+  ]
+}

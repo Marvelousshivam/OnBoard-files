@@ -1,0 +1,29 @@
+{
+  "id": "pe_07",
+  "subject_id": "physical_education",
+  "number": 7,
+  "name": "Physiology & Injuries in Sports",
+  "folder": "physical_education/07_physiology_and_injuries_in_sports",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Physiological Factors Determining Fitness",
+    "Sports Injuries Classification",
+    "FIRST AID: PRICE / PRICER"
+  ],
+  "videos": [
+    {
+      "id": "pe_07_vid01",
+      "title": "Physiology & Injuries in Sports \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "pe_07_vid02",
+      "title": "Physiology & Injuries in Sports \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

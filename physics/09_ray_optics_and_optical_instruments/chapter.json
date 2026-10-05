@@ -1,0 +1,29 @@
+{
+  "id": "phy_09",
+  "subject_id": "physics",
+  "number": 9,
+  "name": "Ray Optics and Optical Instruments",
+  "folder": "physics/09_ray_optics_and_optical_instruments",
+  "weightage_marks": 9,
+  "key_topics": [
+    "Spherical Surface Refraction",
+    "Lens Maker's Formula",
+    "Astronomical Telescope"
+  ],
+  "videos": [
+    {
+      "id": "phy_09_vid01",
+      "title": "Ray Optics and Optical Instruments \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "phy_09_vid02",
+      "title": "Ray Optics and Optical Instruments \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

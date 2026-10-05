@@ -1,0 +1,29 @@
+{
+  "id": "bio_08",
+  "subject_id": "biology",
+  "number": 8,
+  "name": "Microbes in Human Welfare",
+  "folder": "biology/08_microbes_in_human_welfare",
+  "weightage_marks": 5,
+  "key_topics": [
+    "Household & Industrial Products",
+    "Sewage Treatment Plant",
+    "Biocontrol Agents & Biofertilizers"
+  ],
+  "videos": [
+    {
+      "id": "bio_08_vid01",
+      "title": "Microbes in Human Welfare \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "bio_08_vid02",
+      "title": "Microbes in Human Welfare \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

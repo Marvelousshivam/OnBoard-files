@@ -1,0 +1,29 @@
+{
+  "id": "eng_flam_05",
+  "subject_id": "english",
+  "number": 5,
+  "name": "Indigo",
+  "folder": "english/05_indigo",
+  "weightage_marks": 5,
+  "key_topics": [
+    "Rajkumar Shukla",
+    "Champaran Sharecroppers",
+    "Civil Disobedience Triumph"
+  ],
+  "videos": [
+    {
+      "id": "eng_ch05_1",
+      "title": "Indigo \u2014 Most Important Questions & Summary",
+      "youtube_url": "https://www.youtube.com/watch?v=jiQn2mAdZKY",
+      "duration": "25 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_ch05_2",
+      "title": "Flamingo Prose Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=LPiWaeK7MmE",
+      "duration": "4h 13m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

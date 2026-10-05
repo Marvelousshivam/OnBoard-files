@@ -1,0 +1,29 @@
+{
+  "id": "phy_12",
+  "subject_id": "physics",
+  "number": 12,
+  "name": "Atoms",
+  "folder": "physics/12_atoms",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Rutherford Model",
+    "Bohr Postulates",
+    "Hydrogen Spectrum Rydberg Formula"
+  ],
+  "videos": [
+    {
+      "id": "phy_12_vid01",
+      "title": "Atoms \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "phy_12_vid02",
+      "title": "Atoms \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

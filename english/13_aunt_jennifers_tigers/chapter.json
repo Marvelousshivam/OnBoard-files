@@ -1,0 +1,29 @@
+{
+  "id": "eng_poem_05",
+  "subject_id": "english",
+  "number": 13,
+  "name": "Aunt Jennifer's Tigers",
+  "folder": "english/13_aunt_jennifers_tigers",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Patriarchal oppression",
+    "Chivalric certainty",
+    "Massive weight of Uncle's wedding band"
+  ],
+  "videos": [
+    {
+      "id": "eng_p05_1",
+      "title": "Aunt Jennifer's Tigers \u2014 Explanations & Board Tricks",
+      "youtube_url": "https://www.youtube.com/watch?v=M4cpBdumrE8",
+      "duration": "17 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_p05_2",
+      "title": "Flamingo Poetry Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=4vTs1moBSUU",
+      "duration": "3h 10m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

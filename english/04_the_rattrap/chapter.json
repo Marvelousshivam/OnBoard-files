@@ -1,0 +1,29 @@
+{
+  "id": "eng_flam_04",
+  "subject_id": "english",
+  "number": 4,
+  "name": "The Rattrap",
+  "folder": "english/04_the_rattrap",
+  "weightage_marks": 5,
+  "key_topics": [
+    "Crofter's 30 kronor",
+    "Ramsjo Ironworks",
+    "Edla Willmansson's kindness"
+  ],
+  "videos": [
+    {
+      "id": "eng_ch04_1",
+      "title": "The Rattrap \u2014 Best Explanation + Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=XwoE0vR8qes",
+      "duration": "20 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_ch04_2",
+      "title": "Flamingo Prose Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=LPiWaeK7MmE",
+      "duration": "4h 13m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

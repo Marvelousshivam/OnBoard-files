@@ -1,0 +1,22 @@
+{
+  "id": "eng_vis_05",
+  "subject_id": "english",
+  "number": 18,
+  "name": "On the Face of It",
+  "folder": "english/18_on_the_face_of_it",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Derry's burned face",
+    "Mr. Lamb's tin leg & apple garden",
+    "Positive outlook on life"
+  ],
+  "videos": [
+    {
+      "id": "eng_vis_5",
+      "title": "On the Face of It \u2014 Theme & Summary",
+      "youtube_url": "https://www.youtube.com/watch?v=FLeSUqA12vo",
+      "duration": "3h 8m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bio_04",
+  "subject_id": "biology",
+  "number": 4,
+  "name": "Principles of Inheritance and Variation",
+  "folder": "biology/04_principles_of_inheritance_and_variation",
+  "weightage_marks": 8,
+  "key_topics": [
+    "Mendelian Crosses",
+    "Linkage & Recombination",
+    "Genetic Disorders"
+  ],
+  "videos": [
+    {
+      "id": "bio_04_vid01",
+      "title": "Principles of Inheritance and Variation \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "bio_04_vid02",
+      "title": "Principles of Inheritance and Variation \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "eng_vis_03",
+  "subject_id": "english",
+  "number": 16,
+  "name": "Journey to the End of the Earth",
+  "folder": "english/16_journey_to_the_end_of_the_earth",
+  "weightage_marks": 3,
+  "key_topics": [
+    "Antarctica expedition",
+    "Students on Ice program",
+    "Global warming impact"
+  ],
+  "videos": [
+    {
+      "id": "eng_vis_3",
+      "title": "Journey to the End of the Earth \u2014 Summary",
+      "youtube_url": "https://www.youtube.com/watch?v=FLeSUqA12vo",
+      "duration": "3h 8m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

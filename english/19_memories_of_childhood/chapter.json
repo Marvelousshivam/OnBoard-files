@@ -1,0 +1,22 @@
+{
+  "id": "eng_vis_06",
+  "subject_id": "english",
+  "number": 19,
+  "name": "Memories of Childhood",
+  "folder": "english/19_memories_of_childhood",
+  "weightage_marks": 4,
+  "key_topics": [
+    "The Cutting of My Long Hair (Zitkala-Sa)",
+    "We Too are Human Beings (Bama)",
+    "Caste & racial bias"
+  ],
+  "videos": [
+    {
+      "id": "eng_vis_6",
+      "title": "Memories of Childhood \u2014 Full Lesson",
+      "youtube_url": "https://www.youtube.com/watch?v=FLeSUqA12vo",
+      "duration": "3h 8m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

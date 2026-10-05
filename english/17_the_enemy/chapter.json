@@ -1,0 +1,22 @@
+{
+  "id": "eng_vis_04",
+  "subject_id": "english",
+  "number": 17,
+  "name": "The Enemy",
+  "folder": "english/17_the_enemy",
+  "weightage_marks": 5,
+  "key_topics": [
+    "Dr. Sadao Hoki & Hana",
+    "American POW Tom",
+    "Duty as doctor vs patriotism"
+  ],
+  "videos": [
+    {
+      "id": "eng_vis_4",
+      "title": "The Enemy \u2014 Detailed Character Study & Explanation",
+      "youtube_url": "https://www.youtube.com/watch?v=FLeSUqA12vo",
+      "duration": "3h 8m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

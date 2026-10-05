@@ -1,0 +1,28 @@
+{
+  "id": "phy_14",
+  "subject_id": "physics",
+  "number": 14,
+  "name": "Semiconductor Electronics",
+  "folder": "physics/14_semiconductor_electronics",
+  "weightage_marks": 7,
+  "key_topics": [
+    "p-n Junction Biasing",
+    "Full Wave Rectifier"
+  ],
+  "videos": [
+    {
+      "id": "phy_14_vid01",
+      "title": "Semiconductor Electronics \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "phy_14_vid02",
+      "title": "Semiconductor Electronics \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

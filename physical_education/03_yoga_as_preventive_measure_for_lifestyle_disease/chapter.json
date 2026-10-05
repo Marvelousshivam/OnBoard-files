@@ -1,0 +1,29 @@
+{
+  "id": "pe_03",
+  "subject_id": "physical_education",
+  "number": 3,
+  "name": "Yoga as Preventive Measure for Lifestyle Disease",
+  "folder": "physical_education/03_yoga_as_preventive_measure_for_lifestyle_disease",
+  "weightage_marks": 6,
+  "key_topics": [
+    "Obesity Asanas",
+    "Diabetes Asanas",
+    "Asthma & Hypertension Asanas"
+  ],
+  "videos": [
+    {
+      "id": "pe_03_vid01",
+      "title": "Yoga as Preventive Measure for Lifestyle Disease \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "pe_03_vid02",
+      "title": "Yoga as Preventive Measure for Lifestyle Disease \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

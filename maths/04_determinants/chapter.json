@@ -1,0 +1,28 @@
+{
+  "id": "math_04",
+  "subject_id": "maths",
+  "number": 4,
+  "name": "Determinants",
+  "folder": "maths/04_determinants",
+  "weightage_marks": 5,
+  "key_topics": [
+    "Adjoint & Inverse of Matrix",
+    "Solving Linear Equations using Inverse"
+  ],
+  "videos": [
+    {
+      "id": "math_04_vid01",
+      "title": "Determinants \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "math_04_vid02",
+      "title": "Determinants \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

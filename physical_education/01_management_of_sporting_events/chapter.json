@@ -1,0 +1,29 @@
+{
+  "id": "pe_01",
+  "subject_id": "physical_education",
+  "number": 1,
+  "name": "Management of Sporting Events",
+  "folder": "physical_education/01_management_of_sporting_events",
+  "weightage_marks": 5,
+  "key_topics": [
+    "Functions of Sports Management",
+    "Committees & Responsibilities",
+    "Fixtures: Knock-Out & League"
+  ],
+  "videos": [
+    {
+      "id": "pe_01_vid01",
+      "title": "Management of Sporting Events \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "pe_01_vid02",
+      "title": "Management of Sporting Events \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

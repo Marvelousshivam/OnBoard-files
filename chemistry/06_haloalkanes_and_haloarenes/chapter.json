@@ -1,0 +1,29 @@
+{
+  "id": "chem_06",
+  "subject_id": "chemistry",
+  "number": 6,
+  "name": "Haloalkanes and Haloarenes",
+  "folder": "chemistry/06_haloalkanes_and_haloarenes",
+  "weightage_marks": 6,
+  "key_topics": [
+    "SN1 vs SN2 Mechanisms",
+    "Sandmeyer Reaction",
+    "Swarts Reaction"
+  ],
+  "videos": [
+    {
+      "id": "chem_06_vid01",
+      "title": "Haloalkanes and Haloarenes \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "chem_06_vid02",
+      "title": "Haloalkanes and Haloarenes \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

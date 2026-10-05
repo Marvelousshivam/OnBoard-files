@@ -1,0 +1,29 @@
+{
+  "id": "chem_09",
+  "subject_id": "chemistry",
+  "number": 9,
+  "name": "Amines",
+  "folder": "chemistry/09_amines",
+  "weightage_marks": 6,
+  "key_topics": [
+    "Hoffmann Bromamide",
+    "Gabriel Phthalimide",
+    "Carbylamine Test"
+  ],
+  "videos": [
+    {
+      "id": "chem_09_vid01",
+      "title": "Amines \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "chem_09_vid02",
+      "title": "Amines \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

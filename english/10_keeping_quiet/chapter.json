@@ -1,0 +1,29 @@
+{
+  "id": "eng_poem_02",
+  "subject_id": "english",
+  "number": 10,
+  "name": "Keeping Quiet",
+  "folder": "english/10_keeping_quiet",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Introspection & silence",
+    "Counting to twelve",
+    "Earth teaches renewal"
+  ],
+  "videos": [
+    {
+      "id": "eng_p02_1",
+      "title": "Keeping Quiet \u2014 Detailed Explanation & Themes",
+      "youtube_url": "https://www.youtube.com/watch?v=SHGayrunu4M",
+      "duration": "16 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_p02_2",
+      "title": "Flamingo Poetry Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=4vTs1moBSUU",
+      "duration": "3h 10m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

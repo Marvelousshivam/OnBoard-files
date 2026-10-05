@@ -1,0 +1,29 @@
+{
+  "id": "chem_02",
+  "subject_id": "chemistry",
+  "number": 2,
+  "name": "Electrochemistry",
+  "folder": "chemistry/02_electrochemistry",
+  "weightage_marks": 9,
+  "key_topics": [
+    "Nernst Equation",
+    "Kohlrausch Law",
+    "Fuel Cells"
+  ],
+  "videos": [
+    {
+      "id": "chem_02_vid01",
+      "title": "Electrochemistry \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "chem_02_vid02",
+      "title": "Electrochemistry \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "eng_flam_03",
+  "subject_id": "english",
+  "number": 3,
+  "name": "Deep Water",
+  "folder": "english/03_deep_water",
+  "weightage_marks": 5,
+  "key_topics": [
+    "YMCA Pool incident",
+    "Overcoming hydrophobia with instructor"
+  ],
+  "videos": [
+    {
+      "id": "eng_ch03_1",
+      "title": "Deep Water \u2014 Summary, Questions & Notes",
+      "youtube_url": "https://www.youtube.com/watch?v=Yw2YlZDNpb0",
+      "duration": "15 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_ch03_2",
+      "title": "Flamingo Prose Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=LPiWaeK7MmE",
+      "duration": "4h 13m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "math_13",
+  "subject_id": "maths",
+  "number": 13,
+  "name": "Probability",
+  "folder": "maths/13_probability",
+  "weightage_marks": 8,
+  "key_topics": [
+    "Conditional Probability",
+    "Multiplication Rule",
+    "Bayes' Theorem"
+  ],
+  "videos": [
+    {
+      "id": "math_13_vid01",
+      "title": "Probability \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "math_13_vid02",
+      "title": "Probability \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

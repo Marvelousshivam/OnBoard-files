@@ -1,0 +1,29 @@
+{
+  "id": "phy_11",
+  "subject_id": "physics",
+  "number": 11,
+  "name": "Dual Nature of Radiation and Matter",
+  "folder": "physics/11_dual_nature_of_radiation_and_matter",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Photoelectric Effect",
+    "Einstein Equation",
+    "de Broglie Wavelength"
+  ],
+  "videos": [
+    {
+      "id": "phy_11_vid01",
+      "title": "Dual Nature of Radiation and Matter \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "phy_11_vid02",
+      "title": "Dual Nature of Radiation and Matter \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

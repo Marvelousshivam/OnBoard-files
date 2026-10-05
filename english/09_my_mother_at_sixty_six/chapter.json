@@ -1,0 +1,29 @@
+{
+  "id": "eng_poem_01",
+  "subject_id": "english",
+  "number": 9,
+  "name": "My Mother at Sixty-Six",
+  "folder": "english/09_my_mother_at_sixty_six",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Aging & filial duty",
+    "Winter's moon simile",
+    "Smile and smile and smile"
+  ],
+  "videos": [
+    {
+      "id": "eng_p01_1",
+      "title": "My Mother At Sixty Six \u2014 Detailed Explanation with PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=yTz0qfIqqTs",
+      "duration": "18 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_p01_2",
+      "title": "Flamingo Poetry Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=4vTs1moBSUU",
+      "duration": "3h 10m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

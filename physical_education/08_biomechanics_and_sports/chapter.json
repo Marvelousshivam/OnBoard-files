@@ -1,0 +1,29 @@
+{
+  "id": "pe_08",
+  "subject_id": "physical_education",
+  "number": 8,
+  "name": "Biomechanics and Sports",
+  "folder": "physical_education/08_biomechanics_and_sports",
+  "weightage_marks": 10,
+  "key_topics": [
+    "Newton's Laws of Motion in Sports",
+    "Equilibrium & Centre of Gravity",
+    "Friction & Projectile Trajectory"
+  ],
+  "videos": [
+    {
+      "id": "pe_08_vid01",
+      "title": "Biomechanics and Sports \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "pe_08_vid02",
+      "title": "Biomechanics and Sports \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

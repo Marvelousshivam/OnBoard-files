@@ -1,0 +1,28 @@
+{
+  "id": "math_06",
+  "subject_id": "maths",
+  "number": 6,
+  "name": "Application of Derivatives",
+  "folder": "maths/06_application_of_derivatives",
+  "weightage_marks": 6,
+  "key_topics": [
+    "Increasing/Decreasing Functions",
+    "Maxima and Minima"
+  ],
+  "videos": [
+    {
+      "id": "math_06_vid01",
+      "title": "Application of Derivatives \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "math_06_vid02",
+      "title": "Application of Derivatives \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

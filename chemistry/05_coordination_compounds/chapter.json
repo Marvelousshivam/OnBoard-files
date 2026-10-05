@@ -1,0 +1,29 @@
+{
+  "id": "chem_05",
+  "subject_id": "chemistry",
+  "number": 5,
+  "name": "Coordination Compounds",
+  "folder": "chemistry/05_coordination_compounds",
+  "weightage_marks": 7,
+  "key_topics": [
+    "IUPAC Nomenclature",
+    "Valence Bond Theory",
+    "Crystal Field Splitting"
+  ],
+  "videos": [
+    {
+      "id": "chem_05_vid01",
+      "title": "Coordination Compounds \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "chem_05_vid02",
+      "title": "Coordination Compounds \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

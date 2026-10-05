@@ -1,0 +1,29 @@
+{
+  "id": "eng_flam_08",
+  "subject_id": "english",
+  "number": 8,
+  "name": "Going Places",
+  "folder": "english/08_going_places",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Sophie's fantasies",
+    "Danny Casey hero worship",
+    "Jansie's realism"
+  ],
+  "videos": [
+    {
+      "id": "eng_ch08_1",
+      "title": "Going Places \u2014 Full Explanation With PYQ",
+      "youtube_url": "https://www.youtube.com/watch?v=wK7bu5YTRgM",
+      "duration": "22 mins",
+      "author": "Dear Sir"
+    },
+    {
+      "id": "eng_ch08_2",
+      "title": "Flamingo Prose Complete One-Shot Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=LPiWaeK7MmE",
+      "duration": "4h 13m",
+      "author": "Anurag Sir VIJETA 2026"
+    }
+  ]
+}

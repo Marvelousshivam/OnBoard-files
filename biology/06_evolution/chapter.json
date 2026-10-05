@@ -1,0 +1,29 @@
+{
+  "id": "bio_06",
+  "subject_id": "biology",
+  "number": 6,
+  "name": "Evolution",
+  "folder": "biology/06_evolution",
+  "weightage_marks": 4,
+  "key_topics": [
+    "Origin of Life",
+    "Darwinian Natural Selection",
+    "Hardy-Weinberg Principle"
+  ],
+  "videos": [
+    {
+      "id": "bio_06_vid01",
+      "title": "Evolution \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "bio_06_vid02",
+      "title": "Evolution \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pe_10",
+  "subject_id": "physical_education",
+  "number": 10,
+  "name": "Training in Sports",
+  "folder": "physical_education/10_training_in_sports",
+  "weightage_marks": 9,
+  "key_topics": [
+    "Talent Identification",
+    "Strength, Endurance & Speed Development",
+    "Circuit Training"
+  ],
+  "videos": [
+    {
+      "id": "pe_10_vid01",
+      "title": "Training in Sports \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "pe_10_vid02",
+      "title": "Training in Sports \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

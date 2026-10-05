@@ -1,0 +1,29 @@
+{
+  "id": "chem_01",
+  "subject_id": "chemistry",
+  "number": 1,
+  "name": "Solutions",
+  "folder": "chemistry/01_solutions",
+  "weightage_marks": 7,
+  "key_topics": [
+    "Raoult's Law",
+    "Colligative Properties",
+    "Van't Hoff Factor"
+  ],
+  "videos": [
+    {
+      "id": "chem_01_vid01",
+      "title": "Solutions \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "chem_01_vid02",
+      "title": "Solutions \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

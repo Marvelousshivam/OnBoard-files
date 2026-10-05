@@ -1,0 +1,29 @@
+{
+  "id": "phy_04",
+  "subject_id": "physics",
+  "number": 4,
+  "name": "Moving Charges and Magnetism",
+  "folder": "physics/04_moving_charges_and_magnetism",
+  "weightage_marks": 6,
+  "key_topics": [
+    "Biot-Savart Loop Axis",
+    "Ampere's Solenoid",
+    "Parallel Currents Force"
+  ],
+  "videos": [
+    {
+      "id": "phy_04_vid01",
+      "title": "Moving Charges and Magnetism \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "phy_04_vid02",
+      "title": "Moving Charges and Magnetism \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pe_05",
+  "subject_id": "physical_education",
+  "number": 5,
+  "name": "Sports & Nutrition",
+  "folder": "physical_education/05_sports_and_nutrition",
+  "weightage_marks": 7,
+  "key_topics": [
+    "Balanced Diet & Macro/Micro Nutrients",
+    "Nutritive vs Non-Nutritive Components",
+    "Eating Disorders"
+  ],
+  "videos": [
+    {
+      "id": "pe_05_vid01",
+      "title": "Sports & Nutrition \u2014 Complete One-Shot Board Revision",
+      "youtube_url": "https://www.youtube.com/watch?v=w1_wWcM-u9M",
+      "duration": "1 hr 15 mins",
+      "author": "CBSE Board Specialist"
+    },
+    {
+      "id": "pe_05_vid02",
+      "title": "Sports & Nutrition \u2014 High-Yield Derivations & Board PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "duration": "45 mins",
+      "author": "Board Prep Masterclass"
+    }
+  ]
+}
