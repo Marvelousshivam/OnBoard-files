@@ -10,5 +10,20 @@
     "Committees & Responsibilities",
     "Fixtures: Knock-Out & League"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "pe_ch01_1",
+      "title": "Management of Sporting Events — Unit 1 One-Shot with PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=oOQlTPCjHyc",
+      "duration": "51 mins",
+      "author": "Zaki Saudagar"
+    },
+    {
+      "id": "pe_ch01_2",
+      "title": "How to Draw Fixtures (Knockout, League & Combination Tournament)",
+      "youtube_url": "https://www.youtube.com/watch?v=9BVCgNSVvzc",
+      "duration": "1h 10m",
+      "author": "Zaki Saudagar"
+    }
+  ]
 }

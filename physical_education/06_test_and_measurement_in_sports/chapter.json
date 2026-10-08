@@ -10,5 +10,13 @@
     "Rikli & Jones Senior Citizen Test",
     "Basal Metabolic Rate"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "pe_ch06_1",
+      "title": "Test & Measurement in Sports — Unit 6 One-Shot with PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=PFDIcpe9I9Y",
+      "duration": "48 mins",
+      "author": "Zaki Saudagar"
+    }
+  ]
 }

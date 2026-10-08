@@ -10,5 +10,13 @@
     "Sports Injuries Classification",
     "FIRST AID: PRICE / PRICER"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "pe_ch07_1",
+      "title": "Physiology & Injuries in Sports — Unit 7 One-Shot with PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=f3ooYobT-ZE",
+      "duration": "38 mins",
+      "author": "Zaki Saudagar"
+    }
+  ]
 }

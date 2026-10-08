@@ -10,5 +10,13 @@
     "Diabetes Asanas",
     "Asthma & Hypertension Asanas"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "pe_ch03_1",
+      "title": "Yoga as Preventive Measures — Unit 3 One-Shot with PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=QlDOo4AEu7o",
+      "duration": "1h 15m",
+      "author": "Zaki Saudagar"
+    }
+  ]
 }

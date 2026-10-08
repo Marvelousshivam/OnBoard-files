@@ -10,5 +10,13 @@
     "Common Postural Deformities",
     "Female Athlete Triad"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "pe_ch02_1",
+      "title": "Children & Women in Sports — Unit 2 One-Shot with PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=_AhNBAjbYNI",
+      "duration": "1h 03m",
+      "author": "Zaki Saudagar"
+    }
+  ]
 }

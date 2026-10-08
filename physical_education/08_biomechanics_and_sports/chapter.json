@@ -10,5 +10,13 @@
     "Equilibrium & Centre of Gravity",
     "Friction & Projectile Trajectory"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "pe_ch08_1",
+      "title": "Biomechanics & Sports — Unit 8 One-Shot with PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=nZDjbciZtGY",
+      "duration": "38 mins",
+      "author": "Zaki Saudagar"
+    }
+  ]
 }

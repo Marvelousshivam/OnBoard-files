@@ -10,5 +10,13 @@
     "Concept of Inclusion",
     "Adaptive Sports & Special Olympics"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "pe_ch04_1",
+      "title": "PE & Sports for CWSN — Unit 4 One-Shot with PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=xDrvCGbGvok",
+      "duration": "43 mins",
+      "author": "Zaki Saudagar"
+    }
+  ]
 }

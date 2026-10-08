@@ -10,5 +10,13 @@
     "Nutritive vs Non-Nutritive Components",
     "Eating Disorders"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "pe_ch05_1",
+      "title": "Sports & Nutrition — Unit 5 One-Shot with PYQs",
+      "youtube_url": "https://www.youtube.com/watch?v=5_dB_wETsNs",
+      "duration": "51 mins",
+      "author": "Zaki Saudagar"
+    }
+  ]
 }
