@@ -9,5 +9,13 @@
     "Increasing/Decreasing Functions",
     "Maxima and Minima"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "mat_06_pw_oneshot",
+      "title": "APPLICATION OF DERIVATIVES in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+      "youtube_url": "https://www.youtube.com/watch?v=uVEOu40lYEY",
+      "duration": "145 mins",
+      "author": "12th Hackers (Physics Wallah)"
+    }
+  ]
 }

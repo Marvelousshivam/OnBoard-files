@@ -9,5 +9,13 @@
     "Area Under Simple Curves",
     "Area Bounded by Lines, Parabolas & Circles"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "mat_08_pw_oneshot",
+      "title": "APPLICATION OF INTERGRATION in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+      "youtube_url": "https://www.youtube.com/watch?v=-tcuZsZqXZk",
+      "duration": "91 mins",
+      "author": "12th Hackers (Physics Wallah)"
+    }
+  ]
 }

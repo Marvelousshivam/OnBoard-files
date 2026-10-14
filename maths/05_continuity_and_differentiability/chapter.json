@@ -10,5 +10,13 @@
     "Logarithmic Differentiation",
     "Parametric Equations"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "mat_05_pw_oneshot",
+      "title": "CONTINUITY  AND DIFFERENTIABILITY in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+      "youtube_url": "https://www.youtube.com/watch?v=cIxHoVCUN1M",
+      "duration": "145 mins",
+      "author": "12th Hackers (Physics Wallah)"
+    }
+  ]
 }

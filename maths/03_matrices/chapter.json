@@ -10,5 +10,13 @@
     "Symmetric & Skew Symmetric",
     "Elementary Transformations"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "mat_03_pw_oneshot",
+      "title": "MATRICES in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+      "youtube_url": "https://www.youtube.com/watch?v=2zHpum8F5RA",
+      "duration": "116 mins",
+      "author": "12th Hackers (Physics Wallah)"
+    }
+  ]
 }

@@ -10,5 +10,13 @@
     "Corner Point Graphical Method",
     "Bounded Feasible Region"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "mat_12_pw_oneshot",
+      "title": "LINEAR PROGRAMMING  in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+      "youtube_url": "https://www.youtube.com/watch?v=98ngGuFd9Vg",
+      "duration": "82 mins",
+      "author": "12th Hackers (Physics Wallah)"
+    }
+  ]
 }

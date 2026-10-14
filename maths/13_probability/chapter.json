@@ -10,5 +10,13 @@
     "Multiplication Rule",
     "Bayes' Theorem"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "mat_13_pw_oneshot",
+      "title": "PROBABILITY in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+      "youtube_url": "https://www.youtube.com/watch?v=_YJr2t_1NTU",
+      "duration": "143 mins",
+      "author": "12th Hackers (Physics Wallah)"
+    }
+  ]
 }

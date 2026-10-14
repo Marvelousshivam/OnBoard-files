@@ -9,5 +9,13 @@
     "Adjoint & Inverse of Matrix",
     "Solving Linear Equations using Inverse"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "mat_04_pw_oneshot",
+      "title": "DETERMINANTS in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+      "youtube_url": "https://www.youtube.com/watch?v=pafeee3O6u8",
+      "duration": "154 mins",
+      "author": "12th Hackers (Physics Wallah)"
+    }
+  ]
 }

@@ -10,5 +10,13 @@
     "Equation of Line in Space",
     "Shortest Distance Between Skew Lines"
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "mat_11_pw_oneshot",
+      "title": "THREE DIMENSIONAL GEOMETRY in ONE SHOT || Full Chapters || Class 12 BOARDS || PW",
+      "youtube_url": "https://www.youtube.com/watch?v=7ggiHx1dEok",
+      "duration": "130 mins",
+      "author": "12th Hackers (Physics Wallah)"
+    }
+  ]
 }
