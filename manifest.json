@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-10-08T16:27:09.154478+00:00",
+  "last_updated": "2026-10-14T03:17:50.734093+00:00",
   "base_raw_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main",
   "subjects": [
     {
@@ -1511,10 +1511,24 @@
             "Bijective Functions"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/01_relations_and_functions/ncert/ch01_relations_and_functions.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch01 Relations And Functions Notes",
+              "filename": "Ch01_Relations_and_Functions_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/01_relations_and_functions/notes/Ch01_Relations_and_Functions_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_01_pw_oneshot",
+              "title": "RELATIONS AND FUNCTIONS in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=a8YasMSWFvc",
+              "duration": "120 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_02",
@@ -1527,10 +1541,24 @@
             "Principal Value Branches"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/02_inverse_trigonometric_functions/ncert/ch02_inverse_trigonometric_functions.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch02 Inverse Trigonometric Functions Notes",
+              "filename": "Ch02_Inverse_Trigonometric_Functions_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/02_inverse_trigonometric_functions/notes/Ch02_Inverse_Trigonometric_Functions_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_02_pw_oneshot",
+              "title": "INVERSE TRIGONOMETRIC FUNCTIONS in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=4Aml6yd4tDY",
+              "duration": "87 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_03",
@@ -1545,10 +1573,24 @@
             "Elementary Transformations"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/03_matrices/ncert/ch03_matrices.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch03 Matrices Notes",
+              "filename": "Ch03_Matrices_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/03_matrices/notes/Ch03_Matrices_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_03_pw_oneshot",
+              "title": "MATRICES in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=2zHpum8F5RA",
+              "duration": "116 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_04",
@@ -1562,10 +1604,24 @@
             "Solving Linear Equations using Inverse"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/04_determinants/ncert/ch04_determinants.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch04 Determinants Notes",
+              "filename": "Ch04_Determinants_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/04_determinants/notes/Ch04_Determinants_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_04_pw_oneshot",
+              "title": "DETERMINANTS in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=pafeee3O6u8",
+              "duration": "154 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_05",
@@ -1580,10 +1636,24 @@
             "Parametric Equations"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/05_continuity_and_differentiability/ncert/ch05_continuity_and_differentiability.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch05 Continuity And Differentiability Notes",
+              "filename": "Ch05_Continuity_and_Differentiability_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/05_continuity_and_differentiability/notes/Ch05_Continuity_and_Differentiability_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_05_pw_oneshot",
+              "title": "CONTINUITY  AND DIFFERENTIABILITY in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=cIxHoVCUN1M",
+              "duration": "145 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_06",
@@ -1597,10 +1667,24 @@
             "Maxima and Minima"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/06_application_of_derivatives/ncert/ch06_application_of_derivatives.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch06 Application Of Derivatives Notes",
+              "filename": "Ch06_Application_of_Derivatives_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/06_application_of_derivatives/notes/Ch06_Application_of_Derivatives_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_06_pw_oneshot",
+              "title": "APPLICATION OF DERIVATIVES in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=uVEOu40lYEY",
+              "duration": "145 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_07",
@@ -1615,10 +1699,24 @@
             "Definite Integral Properties"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/07_integrals/ncert/ch07_integrals.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch07 Integrals Notes",
+              "filename": "Ch07_Integrals_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/07_integrals/notes/Ch07_Integrals_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_07_pw_oneshot",
+              "title": "INTEGRALS in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=dBglfhVX6kI",
+              "duration": "194 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_08",
@@ -1632,10 +1730,24 @@
             "Area Bounded by Lines, Parabolas & Circles"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/08_application_of_integrals/ncert/ch08_application_of_integrals.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch08 Application Of Integrals Notes",
+              "filename": "Ch08_Application_of_Integrals_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/08_application_of_integrals/notes/Ch08_Application_of_Integrals_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_08_pw_oneshot",
+              "title": "APPLICATION OF INTERGRATION in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=-tcuZsZqXZk",
+              "duration": "91 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_09",
@@ -1650,10 +1762,24 @@
             "Homogeneous & Linear DEs"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/09_differential_equations/ncert/ch09_differential_equations.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch09 Differential Equations Notes",
+              "filename": "Ch09_Differential_Equations_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/09_differential_equations/notes/Ch09_Differential_Equations_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_09_pw_oneshot",
+              "title": "DIFFERENTIAL EQUATIONS in ONE SHOT || Full Chapters || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=EEudvNSWzXE",
+              "duration": "108 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_10",
@@ -1668,10 +1794,24 @@
             "Scalar Triple Product"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/10_vector_algebra/ncert/ch10_vector_algebra.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch10 Vector Algebra Notes",
+              "filename": "Ch10_Vector_Algebra_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/10_vector_algebra/notes/Ch10_Vector_Algebra_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_10_pw_oneshot",
+              "title": "VECTORS in ONE SHOT || Full Chapters || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=B5Rq-af5R14",
+              "duration": "114 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_11",
@@ -1689,7 +1829,15 @@
           "notes": [],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_11_pw_oneshot",
+              "title": "THREE DIMENSIONAL GEOMETRY in ONE SHOT || Full Chapters || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=7ggiHx1dEok",
+              "duration": "130 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_12",
@@ -1704,10 +1852,24 @@
             "Bounded Feasible Region"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/12_linear_programming/ncert/ch12_linear_programming.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch12 Linear Programming Notes",
+              "filename": "Ch12_Linear_Programming_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/12_linear_programming/notes/Ch12_Linear_Programming_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_12_pw_oneshot",
+              "title": "LINEAR PROGRAMMING  in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=98ngGuFd9Vg",
+              "duration": "82 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         },
         {
           "id": "math_13",
@@ -1722,10 +1884,24 @@
             "Bayes' Theorem"
           ],
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/13_probability/ncert/ch13_probability.pdf",
-          "notes": [],
+          "notes": [
+            {
+              "title": "Ch13 Probability Notes",
+              "filename": "Ch13_Probability_Notes.pdf",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/maths/13_probability/notes/Ch13_Probability_Notes.pdf"
+            }
+          ],
           "dpps": [],
           "quizzes": [],
-          "videos": []
+          "videos": [
+            {
+              "id": "mat_13_pw_oneshot",
+              "title": "PROBABILITY in ONE SHOT || Full Chapter || Class 12 BOARDS || PW",
+              "youtube_url": "https://www.youtube.com/watch?v=_YJr2t_1NTU",
+              "duration": "143 mins",
+              "author": "12th Hackers (Physics Wallah)"
+            }
+          ]
         }
       ]
     },
