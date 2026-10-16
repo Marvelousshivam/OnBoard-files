@@ -34,9 +34,11 @@ OnBoard-files/
 ├── biology/
 │   ├── 01_sexual_reproduction_in_flowering_plants/
 │   └── ... (01 to 13)
-└── physical_education/
-    ├── 01_management_of_sporting_events/
-    └── ... (01 to 10)
+├── physical_education/
+│   ├── 01_management_of_sporting_events/
+│   └── ... (01 to 10)
+├── sample_papers/2027/           # Official CBSE 2026-27 SQPs, MS, and Additional Practice Papers (PQ & PQMS)
+└── question_banks/               # Official CBSE Question Banks (PDFs & Structured JSON Step Rubrics)
 ```
 
 ---

@@ -217,22 +217,92 @@ def generate():
 
         manifest["subjects"].append(subject_obj)
 
-    # Sample papers
+    # Sample papers & Practice Question Papers
     sample_papers = []
     sp_dir = os.path.join(REPO_ROOT, "sample_papers", "2027")
     if os.path.isdir(sp_dir):
         for f in sorted(os.listdir(sp_dir)):
             if f.lower().endswith(".pdf"):
-                sp_type = "Marking Scheme" if "-MS" in f else "Sample Question Paper"
-                sub_label = f.replace("-MS.pdf", "").replace("-SQP.pdf", "")
+                if "-PQMS2" in f:
+                    sp_type = "Additional Practice Marking Scheme (Set 2)"
+                    p_type = "ms"
+                    sub_label = f.replace("-PQMS2.pdf", "")
+                    pair_f = f.replace("-PQMS2.pdf", "-PQ2.pdf")
+                elif "-PQ2" in f:
+                    sp_type = "Additional Practice Question Paper (Set 2)"
+                    p_type = "sqp"
+                    sub_label = f.replace("-PQ2.pdf", "")
+                    pair_f = f.replace("-PQ2.pdf", "-PQMS2.pdf")
+                elif "-PQMS" in f:
+                    sp_type = "Additional Practice Marking Scheme (Set 1)"
+                    p_type = "ms"
+                    sub_label = f.replace("-PQMS.pdf", "")
+                    pair_f = f.replace("-PQMS.pdf", "-PQ.pdf")
+                elif "-PQ" in f:
+                    sp_type = "Additional Practice Question Paper (Set 1)"
+                    p_type = "sqp"
+                    sub_label = f.replace("-PQ.pdf", "")
+                    pair_f = f.replace("-PQ.pdf", "-PQMS.pdf")
+                elif "-MS" in f:
+                    sp_type = "Official Marking Scheme"
+                    p_type = "ms"
+                    sub_label = f.replace("-MS.pdf", "")
+                    pair_f = f.replace("-MS.pdf", "-SQP.pdf")
+                elif "-SQP" in f:
+                    sp_type = "Official Sample Question Paper"
+                    p_type = "sqp"
+                    sub_label = f.replace("-SQP.pdf", "")
+                    pair_f = f.replace("-SQP.pdf", "-MS.pdf")
+                else:
+                    sp_type = "Question Paper"
+                    p_type = "sqp"
+                    sub_label = os.path.splitext(f)[0]
+                    pair_f = ""
+
+                sub_map = {
+                    "Biology": "biology",
+                    "Chemistry": "chemistry",
+                    "EnglishCore": "english",
+                    "Maths": "maths",
+                    "PhysicalEducation": "physical_education",
+                    "Physics": "physics"
+                }
+                sub_id = sub_map.get(sub_label, sub_label.lower())
+
                 sample_papers.append({
                     "title": f"CBSE Class 12 2026-27 {sub_label} {sp_type}",
                     "filename": f,
                     "subject": sub_label,
-                    "type": "ms" if "-MS" in f else "sqp",
+                    "subjectId": sub_id,
+                    "type": p_type,
+                    "pair_filename": pair_f if os.path.exists(os.path.join(sp_dir, pair_f)) else "",
                     "url": f"{RAW_BASE_URL}/sample_papers/2027/{f}"
                 })
     manifest["sample_papers"] = sample_papers
+
+    # Official CBSE Question Banks
+    question_banks = []
+    qb_dir = os.path.join(REPO_ROOT, "question_banks")
+    if os.path.isdir(qb_dir):
+        qb_sub_map = {
+            "EnglishCoreXII.pdf": ("English Core", "english", "Class 12 English Core CBSE Official Question Bank"),
+            "MathematicsXII.pdf": ("Mathematics", "maths", "Class 12 Mathematics CBSE Official Question Bank"),
+            "ChemistryXII.pdf": ("Chemistry", "chemistry", "Class 12 Chemistry CBSE Official Question Bank"),
+            "PhysicalEducationXII.pdf": ("Physical Education", "physical_education", "Class 12 Physical Education CBSE Official Question Bank")
+        }
+        for f, (sub_name, sub_id, title) in qb_sub_map.items():
+            if os.path.exists(os.path.join(qb_dir, f)):
+                json_name = f"{sub_id}.json"
+                has_json = os.path.exists(os.path.join(qb_dir, json_name))
+                question_banks.append({
+                    "title": title,
+                    "filename": f,
+                    "subject": sub_name,
+                    "subjectId": sub_id,
+                    "pdf_url": f"{RAW_BASE_URL}/question_banks/{f}",
+                    "json_url": f"{RAW_BASE_URL}/question_banks/{json_name}" if has_json else ""
+                })
+    manifest["question_banks"] = question_banks
 
     # Write manifest.json
     out_path = os.path.join(REPO_ROOT, "manifest.json")
