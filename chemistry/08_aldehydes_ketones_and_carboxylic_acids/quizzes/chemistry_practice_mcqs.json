@@ -4,49 +4,35 @@
   "book": "CBSE Official Practice Questions",
   "chapter": "Aldehydes Ketones And Carboxylic Acids",
   "title": "Aldehydes Ketones And Carboxylic Acids - CBSE Official Practice DPP",
-  "total_questions": 3,
+  "total_questions": 2,
   "questions": [
     {
-      "id": "chemistry_pq1_q2",
+      "id": "chemistry_pq1_q14",
       "q_no": 1,
-      "question": "Two compounds M and N have the general formula CnH2nO but different structural \nformulae.  \ni) Compound N belongs to that homologous series where the first member contains 3 \ncarbon atoms. \nii) Compound M reacts with one equivalent of monohydric alcohol in the presence of \ndry hydrogen chloride to yield a hemiacetal. \n \nIdentify the homologous series to which compounds M and N belong to? \n(a) Both the compounds are aldehydes. \n(b) Compound M is an aldehyde and compound N is a ketone. \n(c) Both the compounds are ketones. \n(d) Compound N is an aldehyde and compound M is a ketone.",
+      "question": "Two statements are given below - one labeled Assertion (A) and the other labeled \nReason (R). \nAssertion (A): In acetaldehyde, the carbonyl carbon acts as a Lewis acid and the \ncarbonyl oxygen acts as a Lewis base.\nReason (R): Carbonyl compounds have substantial dipole moments. \nWhich of the following is correct?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Both A and R are true, and R is a correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, but R is false.",
+        "A is false, but R is true."
       ],
       "correct_option_index": 0,
       "correct_answer_letter": "A",
-      "explanation": "2 (b) Compound M is an aldehyde and compound N is a ketone."
-    },
-    {
-      "id": "chemistry_pq1_q4",
-      "q_no": 2,
-      "question": "What will be the change in the hybridisation of C when a nucleophile attacks the \nelectrophilic centre of the carbonyl group?  \n(a) sp2 to sp \n(b) sp3 to sp2 \n(c) sp3 to sp \n(d) sp2 to sp3",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correct_option_index": 0,
-      "correct_answer_letter": "A",
-      "explanation": "4 (d) sp2 to sp3"
+      "explanation": "14 (a) Both A and R are true, and R is a correct explanation of A."
     },
     {
       "id": "chemistry_pq2_q12",
-      "q_no": 3,
-      "question": "Which of the following reactions can be used to obtain benzaldehyde from benzene? \n (",
+      "q_no": 2,
+      "question": "Which of the following reactions can be used to obtain benzaldehyde from benzene?",
       "options": [
-        "Rosenmund’s Reduction  (b) Stephen’s  Reaction \n (c) Etard’s Reaction   (d) Gatterman-Koch Reaction",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Rosenmund’s Reduction",
+        "Stephen’s Reaction",
+        "Etard’s Reaction",
+        "Gatterman-Koch Reaction"
       ],
       "correct_option_index": 3,
       "correct_answer_letter": "D",
-      "explanation": "12. (d)  Gattermann-Koch reaction involves the conversion of benzene to benzaldehyde on reaction \n with CO and HCl.  Rest of the named reactions involve preparation of benzaldehyde from the \n different starting material."
+      "explanation": "12. (d) Gattermann-Koch reaction involves the conversion of benzene to benzaldehyde on reaction \n with CO and HCl. Rest of the named reactions involve preparation of benzaldehyde from the \n different starting material."
     }
   ]
 }

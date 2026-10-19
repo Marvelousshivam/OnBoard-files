@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-10-19T15:39:11.088424+00:00",
+  "last_updated": "2026-10-19T16:23:19.057432+00:00",
   "base_raw_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main",
   "subjects": [
     {
@@ -45,7 +45,7 @@
               "title": "The Last Lesson - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/01_the_last_lesson/quizzes/english_practice_mcqs.json",
-              "total_questions": 20
+              "total_questions": 12
             },
             {
               "id": "flamingo_ch01_dpp01",
@@ -118,7 +118,7 @@
               "title": "Lost Spring - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/02_lost_spring/quizzes/english_practice_mcqs.json",
-              "total_questions": 3
+              "total_questions": 8
             },
             {
               "id": "flamingo_ch02_dpp01",
@@ -186,6 +186,13 @@
             }
           ],
           "quizzes": [
+            {
+              "id": "english_practice_mcqs",
+              "title": "Deep Water - CBSE Official Practice DPP",
+              "filename": "english_practice_mcqs.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/03_deep_water/quizzes/english_practice_mcqs.json",
+              "total_questions": 8
+            },
             {
               "id": "flamingo_ch03_dpp01",
               "title": "Deep Water \u2014 Prose Chapter 3 - Part 1 DPP",
@@ -256,7 +263,7 @@
               "title": "The Rattrap - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/04_the_rattrap/quizzes/english_practice_mcqs.json",
-              "total_questions": 2
+              "total_questions": 11
             },
             {
               "id": "flamingo_ch04_dpp01",
@@ -317,7 +324,15 @@
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/05_indigo/dpp/ch05_indigo_dpp.pdf"
             }
           ],
-          "quizzes": [],
+          "quizzes": [
+            {
+              "id": "english_practice_mcqs",
+              "title": "Indigo - CBSE Official Practice DPP",
+              "filename": "english_practice_mcqs.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/05_indigo/quizzes/english_practice_mcqs.json",
+              "total_questions": 8
+            }
+          ],
           "videos": [
             {
               "id": "eng_ch05_1",
@@ -363,7 +378,15 @@
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/06_poets_and_pancakes/dpp/ch06_poets_and_pancakes_dpp.pdf"
             }
           ],
-          "quizzes": [],
+          "quizzes": [
+            {
+              "id": "english_practice_mcqs",
+              "title": "Poets And Pancakes - CBSE Official Practice DPP",
+              "filename": "english_practice_mcqs.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/06_poets_and_pancakes/quizzes/english_practice_mcqs.json",
+              "total_questions": 8
+            }
+          ],
           "videos": [
             {
               "id": "eng_ch06_1",
@@ -413,7 +436,7 @@
               "title": "The Interview - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/07_the_interview/quizzes/english_practice_mcqs.json",
-              "total_questions": 2
+              "total_questions": 12
             }
           ],
           "videos": [
@@ -460,7 +483,15 @@
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/08_going_places/dpp/ch08_going_places_dpp.pdf"
             }
           ],
-          "quizzes": [],
+          "quizzes": [
+            {
+              "id": "english_practice_mcqs",
+              "title": "Going Places - CBSE Official Practice DPP",
+              "filename": "english_practice_mcqs.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/08_going_places/quizzes/english_practice_mcqs.json",
+              "total_questions": 8
+            }
+          ],
           "videos": [
             {
               "id": "eng_ch08_1",
@@ -505,7 +536,7 @@
               "title": "My Mother At Sixty Six - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/09_my_mother_at_sixty_six/quizzes/english_practice_mcqs.json",
-              "total_questions": 4
+              "total_questions": 8
             },
             {
               "id": "flamingo_poem01_dpp01",
@@ -565,7 +596,7 @@
               "title": "Keeping Quiet - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/10_keeping_quiet/quizzes/english_practice_mcqs.json",
-              "total_questions": 4
+              "total_questions": 11
             },
             {
               "id": "flamingo_poem02_dpp01",
@@ -613,7 +644,7 @@
               "title": "A Thing Of Beauty - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/11_a_thing_of_beauty/quizzes/english_practice_mcqs.json",
-              "total_questions": 1
+              "total_questions": 8
             },
             {
               "id": "flamingo_poem03_dpp01",
@@ -667,7 +698,7 @@
               "title": "A Roadside Stand - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/12_a_roadside_stand/quizzes/english_practice_mcqs.json",
-              "total_questions": 1
+              "total_questions": 8
             },
             {
               "id": "flamingo_poem04_dpp01",
@@ -709,7 +740,15 @@
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/13_aunt_jennifers_tigers/ncert/poem05_aunt_jennifers_tigers.pdf",
           "notes": [],
           "dpps": [],
-          "quizzes": [],
+          "quizzes": [
+            {
+              "id": "english_practice_mcqs",
+              "title": "Aunt Jennifers Tigers - CBSE Official Practice DPP",
+              "filename": "english_practice_mcqs.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/13_aunt_jennifers_tigers/quizzes/english_practice_mcqs.json",
+              "total_questions": 11
+            }
+          ],
           "videos": [
             {
               "id": "eng_p05_1",
@@ -748,7 +787,7 @@
               "title": "The Third Level - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/14_the_third_level/quizzes/english_practice_mcqs.json",
-              "total_questions": 1
+              "total_questions": 12
             }
           ],
           "videos": [
@@ -782,7 +821,7 @@
               "title": "The Tiger King - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/15_the_tiger_king/quizzes/english_practice_mcqs.json",
-              "total_questions": 1
+              "total_questions": 7
             }
           ],
           "videos": [
@@ -816,7 +855,7 @@
               "title": "Journey To The End Of The Earth - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/16_journey_to_the_end_of_the_earth/quizzes/english_practice_mcqs.json",
-              "total_questions": 2
+              "total_questions": 8
             }
           ],
           "videos": [
@@ -844,7 +883,15 @@
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/17_the_enemy/ncert/ch04_the_enemy.pdf",
           "notes": [],
           "dpps": [],
-          "quizzes": [],
+          "quizzes": [
+            {
+              "id": "english_practice_mcqs",
+              "title": "The Enemy - CBSE Official Practice DPP",
+              "filename": "english_practice_mcqs.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/17_the_enemy/quizzes/english_practice_mcqs.json",
+              "total_questions": 8
+            }
+          ],
           "videos": [
             {
               "id": "eng_vis_4",
@@ -876,7 +923,7 @@
               "title": "On The Face Of It - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/18_on_the_face_of_it/quizzes/english_practice_mcqs.json",
-              "total_questions": 3
+              "total_questions": 12
             }
           ],
           "videos": [
@@ -910,7 +957,7 @@
               "title": "Memories Of Childhood - CBSE Official Practice DPP",
               "filename": "english_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/english/19_memories_of_childhood/quizzes/english_practice_mcqs.json",
-              "total_questions": 1
+              "total_questions": 11
             }
           ],
           "videos": [
@@ -978,7 +1025,7 @@
               "title": "Electric Charges And Fields - CBSE Official Practice DPP",
               "filename": "physics_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/physics/01_electric_charges_and_fields/quizzes/physics_practice_mcqs.json",
-              "total_questions": 13
+              "total_questions": 6
             }
           ],
           "videos": [
@@ -1072,7 +1119,7 @@
               "title": "Current Electricity - CBSE Official Practice DPP",
               "filename": "physics_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/physics/03_current_electricity/quizzes/physics_practice_mcqs.json",
-              "total_questions": 4
+              "total_questions": 2
             }
           ],
           "videos": [
@@ -1113,7 +1160,7 @@
               "title": "Moving Charges And Magnetism - CBSE Official Practice DPP",
               "filename": "physics_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/physics/04_moving_charges_and_magnetism/quizzes/physics_practice_mcqs.json",
-              "total_questions": 6
+              "total_questions": 5
             }
           ],
           "videos": [
@@ -1240,15 +1287,7 @@
             }
           ],
           "dpps": [],
-          "quizzes": [
-            {
-              "id": "physics_practice_mcqs",
-              "title": "Alternating Current - CBSE Official Practice DPP",
-              "filename": "physics_practice_mcqs.json",
-              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/physics/07_alternating_current/quizzes/physics_practice_mcqs.json",
-              "total_questions": 3
-            }
-          ],
+          "quizzes": [],
           "videos": [
             {
               "id": "phys_07_oneshot",
@@ -1418,7 +1457,7 @@
               "title": "Dual Nature Of Radiation And Matter - CBSE Official Practice DPP",
               "filename": "physics_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/physics/11_dual_nature_of_radiation_and_matter/quizzes/physics_practice_mcqs.json",
-              "total_questions": 2
+              "total_questions": 1
             }
           ],
           "videos": [
@@ -1465,7 +1504,7 @@
               "title": "Atoms - CBSE Official Practice DPP",
               "filename": "physics_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/physics/12_atoms/quizzes/physics_practice_mcqs.json",
-              "total_questions": 4
+              "total_questions": 1
             }
           ],
           "videos": [
@@ -1550,7 +1589,7 @@
               "title": "Semiconductor Electronics - CBSE Official Practice DPP",
               "filename": "physics_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/physics/14_semiconductor_electronics/quizzes/physics_practice_mcqs.json",
-              "total_questions": 2
+              "total_questions": 1
             }
           ],
           "videos": [
@@ -1608,7 +1647,7 @@
               "title": "Solutions - CBSE Official Practice DPP",
               "filename": "chemistry_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/chemistry/01_solutions/quizzes/chemistry_practice_mcqs.json",
-              "total_questions": 22
+              "total_questions": 13
             }
           ],
           "videos": [
@@ -1655,7 +1694,7 @@
               "title": "Electrochemistry - CBSE Official Practice DPP",
               "filename": "chemistry_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/chemistry/02_electrochemistry/quizzes/chemistry_practice_mcqs.json",
-              "total_questions": 3
+              "total_questions": 2
             }
           ],
           "videos": [
@@ -1788,7 +1827,7 @@
               "title": "Coordination Compounds - CBSE Official Practice DPP",
               "filename": "chemistry_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/chemistry/05_coordination_compounds/quizzes/chemistry_practice_mcqs.json",
-              "total_questions": 3
+              "total_questions": 1
             }
           ],
           "videos": [
@@ -1829,15 +1868,7 @@
             }
           ],
           "dpps": [],
-          "quizzes": [
-            {
-              "id": "chemistry_practice_mcqs",
-              "title": "Haloalkanes And Haloarenes - CBSE Official Practice DPP",
-              "filename": "chemistry_practice_mcqs.json",
-              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/chemistry/06_haloalkanes_and_haloarenes/quizzes/chemistry_practice_mcqs.json",
-              "total_questions": 1
-            }
-          ],
+          "quizzes": [],
           "videos": [
             {
               "id": "chem_06_oneshot",
@@ -1929,7 +1960,7 @@
               "title": "Aldehydes Ketones And Carboxylic Acids - CBSE Official Practice DPP",
               "filename": "chemistry_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/chemistry/08_aldehydes_ketones_and_carboxylic_acids/quizzes/chemistry_practice_mcqs.json",
-              "total_questions": 3
+              "total_questions": 2
             }
           ],
           "videos": [
@@ -2585,7 +2616,7 @@
               "title": "Sexual Reproduction In Flowering Plants - CBSE Official Practice DPP",
               "filename": "biology_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/01_sexual_reproduction_in_flowering_plants/quizzes/biology_practice_mcqs.json",
-              "total_questions": 15
+              "total_questions": 11
             }
           ],
           "videos": [
@@ -2687,13 +2718,6 @@
               "filename": "bio_02_dpp05.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/quizzes/bio_02_dpp05.json",
               "total_questions": 9
-            },
-            {
-              "id": "biology_practice_mcqs",
-              "title": "Human Reproduction - CBSE Official Practice DPP",
-              "filename": "biology_practice_mcqs.json",
-              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/02_human_reproduction/quizzes/biology_practice_mcqs.json",
-              "total_questions": 2
             }
           ],
           "videos": [
@@ -2771,13 +2795,6 @@
               "filename": "bio_03_dpp03.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/03_reproductive_health/quizzes/bio_03_dpp03.json",
               "total_questions": 10
-            },
-            {
-              "id": "biology_practice_mcqs",
-              "title": "Reproductive Health - CBSE Official Practice DPP",
-              "filename": "biology_practice_mcqs.json",
-              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/03_reproductive_health/quizzes/biology_practice_mcqs.json",
-              "total_questions": 1
             }
           ],
           "videos": [
@@ -2909,7 +2926,7 @@
               "title": "Principles Of Inheritance And Variation - CBSE Official Practice DPP",
               "filename": "biology_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/04_principles_of_inheritance_and_variation/quizzes/biology_practice_mcqs.json",
-              "total_questions": 3
+              "total_questions": 2
             }
           ],
           "videos": [
@@ -2956,7 +2973,7 @@
               "title": "Molecular Basis Of Inheritance - CBSE Official Practice DPP",
               "filename": "biology_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/05_molecular_basis_of_inheritance/quizzes/biology_practice_mcqs.json",
-              "total_questions": 4
+              "total_questions": 3
             }
           ],
           "videos": [
@@ -3052,7 +3069,7 @@
               "title": "Evolution - CBSE Official Practice DPP",
               "filename": "biology_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/06_evolution/quizzes/biology_practice_mcqs.json",
-              "total_questions": 4
+              "total_questions": 2
             }
           ],
           "videos": [
@@ -3191,7 +3208,7 @@
               "title": "Biotechnology Principles And Processes - CBSE Official Practice DPP",
               "filename": "biology_practice_mcqs.json",
               "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/biology/09_biotechnology_principles_and_processes/quizzes/biology_practice_mcqs.json",
-              "total_questions": 4
+              "total_questions": 2
             }
           ],
           "videos": [
@@ -3401,7 +3418,15 @@
           "ncert_pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/physical_education/01_management_of_sporting_events/ncert/physical_education_class12.pdf",
           "notes": [],
           "dpps": [],
-          "quizzes": [],
+          "quizzes": [
+            {
+              "id": "physical_education_practice_mcqs",
+              "title": "Management Of Sporting Events - CBSE Official Practice DPP",
+              "filename": "physical_education_practice_mcqs.json",
+              "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/physical_education/01_management_of_sporting_events/quizzes/physical_education_practice_mcqs.json",
+              "total_questions": 2
+            }
+          ],
           "videos": [
             {
               "id": "pe_ch01_1",

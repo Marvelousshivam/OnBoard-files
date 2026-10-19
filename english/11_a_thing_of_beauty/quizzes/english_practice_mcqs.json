@@ -4,21 +4,119 @@
   "book": "CBSE Official Practice Questions",
   "chapter": "A Thing Of Beauty",
   "title": "A Thing Of Beauty - CBSE Official Practice DPP",
-  "total_questions": 1,
+  "total_questions": 8,
   "questions": [
     {
-      "id": "english_pq1_q10",
+      "id": "eng_qb_11_a_thing_of_beauty_A_i",
       "q_no": 1,
-      "question": "Answer ANY FIVE of the following six questions in about 40-50 words 5x2=10 \ni The author of 'Poets and Pancakes' is extremely observant of people and their behaviour. \nSupport this statement with an example of a description he gives us about any one of the \ncharacters. \nii Why does Sophie's father look at Sophie with disdain in the following scene from 'Going \nPlaces'? \n \n\"Sophie's met Danny Casey\", Geoff said. \niii In the poem 'Aunt Jennifer's Tigers', why does the poet describe the tigers as 'bright \ntopaz denizens of a world of green'? \niv What were some strategies that helped the narrator to overcome his fear of water that one \ncan apply in their own life for facing any major fear? Explain any two. \n(Deep Water) \nv A crisis brings out our true capacity for compassion and kindness. \n \nSupport the above statement using M. Hamel from 'The Last Lesson' as an example. \nState any one detail from the text. \nvi Imagine that John Keats meets someone who is feeling sad. What advice would he give \nto such a person? State any one feature of beauty from 'A Thing of Beauty' and relate the \nadvice to it.",
+      "question": "[Extract Context: \"flowery band to bind us to the earth, \nSpite of despondence, of the inhuman dearth \nOf noble natures, of the gloomy days, \nOf all the unhealthy and o’er darkened ways \nMade for our searching: yes, in spite of all, \nSome shape of beauty moves away the...\"]\n\nIn which of the following options can the underlined words be replaced with \n‘despondence’?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "The man paced about the room showing restlessness.",
+        "A chat with a close friend can take away our blues.",
+        "I was in jitters, seeing the boy trapped in the trench,",
+        "Being dogged is what led him to negotiate the challenges."
       ],
       "correct_option_index": 0,
       "correct_answer_letter": "A",
-      "explanation": "Official CBSE answer key."
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_11_a_thing_of_beauty_A_ii",
+      "q_no": 2,
+      "question": "[Extract Context: \"flowery band to bind us to the earth, \nSpite of despondence, of the inhuman dearth \nOf noble natures, of the gloomy days, \nOf all the unhealthy and o’er darkened ways \nMade for our searching: yes, in spite of all, \nSome shape of beauty moves away the...\"]\n\nPick the option that is NOT an example of ‘unhealthy and o’er darkened ways.’",
+      "options": [
+        "A person who is egoistic and looks down upon others.",
+        "A person who seeks God’s help for all his problems.",
+        "A person who is uses evil ways to deceive others.",
+        "A person who is corrupt and manipulative."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_11_a_thing_of_beauty_A_iii",
+      "q_no": 3,
+      "question": "[Extract Context: \"flowery band to bind us to the earth, \nSpite of despondence, of the inhuman dearth \nOf noble natures, of the gloomy days, \nOf all the unhealthy and o’er darkened ways \nMade for our searching: yes, in spite of all, \nSome shape of beauty moves away the...\"]\n\nPick the option that enumerates what ‘noble natures’ would include. \n\n1. selflessness \n2. insensitivity \n3. enthusiasm \n4. aggression \n5. meticulousness \n6. judiciousness",
+      "options": [
+        "1, 4 and 5",
+        "2, 3 and 6",
+        "2, 4 and 5",
+        "1, 3 and 6"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_11_a_thing_of_beauty_A_iv",
+      "q_no": 4,
+      "question": "[Extract Context: \"flowery band to bind us to the earth, \nSpite of despondence, of the inhuman dearth \nOf noble natures, of the gloomy days, \nOf all the unhealthy and o’er darkened ways \nMade for our searching: yes, in spite of all, \nSome shape of beauty moves away the...\"]\n\nBased on the poem, choose the correct option with reference to the two \nstatements given below. \n\nStatement 1: The earth without the beautiful things is a place full of despair \nand unpleasantness. \nStatement 2: The ornate band created by human beings; ushers hope in their \nlives.",
+      "options": [
+        "Statement 1 is true but Statement 2 is false.",
+        "Statement 1 is false but Statement 2 is true.",
+        "Both Statement 1 and Statement 2 can be inferred.",
+        "Both Statement 1 and Statement 2 cannot be inferred."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_11_a_thing_of_beauty_B_i",
+      "q_no": 5,
+      "question": "[Extract Context: \"Rich with a sprinkling of fair musk-rose blooms; \nAnd such too is the grandeur of the dooms \nWe have imagined for the mighty dead; \nAll lovely tales that we have heard or read; \nAn endless fountain of immortal drink, \nPouring unto us from the heaven’...\"]\n\nPick the quote that matches best with— \n ‘And such too is the grandeur of the dooms we have imagined for the mighty \ndead.’",
+      "options": [
+        "In the night of death, hope sees a star, and listening love can hear the \nrustle of a wing.",
+        "When a great man dies, for years the light he leaves behind him, lies on \nthe paths of men.",
+        "Endings are not always bad, most times they’re just beginnings in \ndisguise.",
+        "Cowards die many times before their death; the valiant never taste of \ndeath but once."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_11_a_thing_of_beauty_B_ii",
+      "q_no": 6,
+      "question": "[Extract Context: \"Rich with a sprinkling of fair musk-rose blooms; \nAnd such too is the grandeur of the dooms \nWe have imagined for the mighty dead; \nAll lovely tales that we have heard or read; \nAn endless fountain of immortal drink, \nPouring unto us from the heaven’...\"]\n\nPick the option that refers to what ‘an endless fountain of immortal drink’ \nsuggests. \n\n1. inspirational deeds of great men \n2. a ceaseless series of dreams \n3. an infinite source of strength \n4. an elixir of life for upliftment of the soul \n5. an eternal source of delight \n6. a boundless gift of love",
+      "options": [
+        "1, 4 and 5",
+        "2, 3 and 5",
+        "1, 2 and 6",
+        "2, 4 and 6"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_11_a_thing_of_beauty_B_iii",
+      "q_no": 7,
+      "question": "[Extract Context: \"Rich with a sprinkling of fair musk-rose blooms; \nAnd such too is the grandeur of the dooms \nWe have imagined for the mighty dead; \nAll lovely tales that we have heard or read; \nAn endless fountain of immortal drink, \nPouring unto us from the heaven’...\"]\n\nPick the option that pairs the TRUE statements based on the extract, from the \nlist below. \n\n1. The bushes with fragrant flowers lift the human spirit and bring joy. \n2. Death is inevitable and everyone faces it no matter how powerful. \n3. Immortality is achieved by man when he drinks the nectar of joy. \n4. Legendary heroes and their heroic deeds instil inspiration in us.",
+      "options": [
+        "1 and 2",
+        "2 and 4",
+        "1 and 4",
+        "2 and 3"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_11_a_thing_of_beauty_B_iv",
+      "q_no": 8,
+      "question": "[Extract Context: \"Rich with a sprinkling of fair musk-rose blooms; \nAnd such too is the grandeur of the dooms \nWe have imagined for the mighty dead; \nAll lovely tales that we have heard or read; \nAn endless fountain of immortal drink, \nPouring unto us from the heaven’...\"]\n\nPick the option that uses the same literary device as the ‘mighty dead’.",
+      "options": [
+        "sleepless nights",
+        "deafening silence",
+        "glaring lights",
+        "time is a thief"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
     }
   ]
 }

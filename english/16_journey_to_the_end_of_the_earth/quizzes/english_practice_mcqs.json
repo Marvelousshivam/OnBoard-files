@@ -4,35 +4,119 @@
   "book": "CBSE Official Practice Questions",
   "chapter": "Journey To The End Of The Earth",
   "title": "Journey To The End Of The Earth - CBSE Official Practice DPP",
-  "total_questions": 2,
+  "total_questions": 8,
   "questions": [
     {
-      "id": "english_pq1_q11",
+      "id": "eng_qb_16_journey_to_the_end_of_the_earth_A_i",
       "q_no": 1,
-      "question": "Answer ANY TWO of the following three question, in about 40-50 words. 2x2=4 \n \nPage 15 of 16 \n \ni In the story, 'On the Face of It', what brings Derry and Mr Lamb together as friends? \nWhat can you conclude about friendships from this? \nii How would a student’s learning experience be enhanced in the 'Students on Ice' \nprogramme as compared to studying only in a classroom? Analyse any one point. \n(Journey to the End of the Earth) \niii With reference to 'The Enemy', describe any two ways in which Sadao's father \ninfluenced Sadao's life.",
+      "question": "[Extract Context: \"You lose all earthly sense of perspective and time here. The visual scale \nranges from the microscopic to the mighty : midges and mites to blue whales \nand icebergs as big as countries (the largest recorded was t he size of \nBelgium). Days go on and ...\"]\n\nThe ‘visual scale’ refers to",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "a measuring device",
+        "range of things one can see",
+        "visionary’s belief",
+        "the magnitude of preparation"
       ],
       "correct_option_index": 0,
       "correct_answer_letter": "A",
-      "explanation": "Official CBSE answer key."
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
     },
     {
-      "id": "english_pq2_q13",
+      "id": "eng_qb_16_journey_to_the_end_of_the_earth_A_ii",
       "q_no": 2,
-      "question": "Answer ANY ONE of the following two questions, in about 120-150 words. 5 \nA Tishani Doshi, in Journey to the End of the Earth, shares that the Students on Ice programme on the Shokalsky, \naims to take high school students to the ends of the world and provide them with inspiring educational  \nopportunities which will help them foster a new understanding and respect for our planet. \nAs one of the students of this programme, prepare a speech draft for a Press conference, on the kinds of  \neducational opportunities and how they are helping you contribute to fostering a new understanding. \nYou may begin this way – \nGreetings one and all. \nI stand before you today not just as a student but as a proud participant of the ‘Students on Ice’ programme, an \nexpedition that has been a transformative journey toward a profound understanding and respect for our planet. \n \nEnd the draft this way – \nThank you \n OR  \nB Derry has chosen to address the school assembly on the World Inclusion Day, using one of Mr. Lamb's Quotes- \nWhy is one green, growing plant called a weed and another ‘flower’? \nImagine you are Derry and write the speech draft. (On the Face of It) \n \nYou may begin like this: \nRespected Principal, esteemed faculty members, and my dear fellow students. \nToday, on the occasion of World Inclusion Day, I stand before you with a quote from someone who meant a \ngreat deal to me - Mr. Lamb. He once said, “Why is one green, growing plant called a weed and another \n‘flower’?”. I ...",
+      "question": "[Extract Context: \"You lose all earthly sense of perspective and time here. The visual scale \nranges from the microscopic to the mighty : midges and mites to blue whales \nand icebergs as big as countries (the largest recorded was t he size of \nBelgium). Days go on and ...\"]\n\nFour people give a reason for the author’s feeling while travelling. \nChoose the option that correctly summarizes it based on your understanding \nof the extract. \n\nPerson 1 Person 2 Person 3 Person 4 \nI think the \nauthor is being \nparanoid about \nleaving her \nhometown. \nAccording to \nme, she is \nbewildered by \nthe travel \nduration. \nAs far as I can \njudge, Tishani is \nbeing hypocritical \nbecause she is \ncomparing the two \nplaces. \nIn my opinion, \nshe is amazed \nby the grandeur \nof the icy region.",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Person 1",
+        "Person 2",
+        "Person 3",
+        "Person 4"
       ],
       "correct_option_index": 0,
       "correct_answer_letter": "A",
-      "explanation": "Official CBSE answer key."
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_16_journey_to_the_end_of_the_earth_A_iii",
+      "q_no": 3,
+      "question": "[Extract Context: \"You lose all earthly sense of perspective and time here. The visual scale \nranges from the microscopic to the mighty : midges and mites to blue whales \nand icebergs as big as countries (the largest recorded was t he size of \nBelgium). Days go on and ...\"]\n\nSelect the option that correctly fits the category of ‘microscopic to the mighty’ \nout of the ones given below. \n1. trace of a skin cell: trace of a bird’s egg \n2. a grain of rice: field of wheat \n3. a scoop of ice cream: an ice-cream cone \n4. a drop of water: Pacific Ocean",
+      "options": [
+        "1, 2",
+        "3, 4",
+        "1, 3",
+        "2, 4"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_16_journey_to_the_end_of_the_earth_A_iv",
+      "q_no": 4,
+      "question": "[Extract Context: \"You lose all earthly sense of perspective and time here. The visual scale \nranges from the microscopic to the mighty : midges and mites to blue whales \nand icebergs as big as countries (the largest recorded was t he size of \nBelgium). Days go on and ...\"]\n\nChoose the option listing the elements that influences one to think of earth’s \nphysicality. \n1. breakage of an iceberg from a glacier \n2. midges and mites \n3. a regular seen avalanche \n4. summer light in the Southern hemisphere",
+      "options": [
+        "1, 2",
+        "3, 4",
+        "1, 4",
+        "2, 3"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_16_journey_to_the_end_of_the_earth_B_i",
+      "q_no": 5,
+      "question": "[Extract Context: \"Students on Ice, the programme I was working with on the Shokalskiy, aims \nto do exactly this by taking high school students to the ends of the world and \nproviding them with inspiring educational opportunities which will help them \nfoster a new unde...\"]\n\nStudents on Ice is …………. headed by Geoff Green. Select the option to fill \nin the blank correctly.",
+      "options": [
+        "a travelogue",
+        "an expedition",
+        "a globetrotting",
+        "a tour"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_16_journey_to_the_end_of_the_earth_B_ii",
+      "q_no": 6,
+      "question": "[Extract Context: \"Students on Ice, the programme I was working with on the Shokalskiy, aims \nto do exactly this by taking high school students to the ends of the world and \nproviding them with inspiring educational opportunities which will help them \nfoster a new unde...\"]\n\nChoose the option that marks the ODD ONE OUT based on your reading of \nthe above extract.",
+      "options": [
+        "Sumit donates 10% of his monthly income to the environment-friendly \nNGOs.",
+        "Manmeet and her twin plant a new plant on their birthday every year.",
+        "Vivek invests in eco-friendly cosmetics that are packaged in plastic \ncontainers.",
+        "Afsana plans to device a machine that recycles the biodegradable \nwastes from home."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_16_journey_to_the_end_of_the_earth_B_iii",
+      "q_no": 7,
+      "question": "[Extract Context: \"Students on Ice, the programme I was working with on the Shokalskiy, aims \nto do exactly this by taking high school students to the ends of the world and \nproviding them with inspiring educational opportunities which will help them \nfoster a new unde...\"]\n\nPick the option that characterizes the celebrities based on your \nunderstanding of the extract. \n1. overachiever \n2. zealous \n3. miserly \n4. impassive",
+      "options": [
+        "1, 2",
+        "3, 4",
+        "1, 3",
+        "2, 4"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_16_journey_to_the_end_of_the_earth_B_iv",
+      "q_no": 8,
+      "question": "[Extract Context: \"Students on Ice, the programme I was working with on the Shokalskiy, aims \nto do exactly this by taking high school students to the ends of the world and \nproviding them with inspiring educational opportunities which will help them \nfoster a new unde...\"]\n\nChoose the option that lists the reasons for Green’s programme. \n1. making youngsters realize the gory reality of the planet. \n2. provoking the youth to think about the future earnestly. \n3. giving a chance of exploring the north pole to the young generation \n4. providing travel opportunities to students that were unfortunate.",
+      "options": [
+        "1, 2",
+        "3, 4",
+        "1, 3",
+        "2, 4"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
     }
   ]
 }

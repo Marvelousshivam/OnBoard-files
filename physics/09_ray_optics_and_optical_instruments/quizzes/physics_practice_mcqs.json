@@ -9,12 +9,12 @@
     {
       "id": "physics_pq2_q7",
       "q_no": 1,
-      "question": "A point object is placed at the centre of a glass sphere of radius 6cm and refractive index 1.5. The \ndistance of virtual image from the surface of the sphere is    \n(",
+      "question": "A point object is placed at the centre of a glass sphere of radius 6cm and refractive index 1.5. The \ndistance of virtual image from the surface of the sphere is",
       "options": [
-        "2cm              (b) 4 cm                   (c)  6 cm                     (d)   12 cm.",
-        "Option B",
-        "Option C",
-        "Option D"
+        "2cm",
+        "4 cm",
+        "6 cm",
+        "12 cm."
       ],
       "correct_option_index": 2,
       "correct_answer_letter": "C",

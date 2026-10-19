@@ -9,7 +9,7 @@
     {
       "id": "physics_pq1_q6",
       "q_no": 1,
-      "question": "A rod when suspended in a uniform magnetic field aligns itself perpendicular \nto the magnetic field as shown below. \n \n \n \nWhich of the following statements is/are true for the rod? \nP) Every atom in the rod, has a zero magnetic moment. \nQ) The rod is attracted when taken near the poles of a strong magnet. \nR) The relative permeability of the material of the rod is slightly less than 1. \nS) The susceptibility of the material of the rod is directly proportional to \ntemperature.",
+      "question": "A rod when suspended in a uniform magnetic field aligns itself perpendicular \nto the magnetic field as shown below. \n\nWhich of the following statements is/are true for the rod? \nP) Every atom in the rod, has a zero magnetic moment. \nQ) The rod is attracted when taken near the poles of a strong magnet. \nR) The relative permeability of the material of the rod is slightly less than 1. \nS) The susceptibility of the material of the rod is directly proportional to \ntemperature.",
       "options": [
         "only Q",
         "only P and R",
@@ -23,12 +23,12 @@
     {
       "id": "physics_pq2_q4",
       "q_no": 2,
-      "question": "A steel wire of length L and magnetic dipole moment M is bent in the shape of a semicircle. Now \nits new magnetic moment will be  \n        (",
+      "question": "A steel wire of length L and magnetic dipole moment M is bent in the shape of a semicircle. Now \nits new magnetic moment will be",
       "options": [
-        "M                      (b) 2M /π             (c) M /π                     (d) M π",
-        "Option B",
-        "Option C",
-        "Option D"
+        "M",
+        "2M /π",
+        "M /π",
+        "M π"
       ],
       "correct_option_index": 1,
       "correct_answer_letter": "B",

@@ -4,21 +4,119 @@
   "book": "CBSE Official Practice Questions",
   "chapter": "A Roadside Stand",
   "title": "A Roadside Stand - CBSE Official Practice DPP",
-  "total_questions": 1,
+  "total_questions": 8,
   "questions": [
     {
-      "id": "english_pq2_q3",
+      "id": "eng_qb_12_a_roadside_stand_A_i",
       "q_no": 1,
-      "question": "of 13  \n2. Read the following text. 10 m \n(1) Zebras are known for their distinctive black and white stripes. The intriguing enigma of these stripes lies in \ntheir function and nature. Specifically, two scientific studies have sought to understand the purpose and \nunderlying mechanisms of zebras' unique stripes. \n(2) Study 1- The Case of Alison & Stephen Cobb's Study: \n(Published in The Journal of Natural History, Volume 53, Issue 13-14) \n \ni) Researcher couple, Alison and Stephen Cobb, conducted an experiment that explored the idea of  \nzebras' stripes helping to keep them cool and shared that thermoregulation was the primary function  \nof zebra stripes. \nii) They measured the temperatures of black and white stripes on two zebras, throughout separate sunny \ndays in Kenya. There was a 12 –15oC difference between zebras’ stripe temperatures throughout the  \nmiddle seven daytime hours. \niii) They shared that the movement of sweat away from the skin is accelerated by the surfact ant equid \nprotein -latherin - a vital component of cooling in racehorses. \niv) They noted that latherin decreases the surface tension of the sweat, facilitating evaporative cooling at \nthe hair tips. \nv) Their theory was that the abrupt temperature difference between the stripes causes chaotic air \nmovement above the hair surface, thus enhancing evaporative heat dissipation. \n(3) Study -2 The Case of Prof. Tim Caro's Experiment: \n(Published in The Journal of Experimental Biology, Volume 226, Issue 4) \n \ni) Prof. Caro and four other researchers investigated what deters horseflies from landing on zebras. \nii) Their experiment involved close-up observations of fly behaviour around zebras. They also observed \nthe flies' interactions with domestic horses, some of which were dressed in striped jackets, and others \nleft without. \niii) The results of the study showed that flies approached all three groups —the zebras, the horses with  \nstriped jackets, and the plain horses—similarly. However, they behaved differently around the zebras \nand the horses with striped jackets. Flies approaching these animals merely bounced off, whereas they \ncould land on plain horses. \niv) The researchers concluded that the sharply outlined and thin stripes are the deterrent to horseflies as \nit is the occurrence of only large monochrome dark patches that are highly attractive to horseflies at \nclose distances. \n[Created for academic usage / 350 words] \nAnswer the following questions, based on given passage. \ni What might be the MOST likely purpose of the author’s use of \"intriguing enigma”, while referring \nto the zebra stripes? \n1 \nii Supply the response to the following, in a phrase, from (2) of the text given above. \nAccording to the Cobb's study, what is the relation between zebras' stripes and thermoregulation? \n1 \niii Complete the sentence with an appropriate inference. \nThe choice of \"middle...daytime hours\" is likely driven by the need to study zebras under the \ncondition of . \n1",
+      "question": "[Extract Context: \"No, in country money, the country scale of gain, \nThe requisite lift of spirit has never been found, \nOr so the voice of the country seems to complain, \nI can’t help owning the great relief it would be \nTo put these people at one stroke out of their ...\"]\n\nThe ‘country money’ contextually here refers to",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "money kept aside for the rural development.",
+        "wealth accumulated by the whole country.",
+        "meagre income earned by the countryside people.",
+        "riches collected by the ancestral farmers over time."
       ],
       "correct_option_index": 0,
       "correct_answer_letter": "A",
-      "explanation": "Official CBSE answer key."
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_12_a_roadside_stand_A_ii",
+      "q_no": 2,
+      "question": "[Extract Context: \"No, in country money, the country scale of gain, \nThe requisite lift of spirit has never been found, \nOr so the voice of the country seems to complain, \nI can’t help owning the great relief it would be \nTo put these people at one stroke out of their ...\"]\n\nPick the option that mentions elements justifying monetary aspect as the \n‘requisite lift of spirit’. \n\n1. confidence \n2. ego \n3. self-esteem \n4. status \n5. fame",
+      "options": [
+        "1, 2, 4",
+        "2, 4, 5",
+        "1, 3, 4",
+        "1, 3, 5"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_12_a_roadside_stand_A_iii",
+      "q_no": 3,
+      "question": "[Extract Context: \"No, in country money, the country scale of gain, \nThe requisite lift of spirit has never been found, \nOr so the voice of the country seems to complain, \nI can’t help owning the great relief it would be \nTo put these people at one stroke out of their ...\"]\n\nChoose the correct option with respect to the two statements given below. \n\nStatement 1: The poet is agitated and depressed. \nStatement 2: The poet realizes the futility of his thought about giving up.",
+      "options": [
+        "Statement 1 can be inferred but Statement 2 cannot be inferred.",
+        "Statement 1 cannot be inferred but Statement 2 can be inferred.",
+        "Statement 1 and Statement 2 can be inferred.",
+        "Statement 1 and Statement 2 cannot be inferred."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_12_a_roadside_stand_A_iv",
+      "q_no": 4,
+      "question": "[Extract Context: \"No, in country money, the country scale of gain, \nThe requisite lift of spirit has never been found, \nOr so the voice of the country seems to complain, \nI can’t help owning the great relief it would be \nTo put these people at one stroke out of their ...\"]\n\nChoose the option that correctly paraphrases the given lines from the above \nextract. \n\n“I can’t help owning the great relief it would be \nTo put these people at one stroke out of their pain.”",
+      "options": [
+        "The poet wants to kill the impoverished people.",
+        "The poet feels that death is better than living such a miserable life.",
+        "The poet wants to eliminate poverty from the society.",
+        "The poet states that it is important that these people become rich."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_12_a_roadside_stand_B_i",
+      "q_no": 5,
+      "question": "[Extract Context: \"The polished traffic passed with a mind ahead, \nOr if ever aside a moment, then out of sorts \nAt having the landscape marred with the artless paint \nOf signs that with N turned wrong and S turned wrong…\"]\n\nThe polished traffic in particular refers to the",
+      "options": [
+        "sophisticated city dwellers in their vehicles.",
+        "shiny cars that the poet sees on the road.",
+        "extremely affluent people living in the neighbourhood.",
+        "civilized manner in which traffic is coordinated."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_12_a_roadside_stand_B_ii",
+      "q_no": 6,
+      "question": "[Extract Context: \"The polished traffic passed with a mind ahead, \nOr if ever aside a moment, then out of sorts \nAt having the landscape marred with the artless paint \nOf signs that with N turned wrong and S turned wrong…\"]\n\n‘The urban and educated people have their minds ahead.’ \n\nChoose the option suggesting the correct meaning behind this line.",
+      "options": [
+        "Option 1",
+        "Option 2",
+        "Option 3",
+        "Option 4"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_12_a_roadside_stand_B_iii",
+      "q_no": 7,
+      "question": "[Extract Context: \"The polished traffic passed with a mind ahead, \nOr if ever aside a moment, then out of sorts \nAt having the landscape marred with the artless paint \nOf signs that with N turned wrong and S turned wrong…\"]\n\nWhat do the urban rich feel about the S and N signs that have been painted \nwrong?",
+      "options": [
+        "Tolerant",
+        "Amused",
+        "Sympathetic",
+        "Annoyed"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_12_a_roadside_stand_B_iv",
+      "q_no": 8,
+      "question": "[Extract Context: \"The polished traffic passed with a mind ahead, \nOr if ever aside a moment, then out of sorts \nAt having the landscape marred with the artless paint \nOf signs that with N turned wrong and S turned wrong…\"]\n\nThe passers-by find the sign artless but the landscape ___________.",
+      "options": [
+        "animated",
+        "aesthetic",
+        "amusing",
+        "ancient"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
     }
   ]
 }

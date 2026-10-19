@@ -9,12 +9,12 @@
     {
       "id": "physics_pq2_q1",
       "q_no": 1,
-      "question": "Two parallel plate capacitors X and Y have the same area of plates and same  separation \nbetween plates, X has air and Y has dielectric of constant 2, between its plates. They are \nconnected in series to a battery of 12V. The ratio of electrostatic energy stored in X and Y is                                                                                                                                    \n(",
+      "question": "Two parallel plate capacitors X and Y have the same area of plates and same separation \nbetween plates, X has air and Y has dielectric of constant 2, between its plates. They are \nconnected in series to a battery of 12V. The ratio of electrostatic energy stored in X and Y is",
       "options": [
-        "4 : 1 (b) 1 : 4 (c) 2 : 1      (d) 1 : 2",
-        "Option B",
-        "Option C",
-        "Option D"
+        "4 : 1",
+        "1 : 4",
+        "2 : 1",
+        "1 : 2"
       ],
       "correct_option_index": 2,
       "correct_answer_letter": "C",
@@ -23,12 +23,12 @@
     {
       "id": "physics_pq2_q10",
       "q_no": 2,
-      "question": "The network shown in figure is part of a complete circuit. If at a certain instant the current I is 5A \nand is decreasing at a rate of 103 A/s, then what is the potential difference between the points A \nand B? \n                          \n  \n(",
+      "question": "The network shown in figure is part of a complete circuit. If at a certain instant the current I is 5A \nand is decreasing at a rate of 103 A/s, then what is the potential difference between the points A \nand B?",
       "options": [
-        "15V                   (b) -15V                      (c)   -5V                            (d) +5V",
-        "Option B",
-        "Option C",
-        "Option D"
+        "15V",
+        "-15V",
+        "-5V",
+        "+5V"
       ],
       "correct_option_index": 1,
       "correct_answer_letter": "B",

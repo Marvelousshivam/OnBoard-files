@@ -4,35 +4,175 @@
   "book": "CBSE Official Practice Questions",
   "chapter": "The Interview",
   "title": "The Interview - CBSE Official Practice DPP",
-  "total_questions": 2,
+  "total_questions": 12,
   "questions": [
     {
-      "id": "english_pq2_q9",
+      "id": "eng_qb_07_the_interview_A_i",
       "q_no": 1,
-      "question": "of 13  \niv List any ONE way how Mr. Lamb's response, \"Tin doesn’t hurt, boy!\" contributes to his \ncharacterisation. \n1 \n9. Read the given extracts and answer the questions for ANY ONE of the two, given. 6 \nA Saul Bellow, who has consented to be interviewed on several occasions, nevertheless once described interviews \nas being like thumbprints on his  windpipe. Yet despite the drawbacks of the interview, it is a supremely  \nserviceable medium of communication. “These days, more than at any other time, our most vivid impressions  \nof our contemporaries are through interviews,” Denis Brian has  written. “Almost everything of moment  \nreaches us through one man asking questions of another. Because of this, the interviewer holds a position of  \nunprecedented power and influence.” \n(The Interview I) \ni Completely the following appropriately. \nSaul Bellow's comparison of interviews to \"thumbprints on his windpipe”, implies . \n1 \nii What is complex and multifaceted about the dual nature of the interview process? 1 \niii Select the option that DOES NOT correspond with the view that an interview is “a supremely \nserviceable medium of communication”.",
+      "question": "[Extract Context: \"Maybe I give the impression of doing many things. But i n the end, I am \nconvinced I am always doing the same thing… And then I have a secret. Did \nyou know what will happen i f you eliminate the e mpty spaces from the \nuniverse, eliminate the empty ...\"]\n\nRead the questions given below. Imagine they were interjections raised by \nthe interviewer based on the above extr act. Choose the option that correctly \ndescribes the given questions. \n\n(i) If you are “alway s doing the same thing”, isn’t your work lackin g in \noriginality? \n(ii) Could you elaborate on these larger ethical, philosophical int erests that \ninform your work? \n(iii) All writing happens in empty spaces. In fact, why don’t I tell you all about \nmy experiences?",
       "options": [
-        "highly effective",
-        "a tool for training",
-        "versatile",
-        "impactful"
-      ],
-      "correct_option_index": 0,
-      "correct_answer_letter": "A",
-      "explanation": "Official CBSE answer key."
-    },
-    {
-      "id": "english_pq1_q9_iv",
-      "q_no": 2,
-      "question": "Which of these uses 'just' in the same way as the following expression in the \nextract? \n \n'a just horror of the interviewer'",
-      "options": [
-        "The just decision in the case against the criminal will empower us.",
-        "I just need to buy one pencil so we can go shopping tomorrow.",
-        "We will get back to you on this query in just a moment.",
-        "The little girl looks just like her mother. \n1"
+        "(i) is not relevant; (ii) is appropriate; and (iii) is unnecessary",
+        "(i) is appropriate; (ii) is repetitive; and (iii) is useful information",
+        "(i) is inappropriate; (ii) is relevant; and (iii) is not relevant",
+        "(i) is unnecessary; (ii) is intrusive; and (iii) is extrapolatory"
       ],
       "correct_option_index": 2,
       "correct_answer_letter": "C",
-      "explanation": "CBSE English Core Practice Paper (PQ1) Marking Scheme: Option C."
+      "explanation": "CBSE Official Question Bank Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_A_ii",
+      "q_no": 2,
+      "question": "[Extract Context: \"Maybe I give the impression of doing many things. But i n the end, I am \nconvinced I am always doing the same thing… And then I have a secret. Did \nyou know what will happen i f you eliminate the e mpty spaces from the \nuniverse, eliminate the empty ...\"]\n\nBased on your reading of Part I of ‘The Interview’, which one of the following \nmay NOT be an appropriate title to the above extract?",
+      "options": [
+        "The Empty Spaces of Umberto Eco",
+        "Big Exposé: Eco’s Secret Revealed!",
+        "“I am always doing the same thing”: Eco’s Echoes",
+        "Umberto Eco, Mr. Prolific!"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (B)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_A_iii",
+      "q_no": 3,
+      "question": "[Extract Context: \"Maybe I give the impression of doing many things. But i n the end, I am \nconvinced I am always doing the same thing… And then I have a secret. Did \nyou know what will happen i f you eliminate the e mpty spaces from the \nuniverse, eliminate the empty ...\"]\n\n“I work in empty spaces ”. Choose the option that most accurately captures \nEco’s idea of empty spaces. \n\n(i) management of time (ii) organization of space \n(iii) philosophical inclination (iv) command of thought",
+      "options": [
+        "Options (i) and (ii)",
+        "Options (iii) and (iv)",
+        "Options (i) and (iii)",
+        "Options (ii) and (iv)"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_A_iv",
+      "q_no": 4,
+      "question": "[Extract Context: \"Maybe I give the impression of doing many things. But i n the end, I am \nconvinced I am always doing the same thing… And then I have a secret. Did \nyou know what will happen i f you eliminate the e mpty spaces from the \nuniverse, eliminate the empty ...\"]\n\nUmberto Eco states that ‘ empty spaces’ actual ly fi ll spaces, and without \nthem the universe wo uld be the size of the human fist. He also goes on to \nsay that it is in an interstice such as waiting, which the dictionary defines as \na time for pause, that he works. That is, passive waiting is essentially active \nwriting time. Choose the literary device that best describes what Eco does\nwith the concepts of ‘empty spaces’ and ‘waiting’.",
+      "options": [
+        "juxtaposition",
+        "irony",
+        "oxymoron",
+        "symbolism"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (B)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_B_i",
+      "q_no": 5,
+      "question": "[Extract Context: \"Saul Bellow, who has con sented to be intervie wed on several occas ions, \nnevertheless once described interviews as being like thumbprints on his \nwindpipe. Yet despite the drawbacks of the interview, it is a supremely \nserviceable medium of communi...\"]\n\nHow would you describe Denis Brian’s opinion on inter views? Choose the \nmost appropriate option. \n\n(i) appeasing (ii) utilitarian (iii) approving (iv) praising",
+      "options": [
+        "Options (i) and (ii)",
+        "Options (iii) and (iv)",
+        "Options (ii) and (iii)",
+        "Options (i) and (iv)"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_B_ii",
+      "q_no": 6,
+      "question": "[Extract Context: \"Saul Bellow, who has con sented to be intervie wed on several occas ions, \nnevertheless once described interviews as being like thumbprints on his \nwindpipe. Yet despite the drawbacks of the interview, it is a supremely \nserviceable medium of communi...\"]\n\nAccording to Saul Bellow, interviews are like thumbprints on his windpipe. \nWhat emotion might best describe such an image?",
+      "options": [
+        "sadness",
+        "frustration",
+        "pain",
+        "fear"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_B_iii",
+      "q_no": 7,
+      "question": "[Extract Context: \"Saul Bellow, who has con sented to be intervie wed on several occas ions, \nnevertheless once described interviews as being like thumbprints on his \nwindpipe. Yet despite the drawbacks of the interview, it is a supremely \nserviceable medium of communi...\"]\n\nDenis Brian states that the interv iewer occupies a posi tion of power and \ninfluence as ___________",
+      "options": [
+        "everything reaches us through one man asking questions of another.",
+        "the interview is a supremely serviceable medium of communication.",
+        "our most vivid impressions of our contemporaries are through interviews.",
+        "interviews are like thumbprints on the interviewee’s windpipe."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_B_iv",
+      "q_no": 8,
+      "question": "[Extract Context: \"Saul Bellow, who has con sented to be intervie wed on several occas ions, \nnevertheless once described interviews as being like thumbprints on his \nwindpipe. Yet despite the drawbacks of the interview, it is a supremely \nserviceable medium of communi...\"]\n\nThe use of the word “serviceable” implies that interviews are _________",
+      "options": [
+        "significant.",
+        "powerful.",
+        "advanced.",
+        "useful."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (D)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_q5_i",
+      "q_no": 9,
+      "question": "According to Christopher Silvester, the interview can be “i n its highest form, \na source of truth”. Choose the option that does NOT enable this?",
+      "options": [
+        "An interview allows for discovery of new knowledge about the interviewee \nand/ or the subject being discussed.",
+        "An inter view enables the interviewer to probe deeply, seek clarifications, \nand confirm understandings.",
+        "An interview represents an opportunity to open doors to experiences that \nmay not otherwise find a voice.",
+        "An interview requires the int erviewer to have in -depth prior knowledge of \nthe interviewee and the subject."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (D)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_q5_ii",
+      "q_no": 10,
+      "question": "Column A below describes Rudyard Kipling’s vi ews on interviews. Column \nB provides fictional descriptions of some of K ipling’s works if they were \nabout interviews and interviewers. Choose the option that correctly matches \ninterview attributes given in Column A to the works in Column B: \n\nColumn A Column B \n\n1. immoral (i) ‘The Mark of the Beast’ – An illicit tale of \nunforgivable offences against man and \nsociety. \n\n2. cowardly (ii) ‘The Jungle Boo k’ – A jou rney into the \ncorrupt jungle of information where conscience \nand principles do not exist. \n\n3. vile (iii) ‘The Light that Failed’ – A story of \naudacious truth being left i n the dark alleys of \ncraven scandal and misrepresentation. \n\n4. criminal (iv) ‘The Man Who Would be King’ – A saga of \nevil depravity of a man who ruled over heroes \nand became a villain.",
+      "options": [
+        "1 – (i); 2 – (ii); 3 – (iii); 4 – (iv)",
+        "1 – (ii); 2 – (iii); 3 – (iv); 4 – (i)",
+        "1 – (iii); 2 – (iv); 3 – (i); 4 – (ii)",
+        "1 – (iv); 2 – (i); 3 – (ii); 4 – (iii)"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (B)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_q5_iii",
+      "q_no": 11,
+      "question": "Mukund Padmanabhan mentions that much like his novels, Umberto Eco’s \n“scholarly work has a cer tain playful and personal quality about it.” To what \nis this attributed?",
+      "options": [
+        "Eco thought regular academic style was depersonalised, dry and boring.",
+        "Eco presented his first Doctoral dissertation in Italy in this style.",
+        "Eco realized that scholarly books should tell the story of the research.",
+        "Eco identified himself with the academic and scholarly community."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_07_the_interview_q5_iv",
+      "q_no": 12,
+      "question": "Umberto Eco mentioned that he was not puz zled by the trem endous mass \npopularity of his novel, The Name of the Rose. What does this tell you about \nUmberto Eco?",
+      "options": [
+        "He believes he understands re adership trends well, and writes \naccordingly to ensure mass appeal.",
+        "He elevates himself above publishe rs and journalists who were surprised \nby the success of the book.",
+        "He respects and understands that there are variations in people’s reading \nchoices and experiences.",
+        "He feels tha t the success of a bo ok is a mystery, and there was no point \npondering over it."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (C)."
     }
   ]
 }

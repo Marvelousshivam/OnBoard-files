@@ -1,0 +1,38 @@
+{
+  "id": "physical_education_01_management_of_sporting_events_practice",
+  "subject": "Physical_education",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Management Of Sporting Events",
+  "title": "Management Of Sporting Events - CBSE Official Practice DPP",
+  "total_questions": 2,
+  "questions": [
+    {
+      "id": "pe_qb_u1_A",
+      "q_no": 1,
+      "question": "Which component of physical fitness is most important for a sport like wrestling?",
+      "options": [
+        "Speed",
+        "Strength",
+        "Endurance",
+        "Flexibility"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Physical Education Question Bank answer key."
+    },
+    {
+      "id": "pe_qb_u1_B",
+      "q_no": 2,
+      "question": "Which type of body type is most suited for wrestling?",
+      "options": [
+        "Ectomorph",
+        "Mesomorph",
+        "Micromorph",
+        "Endomorph"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Physical Education Question Bank answer key."
+    }
+  ]
+}

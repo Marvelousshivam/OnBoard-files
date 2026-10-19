@@ -4,21 +4,105 @@
   "book": "CBSE Official Practice Questions",
   "chapter": "The Tiger King",
   "title": "The Tiger King - CBSE Official Practice DPP",
-  "total_questions": 1,
+  "total_questions": 7,
   "questions": [
     {
-      "id": "english_pq1_q13",
+      "id": "eng_qb_15_the_tiger_king_A_i",
       "q_no": 1,
-      "question": "Answer ANY ONE of the following two questions, in about 120 – 150 words. 5 \nA Recall the story 'We too are Human Beings' from the text 'Memories of Childhood'. \nImagine that Bama stops the elderly man who was carrying the packet of vadais, and \nstrikes up a conversation with him. She asks him a couple of questions. As the man, \nrespond to Bama's questions. You may follow the given format and include the two \nquestions in your conversation. \n \nBama: Hi sir, I noticed that you were carrying that packet in a funny manner. Why were \nyou doing so? \n \nElderly man: ... \n \nBama: But that's terrible. How does that make you feel? \n OR  \nB The king in the story 'The Tiger King' was driven by the single purpose of \nstaying alive based on the prophecy that the hundredth tiger would kill him. \nHe hunted tigers out of fear. \nImagine that you are living in the King's times, and he has killed seventy tigers \nat this point. As someone who cares about animal welfare, write a letter to the \nking convincing him to stop hunting tigers. \n \nYou may begin this way: \n \nMy sincerest greetings to his majesty, \n \nI am Rajan, a subject of your kingdom, and I am writing to you today \nbecause...",
+      "question": "[Extract Context: \"From that day onwards it was celebration time for all the tigers inh abiting \nPratibandapuram. The state banned ti ger hunting by anyone except the \nMaharaja. A proclamation was issued to the effect that if anyone dared to fling \nso much as a stone a...\"]\n\nThe tone of the author when he says, ‘it was celebration time for all tigers’ is",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "solemn.",
+        "sarcastic.",
+        "sympathetic.",
+        "mocking."
       ],
       "correct_option_index": 0,
       "correct_answer_letter": "A",
-      "explanation": "Official CBSE answer key."
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_15_the_tiger_king_A_ii",
+      "q_no": 2,
+      "question": "[Extract Context: \"From that day onwards it was celebration time for all the tigers inh abiting \nPratibandapuram. The state banned ti ger hunting by anyone except the \nMaharaja. A proclamation was issued to the effect that if anyone dared to fling \nso much as a stone a...\"]\n\nPick the pair of TRUE statements based on the extract. \n1. Tiger hunting was absolutely banned in the kingdom. \n2. The Maharaja was extremely courageous and fearless. \n3. The Maharaja paid no heed to matters related to his kingdom. \n4. The Maharaja was able to fulfil his ambition, without any perils.",
+      "options": [
+        "1 and 2",
+        "2 and 4",
+        "2 and 3",
+        "1 and 4"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_15_the_tiger_king_A_iii",
+      "q_no": 3,
+      "question": "[Extract Context: \"From that day onwards it was celebration time for all the tigers inh abiting \nPratibandapuram. The state banned ti ger hunting by anyone except the \nMaharaja. A proclamation was issued to the effect that if anyone dared to fling \nso much as a stone a...\"]\n\nIn which of the following options can the underlined words NOT be replaced \nwith ‘proclamation’?",
+      "options": [
+        "The politician shared his manifesto during the election meeting.",
+        "All the citizens of the kingdom had to abide by the emperor’s edict.",
+        "The communique made by the official had a disastrous effect.",
+        "The decree of the state forbade cruelty against animals."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_15_the_tiger_king_A_iv",
+      "q_no": 4,
+      "question": "[Extract Context: \"From that day onwards it was celebration time for all the tigers inh abiting \nPratibandapuram. The state banned ti ger hunting by anyone except the \nMaharaja. A proclamation was issued to the effect that if anyone dared to fling \nso much as a stone a...\"]\n\nOn the bas is of this passage, pick the option that enumerates the \ncharacteristics of the king. \n1. gullible \n2. arrogant \n3. wilful \n4. aggressive \n5. apathetic \n6. scrupulous",
+      "options": [
+        "1, 2 and 6",
+        "3, 4 and 6",
+        "3, 5 and 6",
+        "2, 3 and 5"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_15_the_tiger_king_B_i",
+      "q_no": 5,
+      "question": "[Extract Context: \"At midnight when the town slept in peace, the dewan and his aged wife \ndragged the tiger into the car and shoved it into the seat. The dewan h imself \ndrove the car straight to the forest where the Mah araja was h unting. When \nthey reached the fores...\"]\n\nPick the option that uses the same figure of speech as ‘town slept in peace’.",
+      "options": [
+        "His actions really flared up my temper, so I walked out.",
+        "She is going through a rollercoaster of emotions.",
+        "My alarm clock yells at me every morning until I get out of bed.",
+        "The children were screaming and shouting in the fields."
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_15_the_tiger_king_B_ii",
+      "q_no": 6,
+      "question": "[Extract Context: \"At midnight when the town slept in peace, the dewan and his aged wife \ndragged the tiger into the car and shoved it into the seat. The dewan h imself \ndrove the car straight to the forest where the Mah araja was h unting. When \nthey reached the fores...\"]\n\nPick the option that best describes the dewan’s attitude. \n1. desperate \n2. submissive \n3. servile \n4. dishonourable \n5. detestable \n6. flattering",
+      "options": [
+        "2, 3 and 6",
+        "1, 4 and 5",
+        "2, 4 and 6",
+        "1, 3 and 5"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_15_the_tiger_king_B_iv",
+      "q_no": 7,
+      "question": "[Extract Context: \"At midnight when the town slept in peace, the dewan and his aged wife \ndragged the tiger into the car and shoved it into the seat. The dewan h imself \ndrove the car straight to the forest where the Mah araja was h unting. When \nthey reached the fores...\"]\n\nPick the option that lists the display of ‘crumpled heap’.",
+      "options": [
+        "Option i",
+        "Option ii",
+        "Option iii",
+        "Option iv"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
     }
   ]
 }

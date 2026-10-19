@@ -4,21 +4,161 @@
   "book": "CBSE Official Practice Questions",
   "chapter": "Memories Of Childhood",
   "title": "Memories Of Childhood - CBSE Official Practice DPP",
-  "total_questions": 1,
+  "total_questions": 11,
   "questions": [
     {
-      "id": "english_pq2_q11",
+      "id": "eng_qb_19_memories_of_childhood_A_i",
       "q_no": 1,
-      "question": "Answer ANY TWO of the following three questions, in about 40-50 words. 2x2=4 \ni How does the incident with the wooden tiger and its consequences, contribute to the overarching theme of fate \nand retribution, in The Tiger King? \nii How does the author's choice of the wounded soldier as an American POW, contribute to the complexity of \nthe moral decisions faced by Sadao and Hana, considering the wartime context and national loyalties? (Share \nany ONE aspect) (The Enemy) \niii How does the autobiographical nature of Zitkala-Sa and Bama's narratives enhance the impact on readers? \n(Memories of Childhood)",
+      "question": "[Extract Context: \"“They’re not — they don’t honestly think I’m goin’ to try to — ” \n“They’re taking no chances, Evans. Nobody i n his senses would take any \nchance with you.” \n“Who’s goin’ to listen in?” \n“I’ll tell you who’s going to listen in, laddy. It’s the Govern...\"]\n\nWhich of the fol lowing qualities o f Jackson do NOT come through in the \ngiven extract?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Soft-hearted",
+        "Gullible",
+        "Skeptical",
+        "Authoritative"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (B)."
+    },
+    {
+      "id": "eng_qb_19_memories_of_childhood_A_ii",
+      "q_no": 2,
+      "question": "[Extract Context: \"“They’re not — they don’t honestly think I’m goin’ to try to — ” \n“They’re taking no chances, Evans. Nobody i n his senses would take any \nchance with you.” \n“Who’s goin’ to listen in?” \n“I’ll tell you who’s going to listen in, laddy. It’s the Govern...\"]\n\n“Nobody in his senses would take any chance with you”. Why not?",
+      "options": [
+        "Jackson did not like Evans and was keen to get rid of him.",
+        "Evans had quite a reputation for escaping from prisons.",
+        "Evans had been transferred to Oxford prison and needed care.",
+        "The Governor was uneasy about Evans’ German O-Level exams."
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (B)."
+    },
+    {
+      "id": "eng_qb_19_memories_of_childhood_A_iii",
+      "q_no": 3,
+      "question": "[Extract Context: \"“They’re not — they don’t honestly think I’m goin’ to try to — ” \n“They’re taking no chances, Evans. Nobody i n his senses would take any \nchance with you.” \n“Who’s goin’ to listen in?” \n“I’ll tell you who’s going to listen in, laddy. It’s the Govern...\"]\n\nIn the given extract, “Einstein” is meant as a ___________.",
+      "options": [
+        "compliment",
+        "misconception",
+        "taunt",
+        "provocation"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_19_memories_of_childhood_A_iv",
+      "q_no": 4,
+      "question": "[Extract Context: \"“They’re not — they don’t honestly think I’m goin’ to try to — ” \n“They’re taking no chances, Evans. Nobody i n his senses would take any \nchance with you.” \n“Who’s goin’ to listen in?” \n“I’ll tell you who’s going to listen in, laddy. It’s the Govern...\"]\n\nThe above extract employs several idiomatic expressions. Which of t he \nfollowing is not an idiom?",
+      "options": [
+        "to not trust an inch",
+        "to watch like a hawk",
+        "to keep nose clean",
+        "to be ready on the bunk"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (D)."
+    },
+    {
+      "id": "eng_qb_19_memories_of_childhood_B_i",
+      "q_no": 5,
+      "question": "[Extract Context: \"“Perhaps you won’t be with us next September, Evans.” \nJames Roderick Eva ns appeared to ponder the Governor’s words deeply . \n“No. P’r’aps I won’t,” he said. \nAs the prison van turned right from Chipping Norton on to the Oxford road, \nthe hitherto s...\"]\n\nHow would you describe Evans in the above extract?",
+      "options": [
+        "solemn",
+        "cheeky",
+        "anxious",
+        "cheerful"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (B)."
+    },
+    {
+      "id": "eng_qb_19_memories_of_childhood_B_ii",
+      "q_no": 6,
+      "question": "[Extract Context: \"“Perhaps you won’t be with us next September, Evans.” \nJames Roderick Eva ns appeared to ponder the Governor’s words deeply . \n“No. P’r’aps I won’t,” he said. \nAs the prison van turned right from Chipping Norton on to the Oxford road, \nthe hitherto s...\"]\n\nA ‘broad accent’ is that which is",
+      "options": [
+        "applied widely, all over the world.",
+        "recognised by broadcasters.",
+        "associated with the traditional speech of the local people.",
+        "developed over several years for the purposes of special communication."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_19_memories_of_childhood_B_iii",
+      "q_no": 7,
+      "question": "[Extract Context: \"“Perhaps you won’t be with us next September, Evans.” \nJames Roderick Eva ns appeared to ponder the Governor’s words deeply . \n“No. P’r’aps I won’t,” he said. \nAs the prison van turned right from Chipping Norton on to the Oxford road, \nthe hitherto s...\"]\n\nEvans suggested Newbury because ___________",
+      "options": [
+        "the police had already been to Newbury and would not expect to find him \nthere.",
+        "he was be ing playful and wa nted to crack another joke at the police’s \nexpense.",
+        "he wanted t he thrill of another chase and the opportunity to outsmart \nauthorities.",
+        "he did not want to risk going to a new place, and opted for someth ing \nmore familiar."
       ],
       "correct_option_index": 0,
       "correct_answer_letter": "A",
-      "explanation": "11 Answer any TWO of three following questions in 40-50 words each. 2 X 2= 4 \nContent -1 \n→ Full credit for appropriate inclusion of all content asked for \n→ Partial credit ½ for relevant but incomplete content \nExpression – 1 \n→ Full credit for effective organisation \n→ Partial credit ½ for some semblance of organisation of ideas \nAccuracy - Deduct ½ mark from the overall score if the error density is high (more than a total \nof 2 spellings and/or grammatical errors). \n \ni \n symbolises the inescapable nature of destiny and the repercussions \nof the Maharaja's actions \n fate catches up with him , through a harmless gift for his son \n The symbolic revenge of the \"hundredth tiger\" serves as a moving \nreminder that   \n-- one cannot elude destiny \n--even seemingly trivial choices may have profound consequences  \n highlights the story's theme of destiny's inevitability and the irony of \nthe Tiger King's ultimate fate \n2 \nii  during wartime, national loyalties are heightened, and harbouring an \nenemy soldier is seen as a betrayal to one's country -- tension \namplified -  the wounded man is not just any enemy but a prisoner of \nwar \n adds layers to the moral dilemma -- the historical context of World \nWar II - hostilities between Japan and the United States – their choice \nforces the characters to confront their ingrained prejudices and \nchallenge societal norms \n the wounded soldier's identity as an American POW -- questions the \ndehumanisation of the enemy during wartime, emphasising shared \nvulnerabilities and the common thread of suffering - the moral \ndilemma becomes not just about allegiance to one's nation but also \nabout recognising the shared humanity that transcends national \nconflicts \n \n2 \niii  heightened  - first-person perspective allows readers to intimately \nconnect with the narrators' experiences, emotions, and cultural \nstruggles \n gain authenticity - they draw from the real-life encounters of \nZitkala-Sa and Bama - provide a raw and unfiltered glimpse into \ntheir personal histories \n humanises the broader themes of cultural clash, discrimination, and \nidentity loss \n impact - not just literary  \n2"
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_19_memories_of_childhood_B_iv",
+      "q_no": 8,
+      "question": "[Extract Context: \"“Perhaps you won’t be with us next September, Evans.” \nJames Roderick Eva ns appeared to ponder the Governor’s words deeply . \n“No. P’r’aps I won’t,” he said. \nAs the prison van turned right from Chipping Norton on to the Oxford road, \nthe hitherto s...\"]\n\nChoose the option that completes the given analogy. \nSilent : Loud :: Ponder : __________",
+      "options": [
+        "meditate",
+        "repeat",
+        "exaggerate",
+        "overlook"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (D)."
+    },
+    {
+      "id": "eng_qb_19_memories_of_childhood_q5_i",
+      "q_no": 9,
+      "question": "Look at the statements given below. Choose the option that correct ly \nidentifies which statements are fact and which are opinion:",
+      "options": [
+        "Fact – (i) and (iv) ; Opinion – (ii) and (iii)",
+        "Fact – (ii) and (iii) ; Opinion – (i) and (iv)",
+        "Fact – (i) and (ii) ; Opinion – (iii) and (iv)",
+        "Fact – (ii) and (iv) ; Opinion – (i) and (iii)"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (B)."
+    },
+    {
+      "id": "eng_qb_19_memories_of_childhood_q5_ii",
+      "q_no": 10,
+      "question": "“God Almighty! There’s far more going on than I —” \n“Always will be, sir.” \nWhat can be collect ed fro m the aforesaid conversation between the \nGovernor and Evans?",
+      "options": [
+        "The Governor realized that he was likely to lose his job very soon.",
+        "Evans proved that criminals are always one step ahead of the police.",
+        "There were always schemes afoot unknown to prison authorities.",
+        "The Governor’s confidence in his control over the prison stood shattered."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_19_memories_of_childhood_q5_iii",
+      "q_no": 11,
+      "question": "A trope is a com mon device or them e used to describe si tuations or \ncharacters in a story. \nGiven below are some typical tropes found in a prison escape narrative. \nChoose the option that is NOT a trope used in the story ‘Evans Tries an O -\nLevel’? \n\n(i) Prison Changes People - Spending time i n prison can change o ne's \npersonality, for better or for worse. \n(ii) Master of Disguise - When a character masquerades as someone else. \n(iii) Wardens Are Evil - The prison is r un b y a ruthlessly corrupt \nadministrator.\n(iv) The Guards Must Be Crazy - Prison staff make it almost too e asy for \nprisoners to escape. \n(v) Breaking Out the Boss - Members of a gang bust their boss out of jail. \n(vi) Passive Rescue - A character who rescues someone from prison without \nusing aggression or violence to break them out. \n(vii) Prison Escape Arti st - A character who is known for escaping prison \nmultiple times. \n(Source: www.tvtropes.org)",
+      "options": [
+        "Options (ii), (iii) and (vi)",
+        "Options (i), (iii) and (v)",
+        "Options (ii), (iv) and (v)",
+        "Options (i), (iv) and (vi)"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (B)."
     }
   ]
 }

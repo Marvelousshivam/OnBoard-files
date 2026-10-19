@@ -4,12 +4,12 @@
   "book": "CBSE Official Practice Questions",
   "chapter": "Electric Charges And Fields",
   "title": "Electric Charges And Fields - CBSE Official Practice DPP",
-  "total_questions": 13,
+  "total_questions": 6,
   "questions": [
     {
       "id": "physics_pq1_q1",
       "q_no": 1,
-      "question": "CBSE \nADDITIONAL PRACTICE QUESTIONS \nPhysics-Theory \nClass XII | 2023–24 \nMaximum marks: 70                                                    Time Allowed: 3 hours \nGeneral instructions: \n1. There are 33 questions in all. All questions are compulsory.  \n2. This question paper has five sections: Section A, Section B, Section C, Section D, and \nSection E.  \n3. All the sections are compulsory.  \n4. Section A contains sixteen questions, twelve MCQ and four Assertion Reasoning \nbased of 1 mark each, Section B contains five questions of two marks each, Section \nC contains seven questions of three marks each, Section D contains two case study \nbased questions of four marks each and Section E contains three long answer \nquestions of five marks each.  \n5. There is no overall choice. However, an internal choice has been provided in one \nquestion in Section B, one question in Section C, one question in each CBQ in \nSection D and all three questions in Section E. You have to attempt only one of the \nchoices in such questions. \n6. Use of calculators is not allowed. \n \nQ.No Questions Marks  \nSECTION A \n \n1 An electric dipole having a dipole moment of 4 × 10-9 C m is placed in a \nuniform electric field such that the dipole is in stable equilibrium. If the \nmagnitude of the electric field is 3 × 103 N/C, what is the work done in \nrotating the dipole to a position of unstable equilibrium?",
+      "question": "An electric dipole having a dipole moment of 4 × 10-9 C m is placed in a \nuniform electric field such that the dipole is in stable equilibrium. If the \nmagnitude of the electric field is 3 × 103 N/C, what is the work done in \nrotating the dipole to a position of unstable equilibrium?",
       "options": [
         "zero",
         "1.2 × 10-5 J",
@@ -18,12 +18,12 @@
       ],
       "correct_option_index": 2,
       "correct_answer_letter": "C",
-      "explanation": "1 \n \n \nCBSE \nADDITIONAL PRACTICE QUESTIONS \nPhysics-Theory (Marking Scheme) \nClass XII | 2023–24 \nMaximum marks: 70                                                    Time Allowed: 3 hours  \nGeneral instructions: \nQ.No Answers Marks  \nSECTION A \n \n1 C. 2.4 × 10-5 J 1"
+      "explanation": "1 C. 2.4 × 10-5 J 1"
     },
     {
       "id": "physics_pq1_q2",
       "q_no": 2,
-      "question": "An infinite line of charge has a linear charge density of 10-7 C/m.  \nWhat will be the magnitude of the force acting on an alpha particle placed at a \ndistance of  4 cm from the line of charge?",
+      "question": "An infinite line of charge has a linear charge density of 10-7 C/m. \nWhat will be the magnitude of the force acting on an alpha particle placed at a \ndistance of 4 cm from the line of charge?",
       "options": [
         "14.4 × 10-15 N",
         "7.2 × 10-15 N",
@@ -32,7 +32,7 @@
       ],
       "correct_option_index": 0,
       "correct_answer_letter": "A",
-      "explanation": "2 A. 14.4 × 10-15 N  1"
+      "explanation": "2 A. 14.4 × 10-15 N 1"
     },
     {
       "id": "physics_pq1_q10",
@@ -49,112 +49,14 @@
       "explanation": "10 D. 5 x 104 Vm-1s-1 1"
     },
     {
-      "id": "physics_pq1_q13",
-      "q_no": 4,
-      "question": "Assertion (",
-      "options": [
-        ": The work function of a given material increases with an \nincrease in the frequency of the incident radiation.",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correct_option_index": 3,
-      "correct_answer_letter": "D",
-      "explanation": "13 D. Both Assertion and Reason are false. 1"
-    },
-    {
-      "id": "physics_pq1_q14",
-      "q_no": 5,
-      "question": "Assertion (",
-      "options": [
-        ": The conductivity of intrinsic semiconductors increases with an \nincrease in temperature. \nReason (R): Increase in temperature decreases the average time between \ncollisions of electrons.",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correct_option_index": 1,
-      "correct_answer_letter": "B",
-      "explanation": "14 B. Assertion and Reason are true but Reason is NOT the correct explanation of \nAssertion. \n1"
-    },
-    {
-      "id": "physics_pq1_q15",
-      "q_no": 6,
-      "question": "Assertion (",
-      "options": [
-        ": The direction of the electric field is always perpendicular to the \nequipotential surface. \nReason (R): Work is done by the electric force in moving a charge between \nany two points on an equipotential surface is zero.",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correct_option_index": 0,
-      "correct_answer_letter": "A",
-      "explanation": "15 A. Both assertion and reason are true and reason is the correct explanation for \nassertion. \n1"
-    },
-    {
-      "id": "physics_pq1_q16",
-      "q_no": 7,
-      "question": "Assertion (",
-      "options": [
-        ": If the focal length of two convex lenses is the same, the lens \nwith the larger diameter will produce brighter images. \nReason (R): Convex lenses with larger diameters are able to focus light better.",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correct_option_index": 2,
-      "correct_answer_letter": "C",
-      "explanation": "16 C. Assertion is true but Reason is false. 1"
-    },
-    {
-      "id": "physics_pq1_q3",
-      "q_no": 8,
-      "question": "All the sections are compulsory.",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correct_option_index": 1,
-      "correct_answer_letter": "B",
-      "explanation": "3 B. y-intercept 1"
-    },
-    {
-      "id": "physics_pq1_q6",
-      "q_no": 9,
-      "question": "Use of calculators is not allowe",
-      "options": [
-        "Q.No Questions Marks  \nSECTION A",
-        "zero",
-        "1.2 × 10-5 J",
-        "2.4 × 10-5 J"
-      ],
-      "correct_option_index": 1,
-      "correct_answer_letter": "B",
-      "explanation": "6 B. only P and R 1"
-    },
-    {
-      "id": "physics_pq1_q8",
-      "q_no": 10,
-      "question": "A charged particle ‘+q’ having a mass ‘m’ moves in a uniform electric and \nmagnetic fiel",
-      "options": [
-        "In which of the following scenarios will the path of the \ncharged particle be linear and described by the velocity time graph shown \nbelow?",
-        "E ⊥ B ⊥ velocity of the particle",
-        "E || B and the particle is initially at rest",
-        "E || B and the particle has an initial velocity along the electric field"
-      ],
-      "correct_option_index": 2,
-      "correct_answer_letter": "C",
-      "explanation": "8 C. E || B and the particle has an initial velocity along the electric field 1"
-    },
-    {
       "id": "physics_pq2_q2",
-      "q_no": 11,
-      "question": "Two metallic spheres of radii a and b respectively are charged and joined by a wire. The ratio of \nthe electric field intensities at the surfaces of the spheres is \n (",
+      "q_no": 4,
+      "question": "Two metallic spheres of radii a and b respectively are charged and joined by a wire. The ratio of \nthe electric field intensities at the surfaces of the spheres is",
       "options": [
-        "a/b (b) b/a (c) a2/b2                         (d)  b2/a2",
-        "Option B",
-        "Option C",
-        "Option D"
+        "a/b",
+        "b/a",
+        "a2/b2",
+        "b2/a2"
       ],
       "correct_option_index": 1,
       "correct_answer_letter": "B",
@@ -162,13 +64,13 @@
     },
     {
       "id": "physics_pq2_q8",
-      "q_no": 12,
-      "question": "An electromagnetic wave of frequency 5MHz is passing from air t o water then the ratio of  the \nfrequency will be  \n         (",
+      "q_no": 5,
+      "question": "An electromagnetic wave of frequency 5MHz is passing from air t o water then the ratio of the \nfrequency will be",
       "options": [
-        "1:5                          (b)     5:1                  (c)   1:3                     (d)    1:1",
-        "Option B",
-        "Option C",
-        "Option D"
+        "1:5",
+        "5:1",
+        "1:3",
+        "1:1"
       ],
       "correct_option_index": 3,
       "correct_answer_letter": "D",
@@ -176,13 +78,13 @@
     },
     {
       "id": "physics_pq2_q9",
-      "q_no": 13,
-      "question": "The number of electrons made available for conduction by dopant atoms depends strongly upon    \n(",
+      "q_no": 6,
+      "question": "The number of electrons made available for conduction by dopant atoms depends strongly upon",
       "options": [
-        "doping level                                           (b) increase in ambient temperature  \n         (c) energy gap                                            (d) options (a) and (b) both",
-        "Option B",
-        "Option C",
-        "Option D"
+        "doping level",
+        "increase in ambient temperature",
+        "energy gap",
+        "options"
       ],
       "correct_option_index": 1,
       "correct_answer_letter": "B",

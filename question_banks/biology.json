@@ -15,15 +15,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Kavya says that the placenta produces relaxin which plays a crucial role during \npregnancy. \n(a) Is she correct? Justify. \n(b) Name TWO other hormones secreted by the placenta during pregnancy \n \n2",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -43,15 +69,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Thalassemia is an autosomal recessive disorder that causes anaemic conditions in an \nindividual. A blood smear from a heterozygous individual shows blood cells that are \nsmall, pale and irregularly shaped along with normal RBCs. \n \n(a) State the genotypic and phenotypic ratios of offspring born to a carrier mother and \na thalassemic father.  \n(b) Does the allele for thalassemia exhibit codominance? Justify. \n \n2",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -71,15 +123,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Explain any TWO reasons why the treatment of AIDS is only partially effective. \n \n2",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "1 mark each of any two of the following: \n- HIV has a high mutation rate and genetic variability making it difficult to \ntarget. \n- HIV can be latent for more extended periods of time, making it difficult to \ndiagnose the disease. \n- HIV replicates in immune cells of the human body and targeting them \nmight pose a risk to the individual's immune system and safety. \n \n2.0 \n20 (a) 0.5 marks each for the following: \n- The air inlet/sparger should be absent. \n- Since lactobacillus is anaerobic, it may not thrive well if oxygen is \npresent. \n \n(b) 0.5 marks each for any two quantities such as: \n- A sensor should monitor temperature as bacteria are likely to die if the \ntemperature fluctuates. \n- Dissolved oxygen should be measured to ensure anaerobic conditions \nare maintained. \n \n[Accept any other valid answer.] \n \n1.0 \n \n \n \n \n1.0 \n21 (a) 0.5 marks for each of the following: \n- B to C will be slower than A to B \n- Since millipedes contain chitin, their decomposition will be slower than \nthat of leaves which have cellulose. \n \n(b) The flow of energy is A to B to C to D. \n \nOR \n \n1.0 \n \n \n \n \n1.0 \n \n \n \n1.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -99,15 +177,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Rati wants to grow a variant of the lactobacillus spps. in a bioreactor. Lactobacillus is \nan anaerobic bacterium commonly used as a starter culture for diary products. Shown \nbelow is a bioreactor she had in her laboratory. \n  \n  \n \n \n \n \n \n \n \n \n \n \n \n(a) Identify ONE component that should definitely NOT be present in the reactor to \ngrow the lactobacillus spps. Justify. \n(b) Explain TWO quantities that the sensors in the bioreactor should monitor. \n2",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -127,15 +231,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Shown below is a food chain. \n  \n \n \n(a) Millipedes have a hard exoskeleton whose composition is different from that of the \nleaves. Considering all other conditions to remain the same, which step is likely to be \nslower between A to B and B to C and why? \n(b) What would be the direction of the flow of energy in this food chain? \n \nOR \n \n(a) A coral reef can be regarded as an ecosystem. Mention any TWO reasons why. \n(b) The net primary productivity (NPP) of a coral reef is approximately 2000 g \nC/m2/year and the gross primary productivity (GPP) is 4000 g C/m2/year. \n \nCalculate the respiration losses (R) of this ecosystem. \n2 \n \n \n \n \n \n \n \n \n \n \n \n2 \n \nSection C",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -155,15 +285,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "A biologist sees the following cells in a cross-section of the seminiferous tubule and \nits surrounding tissues and counts the number of various kinds of cells.  \n \nSpermatozoa, Spermatid, Primary spermatocyte, Secondary spermatocyte, Leydig \ncells, Sertoli cells, Spermatogonium. \n \nFrom these cells, identify the cells: \n(a) that are diploid. \n(b) that can produce hormones and their names. \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -183,15 +339,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "A couple is trying to conceive and start a family. \n \n(a) If the woman's period, which is regular, is scheduled to start on July 19, what was \nthe estimated date of ovulation for the previous cycle? \n(b) Name the four important reproductive hormones and state whether their levels will \nbe high or low on the date identified in (a). \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -211,15 +393,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "As part of assisted reproductive technologies (ART), \n \n(a) What is the destination for blastomeres with a count of less than 8 cells and more \nthan 8 cells? \n(b) What could be the reason behind transferring to the destinations identified in (a)? \n(c) What techniques are used to transfer the blastomeres to the destinations identified \nin (a)? \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -239,15 +447,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "State whether each of these statements given below is/are true or false. Justify your \nanswer. \n \n(a) Flocs reduce the pollution in water by increasing its BOD. \n(b) Mycorrhiza is a type of parasitic relationship in which only the plants benefit from \nfungi. \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -267,15 +501,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Erythropoietin is a glycoprotein hormone that is otherwise naturally produced in the \nkidney when the body becomes anaemic. However, this does not happen in the case of \nchronic renal diseases where kidney function is lost. Epoetin alfa is a human \nerythropoietin produced in cell culture using recombinant DNA technology. The cell \nculture used is called Namalwa cells, a human cell culture. There are eight exons and \nseven introns in a single gene that encodes the hormone, whose sequence is known. \n \nExplain the step-by-step process that should be followed for producing \nhuman erythropoietin in culture. \n \nOR \n \nToday, many genetic disorders can be detected using a single cell from an \nembryo. This helps in planning the child's health care in advance, and in some cases \neven treating the disorder while the baby is still in the womb. \n(a) Identify a biotechnological technique that can be used for this purpose. Give a \nreason to support your answer. \n(b) Can the technique identified in (a) be used to detect the presence of RNA viruses? \nJustify. \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "0.5 marks each for the following: \n- Use the sequence of exons to form a dsDNA molecule in vitro. \n- Insert the dsDNA molecule into an appropriate vector. \n- Introduce the recombinant vectors in bacterial hosts and select cells \ncontaining the recombinant vector with the gene of interest. \n- Purify the vector and amplify it using PCR. \n- Using a gene gun or any appropriate technique introduce the \nrecombinant vector into host human cells/Namalwa cells. \n- Grow these cells in bioprocessors and extract and purify the glycoprotein \nfrom the culture. \n \n[Award marks if the answer is presented as a flowchart or diagram] \n \nOR \n \n(a) 1 mark each for the following: \n3.0 \n \n \n \n \n \n \n \n \n \n \n \n \n \n2.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -295,15 +555,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "In a study comparing two continents - Antarctica and Asia, the species-area \nrelationship was investigated using the following data: \nParameter Antarctica Asia \nArea 14 x 106 km2 44 x 106 km2 \nRegression coefficient 1 1 \nY-intercept 5 10 \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -323,15 +609,41 @@
         {
           "stepNumber": 1,
           "marks": 2.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Shown below is a cloning vector 'Z' that Kamla wants to use to create a \nrecombinant vector with her gene of interest. \n  \n  \n \n \n \n \n \n \n \n \n \n \n \n \nThe vector consists of sites for three restriction enzymes - ScaI, HindIII and \nEcoRI. Restriction sites for the same enzymes are also present in the gene of \ninterest. There are two 'ori' sequences - one allows it to replicate in \nEscherichia coli and another allows replication in Zymomonas mobilis. Apart \nfrom this, the vector consists of two antibiotic resistance genes - one against \ntetracycline (tet) and another against chloramphenicol (cml).  \n \n(a) What is the advantage of having two 'ori' sequences in the same vector? \nGive a situation in which this would be particularly useful. \n \nOR \n \nIf the vector was cut using HindIII, what would colonies growing on a \nmedium containing tetracycline DEFINITELY contain? \n \n(b) Suggest which of the three restriction enzymes would be suitable for \ninsertion of the gene of interest. Give TWO advantages of using the enzyme \nchosen by you. \n(c) State ONE disadvantage of using the other two restriction enzymes not \nchosen in (b). \n \n \n4",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -351,15 +663,41 @@
         {
           "stepNumber": 1,
           "marks": 2.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Predator Y shown in the image below is a type of wild cat that inhabits the \nforests and preys primarily on prey X which are herbivores. Shown below is \ndata on their respective populations over time. \n(a) What is the likely cause for the pattern seen in the prey and predator \npopulations through the years?  \n(b) Hypothetically, if all the predators of the forests become extinct, what will \nhappen to the vegetation of the forest? \n(c) Consider a situation where another similar species of predator immigrates \nto the forest. What is likely to happen over time and why? \n \nOR \n \nJuglone is a chemical produced naturally in most parts of the black walnut \nplant. This chemical leaches into the soil when the plant falls. This leads to the \ndeath of many plants that grow around the black walnut plant. \n \nIdentify the type of ecological interaction between the black walnut and other \nplants growing around it. Justify. \n4 \nSection E",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -379,15 +717,41 @@
         {
           "stepNumber": 1,
           "marks": 2.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "A Non-Government Organisation (NGO) aims to increase awareness against STDs.  \n \n(a) What could be the ideal target age group for the NGO? \n(b) Mention any TWO potential long-term health-related complications of untreated \nSTDs that the NGO should educate the target age group about. \n(c) Mention ONE contraceptive method that provides protection against the STD. \nJustify. \n(d) State TWO contraceptive methods that do not protect against STDs that they can \neducate the group about. \n5",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -407,15 +771,41 @@
         {
           "stepNumber": 1,
           "marks": 2.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Shown below is a pedigree of an individual X who is suffering from ocular albinism \nwhich results in permanent vision loss. Use the pedigree to answer the questions that \nfollow: \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n(a) Complete the following statement about this disease: \nThe trait for the disease is linked to ___________ (X-chromosome/Y-\nchromosome/autosome) and is __________ (dominant/recessive). \n \n(b) Give a reason to support your answer to (a). \n(c) Identify the genotypes of individuals P, Q, R and S marked in the pedigree. \n \nOR \n \n \n \n5",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -435,15 +825,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Consuming mother’s milk for the first few days is important for the baby  \nnot just for energy, but also for other reasons. Elaborate. \n2",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -463,15 +879,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "In bacteria, how are all three steps of transcription catalyzed by a single \nRNA polymerase? \n2",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -491,15 +933,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "A patient was complaining of fever, chills, cough and headache. His lips \nand fingernails turned grey. What diagnosis would you make? Name the \ntwo causal organisms and state the category to which these pathogens \nbelong. \n 2",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -519,15 +987,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "In an effort to mass produce a useful protein, scientists extracted a  \nprecise section of mRNA from the cytoplasm of cells which naturally  \nproduced the protein. The mRNA strand was then used as a template to \nenzymatically synthesise a strand of complementary DNA (cDNA). \n \na) Identify the enzymes A, B and C. \nb) Plasmid was used as a vector in this investigation. Name another \nvector that can be used here. \n 2",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -547,15 +1041,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Explain how the ecosystem follows the first and the second law of \nthermodynamics. \nOR \na) Study the ecological pyramid of numbers given below and \nsuggest some situations in which it is applicable. \n \n \n \nb) Give two reasons why the percentage of energy transferred to \nconsumers generally gets lowered as we move in a food chain \nfrom one trophic level to the other. \n2",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -575,15 +1095,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "The figure below shows the sequence of changes within the ovary \nthat occur during the menstrual cycle. \n \na) Name the process A. Name  the hormone that plays an \nimportant role during this event. \nb) Identify B and name the hormone that regulates the maturation of \nB. \nc) Identify and write the function of C. \n3",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -603,15 +1149,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Above figure indicates the percentage of recombination between 2 \npairs of genes – y and w; w and m. On the basis of this data what \nconclusion can you draw - \na) Which two of these genes are tightly linked? Justify your answer.  \nb) Which scientist used such data of the frequency of recombination \nbetween gene pairs on the same chromosome to prepare genetic \nmaps and how? \nc) How are genetic maps useful? \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -631,15 +1203,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "The figure given below shows white winged and dark winged moth \npresent on a tree trunk with variable lichen growth (a) in unpolluted \narea and (b) in polluted area. Which variety of moth is likely to \nsurvive in these two conditions? Justify your answer.  \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -659,15 +1257,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "When two different varieties – a conventional variety and a GM crop of \ncorn crop were grown in a field, it was noticed that corn  borers \nattacked only the conventional variety.  \na) Suggest a suitable treatment using genetic engineering approach \nfor damage control in the conventional variety. Justify your \napproach.  \nb) Name the gene associated for development of GM crop  for the  \ncontrol of this     pest. Explain its impact on the insect pest? \nc) How does it not harm the source from which it is taken? \nOR \nFactor VIII protein is a very useful protein for blood clotting in the human \nbody. If deficient, it can either be plasma derived or can be made as a \ngenetically engineered recombinant protein. \na) Name a genetic  disease that may be  treated using recombinant \nhuman factor VIII.  \nb) Before recombinant human factor VIII was available, this disease  \nwas treated with factor VIII received from donated blood. Give two \npossible advantages of      using recombinant human factor VIII instead \nof it being obtained from donated blood, to treat this disease.  \nc) What is unique feature in inheritance pattern of the  disease as \nmentioned in part (a) above. \n3",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -687,15 +1311,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Which bio conservation strategy is used when the  endangered species \nare removed from the unsafe or threatened habitat and placed under  \nhuman care? How is this strategy different from the other strategy of  \nbio-conservation? \n3 \nSection – D",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Ex-situ.                                                                                             (1) \n Ex-situ conservation is conservation of biological diversity outside \ntheir natural areas and is done through different methods like \ncaptive breeding, botanical garden, zoos, aquaria  and gene bank \netc.                                                                                              (1) \n It differs from the other strategy called In situ conservation. In-situ \nconservation is the conservation and protection of genetic \nresources of plant and animal species in their natural habitats \nitself, as in Biosphere reserves, National Parks and sanctuar ies \netc.                                                                                               (1) \n3 \nSection – D \n29 a) Using Agrobacterium vectors                                                      (1) \nb) Infection by viruses having RN A genomes or mobile genetic \nelements (transposons)                                                               (1) \nc) Being complimentary, one RNA strand of the newly introduced ds \nRNA will bind to already existing mRNA of the host cell which will \nresult in silencing of this mRNA of for translational purposes. (RNA \ninterference) \nParasite will thus not be able to survive in the transgenic host.      (1) \nOR \nc) It is used for development of pest resistant plants.  A nematode \nMeloidegyne incognita infects the roots of Tobacco plants and \ncauses a great reduction in yield.  To prevent this infestation RNA \ninterference technique is used which involves silencing of mRNA \ndue to a complimentary dsRNA molecule that binds to and \nprevents translation of the mRNA. \n4 \n30 a) Exponential or geometric growth pattern                                    (1) \nb) Nt = N0 ert                                                                                                                              (1) \n              Where Nt = population density after time t \n               N0 = Population density at time zero \n               r = intrinsic rate of natural increase \n               e = the base of natural logarithms \nc)   \n                                                            \n               J – shaped growth curve                                              (1+1) \nOR \nc) Logistic growth - sigmoid shape, will be obtained.                    (1) \nIn the logistic growth, the population increases at the onset and \ncontinues exponentially till the mid when the resources are utilized \nat maximum level. The graph becomes stationary when the \npopulation exceeds its carrying capacity. \n4",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -715,15 +1365,41 @@
         {
           "stepNumber": 1,
           "marks": 2.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "Given below is an image showing  a special situation in which a  \ndsRNA from a source has been introduced into a host cell. \n \na) How can dsRNA of nematode specific gene be introduced into the \nhost cell as shown in the figure given above?                                 \nb) What can be the source of dsRNA for this process? \nc) What will be the impact of this interaction between dsRNA and \nmRNA on the mRNA and entire cellular machinery of host plant?                               \n4",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -743,15 +1419,41 @@
         {
           "stepNumber": 1,
           "marks": 2.0,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.0,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "In a huge culture flask with unlimited supply of nutrient medium, \nbacteria were grown. Their population kept on increasing as they were \ndividing by binary fission. \na) What type of growth pattern will be seen in this population? \nb) Write the equation which can be used to calculate the population \nsize after time t, when the initial population size of the bacteria is \nrepresented by N and population size after time t is represented by \nNt. \nc) Draw a growth curve to depict the growth in the p opulation size \nwhen growth in the population size is plotted over time. What will be \nthe shape of this growth curve?  \nOR \n c)  If instead of providing the unlimited supply of culture medium in a \nhuge flask, it is provided only in a very small test tube, then what will \nbe the pattern of growth and the shape of the growth curve?  Depict \ndiagrammatically also. \n4 \nSection - E",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -771,15 +1473,41 @@
         {
           "stepNumber": 1,
           "marks": 2.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "A couple had unprotected intercourse.  \ni) Which are the two possible emergency contraceptives that can be \nused to avoid pregnancy in such a case?  \nii) What is the basic principle of each of these?  \niii) Will these contraceptive devices provide protection to the couple \nfrom STDs as well? Justify your answer.  \niv)  Removal of gonads cannot be considered as a contraceptive \noption. Justify. \nOR \nConsider the following three possible diagnoses for infertility and \nanswer the trailing questions. \n(i) Inability to produce a normal egg. \n(ii) Low Count of Sperm. \n(iii) Blocked Fallopian tube \na) Suggest and explain different methods of ART based on clinical \nexamination for the above cases. \nb) What are the legally acceptable reasons that allow MTPs to be \ncarried out? \n5",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -799,15 +1527,41 @@
         {
           "stepNumber": 1,
           "marks": 2.5,
-          "criterion": "Accurate biological terminology and mechanism"
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.5,
-          "criterion": "Illustrative example or physiological significance"
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Enzyme specificity",
+        "Meiotic phase",
+        "Genetic regulation",
+        "Ecological niche"
+      ],
+      "question_text": "The table below shows some of the 64 available codons and  their       \nassociated amino acids. \n \n5",
+      "subject_id": "biology",
+      "chapter_name": "Genetics, Reproduction & Biotechnology",
+      "model_answer": "Official CBSE Marking Scheme model answer.",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.5,
+          "criterion": "Accurate biological terminology and mechanism",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.5,
+          "criterion": "Illustrative example or physiological significance",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Enzyme specificity",
         "Meiotic phase",
         "Genetic regulation",
@@ -827,15 +1581,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Kavya",
+        "says",
+        "that",
+        "placenta"
+      ],
+      "question_text": "Kavya says that the placenta produces relaxin which plays a crucial role during \npregnancy. \n(a) Is she correct? Justify. \n(b) Name TWO other hormones secreted by the placenta during pregnancy \n \n2",
+      "subject_id": "biology",
+      "chapter_name": "Human Reproduction",
+      "model_answer": "(a) 0.5 marks each for the following: \n- No she is not correct.  \n- Relaxin is produced by the ovaries and not the placenta. \n \n(b) 0.5 marks each for any two of the following:  \n- human chorionic gonadotropin (hCG) \n- human placental lactogen (hPL) \n- estrogens \n- progestogens \n1.0 \n \n \n \n1.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Kavya",
         "says",
         "that",
@@ -855,15 +1635,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Thalassemia",
+        "autosomal",
+        "recessive",
+        "disorder"
+      ],
+      "question_text": "Thalassemia is an autosomal recessive disorder that causes anaemic conditions in an \nindividual. A blood smear from a heterozygous individual shows blood cells that are \nsmall, pale and irregularly shaped along with normal RBCs. \n \n(a) State the genotypic and phenotypic ratios of offspring born to a carrier mother and \na thalassemic father.  \n(b) Does the allele for thalassemia exhibit codominance? Justify. \n \n2",
+      "subject_id": "biology",
+      "chapter_name": "Principles Of Inheritance And Variation",
+      "model_answer": "(a) 0.5 marks for each of the following: \n- Genotypic ratio: 1:1 ratio of carriers:affected \n- Phenotypic ratio: 50% will not show major symptoms while 50% will \nshow the symptoms. \n \n(b) 0.5 marks for each of the following: \n- Yes \n- Since both proteins are produced/both types of RBCs are visible, it is \ncodominance. \n \n[Accept any other valid answer.] \n \n1.0 \n \n \n \n \n1.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Thalassemia",
         "autosomal",
         "recessive",
@@ -883,15 +1689,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Explain",
+        "reasons",
+        "treatment",
+        "AIDS"
+      ],
+      "question_text": "Explain any TWO reasons why the treatment of AIDS is only partially effective. \n \n2",
+      "subject_id": "biology",
+      "chapter_name": "Human Health And Disease",
+      "model_answer": "1 mark each of any two of the following: \n- HIV has a high mutation rate and genetic variability making it difficult to \ntarget. \n- HIV can be latent for more extended periods of time, making it difficult to \ndiagnose the disease. \n- HIV replicates in immune cells of the human body and targeting them \nmight pose a risk to the individual's immune system and safety. \n \n2.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Explain",
         "reasons",
         "treatment",
@@ -911,15 +1743,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Rati",
+        "wants",
+        "grow",
+        "variant"
+      ],
+      "question_text": "Rati wants to grow a variant of the lactobacillus spps. in a bioreactor. Lactobacillus is \nan anaerobic bacterium commonly used as a starter culture for diary products. Shown \nbelow is a bioreactor she had in her laboratory. \n  \n  \n \n \n \n \n \n \n \n \n \n \n \n(a) Identify ONE component that should definitely NOT be present in the reactor to \ngrow the lactobacillus spps. Justify. \n(b) Explain TWO quantities that the sensors in the bioreactor should monitor. \n2",
+      "subject_id": "biology",
+      "chapter_name": "Microbes In Human Welfare",
+      "model_answer": "(a) 0.5 marks each for the following: \n- The air inlet/sparger should be absent. \n- Since lactobacillus is anaerobic, it may not thrive well if oxygen is \npresent. \n \n(b) 0.5 marks each for any two quantities such as: \n- A sensor should monitor temperature as bacteria are likely to die if the \ntemperature fluctuates. \n- Dissolved oxygen should be measured to ensure anaerobic conditions \nare maintained. \n \n[Accept any other valid answer.] \n \n1.0 \n \n \n \n \n1.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Rati",
         "wants",
         "grow",
@@ -939,15 +1797,41 @@
         {
           "stepNumber": 1,
           "marks": 0.5,
-          "criterion": "Criterion 1 [0.5 marks]"
+          "criterion": "Criterion 1 [0.5 marks]",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 0.5,
-          "criterion": "Criterion 2 [0.5 marks]"
+          "criterion": "Criterion 2 [0.5 marks]",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Shown",
+        "food",
+        "chain",
+        "Millipedes"
+      ],
+      "question_text": "Shown below is a food chain. \n  \n \n \n(a) Millipedes have a hard exoskeleton whose composition is different from that of the \nleaves. Considering all other conditions to remain the same, which step is likely to be \nslower between A to B and B to C and why? \n(b) What would be the direction of the flow of energy in this food chain? \n \nOR \n \n(a) A coral reef can be regarded as an ecosystem. Mention any TWO reasons why. \n(b) The net primary productivity (NPP) of a coral reef is approximately 2000 g \nC/m2/year and the gross primary productivity (GPP) is 4000 g C/m2/year. \n \nCalculate the respiration losses (R) of this ecosystem. \n2 \n \n \n \n \n \n \n \n \n \n \n \n2 \n \nSection C",
+      "subject_id": "biology",
+      "chapter_name": "Ecosystem",
+      "model_answer": "(a) 0.5 marks for each of the following: \n- B to C will be slower than A to B \n- Since millipedes contain chitin, their decomposition will be slower than \nthat of leaves which have cellulose. \n \n(b) The flow of energy is A to B to C to D. \n \nOR \n \n1.0 \n \n \n \n \n1.0 \n \n \n \n1.0 \n \n \na) 0.5 marks for any TWO of the following: \n- A coral is a self-regulating and stable system. \n- It has a variety of biotic (living) components, including corals, fish, \ninvertebrates, algae, bacteria, plants, animals, and other organisms. \n- It has a variety of abiotic (non-living) components, including water, \nsunlight, nutrients, and soil. \n- The biotic and abiotic components interact with each other for life to \nsustain. \n- Flow of energy and nutrients occurs in the system. \n- It is a self-sustaining system as corals and other organisms that live on \nthe reef produce their own food through photosynthesis, and the reef itself \nprovides a stable habitat for the organisms that live there. \n \n[Accept any other valid answers] \n \n(b) GPP - R = NPP [0.5 marks] \n4000 - R = 2000 \nR = 2000 g C/m²/year [0.5 marks] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1.0 \nSection C",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 0.5,
+          "criterion": "Criterion 1 [0.5 marks]",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 0.5,
+          "criterion": "Criterion 2 [0.5 marks]",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Shown",
         "food",
         "chain",
@@ -967,15 +1851,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "biologist",
+        "sees",
+        "following",
+        "cells"
+      ],
+      "question_text": "A biologist sees the following cells in a cross-section of the seminiferous tubule and \nits surrounding tissues and counts the number of various kinds of cells.  \n \nSpermatozoa, Spermatid, Primary spermatocyte, Secondary spermatocyte, Leydig \ncells, Sertoli cells, Spermatogonium. \n \nFrom these cells, identify the cells: \n(a) that are diploid. \n(b) that can produce hormones and their names. \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Human Reproduction",
+      "model_answer": "(a) 0.5 marks for each type of cell: \n- Leydig cells \n- Sertoli cells \n- Spermatogonium \n- Primary spermatocyte \n \n(b) 0.5 marks for each of the following: \n- Leydig cells \n- produces androgens \n2.0 \n \n \n \n \n \n1.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "biologist",
         "sees",
         "following",
@@ -995,15 +1905,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "couple",
+        "trying",
+        "conceive",
+        "start"
+      ],
+      "question_text": "A couple is trying to conceive and start a family. \n \n(a) If the woman's period, which is regular, is scheduled to start on July 19, what was \nthe estimated date of ovulation for the previous cycle? \n(b) Name the four important reproductive hormones and state whether their levels will \nbe high or low on the date identified in (a). \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Reproductive Health",
+      "model_answer": "(a) 5th July \n \n(b) 0.5 marks for each for the following: \n \nEstrogen - The highest level \nProgesterone - The lowest level \nFSH - The highest level \nLH - The highest level \n \n[Do not award marks if the level is not mentioned.] \n1.0 \n \n2.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "couple",
         "trying",
         "conceive",
@@ -1023,15 +1959,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "part",
+        "assisted",
+        "reproductive",
+        "technologies"
+      ],
+      "question_text": "As part of assisted reproductive technologies (ART), \n \n(a) What is the destination for blastomeres with a count of less than 8 cells and more \nthan 8 cells? \n(b) What could be the reason behind transferring to the destinations identified in (a)? \n(c) What techniques are used to transfer the blastomeres to the destinations identified \nin (a)? \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Reproductive Health",
+      "model_answer": "(a) 0.5 marks for each of the following: \n- For less than 8 cells, blastomere is transferred to the fallopian tube. \n- For more than 8 cells, blastomere is transferred to the uterus. \n \n(b) Embryos with more than 8 cells are generally considered healthier and \n1.0 \n \n \n \n \n \nhave a better chance of successful implantation and further development \nand hence are placed in the uterus and not the fallopian tube. \n \n(c) 0.5 marks for each of the following: \n- For less than 8 cells, zygote intra-fallopian transfer is done. \n- For more than 8 cells, the intra-2 uterine transfer is done. \n1.0 \n \n \n \n1.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "part",
         "assisted",
         "reproductive",
@@ -1051,15 +2013,41 @@
         {
           "stepNumber": 1,
           "marks": 0.5,
-          "criterion": "Criterion 1 [0.5 marks]"
+          "criterion": "Criterion 1 [0.5 marks]",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 0.5,
-          "criterion": "Criterion 2 [0.5 marks]"
+          "criterion": "Criterion 2 [0.5 marks]",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "State",
+        "FOUR",
+        "phenomena",
+        "Hardy"
+      ],
+      "question_text": "(a) State any FOUR phenomena in which the Hardy-Weinberg theorem may not hold \ntrue. \n(b) A population of 100 individuals has a frequency of allele A of 0.3 and a frequency \nof allele a of 0.7. The frequency of the heterozygous genotype (Aa) is 0.49. Is this \npopulation in Hardy-Weinberg equilibrium? Justify. \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Evolution",
+      "model_answer": "(a) 0.5 marks for any FOUR of the following: \n- gene migration \n- genetic drift \n- mutation \n- genetic recombination \n- natural selection \n \n(b) For the population to be in Hardy-Weinberg equilibrium, the expected \nfrequency of the heterozygous genotype (Aa) has to be \n \n2pq = 2*0.7*0.3 = 0.42 [0.5 marks] \n \nSince the frequency of the heterozygous genotype (Aa) is 49%, it deviates \nfrom the Hardy-Weinberg equilibrium/the population is not in Hardy-\nWeinberg equilibrium. [0.5 marks] \n \n2.0 \n \n \n \n \n \n \n1.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 0.5,
+          "criterion": "Criterion 1 [0.5 marks]",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 0.5,
+          "criterion": "Criterion 2 [0.5 marks]",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "State",
         "FOUR",
         "phenomena",
@@ -1079,25 +2067,65 @@
         {
           "stepNumber": 1,
           "marks": 0.5,
-          "criterion": "Criterion 1 [0.5 marks]"
+          "criterion": "Criterion 1 [0.5 marks]",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Criterion 2 [1 mark]"
+          "criterion": "Criterion 2 [1 mark]",
+          "step_number": 2
         },
         {
           "stepNumber": 3,
           "marks": 0.5,
-          "criterion": "Criterion 3 [0.5 marks]"
+          "criterion": "Criterion 3 [0.5 marks]",
+          "step_number": 3
         },
         {
           "stepNumber": 4,
           "marks": 1.0,
-          "criterion": "Criterion 4 [1 mark]"
+          "criterion": "Criterion 4 [1 mark]",
+          "step_number": 4
         }
       ],
       "keyTerms": [
+        "State",
+        "whether",
+        "each",
+        "these"
+      ],
+      "question_text": "State whether each of these statements given below is/are true or false. Justify your \nanswer. \n \n(a) Flocs reduce the pollution in water by increasing its BOD. \n(b) Mycorrhiza is a type of parasitic relationship in which only the plants benefit from \nfungi. \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Microbes In Human Welfare",
+      "model_answer": "(a) - False [0.5 marks] \n- Flocs reduce pollution by decomposing the organic matter present in \nwater and decreasing its BOD. [1 mark] \n \n(b) - False [0.5 marks] \n- Mycorrhiza is a type of symbiotic relationship in which both plants \nbenefit from fungi and vice versa. [1 mark] \n1.5 \n \n \n \n1.5",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 0.5,
+          "criterion": "Criterion 1 [0.5 marks]",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Criterion 2 [1 mark]",
+          "step_number": 2
+        },
+        {
+          "stepNumber": 3,
+          "marks": 0.5,
+          "criterion": "Criterion 3 [0.5 marks]",
+          "step_number": 3
+        },
+        {
+          "stepNumber": 4,
+          "marks": 1.0,
+          "criterion": "Criterion 4 [1 mark]",
+          "step_number": 4
+        }
+      ],
+      "key_terms": [
         "State",
         "whether",
         "each",
@@ -1117,15 +2145,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Erythropoietin",
+        "glycoprotein",
+        "hormone",
+        "that"
+      ],
+      "question_text": "Erythropoietin is a glycoprotein hormone that is otherwise naturally produced in the \nkidney when the body becomes anaemic. However, this does not happen in the case of \nchronic renal diseases where kidney function is lost. Epoetin alfa is a human \nerythropoietin produced in cell culture using recombinant DNA technology. The cell \nculture used is called Namalwa cells, a human cell culture. There are eight exons and \nseven introns in a single gene that encodes the hormone, whose sequence is known. \n \nExplain the step-by-step process that should be followed for producing \nhuman erythropoietin in culture. \n \nOR \n \nToday, many genetic disorders can be detected using a single cell from an \nembryo. This helps in planning the child's health care in advance, and in some cases \neven treating the disorder while the baby is still in the womb. \n(a) Identify a biotechnological technique that can be used for this purpose. Give a \nreason to support your answer. \n(b) Can the technique identified in (a) be used to detect the presence of RNA viruses? \nJustify. \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Biotechnology Principles And Processes",
+      "model_answer": "0.5 marks each for the following: \n- Use the sequence of exons to form a dsDNA molecule in vitro. \n- Insert the dsDNA molecule into an appropriate vector. \n- Introduce the recombinant vectors in bacterial hosts and select cells \ncontaining the recombinant vector with the gene of interest. \n- Purify the vector and amplify it using PCR. \n- Using a gene gun or any appropriate technique introduce the \nrecombinant vector into host human cells/Namalwa cells. \n- Grow these cells in bioprocessors and extract and purify the glycoprotein \nfrom the culture. \n \n[Award marks if the answer is presented as a flowchart or diagram] \n \nOR \n \n(a) 1 mark each for the following: \n3.0 \n \n \n \n \n \n \n \n \n \n \n \n \n \n2.0 \n \n \n- Polymerase Chain Reaction (PCR) \n- It can be used to detect very small quantities of nucleic acid sequences as \nwould be the case with DNA from a single cell. \n \n(b) 0.5 marks each for the following: \n- Yes, it can be used. \n- PCR can be used to amplify/detect any nucleotide sequence. \n \n[Accept any other valid answer.] \n \n \n \n1.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Erythropoietin",
         "glycoprotein",
         "hormone",
@@ -1145,15 +2199,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "study",
+        "comparing",
+        "continents",
+        "Antarctica"
+      ],
+      "question_text": "In a study comparing two continents - Antarctica and Asia, the species-area \nrelationship was investigated using the following data: \nParameter Antarctica Asia \nArea 14 x 106 km2 44 x 106 km2 \nRegression coefficient 1 1 \nY-intercept 5 10 \n \n3 \n \n(a) Calculate the species richness value for each region. \n(b) Based on (a), which continent will have greater biodiversity and why? \nSection D",
+      "subject_id": "biology",
+      "chapter_name": "Biodiversity And Conservation",
+      "model_answer": "(a) 1 mark for the formula and 0.5 marks for the S value of each region: \nS = CAz, \nwhere \nS = Species richness \nA = Area \nZ = Regression coefficient \nC = Y-intercept \n \n- For Antarctica, S = 5*(14*106)(1) = 70*106 \n- For Asia, S = 10*(44*106)(1) = 44*107 \n \n(b) 0.5 marks each for the following: \n- Asia \n- Since the species richness of Asia is more they have more species and so \ngreater biodiversity than Antarctica \n2.0 \n \n \n \n \n \n \n \n \n \n1.0 \nSection D",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "study",
         "comparing",
         "continents",
@@ -1173,15 +2253,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Criterion 1 [1 mark]"
+          "criterion": "Criterion 1 [1 mark]",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Criterion 2 [1 mark]"
+          "criterion": "Criterion 2 [1 mark]",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Shown",
+        "cloning",
+        "vector",
+        "that"
+      ],
+      "question_text": "Shown below is a cloning vector 'Z' that Kamla wants to use to create a \nrecombinant vector with her gene of interest. \n  \n  \n \n \n \n \n \n \n \n \n \n \n \n \nThe vector consists of sites for three restriction enzymes - ScaI, HindIII and \nEcoRI. Restriction sites for the same enzymes are also present in the gene of \ninterest. There are two 'ori' sequences - one allows it to replicate in \nEscherichia coli and another allows replication in Zymomonas mobilis. Apart \nfrom this, the vector consists of two antibiotic resistance genes - one against \ntetracycline (tet) and another against chloramphenicol (cml).  \n \n(a) What is the advantage of having two 'ori' sequences in the same vector? \nGive a situation in which this would be particularly useful. \n \nOR \n \nIf the vector was cut using HindIII, what would colonies growing on a \nmedium containing tetracycline DEFINITELY contain? \n \n(b) Suggest which of the three restriction enzymes would be suitable for \ninsertion of the gene of interest. Give TWO advantages of using the enzyme \nchosen by you. \n(c) State ONE disadvantage of using the other two restriction enzymes not \nchosen in (b). \n \n \n4",
+      "subject_id": "biology",
+      "chapter_name": "Biotechnology Principles And Processes",
+      "model_answer": "(a) 0.5 marks each for the following: \n- It helps the vector replicate in different hosts. \n- When adding bacterial genes of interest into plant vectors, having ori's \nthat help the same plasmid replicate in both bacteria and plants would \nhelp simplify the process of gene cloning. \n \n[Accept any other valid answer.] \n \nOR \n \nThe uncut vector without the gene of interest [1 mark] \n \n[Deduct 0.5 marks if a student writes the religated vector without gene of \ninterest] \n \n(b) EcoRI would be ideal to use [1 mark] \n0.5 marks each for any TWO advantages such as: \n- It has a single restriction site, meaning that only two products will be \nobtained - either with the gene of interest or without it and will not give \nmultiple products. \n1.0 \n \n \n \n \n \n \n \n \n1.0 \n \n \n \n \n2.0 \n \n \n \n \n \n \n- The restriction site is within the chloramphenicol resistance gene, which \non insertional inactivation will help select recombinant vectors. \n \n[Accept any other valid answer.] \n \n(c) Using ScaI and/or HindIII would lead to multiple end \nproducts/fragments being formed which would make selection of the \nrecombinant vector complicated. \n \n \n \n \n1.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Criterion 1 [1 mark]",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Criterion 2 [1 mark]",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Shown",
         "cloning",
         "vector",
@@ -1201,15 +2307,41 @@
         {
           "stepNumber": 1,
           "marks": 2.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Predator",
+        "shown",
+        "image",
+        "type"
+      ],
+      "question_text": "Predator Y shown in the image below is a type of wild cat that inhabits the \nforests and preys primarily on prey X which are herbivores. Shown below is \ndata on their respective populations over time. \n(a) What is the likely cause for the pattern seen in the prey and predator \npopulations through the years?  \n(b) Hypothetically, if all the predators of the forests become extinct, what will \nhappen to the vegetation of the forest? \n(c) Consider a situation where another similar species of predator immigrates \nto the forest. What is likely to happen over time and why? \n \nOR \n \nJuglone is a chemical produced naturally in most parts of the black walnut \nplant. This chemical leaches into the soil when the plant falls. This leads to the \ndeath of many plants that grow around the black walnut plant. \n \nIdentify the type of ecological interaction between the black walnut and other \nplants growing around it. Justify. \n4 \nSection E",
+      "subject_id": "biology",
+      "chapter_name": "Organisms And Populations",
+      "model_answer": "(a) 0.5 marks each for the following: \n- Since prey X is the primary food for prey Y, as the prey population \nincreases, so does the predator population. \n- More predators consume the prey causing the prey population to drop. \n- As the prey population drops, predators do not have enough prey and so \ntheir population also drops. \n- When this happens, the prey population increases again. \n \n(b) The vegetation will also slowly disappear. \n \nInternal choice within question (c) \n(c) 0.5 marks each for the following: \n- The two species will compete for the same prey and the inferior one is \nlikely to be eliminated over time. \n- Since they both feed on the same prey, resources are limited causing the \nelimination of the inferior predator. \n \n[Accept any other valid answer.] \n \nOR \n \n0.5 marks each for the following: \n- amensalism \n- The black walnut is neither harmed nor benefitted while the plants \nsurrounding it are harmed. \n2.0 \n \n \n \n \n \n \n1.0 \n \n \n1.0 \n \n \n \n \n \n \n \n1.0 \nSection E",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Predator",
         "shown",
         "image",
@@ -1229,15 +2361,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Criterion 1 [1 mark]"
+          "criterion": "Criterion 1 [1 mark]",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Criterion 2 [1 mark]"
+          "criterion": "Criterion 2 [1 mark]",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Government",
+        "Organisation",
+        "aims",
+        "increase"
+      ],
+      "question_text": "A Non-Government Organisation (NGO) aims to increase awareness against STDs.  \n \n(a) What could be the ideal target age group for the NGO? \n(b) Mention any TWO potential long-term health-related complications of untreated \nSTDs that the NGO should educate the target age group about. \n(c) Mention ONE contraceptive method that provides protection against the STD. \nJustify. \n(d) State TWO contraceptive methods that do not protect against STDs that they can \neducate the group about. \n5 \n\n \n \nOR \n \nAmey and Lalita are expecting their first child, with Lalita being in her second month \nof pregnancy with no known complications. Amey's family has a history of cystic \nfibrosis while Lalita's family has a history of Down's syndrome, leading to a concern \nthat the baby may have one of these conditions. \n \n(a) Suggest and explain a way of testing if their baby is at risk for any genetic \ndisorders. \n(b) In case of the presence of one or both of the abnormalities and posing a risk to the \nmother's health, mention one possible option for them to consider.  \n(c) Is the process mentioned in (b) safe for Lalita at the current gestational age? \nJustify. \n(d) Under what conditions is the process mentioned in (b) illegal?",
+      "subject_id": "biology",
+      "chapter_name": "Reproductive Health",
+      "model_answer": "(a) 15-24 years \n \n[Accept any other valid answer which includes a nearby age group] \n \n(b) 1 mark each for the following: \n- Chronic pain and discomfort in various body organs  \n- Infertility in some STDs \n- Lower immunity levels and increased risk of other infections \n- Higher risk of transmitting the diseases to others. \n1.0 \n \n \n \n2.0 \n \n \n \n \n \n \n \n \n[Accept any other valid answer] \n \n(c) 0.5 marks each for the following: \n- condoms \n- They act as a barrier preventing the mixing of body fluids. \n \n(d) 0.5 marks each for any two of the following: \n- Oral Contraceptive Pills \n- Vasectomy or Tubectomy \n- IUDs \n \nOR \n \n(a) Amniocentesis - It involves taking a sample of the amniotic fluid and \ntesting it for genetic abnormalities. \n \n[0.5 marks each for suggesting the name of the method and explaining it] \n \n(b) Medical Termination of Pregnancy (MTP) \n \n(c) Yes, it is currently safe [1 mark] \nThis option should be considered before the completion of the first \ntrimester, as it might be riskier after this period. [1 mark] \n \n(d) MTP is illegal in cases involving determining the gender of the unborn \nchild and female foeticide. \n \n \n1.0 \n \n \n \n1.0 \n \n \n \n \n \n \n1.0 \n \n \n \n1.0 \n \n \n2.0 \n \n \n1.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Criterion 1 [1 mark]",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Criterion 2 [1 mark]",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Government",
         "Organisation",
         "aims",
@@ -1257,25 +2415,65 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Criterion 1 [1 mark]"
+          "criterion": "Criterion 1 [1 mark]",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Criterion 2 [1 mark]"
+          "criterion": "Criterion 2 [1 mark]",
+          "step_number": 2
         },
         {
           "stepNumber": 3,
           "marks": 1.0,
-          "criterion": "Criterion 3 [1 mark]"
+          "criterion": "Criterion 3 [1 mark]",
+          "step_number": 3
         },
         {
           "stepNumber": 4,
           "marks": 0.5,
-          "criterion": "Criterion 4 [0.5 marks]"
+          "criterion": "Criterion 4 [0.5 marks]",
+          "step_number": 4
         }
       ],
       "keyTerms": [
+        "Shown",
+        "pedigree",
+        "individual",
+        "suffering"
+      ],
+      "question_text": "Shown below is a pedigree of an individual X who is suffering from ocular albinism \nwhich results in permanent vision loss. Use the pedigree to answer the questions that \nfollow: \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n(a) Complete the following statement about this disease: \nThe trait for the disease is linked to ___________ (X-chromosome/Y-\nchromosome/autosome) and is __________ (dominant/recessive). \n \n(b) Give a reason to support your answer to (a). \n(c) Identify the genotypes of individuals P, Q, R and S marked in the pedigree. \n \nOR \n \n \n \n5 \n\n \n \n \n \n \nShown below is a nucleotide sequence and the genetic code. \n \n5' - ATGCGTAGACTCGTA - 3' \n \n \n  \n \n \n \n \n \n \n \n \n(a) Identify the protein sequence formed by this sequence. \n(b) Draw the tRNA molecule for the third codon with its polarity labelled. Give a \nreason to support the polarity identified. \n(b) The first guanine base in the nucleotide sequence changes to cytosine. Identify the \ntype of mutation caused by this change.  \n(c) Will the mutated sequence form an mRNA and protein? Justify.",
+      "subject_id": "biology",
+      "chapter_name": "Molecular Basis Of Inheritance",
+      "model_answer": "(a) 0.5 marks each for the following: \n- X-chromosome \n- recessive \n \n(b) 1 mark each for the following: \n- It is appearing in both males and females but more in males which need \nonly one X chromosome for the trait to be expressed. \n- The trait is being expressed in only in some children/small fraction and \nso is likely to be recessive. \n \n[Accept any other valid answer.] \n \n(c) 0.5 marks each for the following: \n \n- P: XY \n- Q: XoX \n1.0 \n \n \n \n2.0 \n \n \n \n \n \n \n2.0 \n \n \n \n \n \n \n- R: XoX \n- S: XY \n \nOR \n \n(a) TYR ALA SER GLU HIS [1 mark] \n \n(b) Correct drawing with anticodon 3' -AGA - 5' [1 mark] \nReason: The mRNA sequence is translated in the 5' to 3' direction so the \nanticodon has to be in the 3' to 5' direction [1 mark] \n \n(c) point mutation [0.5 marks] \n \n(d) 0.5 marks each for the following: \n- mRNA will be formed  \n- protein will not be formed  \n- The first codon is a stop codon due to which translation will not happen \n \n \n \n1.0 \n \n2.0 \n \n \n0.5 \n \n1.5",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Criterion 1 [1 mark]",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Criterion 2 [1 mark]",
+          "step_number": 2
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Criterion 3 [1 mark]",
+          "step_number": 3
+        },
+        {
+          "stepNumber": 4,
+          "marks": 0.5,
+          "criterion": "Criterion 4 [0.5 marks]",
+          "step_number": 4
+        }
+      ],
+      "key_terms": [
         "Shown",
         "pedigree",
         "individual",
@@ -1295,15 +2493,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Criterion 1 [1 mark]"
+          "criterion": "Criterion 1 [1 mark]",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Criterion 2 [1 mark]"
+          "criterion": "Criterion 2 [1 mark]",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Classify",
+        "following",
+        "scenarios",
+        "active"
+      ],
+      "question_text": "(a) Classify the following scenarios as active/passive immunity and justify your \nanswer. \n(i) A fetus receives antibodies from its mother through the placenta. \n(ii) A person accidentally gets cut by a blade and later receives a tetanus shot. \n(iii) A person receives a blood transfusion from a donor who has been vaccinated \nagainst a disease. \n \n(b) Zoya is bitten by an infected Anopheles mosquito in the morning. In the evening, \nanother non-infected Anopheles mosquito bites Zoya and then bites Zaheer \nimmediately. How likely is Zaheer to get malaria? Justify your answer. \n \nOR \n \nA patient is suffering from fatigue, high fever, and weight loss, and has been \nobserving an increasing number and size of lumps in various regions of her body over \na very short time. \n \n5 \n\n \n(a) What could she be suffering from? \n(b) Mention FOUR ways in which the disease identified in (a) is caused and FOUR \ntechniques that can be used to diagnose it.",
+      "subject_id": "biology",
+      "chapter_name": "Human Health And Disease",
+      "model_answer": "(a) 0.5 marks each for mentioning the type of immunity and 0.5 marks \neach for the reason: \n \n(i) Passive immunity \nPre-formed antibodies are being transferred from the mother to the fetus \nas the fetus does not make its own antibodies. \n \n(ii) Active immunity \nA tetanus shot, which contains inactivated tetanus toxin, will stimulate the \nperson's immune system to produce his own specific antibodies against \ntetanus. \n \n(iii) Passive immunity \nThe person receiving the blood transfusion is passively acquiring \nantibodies from the vaccinated donor that were made by the donor's body \nand not the recipient's body.  \n \n \n(b) - Zaheer is not likely/less likely get malaria. [1 mark] \n \n- Since Zoya has been bitten by an infected mosquito and the process of \ninfection of the liver cells and red blood cells takes more than 5 days, the \nnon-infected second mosquito is not likely/ less likely to get infected by \nbiting Zoya, and thus cannot/less likely to transfer the Plasmodium to \nZaheer. [1 mark] \n \nOR \n \n3.0 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2.0 \n \n \n \n \n \n \n \n \n1.0 \n \n \n(a) Malignant tumour/ Cancer \n(b) 0.5 marks each for any four causes such as: \n- genetic factors/family history \n- carcinogens \n- high energy ionising radiations (e.g. X-rays, gamma rays, etc.) \n- non-ionizing radiations (e.g., UV) \n- infection by oncogenic viruses  \n \n0.5 marks each for any four diagnosis techniques such as: \n- X-rays \n- CT scans \n- MRI scans \n- Blood tests \n- Biopsies \n \n[Accept any other valid answer] \n2.0 \n \n \n \n \n \n \n2.0",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Criterion 1 [1 mark]",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Criterion 2 [1 mark]",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Classify",
         "following",
         "scenarios",
@@ -1323,15 +2547,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Consuming",
+        "mother",
+        "milk",
+        "first"
+      ],
+      "question_text": "Consuming mother’s milk for the first few days is important for the baby  \nnot just for energy, but also for other reasons. Elaborate. \n2",
+      "subject_id": "biology",
+      "chapter_name": "Sexual Reproduction In Flowering Plants",
+      "model_answer": "• The mother’s milk during the  initial days after delivery is \ncalled colostrum. It contains abundant  antibodies (IgA) that \nprotect the neonate against many diseases.                                (1) \n• It thus provides passive immunity to the new born infant.           (1) \n2",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Consuming",
         "mother",
         "milk",
@@ -1351,15 +2601,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "bacteria",
+        "three",
+        "steps",
+        "transcription"
+      ],
+      "question_text": "In bacteria, how are all three steps of transcription catalyzed by a single \nRNA polymerase? \n2",
+      "subject_id": "biology",
+      "chapter_name": "Molecular Basis Of Inheritance",
+      "model_answer": "• RNA polymerase is capable of catalysing the process of \nelongation.                                                                                  (1) \n• It associates transiently with initiation factor (sigma factor) and \ntermination factor (rho factor) to initiate and terminate the \ntranscription respectively.                                                           (1) \n2",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "bacteria",
         "three",
         "steps",
@@ -1379,15 +2655,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "patient",
+        "complaining",
+        "fever",
+        "chills"
+      ],
+      "question_text": "A patient was complaining of fever, chills, cough and headache. His lips \nand fingernails turned grey. What diagnosis would you make? Name the \ntwo causal organisms and state the category to which these pathogens \nbelong. \n 2",
+      "subject_id": "biology",
+      "chapter_name": "Organisms And Populations",
+      "model_answer": "• The symptoms indicate Pneumonia. \n• Causal organisms – Streptococcus pneumoniae, Haemophilus \ninfluenzae \n• Bacteria                                                                        (0.5 x 4 = 2) \n2",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "patient",
         "complaining",
         "fever",
@@ -1407,15 +2709,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "effort",
+        "mass",
+        "produce",
+        "useful"
+      ],
+      "question_text": "In an effort to mass produce a useful protein, scientists extracted a  \nprecise section of mRNA from the cytoplasm of cells which naturally  \nproduced the protein. The mRNA strand was then used as a template to \nenzymatically synthesise a strand of complementary DNA (cDNA). \n \na) Identify the enzymes A, B and C. \nb) Plasmid was used as a vector in this investigation. Name another \nvector that can be used here. \n 2",
+      "subject_id": "biology",
+      "chapter_name": "Biotechnology Principles And Processes",
+      "model_answer": "(a) A: reverse transcriptase; B: DNA polymerase; C: restriction \nenzyme \n(b) viral DNA/phage DNA/ Agrobacterium tumefaciens  (0.5 x 4 = 2) \n2",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "effort",
         "mass",
         "produce",
@@ -1435,15 +2763,41 @@
         {
           "stepNumber": 1,
           "marks": 1.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Explain",
+        "ecosystem",
+        "follows",
+        "first"
+      ],
+      "question_text": "Explain how the ecosystem follows the first and the second law of \nthermodynamics. \nOR \na) Study the ecological pyramid of numbers given below and \nsuggest some situations in which it is applicable. \n \n \n \nb) Give two reasons why the percentage of energy transferred to \nconsumers generally gets lowered as we move in a food chain \nfrom one trophic level to the other. \n2 \n\nSection – C",
+      "subject_id": "biology",
+      "chapter_name": "Ecosystem",
+      "model_answer": "a) The first law  of thermodynamics  states that energy is neither \ncreated, nor destroyed; it can only be converted from one form to \nanother. In the ecosystem also solar energy is converted to \nchemical energy. It is neither created nor destroyed.                 (1) \nb) The second law states  that there is a natural tendency of any \nisolated system to move towards entropy, thus, there is some loss \nof energy at each step of energy flow in the form of heat. This law \nalso stands true in eco system as transfer of energy in an \necosystem f ollows the 1 0 percent law . O nly 10 percent of the \nenergy is transferred to each trophic level from the lower trophic \nlevel. Some energy is lost at each step in the form of heat and \nsome energy is also used for life processes.                              (1) \n OR \na) In a food chain, secondary consumers feed on primary consumers. \nIn the given ecological pyramid, secondary consumers are more  \nthan primary consumers , this is possible in case secondary \nconsumers are parasites/small size/have a rapid reproductive \ncycle.                                                                                            (1) \nb) Transfer of energy follows the 10 percent law and only 10 percent \nof the energy is transferred to each trophic level from the lower \ntrophic level. \nThe percentage of energy transferred gets lowered as we move in \na food chain from one trophic level to the other because  some \nenergy is lost via  Heat/respiration; some energy is also used for \nlife processes.                                                                              (1) \n2 \nSection – C",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Explain",
         "ecosystem",
         "follows",
@@ -1463,15 +2817,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Explain",
+        "pituitary",
+        "hormones",
+        "influence"
+      ],
+      "question_text": "a) Explain how pituitary hormones influence the activity of Leydig cells \nand Sertoli cells present in human testes.  \nb) The Spermatogonia has 46 chromosomes in a human male. Give \nthe number of chromosomes in a (i) Primary spermatocyte and (ii) \nSpermatid. \n3",
+      "subject_id": "biology",
+      "chapter_name": "Human Reproduction",
+      "model_answer": "a) In males, LH acts on Leydig cells and causes them to release \nandrogens, which stimulate the process of spermatogenesis  (1); \nwhile the FSH acts on the Sertoli cells, which help s in \nspermiogenesis.                                                                          (1) \nb) (i) Primary spermatocyte – 46 chromosomes  \n(ii) Spermatid – 23 chromosomes.                                              (1) \n3",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Explain",
         "pituitary",
         "hormones",
@@ -1491,15 +2871,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "figure",
+        "sequence",
+        "changes",
+        "within"
+      ],
+      "question_text": "The figure below shows the sequence of changes within the ovary \nthat occur during the menstrual cycle. \n \na) Name the process A. Name  the hormone that plays an \nimportant role during this event. \nb) Identify B and name the hormone that regulates the maturation of \nB. \nc) Identify and write the function of C. \n3",
+      "subject_id": "biology",
+      "chapter_name": "Human Reproduction",
+      "model_answer": "a) Ovulation - LH                                                                             (1) \nb) Graafian Follicle- Estrogen                                                          (1) \nc) Corpus Luteum- produces progesterone                                     (1) \n3",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "figure",
         "sequence",
         "changes",
@@ -1519,15 +2925,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Above",
+        "figure",
+        "indicates",
+        "percentage"
+      ],
+      "question_text": "Above figure indicates the percentage of recombination between 2 \npairs of genes – y and w; w and m. On the basis of this data what \nconclusion can you draw - \na) Which two of these genes are tightly linked? Justify your answer.  \nb) Which scientist used such data of the frequency of recombination \nbetween gene pairs on the same chromosome to prepare genetic \nmaps and how? \nc) How are genetic maps useful? \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Principles Of Inheritance And Variation",
+      "model_answer": "a) Genes y and w are tightly linked as they show only 1.3 % \nrecombination so c hances of crossing over / independent \nassortment are low.                                                                     (1) \nb) Alfred Sturtevant used the frequency of recombination between \ngene pairs on the same chromosome as a measure of the distance \nbetween genes and ‘mapped’ their position on the chromosome.  \n (1) \n3 \nc) Genetic maps are used as a starting point in the sequencing of \nwhole genomes as in the case of Human Genome Sequencing \nProject.                                                                                      (1)",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Above",
         "figure",
         "indicates",
@@ -1547,15 +2979,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "figure",
+        "white",
+        "winged",
+        "dark"
+      ],
+      "question_text": "The figure given below shows white winged and dark winged moth \npresent on a tree trunk with variable lichen growth (a) in unpolluted \narea and (b) in polluted area. Which variety of moth is likely to \nsurvive in these two conditions? Justify your answer.  \n \n3",
+      "subject_id": "biology",
+      "chapter_name": "Sexual Reproduction In Flowering Plants",
+      "model_answer": " In a collection of moths in unpolluted area , more white -winged \nmoths on trees would sur vive than dark -winged or melanised \nmoths. However, in the polluted area, more dark -winged moths \nwould survive i.e., the proportion will be reversed.  \n The predators will spot a moth against a contrasting background. \nIn a polluted area , the tree trunks bec ome dark due to industrial \nsmoke and soot. Under this condition the white -winged moth \ncannot survive due to predators, dark -winged or melanised moth  \nwill survive. In unpolluted area, thick growth of almost white -\ncoloured lichen will cover the trees - in that background the white \nwinged moth will survive but the dark-coloured moth will be picked \nout by predators.  \n Lichens cannot grow in areas that are polluted. Hence, moths that \nwill be  able to camouflage themselves, i.e., hide in the \nbackground, will survive. No variant will be completely wiped out. \nIt is an example of process of Evolution by natural selection. \n3",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "figure",
         "white",
         "winged",
@@ -1575,15 +3033,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "important",
+        "measure",
+        "biochemical",
+        "oxygen"
+      ],
+      "question_text": "a) Why is it important to measure biochemical oxygen demand (BOD) \nof the effluent? At what stage of sewage  treatment is this testing \ndone? \nb) BOD level of three samples of water labelled as A, B and C are 60 \nmg/L, 20 mg/L and 500 mg/L respectively. Which sample of water is \nmost polluted? \n3",
+      "subject_id": "biology",
+      "chapter_name": "Sexual Reproduction In Flowering Plants",
+      "model_answer": "a) The BOD test measures the rate of uptake of oxygen by \nmicroorganisms in a sample of water.  It is thus an indicator of \npollution level of the water.                                                        (1) \n        Biological treatment or Secondary treatment                           (1) \nb) Sample C is most polluted because it has highest BOD level \namong the three samples of water.                                           (1) \n3",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "important",
         "measure",
         "biochemical",
@@ -1603,15 +3087,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "When",
+        "different",
+        "varieties",
+        "conventional"
+      ],
+      "question_text": "When two different varieties – a conventional variety and a GM crop of \ncorn crop were grown in a field, it was noticed that corn  borers \nattacked only the conventional variety.  \na) Suggest a suitable treatment using genetic engineering approach \nfor damage control in the conventional variety. Justify your \napproach.  \nb) Name the gene associated for development of GM crop  for the  \ncontrol of this     pest. Explain its impact on the insect pest? \nc) How does it not harm the source from which it is taken? \nOR \nFactor VIII protein is a very useful protein for blood clotting in the human \nbody. If deficient, it can either be plasma derived or can be made as a \ngenetically engineered recombinant protein. \na) Name a genetic  disease that may be  treated using recombinant \nhuman factor VIII.  \nb) Before recombinant human factor VIII was available, this disease  \nwas treated with factor VIII received from donated blood. Give two \npossible advantages of      using recombinant human factor VIII instead \nof it being obtained from donated blood, to treat this disease.  \nc) What is unique feature in inheritance pattern of the  disease as \nmentioned in part (a) above. \n3",
+      "subject_id": "biology",
+      "chapter_name": "Reproductive Health",
+      "model_answer": "a) Bt toxin gene can be isolated from bacterium Bacillus \nthuringiensis and using rDNA techniques it is introduced in the \ngenome of the conventional variety. The gene would express an \ninsecticidal protein. This would provide the plant resistance to the \ncorn borer, without the need of insecticide. Spray of insecticide \nwill not be needed.                                                                    (1) \nb) cryIAb – It is a Bt toxin gene isolated from Bacillus thruingiensis \nwhich codes for toxic insecticidal protein. The activated toxin due \nto alkaline pH of the gut solubilizes the crystals. The active toxin \nbinds to the surface of mid -gut epithelial cells and creates pores \nthat cause swelling and lysis and eventually cause  death of the \ninsect.                                                                                       (1) \nc) This toxic insecticidal protein exists as an inactive protoxin form \nin the bacterium but once an insect ingest s the inactive toxin, it \nis converted into an active form of toxin due to alkaline pH of the \ngut which solubilizes the crystals.                                                (1) \nOR \na) Haemophilia                                                                                        (1) \nb) Factor VIII received from donor’s blood may carry pathogens \nleading to infection and may elicit immune response/allergy which \ncan be overcome by recombinant human factor VIII.                (1) \nc) Haemophilia is a X- chromosome linked recessive genetic \ndisorder and it follows criss- cross pattern of inheritance.         (1) \n3",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "When",
         "different",
         "varieties",
@@ -1631,15 +3141,41 @@
         {
           "stepNumber": 1,
           "marks": 1.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 1.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "conservation",
+        "strategy",
+        "used",
+        "when"
+      ],
+      "question_text": "Which bio conservation strategy is used when the  endangered species \nare removed from the unsafe or threatened habitat and placed under  \nhuman care? How is this strategy different from the other strategy of  \nbio-conservation? \n3 \nSection – D",
+      "subject_id": "biology",
+      "chapter_name": "Sexual Reproduction In Flowering Plants",
+      "model_answer": "Ex-situ.                                                                                             (1) \n Ex-situ conservation is conservation of biological diversity outside \ntheir natural areas and is done through different methods like \ncaptive breeding, botanical garden, zoos, aquaria  and gene bank \netc.                                                                                              (1) \n It differs from the other strategy called In situ conservation. In-situ \nconservation is the conservation and protection of genetic \nresources of plant and animal species in their natural habitats \nitself, as in Biosphere reserves, National Parks and sanctuar ies \netc.                                                                                               (1) \n3 \nSection – D",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "conservation",
         "strategy",
         "used",
@@ -1659,15 +3195,41 @@
         {
           "stepNumber": 1,
           "marks": 2.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "image",
+        "showing",
+        "special",
+        "situation"
+      ],
+      "question_text": "Given below is an image showing  a special situation in which a  \ndsRNA from a source has been introduced into a host cell. \n \na) How can dsRNA of nematode specific gene be introduced into the \nhost cell as shown in the figure given above?                                 \nb) What can be the source of dsRNA for this process? \nc) What will be the impact of this interaction between dsRNA and \nmRNA on the mRNA and entire cellular machinery of host plant?                               \n4 \n      OR \nc) What is the economic importance of the technique shown in the \nabove figure? Justify your statement.",
+      "subject_id": "biology",
+      "chapter_name": "Molecular Basis Of Inheritance",
+      "model_answer": "a) Using Agrobacterium vectors                                                      (1) \nb) Infection by viruses having RN A genomes or mobile genetic \nelements (transposons)                                                               (1) \nc) Being complimentary, one RNA strand of the newly introduced ds \nRNA will bind to already existing mRNA of the host cell which will \nresult in silencing of this mRNA of for translational purposes. (RNA \ninterference) \nParasite will thus not be able to survive in the transgenic host.      (1) \nOR \nc) It is used for development of pest resistant plants.  A nematode \nMeloidegyne incognita infects the roots of Tobacco plants and \ncauses a great reduction in yield.  To prevent this infestation RNA \ninterference technique is used which involves silencing of mRNA \ndue to a complimentary dsRNA molecule that binds to and \nprevents translation of the mRNA. \n4",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "image",
         "showing",
         "special",
@@ -1687,15 +3249,41 @@
         {
           "stepNumber": 1,
           "marks": 2.0,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.0,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "huge",
+        "culture",
+        "flask",
+        "with"
+      ],
+      "question_text": "In a huge culture flask with unlimited supply of nutrient medium, \nbacteria were grown. Their population kept on increasing as they were \ndividing by binary fission. \na) What type of growth pattern will be seen in this population? \nb) Write the equation which can be used to calculate the population \nsize after time t, when the initial population size of the bacteria is \nrepresented by N and population size after time t is represented by \nNt. \nc) Draw a growth curve to depict the growth in the p opulation size \nwhen growth in the population size is plotted over time. What will be \nthe shape of this growth curve?  \nOR \n c)  If instead of providing the unlimited supply of culture medium in a \nhuge flask, it is provided only in a very small test tube, then what will \nbe the pattern of growth and the shape of the growth curve?  Depict \ndiagrammatically also. \n4 \nSection - E",
+      "subject_id": "biology",
+      "chapter_name": "Organisms And Populations",
+      "model_answer": "a) Exponential or geometric growth pattern                                    (1) \nb) Nt = N0 ert                                                                                                                              (1) \n              Where Nt = population density after time t \n               N0 = Population density at time zero \n               r = intrinsic rate of natural increase \n               e = the base of natural logarithms \nc)   \n                                                            \n               J – shaped growth curve                                              (1+1) \nOR \nc) Logistic growth - sigmoid shape, will be obtained.                    (1) \nIn the logistic growth, the population increases at the onset and \ncontinues exponentially till the mid when the resources are utilized \nat maximum level. The graph becomes stationary when the \npopulation exceeds its carrying capacity. \n4 \n\n                                                            (1)",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "huge",
         "culture",
         "flask",
@@ -1715,15 +3303,41 @@
         {
           "stepNumber": 1,
           "marks": 2.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "couple",
+        "unprotected",
+        "intercourse",
+        "possible"
+      ],
+      "question_text": "A couple had unprotected intercourse.  \ni) Which are the two possible emergency contraceptives that can be \nused to avoid pregnancy in such a case?  \nii) What is the basic principle of each of these?  \niii) Will these contraceptive devices provide protection to the couple \nfrom STDs as well? Justify your answer.  \niv)  Removal of gonads cannot be considered as a contraceptive \noption. Justify. \nOR \nConsider the following three possible diagnoses for infertility and \nanswer the trailing questions. \n(i) Inability to produce a normal egg. \n(ii) Low Count of Sperm. \n(iii) Blocked Fallopian tube \na) Suggest and explain different methods of ART based on clinical \nexamination for the above cases. \nb) What are the legally acceptable reasons that allow MTPs to be \ncarried out? \n5",
+      "subject_id": "biology",
+      "chapter_name": "Reproductive Health",
+      "model_answer": "i) Administration of progestogens or progestogen estrogen \ncombinations or IUDs within 72 hours of coitus.                       (1) \nii) Progestogens alone or in combination with estrogen inhibit \nimplantation as well as alter the quality of cervical mucus to \nprevent the entry of sperms.                                                     (1) \nIUDs increase the phagocytosis of sperms within the uterus, \nsuppress sperm motility and fertilising capacity of sperms.      (1) \niii) No, STDs can be prevented by use of condoms.                     (1) \niv) Gonads are endocrine glands and thus cannot be removed from \nthe body.                                                                                   (1)                          \nOR \na)  \ni) Inability to produce a normal egg. - GIFT (Gamete Intra \nFallopian Transfer): This technique involves the transfer of \nan ovum collected from a donor into the fallopian tube of \nanother female who cannot produce one.                             (1) \nii) Low Count of Sperm. - ICSI (Intra Cytoplasmic Sperm \nInjection): In this technique, sperm is directly injected into \nthe ovum; in the laboratory.                                                  (1) \niii) Blocked Fallopian tube- ET (Embryo Transfer):  it involves \ntransferring blastocyst into the uterus and this is called Intra-\nUterine Transfer (IUT).                                                         (1) \nb) MTPS are essential in certain cases where continuation of \npregnancy could be harmful or even fatal either to mother or to \nthe foetus both. (1) It is also permissible in cases of rapes.      (1) \n5",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "couple",
         "unprotected",
         "intercourse",
@@ -1743,15 +3357,41 @@
         {
           "stepNumber": 1,
           "marks": 2.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "table",
+        "some",
+        "available",
+        "codons"
+      ],
+      "question_text": "The table below shows some of the 64 available codons and  their       \nassociated amino acids. \n \n5 \n\nThe diagram below shows the coding strand of a length of DNA with \nits   bases indicated.  \nT A C A A T C C C A A A A TC   \na) Write down the base sequence of a  length of the mature RNA  that \nwould       be transcribed from this DNA. \nb) In a eukaryotic cell, the base sequence of the mRNA might be \ndifferent from the sequence of the HnRNA.  Explain why. \nc) ‘Genetic code is nearly universal’. Explain this statement.    \nd) Explain why glycine has two codons in the above table. \ne) Give reasons why RNA is less stable than DNA. \nOR \na) ABO blood group  in humans is an example of multiple allelism and \nCo-dominance. Justify. \nb) A couple who has blood groups  A and B have four children.  Each \nchild has a different blood group. Explain with the help of  crosses to \nshow how this is possible.",
+      "subject_id": "biology",
+      "chapter_name": "Molecular Basis Of Inheritance",
+      "model_answer": "a) 3’ RNA- AUG UUA GGG UUU UAG 5’                                             (1) \nPolypeptide chain - methionine- leucine -glycine –phenylalanine \n(1) \nb) because introns are spliced off during the processing of HnRNA. \n(1) \nc) From bacteria to human a genetic code will code for same amino \nacid e.g. UUU will code for Phenylalanine in all organisms. Some \nexceptions to this rule have been found in mitochondrial codons \nand in some protozoans.                                                           (1) \nd) Glycine has two codons because the  genetic code is \ndegenerate, that means a single amino acid can be coded by \nmore than one codon.                                                                (1) \ne) Presence of 2’ – OH group s at every nucleotide and Uracil \ninstead of thymine makes RNA less stable.                               (1) \nOR \n5 \na) ABO blood group in humans is an example of multiple allelism \nand codominance because the blood group is controlled by three \nalleles IA, IB, and i. IA and IB alleles are dominant alleles and i is \na recessive allele. So when IA and IB come together in the \noffspring they both are expressed co-dominantly.                     (2) \nb) A cross is carried out between heterozygous  father (for blood \ngroup B) and heterozygous mother (of blood group A) to get four \nchildren with different blood groups.                                            (3)",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "table",
         "some",
         "available",
@@ -1771,15 +3411,41 @@
         {
           "stepNumber": 1,
           "marks": 2.5,
-          "criterion": "Core formula / concept formulation"
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
         },
         {
           "stepNumber": 2,
           "marks": 2.5,
-          "criterion": "Accurate derivation / calculation with proper unit"
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
         }
       ],
       "keyTerms": [
+        "Innate",
+        "immunity",
+        "speci",
+        "type"
+      ],
+      "question_text": "a) Innate immunity is a non-speciﬁc type of defense and consists of  \nfour types of barriers. Categorize these barriers and give one \nexample for each. \nb) Differentiate between benign and malignant tumors? Which one \nis    lethal and why? \nOR \na) State three characteristics of acquired immunity. \nb) List the different ways by which it can be attained by humans. \n5",
+      "subject_id": "biology",
+      "chapter_name": "Human Health And Disease",
+      "model_answer": "a)  \n• Physical barriers- skin, mucus, digestive tract. \n• Physiological barriers- sweat, saliva, tears, and acid secreted in \nthe stomach. \n• Cellular barriers- leukocytes, monocytes, natural killer cells, and \nmacrophages.  \n• Cytokine barriers- interferons.                                                  (2) \n \nb) Benign tumors and  malignant tumors \nBenign tumors- remain confined to their original location and do \nnot spread to other parts of the body and cause little damage. \nMalignant tumor cells grow very rapidly, invading and damaging \nthe surrounding normal tissues of other organs.  \nMalignant tumors are lethal as cancer cells move from the tumor \nto new sites through the blood to form secondary tumors. \nThis invasion of cancer cells from one part to other parts by the \nbody fluids is called metastasis.                                                 (3) \nOR \na) The characteristics of acquired immunity are: \n• Antigenic specificity - It is the ability of the host cells to \nrecognize an antigen specifically as a unique molecular entity \nand distinguishing it from another antigen. \n• Immunological memory - It is the ability of the host cells to \nremember antigens or pathogens, tumor cells, tissues of \nimmunological self. \n• It is of two types – antibody mediated and cell mediated.    (3) \nb) It can be acquired from \n• a vaccine \n• exposure to an infection or disease                                      (2)   \n5",
+      "step_marking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.5,
+          "criterion": "Core formula / concept formulation",
+          "step_number": 1
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.5,
+          "criterion": "Accurate derivation / calculation with proper unit",
+          "step_number": 2
+        }
+      ],
+      "key_terms": [
         "Innate",
         "immunity",
         "speci",

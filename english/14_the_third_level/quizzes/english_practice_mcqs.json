@@ -4,21 +4,175 @@
   "book": "CBSE Official Practice Questions",
   "chapter": "The Third Level",
   "title": "The Third Level - CBSE Official Practice DPP",
-  "total_questions": 1,
+  "total_questions": 12,
   "questions": [
     {
-      "id": "english_pq2_q8_iii",
+      "id": "eng_qb_14_the_third_level_A_i",
       "q_no": 1,
-      "question": "Complete the following with an appropriate option. \nIf Charley's wife's reaction implies a sensitivity to the suggestion of marital unhappiness, then, her \nbecoming \"kind of mad\" can be viewed as a .",
+      "question": "[Extract Context: \"Sometimes I think Grand Central is growing like a tree, pushing out new \ncorridors and staircases like roots. There’s p robably a long tunnel tha t \nnobody knows about feeling its way under the city right now, on its way to \nTimes Square, and maybe a...\"]\n\nThe above extract is NOT an example of ________.",
       "options": [
-        "defensive stance",
-        "protective measure",
-        "expression of concern",
-        "assertion of privacy \n1"
+        "allegory",
+        "analogy",
+        "imagery",
+        "metaphor"
       ],
       "correct_option_index": 0,
       "correct_answer_letter": "A",
-      "explanation": "CBSE English Core Practice Paper (PQ2) Marking Scheme: Option A."
+      "explanation": "CBSE Official Question Bank Answer Key: Option (A)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_A_ii",
+      "q_no": 2,
+      "question": "[Extract Context: \"Sometimes I think Grand Central is growing like a tree, pushing out new \ncorridors and staircases like roots. There’s p robably a long tunnel tha t \nnobody knows about feeling its way under the city right now, on its way to \nTimes Square, and maybe a...\"]\n\nCharley decided not to tell his psychiatrist friend about his idea. Choose t he \noption that reflects the reaction Charley anticipated from his friend.",
+      "options": [
+        "“That’s such a lovely comparison. Why don’t you become a writer, \nCharley?”",
+        "“Oh Charley. It is so sad to see your desperation to run away! So very \nsad.”",
+        "“Maybe that’s how you entered the third level. Who would have thought?!”",
+        "“You need help, my raving friend. You are way too invested in this crazy \nthought!”"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (D)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_A_iii",
+      "q_no": 3,
+      "question": "[Extract Context: \"Sometimes I think Grand Central is growing like a tree, pushing out new \ncorridors and staircases like roots. There’s p robably a long tunnel tha t \nnobody knows about feeling its way under the city right now, on its way to \nTimes Square, and maybe a...\"]\n\nLook at the given image that lists some of \nthe ways in which the symbolism of a tree \nis employed. \nWhich of the following would represent an \nexample as used by Charley in the above \nextract?",
+      "options": [
+        "‘Stay grounded’ as the train station is underground.",
+        "‘Connect with your roots’ as he desires to go back to his past.",
+        "‘Enjoy the view’ as the station leads to all tourist sights of the city.",
+        "‘Keep growing’ as the station keeps renovating and expanding."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (D)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_A_iv",
+      "q_no": 4,
+      "question": "[Extract Context: \"Sometimes I think Grand Central is growing like a tree, pushing out new \ncorridors and staircases like roots. There’s p robably a long tunnel tha t \nnobody knows about feeling its way under the city right now, on its way to \nTimes Square, and maybe a...\"]\n\nThe idiom ‘feeling its way’ implies ______ movement.",
+      "options": [
+        "swift",
+        "tentative",
+        "circular",
+        "disorganized"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (B)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_B_i",
+      "q_no": 5,
+      "question": "[Extract Context: \"Have you ever been there? It’s a wonderful town still, with big old frame \nhouses, huge lawns, and tremendous trees whose branches meet overhe ad \nand roof the streets. And in 1894, summer evenings were twice a s long, and \npeople sat out on th eir l...\"]\n\nWho does ‘you’ refer to?",
+      "options": [
+        "Charley’s psychiatrist, Sam Weiner",
+        "Charley’s wife, Louisa",
+        "The reader",
+        "Nobody in particular, it is a figure of speech."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_B_ii",
+      "q_no": 6,
+      "question": "[Extract Context: \"Have you ever been there? It’s a wonderful town still, with big old frame \nhouses, huge lawns, and tremendous trees whose branches meet overhe ad \nand roof the streets. And in 1894, summer evenings were twice a s long, and \npeople sat out on th eir l...\"]\n\nChoose the option that bes t describes the society represented in the above \nextract.",
+      "options": [
+        "content, peace-loving",
+        "leisurely, sentimental",
+        "orthodox, upper class",
+        "comfortable, ancient"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_B_iii",
+      "q_no": 7,
+      "question": "[Extract Context: \"Have you ever been there? It’s a wonderful town still, with big old frame \nhouses, huge lawns, and tremendous trees whose branches meet overhe ad \nand roof the streets. And in 1894, summer evenings were twice a s long, and \npeople sat out on th eir l...\"]\n\nImagine that the city of G alesburg is hosting a series of conferences and \nworkshops. In wh ich of the following conferences o r workshops are you \nleast likely to find the description of Galesburg given in the above extract?",
+      "options": [
+        "Gorgeous Galesburg: Archiving a Tourist Paradise",
+        "Welcome to the home you deserve: Galesburg Realtors",
+        "Re-imagining a Warless Future: Technology for Peace",
+        "The Woman Question: The world of women at home"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_B_iv",
+      "q_no": 8,
+      "question": "[Extract Context: \"Have you ever been there? It’s a wonderful town still, with big old frame \nhouses, huge lawns, and tremendous trees whose branches meet overhe ad \nand roof the streets. And in 1894, summer evenings were twice a s long, and \npeople sat out on th eir l...\"]\n\n“tremendous trees whose branches meet overhead and roof the streets ” is \nNOT an example of \n(i) imagery (ii) metaphor (iii) alliteration (iv) anachronism",
+      "options": [
+        "Options (i) and (ii)",
+        "Options (i) and (iii)",
+        "Options (ii) and (iii)",
+        "Options (ii) and (iv)"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "CBSE Official Question Bank Answer Key: Option (D)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_q5_i",
+      "q_no": 9,
+      "question": "How would you describe Charley’s vision of his grandfather’s life and times?",
+      "options": [
+        "wistful escapism",
+        "idealized sentimentality",
+        "nostalgic simplicity",
+        "dreamy perfection"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (B)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_q5_ii",
+      "q_no": 10,
+      "question": "‘The Third Level’ refers to the third level at the Grand Central St ation. As a \nmetaphor, which of the following would NOT be an appropriate explanation \nof the title?",
+      "options": [
+        "The convergence of reality and fantasy.",
+        "The bridge between the past and the present.",
+        "The oppressive monotony of modern life.",
+        "The need for an alternate plane of understanding."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_q5_iii",
+      "q_no": 11,
+      "question": "How would you describe Charley?",
+      "options": [
+        "confused, happy-go-lucky",
+        "escapist, adventurous",
+        "imaginative, nostalgic",
+        "friendly, responsible"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (C)."
+    },
+    {
+      "id": "eng_qb_14_the_third_level_q5_iv",
+      "q_no": 12,
+      "question": "Which of the following is a conclusion that can be drawn from the story?",
+      "options": [
+        "Reality is indeed stranger than fiction.",
+        "With all its worries, modern life is not worth living.",
+        "The past is undoubtedly better than the present.",
+        "Imagination might be the only great escape."
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "CBSE Official Question Bank Stand-Alone Answer Key: Option (D)."
     }
   ]
 }

@@ -4,12 +4,12 @@
   "book": "CBSE Official Practice Questions",
   "chapter": "Dual Nature Of Radiation And Matter",
   "title": "Dual Nature Of Radiation And Matter - CBSE Official Practice DPP",
-  "total_questions": 2,
+  "total_questions": 1,
   "questions": [
     {
       "id": "physics_pq1_q3",
       "q_no": 1,
-      "question": "The graph below shows the variation of the maximum kinetic energy of the \nemitted photoelectron with the frequency of the incident radiation for a given \nmetal. \n  \nWhich of the following gives the work function of the metal?",
+      "question": "The graph below shows the variation of the maximum kinetic energy of the \nemitted photoelectron with the frequency of the incident radiation for a given \nmetal. \n\nWhich of the following gives the work function of the metal?",
       "options": [
         "x-intercept",
         "y-intercept",
@@ -18,21 +18,7 @@
       ],
       "correct_option_index": 1,
       "correct_answer_letter": "B",
-      "explanation": "3 B. y-intercept 1"
-    },
-    {
-      "id": "physics_pq2_q16",
-      "q_no": 2,
-      "question": "Assertion: The kinetic energy of photoelectrons emitted by a photosensitive surface depends \nupon the frequency of incident photon. \nReason: The ejection of electrons from metallic surface is possible with frequency of incident  \nphoton below the threshold frequency. \n \n[SECTION B]",
-      "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
-      ],
-      "correct_option_index": 2,
-      "correct_answer_letter": "C",
-      "explanation": "A16 c 1"
+      "explanation": "3 B. y-intercept 1 \n\nkinetic energy potential energy \nC decreases increases \n\n5 C. Current I cannot have a magnitude of more than 15 A in the upward \ndirection. \n\n6 B. only P and R 1 \n7 B. B3<B1<B2 1 \n8 C. E || B and the particle has an initial velocity along the electric field 1 \n9 A. only I 1 \n10 D. 5 x 104 Vm-1s-1 1 \n11 A. only P 1 \n\nB. \n\n13 D. Both Assertion and Reason are false. 1 \n14 B. Assertion and Reason are true but Reason is NOT the correct explanation of \nAssertion. \n\n15 A. Both assertion and reason are true and reason is the correct explanation for \nassertion. \n\n16 C. Assertion is true but Reason is false. 1"
     }
   ]
 }
