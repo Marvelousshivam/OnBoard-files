@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-10-16T03:17:05.420485+00:00",
+  "last_updated": "2026-10-19T14:50:52.718563+00:00",
   "base_raw_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main",
   "subjects": [
     {
@@ -3346,6 +3346,8 @@
       "filename": "Biology-MS.pdf",
       "subject": "Biology",
       "subjectId": "biology",
+      "setId": "biology_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "ms",
       "pair_filename": "Biology-SQP.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Biology-MS.pdf"
@@ -3355,6 +3357,8 @@
       "filename": "Biology-PQ.pdf",
       "subject": "Biology",
       "subjectId": "biology",
+      "setId": "biology_pq1",
+      "paper_category": "Practice Paper Set 1",
       "type": "sqp",
       "pair_filename": "Biology-PQMS.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Biology-PQ.pdf"
@@ -3364,6 +3368,8 @@
       "filename": "Biology-PQ2.pdf",
       "subject": "Biology",
       "subjectId": "biology",
+      "setId": "biology_pq2",
+      "paper_category": "Practice Paper Set 2",
       "type": "sqp",
       "pair_filename": "Biology-PQMS2.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Biology-PQ2.pdf"
@@ -3373,6 +3379,8 @@
       "filename": "Biology-PQMS.pdf",
       "subject": "Biology",
       "subjectId": "biology",
+      "setId": "biology_pq1",
+      "paper_category": "Practice Paper Set 1",
       "type": "ms",
       "pair_filename": "Biology-PQ.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Biology-PQMS.pdf"
@@ -3382,6 +3390,8 @@
       "filename": "Biology-PQMS2.pdf",
       "subject": "Biology",
       "subjectId": "biology",
+      "setId": "biology_pq2",
+      "paper_category": "Practice Paper Set 2",
       "type": "ms",
       "pair_filename": "Biology-PQ2.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Biology-PQMS2.pdf"
@@ -3391,6 +3401,8 @@
       "filename": "Biology-SQP.pdf",
       "subject": "Biology",
       "subjectId": "biology",
+      "setId": "biology_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "sqp",
       "pair_filename": "Biology-MS.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Biology-SQP.pdf"
@@ -3400,6 +3412,8 @@
       "filename": "Chemistry-MS.pdf",
       "subject": "Chemistry",
       "subjectId": "chemistry",
+      "setId": "chemistry_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "ms",
       "pair_filename": "Chemistry-SQP.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Chemistry-MS.pdf"
@@ -3409,6 +3423,8 @@
       "filename": "Chemistry-PQ.pdf",
       "subject": "Chemistry",
       "subjectId": "chemistry",
+      "setId": "chemistry_pq1",
+      "paper_category": "Practice Paper Set 1",
       "type": "sqp",
       "pair_filename": "Chemistry-PQMS.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Chemistry-PQ.pdf"
@@ -3418,6 +3434,8 @@
       "filename": "Chemistry-PQ2.pdf",
       "subject": "Chemistry",
       "subjectId": "chemistry",
+      "setId": "chemistry_pq2",
+      "paper_category": "Practice Paper Set 2",
       "type": "sqp",
       "pair_filename": "Chemistry-PQMS2.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Chemistry-PQ2.pdf"
@@ -3427,6 +3445,8 @@
       "filename": "Chemistry-PQMS.pdf",
       "subject": "Chemistry",
       "subjectId": "chemistry",
+      "setId": "chemistry_pq1",
+      "paper_category": "Practice Paper Set 1",
       "type": "ms",
       "pair_filename": "Chemistry-PQ.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Chemistry-PQMS.pdf"
@@ -3436,6 +3456,8 @@
       "filename": "Chemistry-PQMS2.pdf",
       "subject": "Chemistry",
       "subjectId": "chemistry",
+      "setId": "chemistry_pq2",
+      "paper_category": "Practice Paper Set 2",
       "type": "ms",
       "pair_filename": "Chemistry-PQ2.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Chemistry-PQMS2.pdf"
@@ -3445,96 +3467,118 @@
       "filename": "Chemistry-SQP.pdf",
       "subject": "Chemistry",
       "subjectId": "chemistry",
+      "setId": "chemistry_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "sqp",
       "pair_filename": "Chemistry-MS.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Chemistry-SQP.pdf"
     },
     {
-      "title": "CBSE Class 12 2026-27 EnglishCore Official Marking Scheme",
+      "title": "CBSE Class 12 2026-27 English Core Official Marking Scheme",
       "filename": "EnglishCore-MS.pdf",
-      "subject": "EnglishCore",
+      "subject": "English Core",
       "subjectId": "english",
+      "setId": "english_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "ms",
       "pair_filename": "EnglishCore-SQP.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/EnglishCore-MS.pdf"
     },
     {
-      "title": "CBSE Class 12 2026-27 EnglishCore Additional Practice Question Paper (Set 1)",
+      "title": "CBSE Class 12 2026-27 English Core Additional Practice Question Paper (Set 1)",
       "filename": "EnglishCore-PQ.pdf",
-      "subject": "EnglishCore",
+      "subject": "English Core",
       "subjectId": "english",
+      "setId": "english_pq1",
+      "paper_category": "Practice Paper Set 1",
       "type": "sqp",
       "pair_filename": "EnglishCore-PQMS.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/EnglishCore-PQ.pdf"
     },
     {
-      "title": "CBSE Class 12 2026-27 EnglishCore Additional Practice Question Paper (Set 2)",
+      "title": "CBSE Class 12 2026-27 English Core Additional Practice Question Paper (Set 2)",
       "filename": "EnglishCore-PQ2.pdf",
-      "subject": "EnglishCore",
+      "subject": "English Core",
       "subjectId": "english",
+      "setId": "english_pq2",
+      "paper_category": "Practice Paper Set 2",
       "type": "sqp",
       "pair_filename": "EnglishCore-PQMS2.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/EnglishCore-PQ2.pdf"
     },
     {
-      "title": "CBSE Class 12 2026-27 EnglishCore Additional Practice Marking Scheme (Set 1)",
+      "title": "CBSE Class 12 2026-27 English Core Additional Practice Marking Scheme (Set 1)",
       "filename": "EnglishCore-PQMS.pdf",
-      "subject": "EnglishCore",
+      "subject": "English Core",
       "subjectId": "english",
+      "setId": "english_pq1",
+      "paper_category": "Practice Paper Set 1",
       "type": "ms",
       "pair_filename": "EnglishCore-PQ.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/EnglishCore-PQMS.pdf"
     },
     {
-      "title": "CBSE Class 12 2026-27 EnglishCore Additional Practice Marking Scheme (Set 2)",
+      "title": "CBSE Class 12 2026-27 English Core Additional Practice Marking Scheme (Set 2)",
       "filename": "EnglishCore-PQMS2.pdf",
-      "subject": "EnglishCore",
+      "subject": "English Core",
       "subjectId": "english",
+      "setId": "english_pq2",
+      "paper_category": "Practice Paper Set 2",
       "type": "ms",
       "pair_filename": "EnglishCore-PQ2.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/EnglishCore-PQMS2.pdf"
     },
     {
-      "title": "CBSE Class 12 2026-27 EnglishCore Official Sample Question Paper",
+      "title": "CBSE Class 12 2026-27 English Core Official Sample Question Paper",
       "filename": "EnglishCore-SQP.pdf",
-      "subject": "EnglishCore",
+      "subject": "English Core",
       "subjectId": "english",
+      "setId": "english_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "sqp",
       "pair_filename": "EnglishCore-MS.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/EnglishCore-SQP.pdf"
     },
     {
-      "title": "CBSE Class 12 2026-27 Maths Official Marking Scheme",
+      "title": "CBSE Class 12 2026-27 Mathematics Official Marking Scheme",
       "filename": "Maths-MS.pdf",
-      "subject": "Maths",
+      "subject": "Mathematics",
       "subjectId": "maths",
+      "setId": "maths_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "ms",
       "pair_filename": "Maths-SQP.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Maths-MS.pdf"
     },
     {
-      "title": "CBSE Class 12 2026-27 Maths Official Sample Question Paper",
+      "title": "CBSE Class 12 2026-27 Mathematics Official Sample Question Paper",
       "filename": "Maths-SQP.pdf",
-      "subject": "Maths",
+      "subject": "Mathematics",
       "subjectId": "maths",
+      "setId": "maths_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "sqp",
       "pair_filename": "Maths-MS.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Maths-SQP.pdf"
     },
     {
-      "title": "CBSE Class 12 2026-27 PhysicalEducation Official Marking Scheme",
+      "title": "CBSE Class 12 2026-27 Physical Education Official Marking Scheme",
       "filename": "PhysicalEducation-MS.pdf",
-      "subject": "PhysicalEducation",
+      "subject": "Physical Education",
       "subjectId": "physical_education",
+      "setId": "physical_education_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "ms",
       "pair_filename": "PhysicalEducation-SQP.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/PhysicalEducation-MS.pdf"
     },
     {
-      "title": "CBSE Class 12 2026-27 PhysicalEducation Official Sample Question Paper",
+      "title": "CBSE Class 12 2026-27 Physical Education Official Sample Question Paper",
       "filename": "PhysicalEducation-SQP.pdf",
-      "subject": "PhysicalEducation",
+      "subject": "Physical Education",
       "subjectId": "physical_education",
+      "setId": "physical_education_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "sqp",
       "pair_filename": "PhysicalEducation-MS.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/PhysicalEducation-SQP.pdf"
@@ -3544,6 +3588,8 @@
       "filename": "Physics-MS.pdf",
       "subject": "Physics",
       "subjectId": "physics",
+      "setId": "physics_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "ms",
       "pair_filename": "Physics-SQP.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Physics-MS.pdf"
@@ -3553,6 +3599,8 @@
       "filename": "Physics-PQ.pdf",
       "subject": "Physics",
       "subjectId": "physics",
+      "setId": "physics_pq1",
+      "paper_category": "Practice Paper Set 1",
       "type": "sqp",
       "pair_filename": "Physics-PQMS.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Physics-PQ.pdf"
@@ -3562,6 +3610,8 @@
       "filename": "Physics-PQ2.pdf",
       "subject": "Physics",
       "subjectId": "physics",
+      "setId": "physics_pq2",
+      "paper_category": "Practice Paper Set 2",
       "type": "sqp",
       "pair_filename": "Physics-PQMS2.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Physics-PQ2.pdf"
@@ -3571,6 +3621,8 @@
       "filename": "Physics-PQMS.pdf",
       "subject": "Physics",
       "subjectId": "physics",
+      "setId": "physics_pq1",
+      "paper_category": "Practice Paper Set 1",
       "type": "ms",
       "pair_filename": "Physics-PQ.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Physics-PQMS.pdf"
@@ -3580,6 +3632,8 @@
       "filename": "Physics-PQMS2.pdf",
       "subject": "Physics",
       "subjectId": "physics",
+      "setId": "physics_pq2",
+      "paper_category": "Practice Paper Set 2",
       "type": "ms",
       "pair_filename": "Physics-PQ2.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Physics-PQMS2.pdf"
@@ -3589,6 +3643,8 @@
       "filename": "Physics-SQP.pdf",
       "subject": "Physics",
       "subjectId": "physics",
+      "setId": "physics_sqp",
+      "paper_category": "Official SQP 2027",
       "type": "sqp",
       "pair_filename": "Physics-MS.pdf",
       "url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Physics-SQP.pdf"
@@ -3626,6 +3682,22 @@
       "subjectId": "physical_education",
       "pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/question_banks/PhysicalEducationXII.pdf",
       "json_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/question_banks/physical_education.json"
+    },
+    {
+      "title": "Class 12 Physics CBSE Question Bank & Practice Questions",
+      "filename": "Physics-PQ.pdf",
+      "subject": "Physics",
+      "subjectId": "physics",
+      "pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Physics-PQ.pdf",
+      "json_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/question_banks/physics.json"
+    },
+    {
+      "title": "Class 12 Biology CBSE Question Bank & Practice Questions",
+      "filename": "Biology-PQ.pdf",
+      "subject": "Biology",
+      "subjectId": "biology",
+      "pdf_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/sample_papers/2027/Biology-PQ.pdf",
+      "json_url": "https://raw.githubusercontent.com/Marvelousshivam/OnBoard-files/main/question_banks/biology.json"
     }
   ]
 }

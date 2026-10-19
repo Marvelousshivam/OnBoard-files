@@ -223,57 +223,77 @@ def generate():
     if os.path.isdir(sp_dir):
         for f in sorted(os.listdir(sp_dir)):
             if f.lower().endswith(".pdf"):
+                sub_map = {
+                    "Biology": ("biology", "Biology"),
+                    "Chemistry": ("chemistry", "Chemistry"),
+                    "EnglishCore": ("english", "English Core"),
+                    "Maths": ("maths", "Mathematics"),
+                    "PhysicalEducation": ("physical_education", "Physical Education"),
+                    "Physics": ("physics", "Physics")
+                }
+
                 if "-PQMS2" in f:
                     sp_type = "Additional Practice Marking Scheme (Set 2)"
                     p_type = "ms"
-                    sub_label = f.replace("-PQMS2.pdf", "")
+                    category = "Practice Paper Set 2"
+                    sub_raw = f.replace("-PQMS2.pdf", "")
                     pair_f = f.replace("-PQMS2.pdf", "-PQ2.pdf")
+                    set_suffix = "pq2"
                 elif "-PQ2" in f:
                     sp_type = "Additional Practice Question Paper (Set 2)"
                     p_type = "sqp"
-                    sub_label = f.replace("-PQ2.pdf", "")
+                    category = "Practice Paper Set 2"
+                    sub_raw = f.replace("-PQ2.pdf", "")
                     pair_f = f.replace("-PQ2.pdf", "-PQMS2.pdf")
+                    set_suffix = "pq2"
                 elif "-PQMS" in f:
                     sp_type = "Additional Practice Marking Scheme (Set 1)"
                     p_type = "ms"
-                    sub_label = f.replace("-PQMS.pdf", "")
+                    category = "Practice Paper Set 1"
+                    sub_raw = f.replace("-PQMS.pdf", "")
                     pair_f = f.replace("-PQMS.pdf", "-PQ.pdf")
+                    set_suffix = "pq1"
                 elif "-PQ" in f:
                     sp_type = "Additional Practice Question Paper (Set 1)"
                     p_type = "sqp"
-                    sub_label = f.replace("-PQ.pdf", "")
+                    category = "Practice Paper Set 1"
+                    sub_raw = f.replace("-PQ.pdf", "")
                     pair_f = f.replace("-PQ.pdf", "-PQMS.pdf")
+                    set_suffix = "pq1"
                 elif "-MS" in f:
                     sp_type = "Official Marking Scheme"
                     p_type = "ms"
-                    sub_label = f.replace("-MS.pdf", "")
+                    category = "Official SQP 2027"
+                    sub_raw = f.replace("-MS.pdf", "")
                     pair_f = f.replace("-MS.pdf", "-SQP.pdf")
+                    set_suffix = "sqp"
                 elif "-SQP" in f:
                     sp_type = "Official Sample Question Paper"
                     p_type = "sqp"
-                    sub_label = f.replace("-SQP.pdf", "")
+                    category = "Official SQP 2027"
+                    sub_raw = f.replace("-SQP.pdf", "")
                     pair_f = f.replace("-SQP.pdf", "-MS.pdf")
+                    set_suffix = "sqp"
                 else:
                     sp_type = "Question Paper"
                     p_type = "sqp"
-                    sub_label = os.path.splitext(f)[0]
+                    category = "General"
+                    sub_raw = os.path.splitext(f)[0]
                     pair_f = ""
+                    set_suffix = "general"
 
-                sub_map = {
-                    "Biology": "biology",
-                    "Chemistry": "chemistry",
-                    "EnglishCore": "english",
-                    "Maths": "maths",
-                    "PhysicalEducation": "physical_education",
-                    "Physics": "physics"
-                }
-                sub_id = sub_map.get(sub_label, sub_label.lower())
+                sub_info = sub_map.get(sub_raw, (sub_raw.lower(), sub_raw))
+                sub_id = sub_info[0]
+                display_sub = sub_info[1]
+                set_id = f"{sub_id}_{set_suffix}"
 
                 sample_papers.append({
-                    "title": f"CBSE Class 12 2026-27 {sub_label} {sp_type}",
+                    "title": f"CBSE Class 12 2026-27 {display_sub} {sp_type}",
                     "filename": f,
-                    "subject": sub_label,
+                    "subject": display_sub,
                     "subjectId": sub_id,
+                    "setId": set_id,
+                    "paper_category": category,
                     "type": p_type,
                     "pair_filename": pair_f if os.path.exists(os.path.join(sp_dir, pair_f)) else "",
                     "url": f"{RAW_BASE_URL}/sample_papers/2027/{f}"
@@ -283,25 +303,68 @@ def generate():
     # Official CBSE Question Banks
     question_banks = []
     qb_dir = os.path.join(REPO_ROOT, "question_banks")
-    if os.path.isdir(qb_dir):
-        qb_sub_map = {
-            "EnglishCoreXII.pdf": ("English Core", "english", "Class 12 English Core CBSE Official Question Bank"),
-            "MathematicsXII.pdf": ("Mathematics", "maths", "Class 12 Mathematics CBSE Official Question Bank"),
-            "ChemistryXII.pdf": ("Chemistry", "chemistry", "Class 12 Chemistry CBSE Official Question Bank"),
-            "PhysicalEducationXII.pdf": ("Physical Education", "physical_education", "Class 12 Physical Education CBSE Official Question Bank")
+    qb_specs = [
+        {
+            "id": "english",
+            "subject": "English Core",
+            "title": "Class 12 English Core CBSE Official Question Bank",
+            "pdf_filename": "EnglishCoreXII.pdf",
+            "json_filename": "english.json"
+        },
+        {
+            "id": "maths",
+            "subject": "Mathematics",
+            "title": "Class 12 Mathematics CBSE Official Question Bank",
+            "pdf_filename": "MathematicsXII.pdf",
+            "json_filename": "maths.json"
+        },
+        {
+            "id": "chemistry",
+            "subject": "Chemistry",
+            "title": "Class 12 Chemistry CBSE Official Question Bank",
+            "pdf_filename": "ChemistryXII.pdf",
+            "json_filename": "chemistry.json"
+        },
+        {
+            "id": "physical_education",
+            "subject": "Physical Education",
+            "title": "Class 12 Physical Education CBSE Official Question Bank",
+            "pdf_filename": "PhysicalEducationXII.pdf",
+            "json_filename": "physical_education.json"
+        },
+        {
+            "id": "physics",
+            "subject": "Physics",
+            "title": "Class 12 Physics CBSE Question Bank & Practice Questions",
+            "pdf_filename": "sample_papers/2027/Physics-PQ.pdf",
+            "json_filename": "physics.json"
+        },
+        {
+            "id": "biology",
+            "subject": "Biology",
+            "title": "Class 12 Biology CBSE Question Bank & Practice Questions",
+            "pdf_filename": "sample_papers/2027/Biology-PQ.pdf",
+            "json_filename": "biology.json"
         }
-        for f, (sub_name, sub_id, title) in qb_sub_map.items():
-            if os.path.exists(os.path.join(qb_dir, f)):
-                json_name = f"{sub_id}.json"
-                has_json = os.path.exists(os.path.join(qb_dir, json_name))
-                question_banks.append({
-                    "title": title,
-                    "filename": f,
-                    "subject": sub_name,
-                    "subjectId": sub_id,
-                    "pdf_url": f"{RAW_BASE_URL}/question_banks/{f}",
-                    "json_url": f"{RAW_BASE_URL}/question_banks/{json_name}" if has_json else ""
-                })
+    ]
+    for spec in qb_specs:
+        has_json = os.path.exists(os.path.join(qb_dir, spec["json_filename"]))
+        if spec["pdf_filename"].startswith("sample_papers/2027/"):
+            pdf_url = f"{RAW_BASE_URL}/{spec['pdf_filename']}"
+            pdf_fname = os.path.basename(spec["pdf_filename"])
+        else:
+            pdf_fname = spec["pdf_filename"]
+            has_pdf = os.path.exists(os.path.join(qb_dir, pdf_fname))
+            pdf_url = f"{RAW_BASE_URL}/question_banks/{pdf_fname}" if has_pdf else ""
+
+        question_banks.append({
+            "title": spec["title"],
+            "filename": pdf_fname,
+            "subject": spec["subject"],
+            "subjectId": spec["id"],
+            "pdf_url": pdf_url,
+            "json_url": f"{RAW_BASE_URL}/question_banks/{spec['json_filename']}" if has_json else ""
+        })
     manifest["question_banks"] = question_banks
 
     # Write manifest.json
