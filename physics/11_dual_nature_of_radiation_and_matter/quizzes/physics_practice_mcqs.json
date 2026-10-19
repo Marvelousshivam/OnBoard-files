@@ -1,0 +1,38 @@
+{
+  "id": "physics_11_dual_nature_of_radiation_and_matter_practice",
+  "subject": "Physics",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Dual Nature Of Radiation And Matter",
+  "title": "Dual Nature Of Radiation And Matter - CBSE Official Practice DPP",
+  "total_questions": 2,
+  "questions": [
+    {
+      "id": "physics_pq1_q3",
+      "q_no": 1,
+      "question": "The graph below shows the variation of the maximum kinetic energy of the \nemitted photoelectron with the frequency of the incident radiation for a given \nmetal. \n  \nWhich of the following gives the work function of the metal?",
+      "options": [
+        "x-intercept",
+        "y-intercept",
+        "the slope of the graph",
+        "the area under the graph"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "3 B. y-intercept 1"
+    },
+    {
+      "id": "physics_pq2_q16",
+      "q_no": 2,
+      "question": "Assertion: The kinetic energy of photoelectrons emitted by a photosensitive surface depends \nupon the frequency of incident photon. \nReason: The ejection of electrons from metallic surface is possible with frequency of incident  \nphoton below the threshold frequency. \n \n[SECTION B]",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "A16 c 1"
+    }
+  ]
+}

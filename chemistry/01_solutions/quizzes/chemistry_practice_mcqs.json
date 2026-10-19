@@ -1,0 +1,318 @@
+{
+  "id": "chemistry_01_solutions_practice",
+  "subject": "Chemistry",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Solutions",
+  "title": "Solutions - CBSE Official Practice DPP",
+  "total_questions": 22,
+  "questions": [
+    {
+      "id": "chemistry_pq1_q3",
+      "q_no": 1,
+      "question": "During a quiz competition, team A and team B have to answer a tie question on the \ncharacteristics of RN",
+      "options": [
+        "Their responses are as follows:  \nName Team Response \nAdrika A Different RNA molecules of a cell are involved in the synthesis of \nproteins. \nShaakho A The single-stranded helix of RNA folds upon itself to form the \nsecondary structure. \nRounak B The C-2 atom of the pentose sugar for a ribose nucleotide \ncontains an -OH group. \nRitama B The message for the synthesis of a particular protein is present \nonly in the RNA. \n \nWhat is the expected result of the quiz and why? \n(a) Team A wins the quiz as both the responses are correct.  \n(b) Team B wins the quiz as both the responses are correct.  \n(c) Team A loses the quiz as Adrika's response is incorrect. \n(d) Team B loses the quiz as Rounak's response is incorrect.",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "3 (a) Team A wins the quiz as both the responses are correct."
+    },
+    {
+      "id": "chemistry_pq1_q5",
+      "q_no": 2,
+      "question": "Four compounds, CH 3Cl, CH3Br, C2H5Br and C3H7I are represented by the letters M, N, \nO and P in the table below (in random order). The boiling points are also given on the \ntable. \nBoiling points(BP) -24.2°C 38°C 3.56°\nC \n101.6°C \nCompound M N O P \n \nWhich of the four compounds does 'N' most likely represent?  \n(a) CH3Cl \n(b) CH3Br \n(c) C2H5Br \n(d) C3H7I",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "5 (c) C2H5Br"
+    },
+    {
+      "id": "chemistry_pq1_q6",
+      "q_no": 3,
+      "question": "Study the graph given below. \n \n \nBased on the graph given, which element will MOST LIKELY be involved in the \n\n \n \nfollowing reaction? \n \nMetal + conc. sulphuric acid   Metal sulphate + sulphur dioxide + water \n(a) Cu \n(b) Co \n(c) Ti \n(d) Zn",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "6 (a) Cu"
+    },
+    {
+      "id": "chemistry_pq1_q7",
+      "q_no": 4,
+      "question": "The table given below shows the results of three experiments on the rate of the \nreaction between compounds P and Q at a constant temperature. \nExperiment The initial concentration \nof P (mol dm-3) \nThe initial concentration \nof Q (mol dm-3) \nInitial rate \n(mol dm-3 s-1) \n1 0.1 0.2 1.10 x 10-4 \n2 0.3 0.2 9.91 x 10-4 \n3 0.3 0.1 4.96 x 10-4 \nBased on the data, what will be the rate equation for the reaction between P and Q? \n(a) k[P]2[Q] \n(b) k[P][Q] 2 \n(c) k[P][Q] \n(d) k[P]",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "7 (a) k[P]2[Q]"
+    },
+    {
+      "id": "chemistry_pq1_q8",
+      "q_no": 5,
+      "question": "The table below shows the KH values for some gasses at 293 K and at the same \npressure. \nKH values \n(kbar) \n144.97 69.16 76.48 34.86 \nGas Heliu\nm \nHydrogen Nitrogen  Oxygen \nIn which of the following are the gases arranged in their decreasing order of solubility \n(from left to right)? \n(a) Helium > Nitrogen > Hydrogen > Oxygen \n(b) Hydrogen > Helium > Nitrogen > Oxygen \n(c) Nitrogen > Hydrogen > Oxygen > Helium \n(d) Oxygen > Hydrogen > Nitrogen > Helium",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "8 (d) Oxygen > Hydrogen > Nitrogen > Helium"
+    },
+    {
+      "id": "chemistry_pq1_q10",
+      "q_no": 6,
+      "question": "An archeologist found that the percentage of carbon-14 in a wooden artifact was 20% \nof what carbon-14 would have been in the wood when it was cut from the tree. \n \nWhat would be the approximate age of this wooden artifact? \n(Given the half-life of carbon -14= 5730 years) \n(a) 5,790 years \n(b) 12,060 years \n(c) 13,300 years \n(d) 38,000 years",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "10 (c) 13,300 years"
+    },
+    {
+      "id": "chemistry_pq1_q12",
+      "q_no": 7,
+      "question": "Which of the following options give the correct arrangement of the atomic radii of the \n3d, 4d, and 5d transition series of elements? \n(a) atomic radii of 3d < atomic radii of 4d < atomic radii of 5d \n(b) atomic radii of 3d < atomic radii of 4d ≈ atomic radii of 5d \n(c) atomic radii of 3d ≈ atomic radii of 4d > atomic radii of 5d \n(d) atomic radii of 3d > atomic radii of 4d > atomic radii of 5d",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "12 (b) atomic radii of 3d< atomic radii of 4d ≈ atomic radii of 5d"
+    },
+    {
+      "id": "chemistry_pq1_q13",
+      "q_no": 8,
+      "question": "Two statements are given below - one labelled Assertion (",
+      "options": [
+        "and the other labelled \nReason (R). \nAssertion (A): 2-Methoxy-2-methyl propane reacts with hydrogen iodide to form \nmethyl alcohol and 2-Iodo-2-methylpropane. \nReason (R): The reaction given in (A) follows SN2 mechanism. \nWhich of the following is correct? \n(a) Both A and R are true, and R is a correct explanation of A. \n(b) Both A and R are true, but R is not the correct explanation of A. \n(c) A is true, but R is false. \n(d) A is false, but R is true.",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "13 (c) A is true, but R is false."
+    },
+    {
+      "id": "chemistry_pq1_q14",
+      "q_no": 9,
+      "question": "Two statements are given below - one labeled Assertion (",
+      "options": [
+        "and the other labeled \nReason (R). \nAssertion (A): In acetaldehyde, the carbonyl carbon acts as a Lewis acid and the \ncarbonyl oxygen acts as a Lewis base. \n \n \nReason (R): Carbonyl compounds have substantial dipole moments. \nWhich of the following is correct? \n(a) Both A and R are true, and R is a correct explanation of A. \n(b) Both A and R are true, but R is not the correct explanation of A. \n(c) A is true, but R is false. \n(d) A is false, but R is true.",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "14 (a) Both A and R are true, and R is a correct explanation of A."
+    },
+    {
+      "id": "chemistry_pq1_q15",
+      "q_no": 10,
+      "question": "Two statements are given below - one labelled Assertion (",
+      "options": [
+        "and the other labelled \nReason (R). \nAssertion (A): Denaturation of protein does not change the primary structure of \nproteins. \nReason (R): The bonding between the carbon and hydrogen atoms during \ndenaturation of proteins remains intact. \nWhich of the following is correct? \n(a) Both A and R are true, and R is the correct explanation of A. \n(b) Both A and R are true, but R is not the correct explanation of A. \n(c) A is true, but R is false. \n(d) A is false, but R is true.",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "15 (b) Both (A) and (R) true but (R) is not the correct explanation of (A)."
+    },
+    {
+      "id": "chemistry_pq1_q16",
+      "q_no": 11,
+      "question": "Two statements are given below - one labelled Assertion (",
+      "options": [
+        "and the other labelled \nReason (R). \nAssertion (A): Copper does not form copper (II) sulphate on reaction with dil. \nsulphuric acid. \nReason (R): The standard potential for Cu +2|Cu electrode is negative. \nWhich of the following is correct? \n(a) Both A and R are true, and R is a correct explanation of A. \n(b) Both A and R are true, but R is not the correct explanation of A. \n(c) A is true, but R is false. \n(d) A is false, but R is true. \nSection B \nThis section contains 5 questions with internal choice in one question. The following questions \nare very short answer type and carry 2 marks each.",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "16 (c) A is true, but R is false. \nSection B"
+    },
+    {
+      "id": "chemistry_pq2_q3",
+      "q_no": 12,
+      "question": "(c) A is true but R is false. \n (d) A is false but R is true. \n15. Given below are two statements labeled as Assertion (",
+      "options": [
+        "and Reason (R) \n Assertion (A): Ionisation enthalpy of Fe2+ is lower than the Mn2+ \n Reason (R): Fe2+ has  3d5 4s1 configuration, making the state highly stable  \n Select the most appropriate answer from the options given below: \n (a) Both A and R are true and R is the correct explanation of A \n (b) Both A and R are true but R is not the correct explanation of A. \n (c) A is true but R is false. \n (d) A is false but R is true.",
+        "and Reason (R) \n Assertion (A): Halogens are ortho and para-directing groups \n Reason (R): Halogens are electron-withdrawing groups \n Select the most appropriate answer from the options given below: \n (a) Both A and R are true and R is the correct explanation of A \n (b) Both A and R are true but R is not the correct explanation of A. \n (c) A is true but R is false. \n (d) A is false but R is true.",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "3 \n \n23 (a)  Ethanol and acetone, or any other example, the volume will increase (The liquids show positive \n deviation from Raoult’s law)      (½+½) \n (b)  π1/π2 = 4       (1) \n (c)  2 molal glucose because it will have lower depression in freezing point, higher melting point .     \n        (1) \n24 (a)  EDTA is a hexadentate ligand while ethylene diamine is bidentate, the chelating effect of EDTA \nis more therefore EDTA-Ca2+ complex is more stable.                                                    (1) \n (b)  If ∆o < P, the fourth electron enters one of the eg orbitals giving the configuration t2g3  eg1  (1) \n (c )  On heating water molecule which is acting as ligand is lost .In the absence of ligand, crystal \n field splitting does not occur so there is no d-d transition and hence the substance is colourless \n        (1) \nOR \n24. (a) The colour of precipitate obtained when ionization isomer of compound \n        [Co(NH3 )5Br]SO4 , i.e. [Co(NH3 )5SO4]Br     (1) \n   reacts with AgNO3 will be pale yellow .  The pale yellow precipitate  of AgBr will be obtained . \n (b) (i) The complex A with ligand ethane-1,2-diamine will be more stable as it is didentate ligand  \n  leading to the formation of chelate and hence increasing the stability .  (1) \n  (ii) The higher magnetic  moment will be in the case of Complex B , with ligand chlorido as no  \n  pairing up of electrons will take place.      (1) \n25. Compound - A is   ortho methylphenol,      (½) \n Compound-  B is   ortho hydroxybenzoic acid.      (½) \n Compound - C is Phenol.        (½) \n The chemical reaction involved  are : \n (a) Formation of  B  from compound A using KMnO4  \n  \nOH\nCH3\nKMnO4 OH\nO\nOH\n2-hydroxybenzoic acid\nor \northo hydroxybenzoic \nacid/Salicylic acid\nH+     (½) \n ( b)    Formation of B from C i.e Phenol  \n     (½) \n (c)  C6H5OCH2CH2CH2CH3 \nHI  CH3CH2CH2CH2I + C6H5OH    (½)  \n26 (i) A notable reaction is the oxidation of iodide to iodate, when no acid present"
+    },
+    {
+      "id": "chemistry_pq2_q4",
+      "q_no": 13,
+      "question": "another sample B (t ½ = 120 days) decreases with decrease in concentration of",
+      "options": [
+        "If the initial \nconcentration of both the samples were 1M, what will be their rate constants?",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "4 \n \n  2MnO4– + H2O + I– \n   2MnO2 + 2OH– + IO3–    (1) \n  When the acid was present \n  \n2\n4 2 22MnO 16H 10I 2Mn 5I 8H O          \n (ii) In case of  oxidising action of KMnO4 , the hydrogen ion concentration plays an important   \n  part in influencing the reaction. I n the presence of acid  medium, oxidation number of Mn \n changes from +7 to +2 and in basic medium from +7 to +4    (1) \n  MnO4– + 8H+ + 5e– → Mn2+ + 4H2O \n (iii) \n  \nMn\nO-O\nO\nO   Permanganate ion     (1) \n27. (a) Since electrolysis (decomposition) happens with current type ‘X’, it is a DC (Direct current. \n    Current type ‘Y’ is AC(Alternating current) and is used to measure conductivity of solutions. (1+1) \n(b) When CuSO4 is electrolysed, copper gets deposited at cathode and oxygen gas is released   at anode. \n    At cathode reduction of Cu2+ occurs (as it requires lesser electrode potential than H+) \n                Cu2+ + 2e-  → Cu                                                                                                                              (1/2) \n    At anode oxidation of water occurs (as it requires lesser electrode potential to get oxidized    than SO42- \n                2H2O → O2 + 4H+ + 4e-           (1/2) \n28 (a)  \n3242\n3 2 2 3 2 2 2 3 2 2 2 3\nCH CH ClLiAlH /H OCH CH CONH CH CH CH NH CH CH CH NHCH CH     (1) \n (b)  \n222\n3 2 2 3 2 2 3 2\nBr NaOH (i) NaNO HCl (ii)H OCH CH CONH CH CH NH CH CH OH     (1) \n (c) \n342\n3 2 2 3 2 2 2 3 2 2 3 Pyridine\nCH COClLiAlH /H OCH CH CONH CH CH CH NH CH CH CH NHCOCH     (1)"
+    },
+    {
+      "id": "chemistry_pq2_q7",
+      "q_no": 14,
+      "question": "OR \n Rishita works in an aerated drinks factory. She is aware that the temperature at which maxima \noccurs for carbon dioxide-water pair is above 80°",
+      "options": [
+        "Rishita proposes to bottle the aerated drinks at 40 °C instead of 20 oC, this will increase the fizz in \nthe drink. Do you support her proposal? Why or why not? \n (c) If the pressure is constant, the ratio of solubility of n-octane in water at 20oC and 60oC will be:  \n  (i) greater than 1 (ii) less than 1 ( iii) equal to 1? Give reason for your choice.",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "7 \n \n  \n3 3 3\nNaOH H\n3 2 3 2 3 2\nCH CH CH\n|||\nCH CH CHCOCl CH CH CHCOONa CH CH CHCOOH\n(C) (A)\n\n   \n (1) \nOR\n \n31. (a)  \n   (i)  \n2CH3CH2CHO 1. dil. NaOH\n2. Heat\n1. LiAlH4\n2. H2O CH3CH2CHC(CH3)CH2OHCH3CH2CH C CHO\nCH3   (1) \n  (ii) \nC6H5I C6H5MgI C6H5COOMgIMg\ndry ether dry ether\nCO2\nC6H5COOH\nH2O/H+   (1) \n (b) This is so because the Carbon in >C=O group in carboxylic group is less electrophilic due to the \n possible resonance as shown: \n          (1) \n (c)  A is oxidized to monocarboxylic acid, B indicates that the ring structure has only one side chain.  \n Also, Phenol is formed when oxidized in the presence of air and further treatment with dil acid   so \nA must be Cumene.         (½) \n  Sodium salt of B is food preservative and esters of it is used in perfumery, confirms B to be  benzoic \nacid.       (½) \n  \nC6H5CH(CH3)2 C6H5COOH\nKMnO4/H+\n(A) (B)      (½) \n  \nC6H5CH(CH3)2 C6H5C(CH3)2OOH H+\nH2O\nO2\nC6H5OH + (CH3)2CO    (½) \n32. (a)  Mass of Ag deposited = 2g \n      Volume = \nmass\ndensity      =  2 g/10.5 gcm3 \n                 = 0.190cm3     (½) \n         Thickness = 0.190 cm3/1cm2 \n                                = 0.190 cm2       (½) \n   For current \n   Ag+  + 1e- → Ag \n                108 g of Ag is deposited by 1F of charge \n                2 g of Ag will be deposited by  \n12\n108\n charge \n                                                                       = 0.0185 F = 0.0185 × 96500 C   (1) \n         t = 1 hr \n         Q = Ixt"
+    },
+    {
+      "id": "chemistry_pq1_q11",
+      "q_no": 15,
+      "question": "Sourima was having a severe headache. She took a medicine to relieve her pain. The \nmedicine is industrially prepared by:  \n(",
+      "options": [
+        "mononitration of phenyl methanoate \n(b) acetylation of salicylic acid in presence of an acid \n(c) hydrogenation of anisole with Br 2 in ethanoic acid \n(d) nitration of anisole with a mixture of concentrated sulphuric and nitric acids",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "11 (b) acetylation of salicylic acid in presence of an acid"
+    },
+    {
+      "id": "chemistry_pq2_q1",
+      "q_no": 16,
+      "question": "CBSE SAMPLE PAPER \n(2023 -24) \nCHEMISTRY THEORY (043) \nMax. Marks: 70              Time: 3 hours \nGeneral Instructions: \nRead the following instructions carefully. \n(",
+      "options": [
+        "There are 33 questions in this question paper with internal choice. \n(b) SECTION A consists of 16 multiple-choice questions carrying 1 mark each. \n(c) SECTION B consists of 5 short answer questions carrying 2 marks each. \n(d) SECTION C consists of 7 short answer questions carrying 3 marks each. \n(e) SECTION D consists of 2 case-based questions carrying 4 marks each. \n(f) SECTION E consists of 3 long answer questions carrying 5 marks each. \n(g) All questions are compulsory. \n(h) Use of log tables and calculators is not allowed. \n \nSECTION A \n The following questions are multiple -choice questions with one correct answer. Each question \ncarries 1 mark. There is no internal choice in this section.",
+        "(CH3)3COOH   (b) (CH3)3CHO  \n (c) (CH3)2CH=CH2   (d) (CH3)3 C-O-C-(CH3)3",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "1 \n \nCBSE SAMPLE PAPER \n(2023 -24) \nCHEMISTRY THEORY (043) \nMARKING SCHEME \nSECTION-A \n(Q1 to 16, 1 mark allotted for the correct option) \n1. (c) (CH3)2CH = CH 2 , Tertiary alcohol undergoes intramolecular dehydration reaction i n the \n presence of H3PO4"
+    },
+    {
+      "id": "chemistry_pq2_q10",
+      "q_no": 17,
+      "question": "Identify the products (1) and (2) in the following reactions: \n C2H5Cl + KCN \n   (1) and C2H5Cl + KNO2 \n   (2) \n (",
+      "options": [
+        "(1) C2H5CN (2) C2H5 NO2   (b) (1) C2H5NC (2) C2H5 NO2  \n (c) (1) C2H5CN (2) C2H5 ONO (d) (1) C2H5NC (2) C2H5 ONO",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "10. (c)  Both CN– and \nONO  are ambident nucleophiles and KCN and KNO2 are ionic in nature"
+    },
+    {
+      "id": "chemistry_pq2_q11",
+      "q_no": 18,
+      "question": "“Greater number of electrons from (n -1)d in addition to the ns electrons are involved  in the \ninteratomic metallic bonding.”. Which of the following case is result of the above statement: \n (",
+      "options": [
+        "Vanadium forms complexes. \n (b) Platinum acts as catalyst  \n (c) Chromium is having higher melting point than Vanadium and Manganese . \n (d) Manganese show oxidation states ranging from +2 to +7 .",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "11. (c) Chromium is having higher melting point than Vanadium and Manganese .This statement \n shows that melting point is higher because  of involvement of (n-1)d electrons in addition to the  ns \nelectrons in the interatomic metallic bonding."
+    },
+    {
+      "id": "chemistry_pq2_q13",
+      "q_no": 19,
+      "question": "Given below are two statements labelled as Assertion (",
+      "options": [
+        "and Reason (R) \n Assertion (A): Phenol on treatment with Br2 in CS2 gives ortho and para bromophenol. \n Reason (R): Carbon disulphide is a solvent of low polarity, hence leads to monobromination of \nphenols \n Select the most appropriate answer from the options given below: \n (a) Both A and R are true and R is the correct explanation of A \n (b) Both A and R are true but R is not the correct explanation of A. \n (c) A is true but R is false. \n (d) A is false but R is true.",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "13. (a)  Both A and R are true and R is the correct explanation of A"
+    },
+    {
+      "id": "chemistry_pq2_q14",
+      "q_no": 20,
+      "question": "Given below are two statements labeled as Assertion (",
+      "options": [
+        "and Reason (R) \n Assertion: At high pressure, decomposition of ammonia on the catalyst surface is a first order \nreaction. \n Reason:  At high pressure, on changing the reaction conditions, the concentration of ammonia on \nthe surface of the catalyst does not change. \n          Select the most appropriate answer from the options given below: \n (a) Both A and R are true and R is the correct explanation of A \n (b) Both A and R are true but R is not the correct explanation of A.",
+        "A is true but R is false. \n (d) A is false but R is true.",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 3,
+      "correct_answer_letter": "D",
+      "explanation": "14. (d)  A is false but R is true. Decomposition of ammonia follows zero order kinetics."
+    },
+    {
+      "id": "chemistry_pq2_q15",
+      "q_no": 21,
+      "question": "Given below are two statements labeled as Assertion (",
+      "options": [
+        "and Reason (R) \n Assertion (A): Ionisation enthalpy of Fe2+ is lower than the Mn2+ \n Reason (R): Fe2+ has  3d5 4s1 configuration, making the state highly stable  \n Select the most appropriate answer from the options given below: \n (a) Both A and R are true and R is the correct explanation of A \n (b) Both A and R are true but R is not the correct explanation of A. \n (c) A is true but R is false. \n (d) A is false but R is true.",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "15. (c)  A is true but R is false. Reason is false, as there is no loss of exchange energy in d6 configuration."
+    },
+    {
+      "id": "chemistry_pq2_q16",
+      "q_no": 22,
+      "question": "Given below are two statements labeled as Assertion (",
+      "options": [
+        "and Reason (R) \n Assertion (A): Halogens are ortho and para-directing groups \n Reason (R): Halogens are electron-withdrawing groups \n Select the most appropriate answer from the options given below: \n (a) Both A and R are true and R is the correct explanation of A \n (b) Both A and R are true but R is not the correct explanation of A. \n (c) A is true but R is false. \n (d) A is false but R is true.",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "16. (b)  Halogens withdraw electrons  through an inductive effect  (–I) and release electrons through \n resonance (+R). Through inductive effect, halogens destabilize the intermediate carbocation  formed \nduring the electrophilic substitution. Through resonance, halogen tends to stabilize the  carbocation \nand the effect is more pronounced at ortho- and para- positions. Reactivity is thus controlled by the \nstronger inductive effect and orientation is controlled by resonance effect. \nSECTION-B"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "physics_03_current_electricity_practice",
+  "subject": "Physics",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Current Electricity",
+  "title": "Current Electricity - CBSE Official Practice DPP",
+  "total_questions": 4,
+  "questions": [
+    {
+      "id": "physics_pq1_q5",
+      "q_no": 1,
+      "question": "Two long and straight current-carrying wires, P and Q are placed parallel to \neach other separated by a distance of 10 cm. A wire 'R' of length 8 cm and \ncarrying a current of 4 A is placed between the two wires P and Q as shown \nbelow. \n1 \n\n \n3 \n \n \nIf the wire R, experiences a net force towards wire P, then which of the \nfollowing is definitely TRUE about the current 'I' in wire Q?",
+      "options": [
+        "Current I cannot be in the upward direction.",
+        "Current I can have any magnitude greater than 0 A in the upward \ndirection.",
+        "Current I cannot have a magnitude of more than 15 A in the upward \ndirection.",
+        "Current I cannot have a magnitude of more than 10 A in the upward \ndirection."
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "5 C. Current I cannot have a magnitude of more than 15 A in the upward \ndirection. \n1"
+    },
+    {
+      "id": "physics_pq1_q9",
+      "q_no": 2,
+      "question": "A pure resistor is connected to an AC power source as shown below. \n \nWhich of the following statement(s) is/are TRUE? \nI: The average current flowing through the circuit during one full cycle is zero. \n1 \n\n \n5 \n \nII: The current in the resistor leads the voltage by π/2. \nIII: The average power dissipated by the resistor is zero.",
+      "options": [
+        "only I",
+        "only I and II",
+        "only II and III",
+        "all - I, II and III"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "9 A. only I 1"
+    },
+    {
+      "id": "physics_pq2_q3",
+      "q_no": 3,
+      "question": "The electron drift speed is so small, and the electron’s charge is also very small, but  we still \nobtain large amounts of current in a conductor which is due to \n(",
+      "options": [
+        "Potential difference( b) length of conductor( c) electron number density(d)Area of cross section",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "A3 c 1"
+    },
+    {
+      "id": "physics_pq2_q5",
+      "q_no": 4,
+      "question": "A positively charged particle is projected with uniform velocity along the axis of a current carrying \nlong solenoi",
+      "options": [
+        "Which one of the following statements is true? \n(a) The particle will be accelerated along the axis.     \n(b) The particle will follow a circular path. \n(c)  The particle will move with same velocity along the axis.                                                                          \n(d) The particle will follow a parabolic path. \nPage 2 of 7",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "A5 c 1"
+    }
+  ]
+}

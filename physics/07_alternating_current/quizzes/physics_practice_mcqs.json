@@ -1,0 +1,52 @@
+{
+  "id": "physics_07_alternating_current_practice",
+  "subject": "Physics",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Alternating Current",
+  "title": "Alternating Current - CBSE Official Practice DPP",
+  "total_questions": 3,
+  "questions": [
+    {
+      "id": "physics_pq1_q1",
+      "q_no": 1,
+      "question": "CBSE \nADDITIONAL PRACTICE QUESTIONS \nPhysics-Theory \nClass XII | 2023–24 \nMaximum marks: 70                                                    Time Allowed: 3 hours \nGeneral instructions: \n1. There are 33 questions in all. All questions are compulsory.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "1 \n \n \nCBSE \nADDITIONAL PRACTICE QUESTIONS \nPhysics-Theory (Marking Scheme) \nClass XII | 2023–24 \nMaximum marks: 70                                                    Time Allowed: 3 hours  \nGeneral instructions: \nQ.No Answers Marks  \nSECTION A \n \n1 C. 2.4 × 10-5 J 1"
+    },
+    {
+      "id": "physics_pq1_q4",
+      "q_no": 2,
+      "question": "Section A contains sixteen questions, twelve MCQ and four Assertion Reasoning \nbased of 1 mark each, Section B contains five questions of two marks each, Section \nC contains seven questions of three marks each, Section D contains two case study \nbased questions of four marks each and Section E contains three long answer \nquestions of five marks each.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "4  \nkinetic energy potential energy \nC decreases increases \n \n1"
+    },
+    {
+      "id": "physics_pq1_q5",
+      "q_no": 3,
+      "question": "There is no overall choice. However, an internal choice has been provided in one \nquestion in Section B, one question in Section C, one question in each CBQ in \nSection D and all three questions in Section E. You have to attempt only one of the \nchoices in such questions.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "5 C. Current I cannot have a magnitude of more than 15 A in the upward \ndirection. \n1"
+    }
+  ]
+}

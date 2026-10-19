@@ -1,0 +1,38 @@
+{
+  "id": "physics_02_electrostatic_potential_and_capacitance_practice",
+  "subject": "Physics",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Electrostatic Potential And Capacitance",
+  "title": "Electrostatic Potential And Capacitance - CBSE Official Practice DPP",
+  "total_questions": 2,
+  "questions": [
+    {
+      "id": "physics_pq2_q1",
+      "q_no": 1,
+      "question": "Two parallel plate capacitors X and Y have the same area of plates and same  separation \nbetween plates, X has air and Y has dielectric of constant 2, between its plates. They are \nconnected in series to a battery of 12V. The ratio of electrostatic energy stored in X and Y is                                                                                                                                    \n(",
+      "options": [
+        "4 : 1 (b) 1 : 4 (c) 2 : 1      (d) 1 : 2",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "A1 c 1"
+    },
+    {
+      "id": "physics_pq2_q10",
+      "q_no": 2,
+      "question": "The network shown in figure is part of a complete circuit. If at a certain instant the current I is 5A \nand is decreasing at a rate of 103 A/s, then what is the potential difference between the points A \nand B? \n                          \n  \n(",
+      "options": [
+        "15V                   (b) -15V                      (c)   -5V                            (d) +5V",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "A10 b 1"
+    }
+  ]
+}

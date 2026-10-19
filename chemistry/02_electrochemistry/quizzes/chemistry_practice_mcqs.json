@@ -1,0 +1,52 @@
+{
+  "id": "chemistry_02_electrochemistry_practice",
+  "subject": "Chemistry",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Electrochemistry",
+  "title": "Electrochemistry - CBSE Official Practice DPP",
+  "total_questions": 3,
+  "questions": [
+    {
+      "id": "chemistry_pq1_q1",
+      "q_no": 1,
+      "question": "Sunita set up three cells as shown below: \n \n \nShe applied external potential in all the three cells. The potential is increased slowly, \ntill the opposing voltage reaches the value of 1.1 V.  \n\n \n \n \nWhich of the following statements is INCORRECT? \n(a) Electrons flow from Zn rod to Cu rod hence current flows from Cu to Zn in case (P). \n(b) The chemical reaction takes place in case (Q) till the opposing voltage reaches 1.1 \nV. \n(c) Zinc is deposited at the zinc electrode and copper dissolves at copper electrode in \ncase (P). \n(d) Electrons flow from Cu to Zn and current flows from Zn to Cu in case (R).",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "1 (c) Zinc is deposited at the zinc electrode and copper dissolves at copper electrode \nin case (P)."
+    },
+    {
+      "id": "chemistry_pq2_q9",
+      "q_no": 2,
+      "question": "reactions involved. \n32. (a) Calculate the current and  the thickness of the coating if the current was passed for 1hr. to \n deposit 2g silver on metal object of area 1 cm2.(Ag = 108, 1 Faraday = 96500  coulombs, \n density of silver=10.5g/cc).  \n (b) Calculate the electrode potential of Cr3+/Cr electrode at [Cr3+] = 0.001 M.  \n  Given: Cr3+ + 3e–  Cr              E° = – 0.74 V \nOR \n32. (a)  The half-cell reactions of an electrochemical cell are given below: \n  \n32Mn (0.1 M) e Mn (0.01M) E 1.50V        \n  \nAg (0.001 M) e Ag(s) E 0.80 V      \n  (i)   Formulate a galvanic cell using the above data. \n  (ii) Calculate the emf of the cell at 250",
+      "options": [
+        "(b) The graph represents the variation of molar conductivity of an electrolyte with respect to \n concentration. Identify the type of electrolyte and also determine the value for A.  \n \n(for visually challenged learners)",
+        "(b)  The molar conductivity of an electrolyte decreases slowly with increase in concentration.  \n  (i)  Identify the type of electrolyte and give the equation with which we can represent this  \n  change in molar conductivity. \n        (ii)  Calculate the slope of the electrolyte if the intercept on the y axis and x axis at 150  and  \n  0.034 respectively.",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "9 \n \n(for visually challenged learners) \n 32.  (a) and (b) Same as above \nOR \n (a) Same as above \n (b) (i) Strong electrolyte \n       \nAC        (½) \nSlope = Perpendicular/base \n         \n150\n0.034\n       (½)\n \n  Slope = – A = – 4411.76  A = 4411.76     (1) \n33.  (a) (i) Cellulose       (½) \n  -D( +) Glucose       (½) \n  (ii)  C-1 of one unit of glucose is linked to C -4 of another unit of glucose. These unit are linked \n to each other by glycosidic linkages.     (1) \n  iii) Haworth structure of β- D(+)-Glucose: \n       (1) \n (b) Maltose       (½) \n  Silver mirror will be observed as Tollen’s reagent is reduced by maltose due to the presence of \n free aldehyde group.       (½) \n (c) Sucrose is dextrorotato ry, but on hydrolysis it produces a mixture of α -D-(+) Glucose and  \n β-D-(-) Fructose. Since the laevorotation of fructose is more than the dextrorotation of α -\n glucose, so overall mixture becomes laevorotatory, hence inversion is observed. (1) \nOR \n33. (a) (i)  DNA       (½) \n Specific base pair sequence 1) Adenine with Thymine by two H- bonds   and 2) Guanine with \nCytosine by three H- bonds       (½) \n ii)  Phosphodiester linkages.      (1) \n iii)  Function: DNA is a reserve of genetic information and is respo nsible for identity of different \n species       (½) \n Application: DNA fingerprinting is used in forensic labs for identification of Criminals (½) \n (b) Fibrous protein       (½) \n In the fibrous protein the polypeptide chains run parallel and are held togeth er by hydrogen and \ndisulphide bonds, resulting in a fibre-like structure.    (1) \n Fibrous proteins are insoluble in water      (½)"
+    },
+    {
+      "id": "chemistry_pq2_q4",
+      "q_no": 3,
+      "question": "India’s first pipeline was laid to transport crude oil in Digboi, Assam. The rusting of these iron \npipelines was a cause of concern for the authorit ies. Which of the following methods would have \nbeen used to prevent corrosion of these pipelines? \n (",
+      "options": [
+        "Barrier protection   (b) Alloying  \n (c) Cathodic protection   (d) Anodising the material",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "4. (c)  Cathodic protection \n  Iron pipes are connected to more reactive metal like Magnesium, zinc so that an electrochemical cell is \nset up between the two.  Iron behaves like cathode and doesn't corrode."
+    }
+  ]
+}

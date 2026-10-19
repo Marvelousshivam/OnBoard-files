@@ -1,0 +1,24 @@
+{
+  "id": "english_11_a_thing_of_beauty_practice",
+  "subject": "English",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "A Thing Of Beauty",
+  "title": "A Thing Of Beauty - CBSE Official Practice DPP",
+  "total_questions": 1,
+  "questions": [
+    {
+      "id": "english_pq1_q10",
+      "q_no": 1,
+      "question": "Answer ANY FIVE of the following six questions in about 40-50 words 5x2=10 \ni The author of 'Poets and Pancakes' is extremely observant of people and their behaviour. \nSupport this statement with an example of a description he gives us about any one of the \ncharacters. \nii Why does Sophie's father look at Sophie with disdain in the following scene from 'Going \nPlaces'? \n \n\"Sophie's met Danny Casey\", Geoff said. \niii In the poem 'Aunt Jennifer's Tigers', why does the poet describe the tigers as 'bright \ntopaz denizens of a world of green'? \niv What were some strategies that helped the narrator to overcome his fear of water that one \ncan apply in their own life for facing any major fear? Explain any two. \n(Deep Water) \nv A crisis brings out our true capacity for compassion and kindness. \n \nSupport the above statement using M. Hamel from 'The Last Lesson' as an example. \nState any one detail from the text. \nvi Imagine that John Keats meets someone who is feeling sad. What advice would he give \nto such a person? State any one feature of beauty from 'A Thing of Beauty' and relate the \nadvice to it.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Official CBSE answer key."
+    }
+  ]
+}

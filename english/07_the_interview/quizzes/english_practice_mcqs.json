@@ -1,0 +1,38 @@
+{
+  "id": "english_07_the_interview_practice",
+  "subject": "English",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "The Interview",
+  "title": "The Interview - CBSE Official Practice DPP",
+  "total_questions": 2,
+  "questions": [
+    {
+      "id": "english_pq2_q9",
+      "q_no": 1,
+      "question": "of 13  \niv List any ONE way how Mr. Lamb's response, \"Tin doesn’t hurt, boy!\" contributes to his \ncharacterisation. \n1 \n9. Read the given extracts and answer the questions for ANY ONE of the two, given. 6 \nA Saul Bellow, who has consented to be interviewed on several occasions, nevertheless once described interviews \nas being like thumbprints on his  windpipe. Yet despite the drawbacks of the interview, it is a supremely  \nserviceable medium of communication. “These days, more than at any other time, our most vivid impressions  \nof our contemporaries are through interviews,” Denis Brian has  written. “Almost everything of moment  \nreaches us through one man asking questions of another. Because of this, the interviewer holds a position of  \nunprecedented power and influence.” \n(The Interview I) \ni Completely the following appropriately. \nSaul Bellow's comparison of interviews to \"thumbprints on his windpipe”, implies . \n1 \nii What is complex and multifaceted about the dual nature of the interview process? 1 \niii Select the option that DOES NOT correspond with the view that an interview is “a supremely \nserviceable medium of communication”.",
+      "options": [
+        "highly effective",
+        "a tool for training",
+        "versatile",
+        "impactful"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Official CBSE answer key."
+    },
+    {
+      "id": "english_pq1_q9_iv",
+      "q_no": 2,
+      "question": "Which of these uses 'just' in the same way as the following expression in the \nextract? \n \n'a just horror of the interviewer'",
+      "options": [
+        "The just decision in the case against the criminal will empower us.",
+        "I just need to buy one pencil so we can go shopping tomorrow.",
+        "We will get back to you on this query in just a moment.",
+        "The little girl looks just like her mother. \n1"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "CBSE English Core Practice Paper (PQ1) Marking Scheme: Option C."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "physics_09_ray_optics_and_optical_instruments_practice",
+  "subject": "Physics",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Ray Optics And Optical Instruments",
+  "title": "Ray Optics And Optical Instruments - CBSE Official Practice DPP",
+  "total_questions": 1,
+  "questions": [
+    {
+      "id": "physics_pq2_q7",
+      "q_no": 1,
+      "question": "A point object is placed at the centre of a glass sphere of radius 6cm and refractive index 1.5. The \ndistance of virtual image from the surface of the sphere is    \n(",
+      "options": [
+        "2cm              (b) 4 cm                   (c)  6 cm                     (d)   12 cm.",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "A7 c 1"
+    }
+  ]
+}

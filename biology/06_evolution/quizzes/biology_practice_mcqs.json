@@ -1,0 +1,66 @@
+{
+  "id": "biology_06_evolution_practice",
+  "subject": "Biology",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Evolution",
+  "title": "Evolution - CBSE Official Practice DPP",
+  "total_questions": 4,
+  "questions": [
+    {
+      "id": "biology_pq1_q5",
+      "q_no": 1,
+      "question": "Oysters are generally either dark or light in colour. Dark oysters excel in \ndark environments, while light oysters thrive in bright environments. \nIntermediate-coloured oysters are disadvantaged, lacking effective \ncamouflage in either setting. \nWhich type of natural selection does this phenomenon exemplify? \n \n(a) directional \n(b) stabilising \n(c) disruptive \n(d) (The phenomenon described does not exemplify natural selection.) \n1",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "5 (c) disruptive 1"
+    },
+    {
+      "id": "biology_pq1_q6",
+      "q_no": 2,
+      "question": "A team of archaeologists found a fossilized skeleton of a human-like \ncreature with a brain capacity of more than 700cc. The structure and its \nassociated findings also show evidence that this creature could use tools for \nhunting. \n \nWhich stage of human evolution is this creature NOT from? \n \n(a) Homo erectus \n1 \n \n(b) Homo habilis \n(c) Neanderthal Man \n(d) Australopithecines",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "6 (d) Australopithecines 1"
+    },
+    {
+      "id": "biology_pq2_q5",
+      "q_no": 3,
+      "question": "Fossil records show that the size of the black bears in Europe increased \nduring each glacial period. Which of the following graphs represents this \ncase? \n \na) Graph A  \nb) Graph B  \nc) Graph C  \nd) None of the above \n1",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "5 \n32 a) 3’ RNA- AUG UUA GGG UUU UAG 5’                                             (1) \nPolypeptide chain - methionine- leucine -glycine –phenylalanine \n(1) \nb) because introns are spliced off during the processing of HnRNA. \n(1) \nc) From bacteria to human a genetic code will code for same amino \nacid e.g. UUU will code for Phenylalanine in all organisms. Some \nexceptions to this rule have been found in mitochondrial codons \nand in some protozoans.                                                           (1) \nd) Glycine has two codons because the  genetic code is \ndegenerate, that means a single amino acid can be coded by \nmore than one codon.                                                                (1) \ne) Presence of 2’ – OH group s at every nucleotide and Uracil \ninstead of thymine makes RNA less stable.                               (1) \nOR \n5 \na) ABO blood group in humans is an example of multiple allelism \nand codominance because the blood group is controlled by three \nalleles IA, IB, and i. IA and IB alleles are dominant alleles and i is \na recessive allele. So when IA and IB come together in the \noffspring they both are expressed co-dominantly.                     (2) \nb) A cross is carried out between heterozygous  father (for blood \ngroup B) and heterozygous mother (of blood group A) to get four \nchildren with different blood groups.                                            (3) \n \n33 a)  \n• Physical barriers- skin, mucus, digestive tract. \n• Physiological barriers- sweat, saliva, tears, and acid secreted in \nthe stomach. \n• Cellular barriers- leukocytes, monocytes, natural killer cells, and \nmacrophages.  \n• Cytokine barriers- interferons.                                                  (2) \n \nb) Benign tumors and  malignant tumors \nBenign tumors- remain confined to their original location and do \nnot spread to other parts of the body and cause little damage. \nMalignant tumor cells grow very rapidly, invading and damaging \nthe surrounding normal tissues of other organs.  \nMalignant tumors are lethal as cancer cells move from the tumor \nto new sites through the blood to form secondary tumors. \nThis invasion of cancer cells from one part to other parts by the \nbody fluids is called metastasis.                                                 (3) \nOR \na) The characteristics of acquired immunity are: \n• Antigenic specificity - It is the ability of the host cells to \nrecognize an antigen specifically as a unique molecular entity \nand distinguishing it from another antigen. \n• Immunological memory - It is the ability of the host cells to \nremember antigens or pathogens, tumor cells, tissues of \nimmunological self. \n• It is of two types – antibody mediated and cell mediated.    (3) \nb) It can be acquired from \n• a vaccine \n• exposure to an infection or disease                                      (2)   \n5"
+    },
+    {
+      "id": "biology_pq2_q6",
+      "q_no": 4,
+      "question": "The process of evolution of different species in a geographical area \nstarting from a point and radiating to other areas of geography is called \n– \na) Founder effect \nb) Adaptive radiation \nc) Convergent evolution \nd) Saltation \n1",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Official CBSE answer key."
+    }
+  ]
+}

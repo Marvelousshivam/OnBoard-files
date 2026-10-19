@@ -1,0 +1,52 @@
+{
+  "id": "english_18_on_the_face_of_it_practice",
+  "subject": "English",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "On The Face Of It",
+  "title": "On The Face Of It - CBSE Official Practice DPP",
+  "total_questions": 3,
+  "questions": [
+    {
+      "id": "english_pq2_q8_i",
+      "q_no": 1,
+      "question": "What might Derry’s certainty about not looking different as he grows older, reveal?",
+      "options": [
+        "His coping mechanism",
+        "His open defiance",
+        "His payback to the society",
+        "His denial towards ageing \n1"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "CBSE English Core Practice Paper (PQ2) Marking Scheme: Option A."
+    },
+    {
+      "id": "english_pq2_q9_iii",
+      "q_no": 2,
+      "question": "Select the option that DOES NOT correspond with the view that an interview is “a supremely \nserviceable medium of communication”.",
+      "options": [
+        "highly effective",
+        "a tool for training",
+        "versatile",
+        "impactful \n1"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE English Core Practice Paper (PQ2) Marking Scheme: Option B."
+    },
+    {
+      "id": "english_pq2_q9_ii",
+      "q_no": 3,
+      "question": "The writer of the story would agree to all of the following. with reference to the extract, EXCEPT:",
+      "options": [
+        "The peddler felt a sense of assurance about the lady.",
+        "The valet had to supervise the acceptance of the invite.",
+        "The valet was accompanying the lady to be of assistance to her.",
+        "The peddler knew how to behave in the presence of a lady. \n1"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "CBSE English Core Practice Paper (PQ2) Marking Scheme: Option B."
+    }
+  ]
+}

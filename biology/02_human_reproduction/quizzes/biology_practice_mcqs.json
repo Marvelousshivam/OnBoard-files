@@ -1,0 +1,38 @@
+{
+  "id": "biology_02_human_reproduction_practice",
+  "subject": "Biology",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Human Reproduction",
+  "title": "Human Reproduction - CBSE Official Practice DPP",
+  "total_questions": 2,
+  "questions": [
+    {
+      "id": "biology_pq2_q1",
+      "q_no": 1,
+      "question": "The fimbriae help in: \na) Collection of ovum \nb) Collection of sperm \nc) Fertilization of sperm and ovum \nd) Maturation of sperm \n1",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "1 \n13 d) A is False but R is true. 1 \n14 a) Both A and R are true and R is the correct explanation of A. 1 \n15 c) A is true but R is false. 1 \n16 c) A is true but R is false. 1 \nSection - B \n17 • The mother’s milk during the  initial days after delivery is \ncalled colostrum. It contains abundant  antibodies (IgA) that \nprotect the neonate against many diseases.                                (1) \n• It thus provides passive immunity to the new born infant.           (1)"
+    },
+    {
+      "id": "biology_pq2_q13",
+      "q_no": 2,
+      "question": "Assertion: Perisperm is the protective covering of seed which  helps in \nits dispersal. \nReason: A ripened ovary wall forms a pericarp which functions as a fruit \nwall. \n1",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Official CBSE answer key."
+    }
+  ]
+}

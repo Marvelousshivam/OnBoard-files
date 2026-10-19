@@ -1,0 +1,52 @@
+{
+  "id": "chemistry_05_coordination_compounds_practice",
+  "subject": "Chemistry",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Coordination Compounds",
+  "title": "Coordination Compounds - CBSE Official Practice DPP",
+  "total_questions": 3,
+  "questions": [
+    {
+      "id": "chemistry_pq2_q1",
+      "q_no": 1,
+      "question": "CBSE SAMPLE PAPER \n(2023 -24) \nCHEMISTRY THEORY (043) \nMax. Marks: 70              Time: 3 hours \nGeneral Instructions: \nRead the following instructions carefully. \n(a) There are 33 questions in this question paper with internal choice. \n(b) SECTION A consists of 16 multiple-choice questions carrying 1 mark each. \n(c) SECTION B consists of 5 short answer questions carrying 2 marks each. \n(d) SECTION C consists of 7 short answer questions carrying 3 marks each. \n(e) SECTION D consists of 2 case-based questions carrying 4 marks each. \n(f) SECTION E consists of 3 long answer questions carrying 5 marks each. \n(g) All questions are compulsory. \n(h) Use of log tables and calculators is not allowed. \n \nSECTION A \n The following questions are multiple -choice questions with one correct answer. Each question \ncarries 1 mark. There is no internal choice in this section. \n1. What would be the major product formed when (CH 3)3 C– OH  is heated at 358 K in the pres ence \nof H3PO4 : \n (a) (CH3)3COOH   (b) (CH3)3CHO  \n (c) (CH3)2CH=CH2   (d) (CH3)3 C-O-C-(CH3)3  \n2. The complex [Co(NH3 )5 (NO2 )]Cl2 is obtained   in yellow and  red coloured forms . The difference \nin colour is attributed to the following type of isomerism: \n (a) Coordination Isomerism    (b) Facial isomerism    \n (c) Linkage isomerism     (d) Solvate isomerism  \n3. Which of the following  purines (nitrogenous bases with two-ring structure) are common to RNA \nand DNA? \n (a) Adenine, Thymine                                            (b) Guanine, Thymine \n (c) Thymine, Cytosine                      (d) Adenine, Guanine \n4. India’s first pipeline was laid to transport crude oil in Digboi, Assam. The rusting of these iron \npipelines was a cause of concern for the authorit ies. Which of the following methods would have \nbeen used to prevent corrosion of these pipelines? \n (a) Barrier protection   (b) Alloying  \n (c) Cathodic protection   (d) Anodising the material \n5. Which of the following alkyl iodide cannot be produced by the  reaction of HI with an appropriate \nether: \n (a) (CH3)3 C – CH2 – I (b) (CH3)2CH – I (c) C6H5CH2 – I (d) C6H5 – I \n6. What is the order and molecularity of hydrolysis of sucrose if the rate law is   \n          Rate = k’[C12H22O11]? \nAdditional Practice Question Paper",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "1 \n \nCBSE SAMPLE PAPER \n(2023 -24) \nCHEMISTRY THEORY (043) \nMARKING SCHEME \nSECTION-A \n(Q1 to 16, 1 mark allotted for the correct option) \n1. (c) (CH3)2CH = CH 2 , Tertiary alcohol undergoes intramolecular dehydration reaction i n the \n presence of H3PO4  \n2. (c)  Linkage isomerism, NO2-  is an ambidentate ligand .  \n3. (d)   \n4. (c)  Cathodic protection \n  Iron pipes are connected to more reactive metal like Magnesium, zinc so that an electrochemical cell is \nset up between the two.  Iron behaves like cathode and doesn't corrode. \n5. (d)  C6H5– I , ether having an aryl part will lead to the formation of phenol rather than  iodobenzene. \n Formation of phenyl cation will not be favoured , partial double bond character of C—O will \n make it less stable.  \n6. (d)  Order is one, molecularity is two  \n7. (c)   eg4 t2g6 \n8. (c)  Hinsberg reagent helps in identifying primary, secondary and tertiary amines and Lucas \n reagent helps in identification of primary, secondary and tertiary alcohols. \n9. (a)   Enzymes are majorly globular proteins. So this statement mentioning enzymes as fib rous \n protein is false. Rest all are true statements. \n10. (c)  Both CN– and \nONO  are ambident nucleophiles and KCN and KNO2 are ionic in nature  \n11. (c) Chromium is having higher melting point than Vanadium and Manganese .This statement \n shows that melting point is higher because  of involvement of (n-1)d electrons in addition to the  ns \nelectrons in the interatomic metallic bonding. \n12. (d)  Gattermann-Koch reaction involves the conversion of benzene to benzaldehyde on reaction \n with CO and HCl.  Rest of the named reactions involve preparation of benzaldehyde from the \n different starting material. \n13. (a)  Both A and R are true and R is the correct explanation of A \n14. (d)  A is false but R is true. Decomposition of ammonia follows zero order kinetics. \n15. (c)  A is true but R is false. Reason is false, as there is no loss of exchange energy in d6 configuration.  \n16. (b)  Halogens withdraw electrons  through an inductive effect  (–I) and release electrons through \n resonance (+R). Through inductive effect, halogens destabilize the intermediate carbocation  formed \nduring the electrophilic substitution. Through resonance, halogen tends to stabilize the  carbocation \nand the effect is more pronounced at ortho- and para- positions. Reactivity is thus controlled by the \nstronger inductive effect and orientation is controlled by resonance effect. \nSECTION-B \n17. (a) E0 values Cr3+/Cr2+ is negative shows that Cr2+ whereas  positive value of E°Co3+/Co2+, shows Co3+ it \nwill not displace hydrogen from dilute acid. \n (b)  The ability of transition metals  to adopt multiple oxidation states and to form complexes using \n empty atomic orbitals make  them suitable to act as catalyst. Finely divided iron is used in  Haber’s \nProcess. Catalytic property can be attributed to their large surface area.    (1) \n18 The metal -carbon bond in metal carbonyls possess both σ and π character.  The M –C σ bond is \nformed by the donation of lone pair of electrons from \nz2p on the carbonyl carbon into a \nzd2 vacant \nAdditional Practice Question Paper"
+    },
+    {
+      "id": "chemistry_pq2_q5",
+      "q_no": 2,
+      "question": "(b) In d4 complexes, ligands for which ∆o < P ,form high spin complexes. \n (c) On removal of water from [Ti(H2O)6 ]Cl3 on heating, it become colourless. \nOR \n24. (a) What will the colour of precipitate obtained when ionization isomer of compound \n        [Co(NH3 )5Br] SO4, reacts with AgNO3 ? \n (b) An element M forms complex ‘A ’ with ligand -ethane-1,2-diamine and complex ‘B’ with \n chlorido having coordination number six. \n  (i)  Out of the two complexes which one will be more stable and why? \n  (ii) If metal forms d4 ion, which complex will have higher magnetic moment?  \n25. An organic compound ‘A’ is having a molecular formula C 7H8O. On oxidation with acidified \nKMnO4 it forms compound ‘B’ .Compound ‘B’ can also be obtained from compound C,  on its \nreaction with NaOH and then with CO 2 followed by hydrolysis. Compound C can be easily \nformed when butylphenylether is made to react with HI. \n Identify the compound A,B and C . Write the chemical reactions involved. \n26. Rohan was carrying out the reacti on of potassium iodide with Potassium permanganate in the \nacidic medium . The Iodine gas was  liberated from potassium iodide , during the reaction  . When \nhe repeated the reaction for further study  ,he forgot to add acid . He observed,  the products \nreleased during the second case were different from the previous  .  \n (i) Give the possible chemical reactions in both the cases . \n (ii) Give reason for the difference in observation. \n (iii) Give the structure of \n4MnO  \n27. Answer the following questions: \nOn passing current type ‘X’ through aqueous CuSO4 solution, electrolysis was observed. When            \ncurrent type ‘Y’ was used, the conductivity of the solution could be measured. \n(a) Identify ‘X’ and ‘Y’ type of current used. \n(b) Write the electrolysis products of aqueous CuSO4 solution on passing ‘X’. \n28. Convert Propanamide to the following compounds in not more than two steps: \n (a) N- Ethylpropanamine \n (b) Ethanol \n (c) N-Propylethanamide",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "5 \n \n then increase at higher temperatures because the Henry’s constant typically increases with \n temperature at low temperatures, reaches  a maximum, and then decreases at higher \n temperatures.       (1) \nOR \n  It is not a good proposal. \n  KH for CO2 will be higher at 40°C, because maxima is obtained above 80°C \n  So, the solubility of CO2 will be lower, thus fizz be less.  \n (c) Ratio of solubility greater than 1 because \n  p = KH X \n  At 20°C KH will be less than  KH at 60°C \n  So solubility at 20°C will be more than at 60°C     (2) \n30 (a) The activation energy for step 1 is larger than step 2, so step 1 is the slowest step and the rate \n determining step.       (1) \n (b) (i) Ea for step 2 will be more than shown in figure 1, because Br- is a better-leaving group than  \n Cl-.       (1) \nOR \n   \n[Nu–]\nRate  \n (c) \n     (2) \n(For visually impaired) \n (a) Activation energy       (1) \n (b) step 1 The rate-determining step of a reaction is the step requiring the highest activation energy. \n         (1) \nOR \n  slowest step is the rate determining step so it requires highest activation energy The  rate-\n determining step of a reaction is the step requiring the highest activation energy.  \n   (c)  (i)  leaving group is Cl- and nucleophile is OH-    (1) \n         (ii) leaving group Br- and nucleophile is F-     (1)"
+    },
+    {
+      "id": "chemistry_pq2_q2",
+      "q_no": 3,
+      "question": "The complex [Co(NH3 )5 (NO2 )]Cl2 is obtained   in yellow and  red coloured forms . The difference \nin colour is attributed to the following type of isomerism: \n (",
+      "options": [
+        "Coordination Isomerism    (b) Facial isomerism    \n (c) Linkage isomerism     (d) Solvate isomerism",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "2. (c)  Linkage isomerism, NO2-  is an ambidentate ligand ."
+    }
+  ]
+}

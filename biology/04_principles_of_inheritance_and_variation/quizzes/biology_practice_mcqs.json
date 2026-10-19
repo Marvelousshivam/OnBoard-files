@@ -1,0 +1,52 @@
+{
+  "id": "biology_04_principles_of_inheritance_and_variation_practice",
+  "subject": "Biology",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Principles Of Inheritance And Variation",
+  "title": "Principles Of Inheritance And Variation - CBSE Official Practice DPP",
+  "total_questions": 3,
+  "questions": [
+    {
+      "id": "biology_pq1_q4",
+      "q_no": 1,
+      "question": "Crickets are insects that follow the XO type of sex determination. Which of \nthe following statements is ALWAYS TRUE about this type of sex \ndetermination? \n \n(a) Eggs that have an O chromosome will give rise to a male cricket. \n(b) Eggs that have an X chromosome will give rise to a female cricket. \n(c) Sperms that have an X chromosome will give rise to a male cricket. \n(d) Sperms that have an O chromosome will give rise to a male cricket. \n \n1",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "4 (d) Sperms that have an O chromosome will give rise to a male cricket. 1"
+    },
+    {
+      "id": "biology_pq2_q4",
+      "q_no": 2,
+      "question": "Which of the following statements regarding sex determination are true? \nIn addition to autosomes – \nI. Male grass hoppers have one less sex chromosome than females. \nII. Male birds have one more sex chromosome than female. \nIII. Number of sex chromosomes is equal in male and female birds. \nIV. Male grass hoppers have one additional sex chromosome than \nfemales. \n1 \n\nV. Male and female grass hoppers have the same number of sex \nchromosomes. \na) I and II \nb) I and III \nc) II and IV \nd) III and V",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "4 \n30 a) Exponential or geometric growth pattern                                    (1) \nb) Nt = N0 ert                                                                                                                              (1) \n              Where Nt = population density after time t \n               N0 = Population density at time zero \n               r = intrinsic rate of natural increase \n               e = the base of natural logarithms \nc)   \n                                                            \n               J – shaped growth curve                                              (1+1) \nOR \nc) Logistic growth - sigmoid shape, will be obtained.                    (1) \nIn the logistic growth, the population increases at the onset and \ncontinues exponentially till the mid when the resources are utilized \nat maximum level. The graph becomes stationary when the \npopulation exceeds its carrying capacity. \n4 \n\n                                                            (1) \n31 i) Administration of progestogens or progestogen estrogen \ncombinations or IUDs within 72 hours of coitus.                       (1) \nii) Progestogens alone or in combination with estrogen inhibit \nimplantation as well as alter the quality of cervical mucus to \nprevent the entry of sperms.                                                     (1) \nIUDs increase the phagocytosis of sperms within the uterus, \nsuppress sperm motility and fertilising capacity of sperms.      (1) \niii) No, STDs can be prevented by use of condoms.                     (1) \niv) Gonads are endocrine glands and thus cannot be removed from \nthe body.                                                                                   (1)                          \nOR \na)  \ni) Inability to produce a normal egg. - GIFT (Gamete Intra \nFallopian Transfer): This technique involves the transfer of \nan ovum collected from a donor into the fallopian tube of \nanother female who cannot produce one.                             (1) \nii) Low Count of Sperm. - ICSI (Intra Cytoplasmic Sperm \nInjection): In this technique, sperm is directly injected into \nthe ovum; in the laboratory.                                                  (1) \niii) Blocked Fallopian tube- ET (Embryo Transfer):  it involves \ntransferring blastocyst into the uterus and this is called Intra-\nUterine Transfer (IUT).                                                         (1) \nb) MTPS are essential in certain cases where continuation of \npregnancy could be harmful or even fatal either to mother or to \nthe foetus both. (1) It is also permissible in cases of rapes.      (1)"
+    },
+    {
+      "id": "biology_pq2_q15",
+      "q_no": 3,
+      "question": "Assertion: Sickle cell anemia is an autosomal recessive trait. \nReason: It is transmitted from parents to the offsprings even when one \npartner is the carrier for the disease.  \n1",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "Official CBSE answer key."
+    }
+  ]
+}

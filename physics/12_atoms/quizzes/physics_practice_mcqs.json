@@ -1,0 +1,66 @@
+{
+  "id": "physics_12_atoms_practice",
+  "subject": "Physics",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Atoms",
+  "title": "Atoms - CBSE Official Practice DPP",
+  "total_questions": 4,
+  "questions": [
+    {
+      "id": "physics_pq1_q4",
+      "q_no": 1,
+      "question": "When an electron in an atom moves from the ground state to a higher energy \nlevel what happens to its kinetic and potential energies? \n \nkinetic energy potential energy \nA increases Increases \nB increases Decreases \nC decreases Increases \nD decreases Decreases \n \n1",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "4  \nkinetic energy potential energy \nC decreases increases \n \n1"
+    },
+    {
+      "id": "physics_pq2_q12",
+      "q_no": 2,
+      "question": "The kinetic energy of an electron in ground state of hydrogen atom is 13.6 eV. What will be the \npotential energy of electron in this state?  \n         (",
+      "options": [
+        "-27.2 eV                (b) +27.2                          (c) -13.6 eV                     (d) 0 eV \nFor Questions 13 to 16, two statements are given –one labelled Assertion (A) and other labelled \nReason (R). Select the correct answer to these questions from the options as given below. \n   (a)  If both Assertion and Reason are true and Reason is the correct explanation of   Assertion. \n         (b)  If both Assertion and Reason are true but Reason is not the correct explanation of      Assertion. \n   (c)   If Assertion is true but Reason is false. \n   (d)   If both Assertion and Reason are false. \n     \nPage 3 of 7",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "A12 a 1"
+    },
+    {
+      "id": "physics_pq2_q14",
+      "q_no": 3,
+      "question": "Assertion: According to Bohr’s atomic model the ratio of angular momenta of an electron in first \nexcited state to that in ground state is 2:1.  \nReason: According to Bohr’s theory the angular momentum of the electron is directly \nproportional to the principal quantum number.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "A14 a 1"
+    },
+    {
+      "id": "physics_pq2_q15",
+      "q_no": 4,
+      "question": "Assertion: Bohr postulated that the electrons in stationary orbits around the nucleus do not \nradiate energy. \nReason: According to classical Physics, all accelerated electrons radiate energy.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "A15 b 1"
+    }
+  ]
+}

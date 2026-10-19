@@ -1,6 +1,6 @@
 {
   "subject": "english",
-  "count": 227,
+  "count": 256,
   "questions": [
     {
       "id": "eng_sa_1",
@@ -7261,6 +7261,928 @@
         "Critical analysis",
         "Thematic synthesis",
         "Textual evidence"
+      ]
+    },
+    {
+      "id": "eng_qb_sa_1",
+      "subjectId": "english",
+      "chapterName": "The Last Lesson",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i If this had been M . Hamel’s fir st lesson, how do you  think the school \nexperience of the students might have been impacted?  \n \nii Little Franz is the narrator of the story. The name ‘Franz’ means ‘from \nFrance’.  \nIn what way does the story being told as  a first -person narrative of Franz \nimpact your reading and understanding of the story?  \nProvide at least one evidence from the text to support your opinion. \n \niii At the end of his last lesson, M. Hamel decides to leave a little note f",
+      "modelAnswer": "Content (1 mark): Reference to characters and thematic context. Expression (1 mark): Grammatical accuracy and vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Content (thematic relevance)"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Expression (coherence and grammar)"
+        }
+      ],
+      "keyTerms": [
+        "Character motivation",
+        "Theme of identity",
+        "Critical reflection",
+        "Textual evidence"
+      ]
+    },
+    {
+      "id": "eng_qb_la_1",
+      "subjectId": "english",
+      "chapterName": "The Last Lesson",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i Though tempted by the b right day, Franz stated that he had “the strength to \nresist, and hurried  off to school.”  As the story progresses, the reader \nrealizes that Franz, M. Hamel and the villagers would perhaps need “the \nstrength to resist” much larger forces.  \n \nDiscuss how the s tory provides strategies for resis tance and protection of \none’s identity and community through its events and characters.  \nProvide relevant textual details to support your argument. \n \nii On the day of the last lesson, Franz felt that the “whole school was strange”. \nThroughout the story, the reader encoun",
+      "modelAnswer": "Content (3 marks): Sustained interpretation with evidence from the text. Expression (2 marks): Well-structured paragraph, tone, and appropriate vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Initial thesis statement and contextual arguments"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Supporting textual quotes and literary analysis"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Concluding synthesis"
+        }
+      ],
+      "keyTerms": [
+        "Thematic synthesis",
+        "Character arc",
+        "Symbolism",
+        "Author's craft"
+      ]
+    },
+    {
+      "id": "eng_qb_sa_2",
+      "subjectId": "english",
+      "chapterName": "Lost Spring",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i Why do you think Mukesh is content to dream of cars and doesn’t dream of \nflying a plane? \n \nii Do you believe that ‘God -given lineage can be broken’? Support your position \nwith a rationale. \n \niii How do you think the author’s life might have been impacted after her \ninteractions with the children and their families mentioned in ‘Lost Spring’?",
+      "modelAnswer": "Content (1 mark): Reference to characters and thematic context. Expression (1 mark): Grammatical accuracy and vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Content (thematic relevance)"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Expression (coherence and grammar)"
+        }
+      ],
+      "keyTerms": [
+        "Character motivation",
+        "Theme of identity",
+        "Critical reflection",
+        "Textual evidence"
+      ]
+    },
+    {
+      "id": "eng_qb_la_2",
+      "subjectId": "english",
+      "chapterName": "Lost Spring",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i How does the story, ‘Lost Spring’ highlight the apathy of society and those in \npower to end the vicious cycle of poverty?  \nSupport your answer with textual evidence.  \n \nii Certain traditions and lineage, condemn thousands of children to a life of \nabject poverty and choke their aspirations.  \n \n \n• Do you agree? Explain. \n• How can we change this? Suggest some ways to tackle this issue.",
+      "modelAnswer": "Content (3 marks): Sustained interpretation with evidence from the text. Expression (2 marks): Well-structured paragraph, tone, and appropriate vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Initial thesis statement and contextual arguments"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Supporting textual quotes and literary analysis"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Concluding synthesis"
+        }
+      ],
+      "keyTerms": [
+        "Thematic synthesis",
+        "Character arc",
+        "Symbolism",
+        "Author's craft"
+      ]
+    },
+    {
+      "id": "eng_qb_sa_3",
+      "subjectId": "english",
+      "chapterName": "Deep Water",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i Seemingly small everyday wins are actually the greatest learnings of life. \nComment on the statement with reference to the chapter “Deep Water”. \n \nii If you could give the chapter a new title, what would it be?  \nSupport your answer with reference to the chapter “Deep Water”. \n \niii  Getting rid of fear is an extremely difficult task. Elucidate with reference to \nthe chapter “Deep Water”. \n \niv Discus the significance of the references to the natural world in the chapter \n“Deep Water”. \n \nv D",
+      "modelAnswer": "Content (1 mark): Reference to characters and thematic context. Expression (1 mark): Grammatical accuracy and vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Content (thematic relevance)"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Expression (coherence and grammar)"
+        }
+      ],
+      "keyTerms": [
+        "Character motivation",
+        "Theme of identity",
+        "Critical reflection",
+        "Textual evidence"
+      ]
+    },
+    {
+      "id": "eng_qb_sa_4",
+      "subjectId": "english",
+      "chapterName": "The Rattrap",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i If the world is “nothing but a big rattrap” as  the tramp stated in the story ‘The \nRattrap’, who might the rattrap peddler be? Discuss. \n \nii Despite his philosophical insights, the vagabond fails to resist tem ptations. \nWhat would you attribute this to? Explain with reference to any instance from \nthe text. \n \niii Do you think the story reinforces a stereotype that women are more trusting, \nforgiving and less practical than men? Comment with reference to Edla’s \nactions in the story. \n \niv ",
+      "modelAnswer": "Content (1 mark): Reference to characters and thematic context. Expression (1 mark): Grammatical accuracy and vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Content (thematic relevance)"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Expression (coherence and grammar)"
+        }
+      ],
+      "keyTerms": [
+        "Character motivation",
+        "Theme of identity",
+        "Critical reflection",
+        "Textual evidence"
+      ]
+    },
+    {
+      "id": "eng_qb_la_4",
+      "subjectId": "english",
+      "chapterName": "The Rattrap",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i How would you compare the peddler’s actions in relation to the crofter and \nEdla?  \nWould you say k indness does not always be get kindness, and that th e \nconditions f or rece iving kindness are impor tant for it to truly transform \npeople? Elaborate. \nProvide relevant textual details to support the analysis. \n \nii Imagine that you overheard the following snippe t of an interaction between \nthe valet and the housekeeper at the ironmaster’s mansion at the end of the \nstory.  \n \nSpeaker 1 - Trust is a difficult choice, which may or may not be rewarded.  \n \nSpeaker 2 – Yes, indeed. Ms. Willman",
+      "modelAnswer": "Content (3 marks): Sustained interpretation with evidence from the text. Expression (2 marks): Well-structured paragraph, tone, and appropriate vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Initial thesis statement and contextual arguments"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Supporting textual quotes and literary analysis"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Concluding synthesis"
+        }
+      ],
+      "keyTerms": [
+        "Thematic synthesis",
+        "Character arc",
+        "Symbolism",
+        "Author's craft"
+      ]
+    },
+    {
+      "id": "eng_qb_sa_6",
+      "subjectId": "english",
+      "chapterName": "Poets And Pancakes",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i What kind of effect does Asokamitran’s style of writing have on the reader? \n \nii Discuss the significance of the ma ke-up room in the chapter, ‘Poets and \nPancakes’. \n \niii ‘In all instances of frustration, you will always find the anger directed towards a \nsingle person openly or covertly…’  \nDo you think it i s right to direct  our anger towards so meone who is not \nresponsible for the cause of anger? Justify. \n \niv. The people left in ‘utter bafflement’ after the English poet’s speech.  \n ",
+      "modelAnswer": "Content (1 mark): Reference to characters and thematic context. Expression (1 mark): Grammatical accuracy and vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Content (thematic relevance)"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Expression (coherence and grammar)"
+        }
+      ],
+      "keyTerms": [
+        "Character motivation",
+        "Theme of identity",
+        "Critical reflection",
+        "Textual evidence"
+      ]
+    },
+    {
+      "id": "eng_qb_la_6",
+      "subjectId": "english",
+      "chapterName": "Poets And Pancakes",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i Imagine Asokamitran witnesses a film shooting and visits a film set of present-\nday Bollywood. \n  \nAs Asokamitran write a diary entry penning down the transformation you notice \nbetween film making of yesteryears and today. \n \nii After reading this story, you are impressed by the author’s use of gentle \nhumour to point out human  foibles. Evaluate whether using such humour \ncontributes towards bringing about change in peo ple’s attitude and accepting \ntheir foibles.",
+      "modelAnswer": "Content (3 marks): Sustained interpretation with evidence from the text. Expression (2 marks): Well-structured paragraph, tone, and appropriate vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Initial thesis statement and contextual arguments"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Supporting textual quotes and literary analysis"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Concluding synthesis"
+        }
+      ],
+      "keyTerms": [
+        "Thematic synthesis",
+        "Character arc",
+        "Symbolism",
+        "Author's craft"
+      ]
+    },
+    {
+      "id": "eng_qb_sa_7",
+      "subjectId": "english",
+      "chapterName": "The Interview",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i Why do you think C hristopher Silvester describes the viewpoints of ot her \nwriters and authors when discu ssing the concept of an interview? Suppor t \nyour opinion with reference to any one writer cited. \n \nii How would you evaluate Mukund Padmanabhan as an interviewer? Mention \nat least two qualities he displays in his interview,  supported by textual \nevidence. \n \niii Christopher Silve ster shares authors’  reservations about interviewing. \nBearing that in mind, would you interview a writer",
+      "modelAnswer": "Content (1 mark): Reference to characters and thematic context. Expression (1 mark): Grammatical accuracy and vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Content (thematic relevance)"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Expression (coherence and grammar)"
+        }
+      ],
+      "keyTerms": [
+        "Character motivation",
+        "Theme of identity",
+        "Critical reflection",
+        "Textual evidence"
+      ]
+    },
+    {
+      "id": "eng_qb_la_7",
+      "subjectId": "english",
+      "chapterName": "The Interview",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i Imagine that you a re Christopher Silve ster. You have been invited to a \nseminar series titled – ‘Ethics and Techniques of Interviewing’.  \nThe organisers would like you to speak about the challenges of conducting \ninterviews, and skills interviewers must h ave in order to condu ct good and \nethical interviews.  \n \nBased on your reading of The Int erview, Part I and II, draft your speech. \nInclude relevant details from the text in support of your answer. \n \nii Mukund Padmanabhan was  gifted the ‘Penguin Book of Inter views - An \nAnthology from 1859 to the Pres ent Day’ edited by Christopher",
+      "modelAnswer": "Content (3 marks): Sustained interpretation with evidence from the text. Expression (2 marks): Well-structured paragraph, tone, and appropriate vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Initial thesis statement and contextual arguments"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Supporting textual quotes and literary analysis"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Concluding synthesis"
+        }
+      ],
+      "keyTerms": [
+        "Thematic synthesis",
+        "Character arc",
+        "Symbolism",
+        "Author's craft"
+      ]
+    },
+    {
+      "id": "eng_qb_sa_8",
+      "subjectId": "english",
+      "chapterName": "Going Places",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i The story is written in a manner that it makes it difficult to point out clearly if \nSophie met Danny Casey or not. Suggest possible reasons for such writing.   \nii “Sophie felt a tightening in her throat. She went to look for her brother \nGeoff.” In the light of this quote, discuss the relationship Sophie shared with \nGeoff.  \niii Sophie is caught between the world she lives in and the world she wants to \nlive in. Elucidate. \niv  Evaluate the two different perspectives to life that Jansie and",
+      "modelAnswer": "Content (1 mark): Reference to characters and thematic context. Expression (1 mark): Grammatical accuracy and vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.0,
+          "criterion": "Content (thematic relevance)"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.0,
+          "criterion": "Expression (coherence and grammar)"
+        }
+      ],
+      "keyTerms": [
+        "Character motivation",
+        "Theme of identity",
+        "Critical reflection",
+        "Textual evidence"
+      ]
+    },
+    {
+      "id": "eng_qb_la_8",
+      "subjectId": "english",
+      "chapterName": "Going Places",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Question Bank (English Core)",
+      "questionText": "i Imagine Sophie’s father finds out about Sophie’s going to the canal to meet \nDanny Casey which leads him to think that she has lied to everyone about \nthe whole affair. He is infuriated and prohibits Sophie from going anywhere \nexcept to school.  \nAs Geoff, write a diary entry disapproving of your father’s punishment by \nciting your reasons for being sympathetic to Sophie. \nYou may begin this way: \nMonday, 2 September 1940                                                                               9 PM \nI cannot get myself to stand with father in his tirade against Sophie. Sure, she is not",
+      "modelAnswer": "Content (3 marks): Sustained interpretation with evidence from the text. Expression (2 marks): Well-structured paragraph, tone, and appropriate vocabulary.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Initial thesis statement and contextual arguments"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Supporting textual quotes and literary analysis"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Concluding synthesis"
+        }
+      ],
+      "keyTerms": [
+        "Thematic synthesis",
+        "Character arc",
+        "Symbolism",
+        "Author's craft"
+      ]
+    },
+    {
+      "id": "english_pq1_q3",
+      "subjectId": "english",
+      "chapterName": "Notice Writing",
+      "type": "sa",
+      "marks": 4,
+      "source": "CBSE Official Practice Questions (PQ1)",
+      "questionText": "Attempt ANY ONE of two in about 50 words. 4 \nA \n \n \n \nMaruti Public School will be conducting an online course on news reading \nduring the summer vacations for students of Class XI and XII. In this course, \nstudents will learn to understand news reports, build the habit of reading the \nnews regularly, and will have a chance to interact with well-known journalists. \nAs Rutwik Sen, Editor of the school magazine, draft a notice in about 50 \nwords for the school notice board, urging students to sign up. Mention any \nother relevant details required for the notice. \n \n OR  \nB The Teen Well-Being Association of your society, EcoTech World, Sector 13, \nChandigarh, will be holding free yoga classes on Sunday mornings, in the \ncommon hall.  As a member of the association, draft a notice in about 50 ",
+      "modelAnswer": "NOTICE: \n \n♦ Format [1 mark] \n♦ Content [2 marks] \n♦ Accuracy of spelling and grammar [1 mark] \n       \n          Name of Organisation \n               (centre aligned) \n                        NOTICE    \n               (centre aligned) \n \nDate \n \n                       Heading \n                (centre aligned)  \n \n                       [details] \n               (centre aligned) \n \nSignature \n \nPage 5 of 17 \n \nName (issuing authority) \nDesignation \n  \nA » Correct format (as listed) \n» Draws attention — students of XI & XII \n» Mentions the event \n» Gives details — date, time, venue \n» Invites applications \n» Adds line with reference to the undersigned \n \n \nB » Correct format (as listed) \n» Draws attention — residents aged 12–18 years \n» Mentions the event \n» Gives details — date, time, venue \n» Invites people to attend \n» Adds line with reference to the undersigned",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.6,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.6,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 0.8,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq1_q4",
+      "subjectId": "english",
+      "chapterName": "Invitation / Reply",
+      "type": "sa",
+      "marks": 4,
+      "source": "CBSE Official Practice Questions (PQ1)",
+      "questionText": "Attempt ANY ONE of two in about 50 words. 4 \nA You are a member of the Cultural Society at L.J. High School. Your school is \norganising a cultural programme aimed at spreading awareness about \nenvironmental conservation. The programme will have dance and song \nperformances, poetry recitation, and art exhibitions by the students throughout \nthe day, in the school auditorium. In about 50 words, create an invitation for \nparents and school teachers to attend. Mention the relevant details required for \nan invitation. \n \n OR  \nB You and your parents have received an invitation for your elder cousin's \nwedding to be held in Jaipur on 6th and 7th July. All of you would be \ndelighted to attend. Draft a reply to your cousin accepting the invite and \nsharing your excitement while congratulating him.",
+      "modelAnswer": "INVITATION: \n \n♦ Format [1 mark] \n♦ Content [2 marks] \n♦ Accuracy of spelling and grammar [1 mark] \nA Card type formal invite \n \n» uses a single sentence presentation in third-person/skips end line punctuation \n» uses the simple present tense \n» answers the questions: who, whom, when, where, what time, for what \n» includes name and address of the organiser/host and name(s) of special invitees (if any) \n» avoids adding signatures \n \nLayout mostly pertains to the following — \n \n» name of host(s) \n» standard formal and cordial expression \n» purpose of invitation \n» date & time of event \n» venue (address) \n» name of special guest(s) (if any) \n» RSVP \n» contact detail/number \nB Letter type informal reply \n \n» uses a single sentence presentation/skips end line punctuation \n» uses the simple present tense \n» answers the questions: who, whom, when, where, what time, for what \n» includes name and address of the sender and the receiver \n» avoids adding signatures \n \nPage 6 of 17 \n \n \nLayout mostly pertains to the following — \n \n» name of host(s) \n» informal expression \n» purpose of invitation \n» date & time of event \n» mention of gratitude for the invitation \n» clear statement of acceptance ",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.6,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.6,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 0.8,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq1_q5",
+      "subjectId": "english",
+      "chapterName": "Letter / Application",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Practice Questions (PQ1)",
+      "questionText": "Attempt ANY ONE of two in about 120 – 150 words. 5 \nA You are Sheena Singh, a recent graduate of High Horizon School. You came across the \nfollowing advertisement about an internship in editing that you would like to apply for. \nWrite a letter to Books Galore, expressing your interest in the position along with your \n \nPage 7 of 16 \n \nresumé. \n \n \n \n OR  \nB Lifestyle diseases such as diabetes, obesity, hypertension, and heart diseases have \nincreased in India. 53% of deaths in India are due to lifestyle diseases. Write a letter to \nthe editor of a national daily about the issue and your understanding of the reasons \nbehind the same. Offer suggestions on how one can reduce their risk of having such \ndiseases and on ways to cope with them. You may use the following cues to compose the \nlette",
+      "modelAnswer": "FORMAL LETTER: \n \n♦ Format [1 mark] \n♦ Content [2 marks] \n♦ Organisation [1 mark] \n♦ Accuracy of spelling and grammar [1 mark] \nA → Cover Letter \n→ Reference to the advertisement \n→ Conveying suitability for the position → Submission of \napplication \n \nBio data as separate enclosure \n→ Profile of self \n→ Educational Qualifications (include advertised requirements) \n→ Work experience/s (if relevant) - only internship/part-time \nrelevant here \n→ References \n \nAny other relevant information \n \nB → some reasons are: stressful lifestyles, poor decision-making, \nlack of adequate exercise or not having an exercise routine that is \nsustainable, getting enough good quality sleep. \n→ some suggestions are: to have regular health check-up, to \nprioritise sleep over other aspects of life, to eat in a conscious \nmanner, to schedule exercise regularly, to avoid consumption of \nunhealthy food and substances.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq1_q6",
+      "subjectId": "english",
+      "chapterName": "Article / Report",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Practice Questions (PQ1)",
+      "questionText": "Attempt ANY ONE of two in about 120-150 words. 5 \nA You are Sneha Hassan of Class XII. Write an article for your school magazine on the \nImportance of Active Listening. Expand on how good listening skills help one to gain \nmultiple perspectives, be an effective team player, and contribute to an overall \natmosphere of empathy and care. Use the given cues along with your own ideas to \ncompose this article. \nListening skills: listening and comprehending, paraphrasing, active body language \nlike nodding, changing facial expressions, and sitting straight. \nEffect on others: we feel heard and acknowledged, builds trust, others more likely to \nhear us, leads to more ideas being shared \n \n OR  \nB Your school recently organised a workshop on Active Listening for students of \nClasses XI and XII on 2",
+      "modelAnswer": "ARTICLE WRITING \n \n♦ Format [1 mark] \n♦ Content [2 marks] \n♦ Organisation [1 mark] \n♦ Accuracy of spelling and grammar [1 mark] \n \n \nPage 7 of 17 \n \n♦ Format and Organisation \n» Headline and Byline \n» Reporting place and date \n» Paragraphing organisation (introductory paragraph + one or two Body paragraphs including event \ndetails + Concluding paragraph inclusive of witness accounts) \n \nTitle \nByline (center aligned) \n \n[Introductory para] \n \n[Topic development: 1–2 paras] \n \n[Concluding para] \n \n \n» Title (illustrate thematic content, eye-catching) \n» Byline (Name/designation of the writer — use fictitious info. if the Q does not display it) \n» Intro para (relevant topic sentence + expansion) \n» Topic development paras (discussion of various aspects of the topic — causes, effects, etc. presented \nwith strong evidence) \n» Concluding para (writer's opinion/comments + recommendations or solutions + hope/call for \naction/warning) \n \nA → Intro: \n    ♦ Listening skills are important as they help one to learn more, to create an environment that \nis conducive to sharing, and encourage people to listen to our ideas. \n \n→ Ways to show and develop active listening: \n    ♦ paraphrase or clari",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq1_q10",
+      "subjectId": "english",
+      "chapterName": "A Thing Of Beauty",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Practice Questions (PQ1)",
+      "questionText": "Answer ANY FIVE of the following six questions in about 40-50 words 5x2=10 \ni The author of 'Poets and Pancakes' is extremely observant of people and their behaviour. \nSupport this statement with an example of a description he gives us about any one of the \ncharacters. \nii Why does Sophie's father look at Sophie with disdain in the following scene from 'Going \nPlaces'? \n \n\"Sophie's met Danny Casey\", Geoff said. \niii In the poem 'Aunt Jennifer's Tigers', why does the poet describe the tigers as 'bright \ntopaz denizens of a world of green'? \niv What were some strategies that helped the narrator to overcome his fear of water that one \ncan apply in their own life for facing any major fear? Explain any two. \n(Deep Water) \nv A crisis brings out our true capacity for compassion and kindness. \n \nS",
+      "modelAnswer": "Answer any FIVE of the six following questions in 40–50 words                  (5x2=10m) \nContent -1 \n→ Full credit for appropriate inclusion of all content asked for → Partial credit ½ for relevant but \nincomplete content \n \nExpression – 1 \n→ Full credit for effective organisation → Partial credit ½ for some semblance of organisation of ideas \n \nDeduct ½ mark from the overall score if the error density is high (more than a total of 2 spellings and/or \ngrammatical errors). \nThe given detailed reference points can be drawn upon to structure the desired response: \ni (Any  one) \n \n♦ the boy in the make-up department: the author realises that the make-up boy's frustration is \ndirected towards a single person, how he might be entering his cabin because he thinks he \ndoesn't do anything important \n♦ Subbu: he traces his past and realises how his route to success may not have been easy, \nanalyses that he is a social person who is welcoming, is unable to work independently, how he \nis able to be creative and describes his poetic abilities. \n♦ The lawyer: analysing his character as someone who was neutral, reticent, cold \n♦ The actress on set: her naivety while working on films, her tempera",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 0.8,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 0.8,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 0.4,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq1_q11",
+      "subjectId": "english",
+      "chapterName": "Journey To The End Of The Earth",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Practice Questions (PQ1)",
+      "questionText": "Answer ANY TWO of the following three question, in about 40-50 words. 2x2=4 \n \nPage 15 of 16 \n \ni In the story, 'On the Face of It', what brings Derry and Mr Lamb together as friends? \nWhat can you conclude about friendships from this? \nii How would a student’s learning experience be enhanced in the 'Students on Ice' \nprogramme as compared to studying only in a classroom? Analyse any one point. \n(Journey to the End of the Earth) \niii With reference to 'The Enemy', describe any two ways in which Sadao's father \ninfluenced Sadao's life.",
+      "modelAnswer": "Answer any TWO of the following three questions in 40–50 words.            (2x2=4m) \nContent -1 \n→ Full credit for appropriate inclusion of all content asked for → Partial credit ½ for relevant but \nincomplete content \n \nExpression – 1 \n→ Full credit for effective organisation → Partial credit ½ for some semblance of organisation of ideas \n \nDeduct ½ mark from the overall score if the error density is high (more than a total of 2 spellings and/or \ngrammatical errors). \ni (Any one) \n \n♦ They talk about their personal experience of being bothered/bullied for something they have \n \nPage 15 of 17 \n \nthat is considered ugly by society. Therefore, having a common experience that feels unique to \nus can build a friendship. \n♦ They share their philosophy about life and how people behave with each other. While their \nperspectives do not always match, talking about beliefs itself is something that can bring people \ncloser. \n♦ They challenge each other and do not behave in a polite manner with each other. Being who \nwe really are and saying how we feel can build meaningful connections. \nii Accept any one relevant contrast.) \n \n♦ Students would see and experience the actual implications of hum",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 0.8,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 0.8,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 0.4,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq1_q12",
+      "subjectId": "english",
+      "chapterName": "Lost Spring",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Practice Questions (PQ1)",
+      "questionText": "Answer ANY ONE of the following two questions in about 120-150 words. 5 \nA Imagine that Mahatma Gandhi from the text 'Indigo' visits Mukesh's town Firozabad as \ndescribed in 'Lost Spring'. Gandhi sees how the poor bangle-makers are caught up in \n'a vicious circle of the sahukars, the middlemen, the policemen, the keepers of law, the \nbureaucrats and the politicians.' True to his nature of being an activist and a social \nreformist, he decides to do something about it over a month. \n \nAs Mukesh, write a diary entry on the last day of Gandhi's one-month stay, elaborating \non any two things that he did that transformed the people's lives in Firozabad. \n \nYou may begin this way: \n \nDear Diary, \n \nToday marks a month of Mahatma Gandhi being in our town... \n OR  \nB Observe the following lines fro",
+      "modelAnswer": "Answer ONE of the following two questions in about 120–150 words.                   (5m)           \nContent - 2 \n→ Full credit for sustained, clear, well-developed personal response to the task that appropriately \njustifies any arguments \n→ Partial credit of 1 ½, 1 and ½ as per the response clarity and relevance \n \nExpression – 2 \n→ Full credit for effective organisation -structure, relevant vocabulary and effective relay of ideas \n→ Partial credit of 1 ½, 1 and ½ as per the level of coherence and cohesion \n \nAccuracy - 1 \n→ Full credit for none to minimal errors → Partial credit of ½ for spellings and/or grammatical, largely \naccurate \n→ No credit for error density causing impediment in understanding \nA. Suggested response: \n \nDear Diary, \n \nToday marks a month of Mahatma Gandhi being in our town. I remember his first day. As soon \n \nPage 16 of 17 \n \nas he had entered, he started talking to the people. He asked questions about the kind of wages \nwe earn and what the authorities have done about our living conditions. Thereafter, he went to \nthe local police station and the district court. Finally, he got a policy put in place to ensure a \nminimum basic wage for our work. Our famili",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq1_q13",
+      "subjectId": "english",
+      "chapterName": "The Tiger King",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Practice Questions (PQ1)",
+      "questionText": "Answer ANY ONE of the following two questions, in about 120 – 150 words. 5 \nA Recall the story 'We too are Human Beings' from the text 'Memories of Childhood'. \nImagine that Bama stops the elderly man who was carrying the packet of vadais, and \nstrikes up a conversation with him. She asks him a couple of questions. As the man, \nrespond to Bama's questions. You may follow the given format and include the two \nquestions in your conversation. \n \nBama: Hi sir, I noticed that you were carrying that packet in a funny manner. Why were \nyou doing so? \n \nElderly man: ... \n \nBama: But that's terrible. How does that make you feel? \n OR  \nB The king in the story 'The Tiger King' was driven by the single purpose of \nstaying alive based on the prophecy that the hundredth tiger would kill him. \nHe hunted",
+      "modelAnswer": "Answer ONE of the following two questions in about 120–150 words.                   (5m)           \nContent - 2 \n→ Full credit for sustained, clear, well-developed personal response to the task that appropriately \njustifies any arguments \n→ Partial credit of 1 ½, 1 and ½ as per the response clarity and relevance \n \nExpression – 2 \n→ Full credit for effective organisation -structure, relevant vocabulary and effective relay of ideas \n→ Partial credit of 1 ½, 1 and ½ as per the level of coherence and cohesion \n \nAccuracy - 1 \n→ Full credit for none to minimal errors → Partial credit of ½ for spellings and/or grammatical, largely \n \nPage 17 of 17 \n \naccurate \n→ No credit for error density causing impediment in understanding \nA. Suggested response: \n \nBama: Hi sir, I noticed that you were carrying that packet in a funny manner. Why were you \ndoing so? \n \nElderly man: That may have looked funny to you, but I didn't really have a choice. People in our \ncommunity often don't have choices. We belong to a caste whose people are considered \n'untouchable'. The people of higher castes look at us as dirty, polluted people. So, anything we \ntouch also becomes 'polluted'. I was carrying the vadai ",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq2_q3",
+      "subjectId": "english",
+      "chapterName": "Notice Writing",
+      "type": "sa",
+      "marks": 4,
+      "source": "CBSE Official Practice Questions (PQ2)",
+      "questionText": "Do not exceed the prescribed word limit while answering the questions.",
+      "modelAnswer": "NOTICE \nFormat – 1     Content -2     Accuracy of spelling and  grammar -1 \n \nA → Correct format (as listed) \n→ Drawing attention— of students of class XI \n→ Mentioning the excursion ; inviting registrations \n→ Giving details -D,T,V \n→ Informing about parent-consent slips \n→ Line with reference to the undersigned \nB → Correct format (as listed) \n→ Drawing attention—one and all \n→ Mentioning the find and where \n→ Giving details of the bag \n→ Sharing details for claiming (by owner) \n→ Line with reference to the undersigned",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.6,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.6,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 0.8,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq2_q4",
+      "subjectId": "english",
+      "chapterName": "Invitation / Reply",
+      "type": "sa",
+      "marks": 4,
+      "source": "CBSE Official Practice Questions (PQ2)",
+      "questionText": "Write the question number correctly while answering. \nADDITIONAL PRACTICE QUESTION PAPER (2023-24)   \nENGLISH CORE (301) \nCLASS-XII (2023-24) \n \nTime allowed: 3 Hrs. Maximum Marks: 80 \n \n \nSECTION A: READING (22 marks) \nReading Comprehension Through Unseen Passages \n \n1. Read the following text. 12 m \n In 1908, when he had just turned sixty, came the ultimatum. \"Mr. Chipping, have you ever thought you would \nlike to retire?\" \nChips stared about him in that book-lined study, startled by the question, wondering why Ralston should have \nasked it. He said, at length: \"No — umph—I can't say that—umph—I have thought much about it —umph— \nyet.\" \n\"Well, Mr. Chipping, the suggestion is there for you to consider. The Governors would, of course, agree to  \nyour being adequately pensioned.\" \nAbruptly ",
+      "modelAnswer": "INVITATION & REPLY \nFormat – 1  , Content -2,                                                    Accuracy of spelling and grammar -1 \nA FORMAL LETTER - invitation \nFormat- that of a formal letter- Sender’s address, date, designation of the receiver, \nfollowed by the receiver’s address, subject, salutation, content of the invitation, \ncomplimentary close. \n \nContent: \n● Purpose of invitation \n● Date /time of event \n● Venue (address) \n \nB FORMAL LETTER- Reply in third person \nFormat- that of a formal letter- Sender’s address, date, designation of the receiver, \nfollowed by the receiver’s address, subject, salutation, content of the invitation, \ncomplimentary close. \n \nCONTENT \n● In Third Person, mention of DTV.",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 1.6,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 1.6,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 0.8,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq2_q5",
+      "subjectId": "english",
+      "chapterName": "Letter / Application",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Practice Questions (PQ2)",
+      "questionText": "of 13  \n4 Attempt ANY ONE of the two given below, in about 50 words.  4 \nA You are V. Gajender, the Secretary of the Literary Club of Model Public School, Vellore. Your club members  \nare staging Anton Chekhov’s play ‘Uncle Vanya’, as part of their annual showcasing. Draft an invitation in not \nmore than 50 words for Mr. Mohan Rakesh, noted theatre and cinema artist and Chairperson of The Drama  \nSchool, Chennai requesting him to be the guest of honour for the event. \n  \nOR \n  \nB You are Simran Sodhi, the Personal Assistant of the IG (Inspector General), Police, Chandigarh. The IG has  \nreceived an invitation from the ‘Women’s Institute for Self Defence’, Chandigarh (WISDC) to preside over the \nGraduation Ceremony of the current batch of women cadets and address them. You draft a formal re",
+      "modelAnswer": "FORMAL LETTER :  \nFormat – 1, Content -2, Organisation -1, Accuracy of spelling and grammar -1 \nFormat: \nSender’s address, Date, Receiver’s address, Salutation . Subject,  Letter, Complimentary \nclose (largely accepted –Yours truly for letter to editor & in business circuits -Yours \nsincerely) \nA  Content points: \nIntroductory paragraph - Purpose of writing the letter and stating  the issue briefly. \nBody paragraph : issue- \n- Environmental Impact - litter poses a significant risk to local environment - \ndisrupts the natural beauty of Nainital - the non-biodegradable waste harms \nour flora and fauna \n- Health Hazards - Litter attracts pests and insects - risk of diseases due to \nthese unhygienic conditions \n- Negative Impression - Nainital  is known for its natural charm – visitors \nexposed to unsightly sight of litter - leaves a negative impression and affects \nthe tourism industry \nBody paragraph : recommendations- \n- placing additional waste bins in key tourist areas  \n- enforcing strict fines for littering- strict implementation  \n- Public Awareness Campaigns - educational campaigns to raise awareness \nConcluding paragraph – Summarising, sharing a call for action. \n \nB  Content",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq2_q6",
+      "subjectId": "english",
+      "chapterName": "Article / Report",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Practice Questions (PQ2)",
+      "questionText": "of 13  \n6 Attempt ANY ONE of the two given below, in about 120-150 words.  5 \nA With the rise of social media platforms and the ease with which information can be shared online, false  \ninformation can have m dire consequences. Write an article for the local daily, in 120-150 words, highlighting \nthe problem of the growing menace  of fake  news and  misinformation, analysing the issue  and provide  \nsuggestions to tackle it. You are Kavita Bannerji, from Siliguri, West Bengal. Use the given cues, along with  \nyour own ideas to create the article. \n \n1. What is fake news, and why has it become a significant concern in the age of social media? \n2. Analysing the Issue – \n How does misinformation affect public opinion and behaviour? \n What challenges do individuals and society face in combat",
+      "modelAnswer": "ARTICLE WRITING / REPORT WRITING :  \nFormat – 1, Content -2, Organisation -1, Accuracy of spelling and grammar -1 \nNewspaper Article Writing \nFormat: \n Title (eye catching, thematically relevant) \n-By line \nIntroductory paragraph - Relevant to the given topic, introduction. \nMain Body- Elaboration, examples, linkage to the topic. Discussion on various  aspects of \nthe given issue, cause, effect. Developed coherently in one or two paragraphs. \nConcluding paragraph- Writer’s opinions/comments, recommendations/solutions. End on a \nhopeful note/ call for action/ warning. \nA Suggested response points (cues): \n1.What is fake news, and why has it become a significant concern in the age of social \nmedia? \nspread of false information, often disguised as legitimate news--- concern because \nthe ease with which information can be shared online means that even unverified or \nmisleading content can reach a vast audience rapidly – can  have serious \nconsequences, affecting public perception, trust, and even causing social or political \nunrest. \n2. Analysing the Issue –  \nMisinformation  - affects the public behaviour – perception -  can sway opinions, \nincite panic, or lead to misguided actions -",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq2_q10",
+      "subjectId": "english",
+      "chapterName": "Poets And Pancakes",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Practice Questions (PQ2)",
+      "questionText": "of 13  \niv Complete the following appropriately. \n \nThe stark contrast between the luxurious fur coat and the rags of the rattrap peddler symbolise \n  . \n1 \nv \n \nSelect the option that correctly displays the MOST LIKELY reaction of the blacksmiths, as the lady \nmoved out to her carriage. \nA. Oh no! We’ve lost a new companion. \nB. Well, lucky chap! A stroke of good luck. \nC. Oh goodness! He must’ve been shocked. \nD. My word! That fur coat looked expensive! \n1 \nvi How can we say that the peddler’s thoughts in the carriage were far from pleasant? 1 \n10 Answer ANY FIVE of the following six questions, in about 40-50 words. 5x2=10 \ni How was Gandhi's strategy of sacrifice and non-violence, in the Champaran Indigo movement, a formidable \ncatalyst for change? (Indigo) \nii How does Neruda challenge",
+      "modelAnswer": "Answer any FIVE of the six following questions in 40-50 words each. 5 X 2= 10 \nContent -1 \n→ Full credit for appropriate inclusion of all content asked for \n→ Partial credit ½ for relevant but incomplete content \n \nExpression – 1 \n→ Full credit for effective organisation \n→ Partial credit ½ for some semblance of organisation of ideas \n \nAccuracy - Deduct ½ mark from the overall score if the error density is high (more \nthan a total of 2                     spellings and/or grammatical errors). \n \ni  His willingness to endure personal risks and face arrest -- \ndemonstrated the power of individual courage in challenging \ncolonial oppression \n Non-violent resistance -- inspired thousands of peasants to \novercome their fear of the British - initiated a collective shift in \nmindset \n This strategy - influenced the trajectory of the Indian independence \nmovement - set a precedent for peaceful activism  \n \n2 \nii  by transforming it from a passive state of mere physical \nquietness -- to an active and purposeful collective introspection \n conventional idea of stillness often implies a cessation of \nmovement or activity, a momentary pause \n not just the absence of physical movement  --",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 0.8,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 0.8,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 0.4,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq2_q11",
+      "subjectId": "english",
+      "chapterName": "Memories Of Childhood",
+      "type": "sa",
+      "marks": 2,
+      "source": "CBSE Official Practice Questions (PQ2)",
+      "questionText": "Answer ANY TWO of the following three questions, in about 40-50 words. 2x2=4 \ni How does the incident with the wooden tiger and its consequences, contribute to the overarching theme of fate \nand retribution, in The Tiger King? \nii How does the author's choice of the wounded soldier as an American POW, contribute to the complexity of \nthe moral decisions faced by Sadao and Hana, considering the wartime context and national loyalties? (Share \nany ONE aspect) (The Enemy) \niii How does the autobiographical nature of Zitkala-Sa and Bama's narratives enhance the impact on readers? \n(Memories of Childhood)",
+      "modelAnswer": "Answer any TWO of three following questions in 40-50 words each. 2 X 2= 4 \nContent -1 \n→ Full credit for appropriate inclusion of all content asked for \n→ Partial credit ½ for relevant but incomplete content \nExpression – 1 \n→ Full credit for effective organisation \n→ Partial credit ½ for some semblance of organisation of ideas \nAccuracy - Deduct ½ mark from the overall score if the error density is high (more than a total \nof 2 spellings and/or grammatical errors). \n \ni \n symbolises the inescapable nature of destiny and the repercussions \nof the Maharaja's actions \n fate catches up with him , through a harmless gift for his son \n The symbolic revenge of the \"hundredth tiger\" serves as a moving \nreminder that   \n-- one cannot elude destiny \n--even seemingly trivial choices may have profound consequences  \n highlights the story's theme of destiny's inevitability and the irony of \nthe Tiger King's ultimate fate \n2 \nii  during wartime, national loyalties are heightened, and harbouring an \nenemy soldier is seen as a betrayal to one's country -- tension \namplified -  the wounded man is not just any enemy but a prisoner of \nwar \n adds layers to the moral dilemma -- the historical c",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 0.8,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 0.8,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 0.4,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq2_q12",
+      "subjectId": "english",
+      "chapterName": "Lost Spring",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Practice Questions (PQ2)",
+      "questionText": "Answer ANY ONE of the following two questions, in about 120-150 words. 5 \nA Imagine that Edla Willmansson (The Rattrap), instead of Anees Jung, had the opportunity to interact with \nSaheb and Mukesh of Lost Spring. How would she react? Why do you say so ? \n OR  \nB Biseswar Singh is an acclaimed athlete who has recently announced giving up on sports because of successive \ndefeats in international and national events. As his friend, write a letter to him, sharing advice to help him \n11 of 13  \novercome this mental roadblock caused by the fear of losing. Develop your response, based on your \nunderstanding of Deep Water, along with the given ideas: \n Identify the reason behind his mental roadblock \n Explain that its common \n Share William Douglas’s experience – his resolve- his perseverance",
+      "modelAnswer": "Answer ONE of the two following questions, in about 120-150 words. (5) \n Content -2 \n→ Full credit for sustained, clear, well-developed personal response to the task that \nappropriately justifies any arguments \n→ Partial credit of 1 ½, 1 and ½ as per the response clarity and relevance \nExpression – 2 \n→ Full credit for effective organisation -structure, relevant vocabulary and effective \nrelay of ideas \n→ Partial credit of 1 ½, 1 and ½ as per the level of coherence and cohesion \nAccuracy-1 \n→ Full credit for none to minimal errors \n→ Partial credit of ½ for spellings and/or grammatical, largely accurate \n→ No credit for error density causing impediment in understanding \nA Value Points: \n Edla Willmansson’s compassionate nature - she would feel a sense of empathy \nand concern for their situation  \n Edla has shown kindness and sympathy towards the rattrap peddler - similarly, \nshe might respond with understanding and a desire to help Saheb and Mukesh \nimprove their lives \n Edla's experiences with the rattrap peddler -taught her about the struggles of \nthe marginalised and underprivileged – for Saheb and Mukesh - she might try to \nconnect with them, offer them assistance, or try to",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
+      ]
+    },
+    {
+      "id": "english_pq2_q13",
+      "subjectId": "english",
+      "chapterName": "Journey To The End Of The Earth",
+      "type": "la",
+      "marks": 5,
+      "source": "CBSE Official Practice Questions (PQ2)",
+      "questionText": "Answer ANY ONE of the following two questions, in about 120-150 words. 5 \nA Tishani Doshi, in Journey to the End of the Earth, shares that the Students on Ice programme on the Shokalsky, \naims to take high school students to the ends of the world and provide them with inspiring educational  \nopportunities which will help them foster a new understanding and respect for our planet. \nAs one of the students of this programme, prepare a speech draft for a Press conference, on the kinds of  \neducational opportunities and how they are helping you contribute to fostering a new understanding. \nYou may begin this way – \nGreetings one and all. \nI stand before you today not just as a student but as a proud participant of the ‘Students on Ice’ programme, an \nexpedition that has been a transformative jo",
+      "modelAnswer": "Answer ONE of the two following questions, in about 120-150 words. (5) \n Content -2 \n → Full credit for sustained, clear, well-developed personal response to the task that \nappropriately justifies any arguments \n→ Partial credit of 1 ½, 1 and ½ as per the response clarity and relevance \nExpression – 2 \n→ Full credit for effective organisation -structure, relevant vocabulary and effective \nrelay of ideas \n→ Partial credit of 1 ½, 1 and ½ as per the level of coherence and cohesion \nAccuracy-1 \n→ Full credit for none to minimal errors \n→ Partial credit of ½ for spellings and/or grammatical, largely accurate \n→ No credit for error density causing impediment in understanding \nA Value Points: \nEducational opportunities –  \n From witnessing the grandeur of glaciers to understanding the delicate balance of \npolar ecosystems \n These opportunities extend beyond the scientific realm - they delve into the \ninterconnectedness of environmental, social, and economic facets \n Not just about memorising facts – but about understanding the complex web that \nsustains life on our planet \n Gained insights into the immediate impacts of climate change -- not abstract \nconcepts but tangible signs of a ",
+      "stepMarking": [
+        {
+          "stepNumber": 1,
+          "marks": 2.0,
+          "criterion": "Format and initial thesis / context"
+        },
+        {
+          "stepNumber": 2,
+          "marks": 2.0,
+          "criterion": "Content, thematic analysis, and textual evidence"
+        },
+        {
+          "stepNumber": 3,
+          "marks": 1.0,
+          "criterion": "Expression, grammar, and coherence"
+        }
+      ],
+      "keyTerms": [
+        "Thematic evidence",
+        "Character motivation",
+        "Coherence",
+        "Expression"
       ]
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "id": "physics_04_moving_charges_and_magnetism_practice",
+  "subject": "Physics",
+  "book": "CBSE Official Practice Questions",
+  "chapter": "Moving Charges And Magnetism",
+  "title": "Moving Charges And Magnetism - CBSE Official Practice DPP",
+  "total_questions": 6,
+  "questions": [
+    {
+      "id": "physics_pq1_q7",
+      "q_no": 1,
+      "question": "Three students construct a solenoid of length 35 cm. They are each given \ninsulated copper wire of the same length. The table below lists some details \nabout the solenoids made by them. \n \n Magnetic field \nproduced \nRadius of \nsolenoid \nCore of solenoid \nStudent 1 B1 3 cm air \nStudent 2 B2 3 cm iron \nStudent 3 B3 6 cm air \n \nCompare the magnetic field produced by the solenoids made by the three \nstudents.",
+      "options": [
+        "B1=B3<B2",
+        "B3<B1<B2",
+        "B1<B2<B3",
+        "B1=B2>B3"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "7 B. B3<B1<B2 1"
+    },
+    {
+      "id": "physics_pq1_q8",
+      "q_no": 2,
+      "question": "A charged particle ‘+q’ having a mass ‘m’ moves in a uniform electric and \nmagnetic field. In which of the following scenarios will the path of the \ncharged particle be linear and described by the velocity time graph shown \nbelow?",
+      "options": [
+        "E ⊥ B ⊥ velocity of the particle",
+        "E || B and the particle is initially at rest",
+        "E || B and the particle has an initial velocity along the electric field",
+        "E ⊥ B and the particle has an initial velocity along the electric field"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "8 C. E || B and the particle has an initial velocity along the electric field 1"
+    },
+    {
+      "id": "physics_pq1_q11",
+      "q_no": 3,
+      "question": "Three loops as shown below move into the magnetic field with a velocity v. \n \n \n \nIn which loop(s) will the induced emf be the largest at the instant when the \nloops enter the magnetic field?",
+      "options": [
+        "only P",
+        "only Q",
+        "only P and Q",
+        "only Q and R"
+      ],
+      "correct_option_index": 0,
+      "correct_answer_letter": "A",
+      "explanation": "11 A. only P 1"
+    },
+    {
+      "id": "physics_pq2_q6",
+      "q_no": 4,
+      "question": "An electron of mass m orbiting around a nucleus has an angular momentum L. The magnetic field \nproduced by the electron at the center of the orbit of radius r can be expressed as  \n(",
+      "options": [
+        "(b) \n               (c) \n                (d)",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "A6 b 1"
+    },
+    {
+      "id": "physics_pq2_q11",
+      "q_no": 5,
+      "question": "Light is travelling in vacuum along the Z-axis. The sets of possible electric and magnetic fields \ncould be  \n  (i)\n00ˆˆ sin( ), sin( )E i E t kz B j B t kz=  − =  −\nrr                  (ii) \n00ˆˆ sin( ), cos ( )E i E t kz B j B t kz=  − =  −\nrr  \n  (iii)\n    (iv)\n00ˆˆ sin( ), sin( )E i E t kz B j B t kz=  − =  − +\nrr  \n Find the correct option. \n         (",
+      "options": [
+        "i                             (b)    i and iii both           (c) ii                            (d)  iv",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 1,
+      "correct_answer_letter": "B",
+      "explanation": "A11 b 1"
+    },
+    {
+      "id": "physics_pq2_q13",
+      "q_no": 6,
+      "question": "Assertion: The ne t magnetic force experienced by a current carrying loop in a uniform \nmagnetic field is always zero.  \nReason: A current carrying loop placed in a uniform magnetic field never experiences a torque.",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option_index": 2,
+      "correct_answer_letter": "C",
+      "explanation": "A13 c 1"
+    }
+  ]
+}
